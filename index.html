@@ -206,10 +206,13 @@
         // --- CONFIGURATION ---
         const GITHUB_USERNAME = "Mnyomi2";
         const REPO_NAME = "iconarchive";
-        const BASE_PATH = `Designer`;
         const BRANCH = "main";
-        const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/${REPO_NAME}/${BASE_PATH}/`;
-        const JSON_URL = CDN_BASE + "master_index.json";
+        
+        // This points to the folder containing 'Designer/'
+        const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/iconarchive/`;
+        
+        // This points to the root of your repo where master_index.json lives
+        const JSON_URL = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/master_index.json`;
 
         // --- STATE MANAGEMENT ---
         let allIcons = [];
