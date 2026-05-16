@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="dark"> <!-- DARK MODE DEFAULT -->
+<html lang="en"> <!-- Light mode default -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,12 +13,7 @@
             theme: {
                 extend: {
                     colors: {
-                        dark: {
-                            900: '#121212',
-                            800: '#1e1e1e',
-                            700: '#2d2d2d',
-                            600: '#3f3f3f'
-                        }
+                        dark: { 900: '#121212', 800: '#1e1e1e', 700: '#2d2d2d', 600: '#3f3f3f' }
                     }
                 }
             }
@@ -28,179 +23,158 @@
     <!-- FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- Custom Scrollbar & Utility CSS -->
     <style>
         /* Modern Scrollbar */
-        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-track { background: transparent; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
         .dark ::-webkit-scrollbar-thumb { background: #475569; }
-        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
         
-        /* Hide scrollbar for category pills but keep functionality */
-        .no-scrollbar::-webkit-scrollbar { display: none; }
-        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        /* Transparent Checkerboard Pattern (Like Photoshop) */
+        .bg-checker {
+            background-color: #ffffff;
+            background-image: 
+                linear-gradient(45deg, #f3f4f6 25%, transparent 25%, transparent 75%, #f3f4f6 75%, #f3f4f6),
+                linear-gradient(45deg, #f3f4f6 25%, transparent 25%, transparent 75%, #f3f4f6 75%, #f3f4f6);
+            background-size: 16px 16px;
+            background-position: 0 0, 8px 8px;
+        }
+        .dark .bg-checker {
+            background-color: #1e1e1e;
+            background-image: 
+                linear-gradient(45deg, #2d2d2d 25%, transparent 25%, transparent 75%, #2d2d2d 75%, #2d2d2d),
+                linear-gradient(45deg, #2d2d2d 25%, transparent 25%, transparent 75%, #2d2d2d 75%, #2d2d2d);
+        }
 
-        /* Card Hover Animations */
-        .icon-card .overlay { opacity: 0; transform: translateY(10px); transition: all 0.2s ease-out; }
-        .icon-card:hover .overlay { opacity: 1; transform: translateY(0); }
+        /* Hover animations */
+        .icon-card .overlay { opacity: 0; transition: opacity 0.2s ease-out; }
+        .icon-card:hover .overlay { opacity: 1; }
         
-        .toast { transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; }
+        /* Hide Details Transition */
+        .details-text { transition: all 0.2s; }
+        
+        /* Checkbox Switch */
+        .switch { position: relative; display: inline-block; width: 44px; height: 24px; }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 34px; }
+        .slider:before { position: absolute; content: ""; height: 18px; width: 18px; left: 3px; bottom: 3px; background-color: white; transition: .4s; border-radius: 50%; }
+        input:checked + .slider { background-color: #2563eb; }
+        input:checked + .slider:before { transform: translateX(20px); }
     </style>
 </head>
 <body class="bg-gray-50 dark:bg-dark-900 text-gray-900 dark:text-gray-100 h-screen flex overflow-hidden font-sans transition-colors duration-300">
 
-    <!-- Mobile Menu Button (Visible only on small screens) -->
-    <button id="mobileMenuBtn" class="md:hidden fixed top-4 right-4 z-50 bg-gray-800 text-white p-2 rounded-lg shadow-lg">
-        <i class="fa-solid fa-bars"></i>
-    </button>
-
-    <!-- LEFT SIDEBAR -->
-    <aside id="sidebar" class="w-72 bg-white dark:bg-dark-800 border-r border-gray-200 dark:border-dark-700 flex flex-col transition-all duration-300 absolute md:relative z-40 h-full -translate-x-full md:translate-x-0 shadow-2xl md:shadow-none">
-        
-        <!-- Logo Area -->
-        <div class="h-20 flex items-center justify-between px-6 border-b border-gray-200 dark:border-dark-700">
-            <div class="flex items-center gap-3">
-                <div class="bg-blue-600 p-2 rounded-lg text-white flex items-center justify-center">
-                    <i class="fa-solid fa-shapes text-xl"></i>
-                </div>
-                <h1 class="text-xl font-bold tracking-tight">Icon<span class="text-blue-500 font-light">Gallery</span></h1>
-            </div>
-            <!-- Theme Toggle -->
-            <button id="themeToggle" class="text-gray-500 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400 transition text-lg w-8 h-8 rounded-full hover:bg-gray-100 dark:hover:bg-dark-700 flex items-center justify-center">
-                <i class="fa-solid fa-sun hidden dark:block"></i>
-                <i class="fa-solid fa-moon block dark:hidden"></i>
+    <!-- SIDEBAR (Collapsed by default) -->
+    <aside id="sidebar" class="w-72 bg-white dark:bg-dark-800 border-r border-gray-200 dark:border-dark-700 flex flex-col transition-transform duration-300 absolute md:relative z-40 h-full -translate-x-full shadow-2xl md:shadow-none flex-shrink-0">
+        <div class="h-16 flex items-center justify-between px-6 border-b border-gray-200 dark:border-dark-700">
+            <h2 class="font-bold text-lg"><i class="fa-solid fa-sliders text-blue-500 mr-2"></i> Filters</h2>
+            <button onclick="toggleSidebar()" class="md:hidden text-gray-500 hover:text-gray-900 dark:hover:text-white">
+                <i class="fa-solid fa-xmark text-xl"></i>
             </button>
         </div>
 
-        <!-- Filters Form -->
         <div class="flex-1 overflow-y-auto p-6 space-y-8">
-            
-            <!-- Designers Filter -->
+            <!-- View Settings -->
             <div>
-                <h3 class="text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">
-                    <i class="fa-solid fa-user-pen mr-1"></i> Designer / Artist
-                </h3>
-                <div class="relative">
-                    <select id="artistSelect" class="w-full appearance-none bg-gray-100 dark:bg-dark-700 border border-transparent dark:border-dark-600 text-sm rounded-xl px-4 py-3 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500 transition cursor-pointer text-gray-800 dark:text-gray-200 font-medium shadow-sm">
-                        <option value="all">All Designers</option>
-                    </select>
-                    <i class="fa-solid fa-chevron-down absolute right-4 top-3.5 text-gray-400 pointer-events-none text-sm"></i>
-                </div>
-            </div>
-
-            <!-- Icon Packs Filter -->
-            <div>
-                <h3 class="text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">
-                    <i class="fa-solid fa-folder-tree mr-1"></i> Icon Pack
-                </h3>
-                <div class="relative">
-                    <select id="packSelect" class="w-full appearance-none bg-gray-100 dark:bg-dark-700 border border-transparent dark:border-dark-600 text-sm rounded-xl px-4 py-3 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500 transition cursor-pointer text-gray-800 dark:text-gray-200 font-medium shadow-sm" disabled>
-                        <option value="all">All Packs</option>
-                    </select>
-                    <i class="fa-solid fa-chevron-down absolute right-4 top-3.5 text-gray-400 pointer-events-none text-sm"></i>
-                </div>
-            </div>
-
-            <!-- Format List -->
-            <div>
-                <h3 class="text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">
-                    <i class="fa-solid fa-file-code mr-1"></i> Formats
-                </h3>
-                <div class="space-y-2" id="formatRadios">
-                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
-                        <input type="radio" name="format" value="all" checked class="accent-blue-500 w-4 h-4">
-                        <span class="text-sm font-medium">All Formats</span>
-                    </label>
-                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
-                        <input type="radio" name="format" value="Vector" class="accent-blue-500 w-4 h-4">
-                        <span class="text-sm font-medium">Vector (SVG)</span>
-                    </label>
-                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
-                        <input type="radio" name="format" value="PNG" class="accent-blue-500 w-4 h-4">
-                        <span class="text-sm font-medium">PNG Transparent</span>
-                    </label>
-                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
-                        <input type="radio" name="format" value="Favicon" class="accent-blue-500 w-4 h-4">
-                        <span class="text-sm font-medium">Favicons</span>
-                    </label>
-                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
-                        <input type="radio" name="format" value="Windows" class="accent-blue-500 w-4 h-4">
-                        <span class="text-sm font-medium">Windows (.ico)</span>
-                    </label>
-                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
-                        <input type="radio" name="format" value="Mac" class="accent-blue-500 w-4 h-4">
-                        <span class="text-sm font-medium">Mac (.icns)</span>
+                <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">View Settings</h3>
+                <div class="flex items-center justify-between">
+                    <span class="text-sm font-medium">Show Icon Names</span>
+                    <label class="switch">
+                        <input type="checkbox" id="toggleDetails" checked>
+                        <span class="slider"></span>
                     </label>
                 </div>
             </div>
 
+            <!-- Formats -->
+            <div>
+                <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">Formats</h3>
+                <div class="flex flex-wrap gap-2" id="formatFilters">
+                    <button class="filter-btn active px-3 py-1.5 rounded-lg text-sm font-medium bg-blue-600 text-white shadow" data-filter="all">All</button>
+                    <button class="filter-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-dark-600 border border-gray-200 dark:border-dark-600" data-filter="Vector">SVG</button>
+                    <button class="filter-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-dark-600 border border-gray-200 dark:border-dark-600" data-filter="PNG">PNG</button>
+                    <button class="filter-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-dark-600 border border-gray-200 dark:border-dark-600" data-filter="Favicon">Favicon</button>
+                </div>
+            </div>
+
+            <!-- Sizes (Dynamically Populated based on PNG/ICO) -->
+            <div id="sizeFilterContainer" class="hidden">
+                <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">Size (px)</h3>
+                <div class="flex flex-wrap gap-2" id="sizeFilters">
+                    <!-- Pills injected via JS -->
+                </div>
+            </div>
         </div>
     </aside>
 
-    <!-- MAIN CONTENT AREA -->
-    <main class="flex-1 flex flex-col min-w-0 bg-gray-50 dark:bg-dark-900 relative">
+    <!-- Overlay for Mobile Sidebar -->
+    <div id="sidebarOverlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-30 hidden" onclick="toggleSidebar()"></div>
+
+    <!-- MAIN CONTENT -->
+    <main class="flex-1 flex flex-col min-w-0 relative h-full">
         
-        <!-- Top Navigation / Search -->
-        <header class="h-20 px-6 sm:px-10 flex items-center justify-between border-b border-gray-200 dark:border-dark-700 bg-white/80 dark:bg-dark-800/80 backdrop-blur-md sticky top-0 z-30">
-            
-            <div class="relative w-full max-w-2xl group">
-                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-                    <i class="fa-solid fa-magnifying-glass text-gray-400 group-focus-within:text-blue-500 transition-colors"></i>
-                </div>
-                <input type="text" id="searchInput" placeholder="Search across millions of icons..." 
-                    class="w-full bg-gray-100 dark:bg-dark-700 border-2 border-transparent dark:border-dark-600 focus:border-blue-500 dark:focus:border-blue-500 text-gray-900 dark:text-white rounded-2xl pl-11 pr-4 py-3 outline-none transition shadow-sm text-sm sm:text-base placeholder-gray-500">
+        <!-- Top Navbar -->
+        <header class="h-16 px-4 sm:px-6 flex items-center justify-between border-b border-gray-200 dark:border-dark-700 bg-white dark:bg-dark-800 z-20">
+            <div class="flex items-center gap-4">
+                <button onclick="toggleSidebar()" class="text-gray-500 hover:text-blue-600 dark:hover:text-blue-400 transition w-8 h-8 rounded-lg hover:bg-gray-100 dark:hover:bg-dark-700 flex items-center justify-center">
+                    <i class="fa-solid fa-bars text-lg"></i>
+                </button>
+                <div class="font-bold text-xl tracking-tight hidden sm:block">Icon<span class="text-blue-600">Gallery</span></div>
             </div>
 
-            <div class="hidden lg:block text-sm font-medium text-gray-500 dark:text-gray-400 ml-4 whitespace-nowrap bg-gray-100 dark:bg-dark-700 px-4 py-2 rounded-xl border border-gray-200 dark:border-dark-600 shadow-sm">
-                <i class="fa-solid fa-chart-simple mr-2"></i><span id="resultCount">Loading...</span>
+            <!-- Global Search -->
+            <div class="relative w-full max-w-md mx-4">
+                <i class="fa-solid fa-search absolute left-3 top-2.5 text-gray-400"></i>
+                <input type="text" id="searchInput" placeholder="Search icons..." 
+                    class="w-full bg-gray-100 dark:bg-dark-700 border-transparent text-sm rounded-full pl-9 pr-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
             </div>
+
+            <button id="themeToggle" class="text-gray-500 w-8 h-8 rounded-full hover:bg-gray-100 dark:hover:bg-dark-700 flex items-center justify-center transition">
+                <i class="fa-solid fa-moon block dark:hidden"></i>
+                <i class="fa-solid fa-sun hidden dark:block text-yellow-400"></i>
+            </button>
         </header>
 
-        <!-- Scrollable Icon Area -->
-        <div id="scrollContainer" class="flex-1 overflow-y-auto p-6 sm:p-10 relative">
+        <!-- Breadcrumbs Navigation -->
+        <div class="bg-gray-50 dark:bg-dark-900 border-b border-gray-200 dark:border-dark-700 px-6 py-3 flex items-center gap-2 text-sm font-medium overflow-x-auto no-scrollbar" id="breadcrumbs">
+            <button onclick="goHome()" class="text-blue-600 hover:underline flex items-center gap-1"><i class="fa-solid fa-house"></i> Home</button>
+        </div>
+
+        <!-- Scrollable Content Area -->
+        <div id="scrollContainer" class="flex-1 overflow-y-auto p-6 relative">
             
-            <!-- Loading State -->
-            <div id="loading" class="absolute inset-0 flex flex-col items-center justify-center bg-gray-50 dark:bg-dark-900 z-20">
-                <i class="fa-solid fa-circle-notch fa-spin text-5xl text-blue-500 mb-4"></i>
-                <h2 class="text-xl font-bold text-gray-800 dark:text-gray-200">Syncing Library</h2>
-                <p class="text-gray-500 dark:text-gray-400 text-sm mt-2">Loading master index...</p>
+            <div id="loading" class="flex flex-col items-center justify-center h-full">
+                <i class="fa-solid fa-spinner fa-spin text-4xl text-blue-500 mb-4"></i>
+                <p class="text-gray-500">Processing repository...</p>
             </div>
 
-            <!-- Empty State -->
-            <div id="noResults" class="hidden h-full flex flex-col items-center justify-center">
-                <div class="bg-gray-100 dark:bg-dark-800 w-32 h-32 rounded-full flex items-center justify-center mb-6">
-                    <i class="fa-solid fa-ghost text-5xl text-gray-300 dark:text-dark-600"></i>
-                </div>
-                <h2 class="text-2xl font-bold text-gray-800 dark:text-white mb-2">No icons found</h2>
-                <p class="text-gray-500 dark:text-gray-400 max-w-sm text-center text-sm">Try adjusting your filters or searching for a different keyword.</p>
-                <button onclick="resetFilters()" class="mt-6 px-6 py-2.5 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition shadow-lg shadow-blue-500/30">
-                    Clear Filters
-                </button>
-            </div>
-
-            <!-- Grid -->
-            <!-- Using auto-fill for perfect responsive sizing just like modern galleries -->
-            <div id="iconGrid" class="grid gap-6 hidden" style="grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));">
-                <!-- Cards Injected Here via JS -->
+            <!-- Dynamic Views -->
+            <div id="viewContainer" class="hidden">
+                <!-- Artists Grid -->
+                <div id="artistsGrid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 hidden"></div>
+                
+                <!-- Packs Grid -->
+                <div id="packsGrid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 hidden"></div>
+                
+                <!-- Icons Grid -->
+                <div id="iconsGrid" class="grid gap-4 hidden" style="grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));"></div>
             </div>
             
-            <!-- Infinite Scroll Loading Indicator -->
-            <div id="scrollLoading" class="hidden text-center py-8">
+            <div id="noResults" class="hidden flex flex-col items-center justify-center py-20">
+                <i class="fa-regular fa-folder-open text-5xl text-gray-300 mb-4"></i>
+                <p class="text-gray-500 text-lg">No assets found.</p>
+            </div>
+            
+            <div id="scrollLoading" class="hidden text-center py-6">
                 <i class="fa-solid fa-ellipsis fa-bounce text-2xl text-gray-400"></i>
             </div>
         </div>
     </main>
 
-    <!-- Overlay for Mobile Sidebar -->
-    <div id="sidebarOverlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-30 hidden lg:hidden"></div>
-
     <!-- Toast Notification -->
-    <div id="toast" class="fixed bottom-6 inset-x-0 mx-auto max-w-max bg-gray-900 dark:bg-white text-white dark:text-gray-900 px-6 py-3 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3 font-medium">
-        <div class="bg-green-500/20 text-green-400 dark:text-green-600 rounded-full w-6 h-6 flex items-center justify-center">
-            <i class="fa-solid fa-check text-sm"></i>
-        </div>
-        <span id="toastMsg">Copied to clipboard!</span>
+    <div id="toast" class="fixed bottom-6 right-6 bg-gray-900 dark:bg-white text-white dark:text-gray-900 px-5 py-3 rounded-xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3 transition-all">
+        <i class="fa-solid fa-circle-check text-green-400"></i>
+        <span id="toastMsg" class="font-medium text-sm">Action successful!</span>
     </div>
 
     <script>
@@ -208,274 +182,381 @@
         const GITHUB_USERNAME = "Mnyomi2";
         const REPO_NAME = "iconarchive";
         const BRANCH = "main";
-        // ---------------------
-
         const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
         const JSON_URL = CDN_BASE + "master_index.json";
 
-        // Global State
+        // Global State & Data Structure
         let allIcons = [];
-        let displayedIcons = [];
-        let currentRenderLimit = 100;
-        let isFetching = false;
-        let searchTimeout = null;
+        let groupedData = {}; // { ArtistName: { PackName: [icon1, icon2...] } }
+        let availableSizes = new Set();
+        
+        let currentState = {
+            view: 'artists', // 'artists', 'packs', 'icons', 'search'
+            artist: null,
+            pack: null,
+            format: 'all',
+            size: 'all',
+            showDetails: true
+        };
 
         // DOM Elements
-        const grid = document.getElementById('iconGrid');
-        const loading = document.getElementById('loading');
-        const noResults = document.getElementById('noResults');
-        const scrollContainer = document.getElementById('scrollContainer');
-        const scrollLoading = document.getElementById('scrollLoading');
-        const resultCount = document.getElementById('resultCount');
-        
-        // Filters DOM
-        const searchInput = document.getElementById('searchInput');
-        const artistSelect = document.getElementById('artistSelect');
-        const packSelect = document.getElementById('packSelect');
-        const formatRadios = document.querySelectorAll('input[name="format"]');
+        const sidebar = document.getElementById('sidebar');
+        const sidebarOverlay = document.getElementById('sidebarOverlay');
+        const viewContainer = document.getElementById('viewContainer');
+        const artistsGrid = document.getElementById('artistsGrid');
+        const packsGrid = document.getElementById('packsGrid');
+        const iconsGrid = document.getElementById('iconsGrid');
+        const breadcrumbs = document.getElementById('breadcrumbs');
+        const toggleDetails = document.getElementById('toggleDetails');
+        const sizeFilterContainer = document.getElementById('sizeFilterContainer');
+        const sizeFilters = document.getElementById('sizeFilters');
 
-        // Theme Setup
-        const themeToggle = document.getElementById('themeToggle');
+        // Render limits for Infinite Scroll
+        let currentRenderLimit = 100;
+        let activeIconList = []; // The list currently being rendered
+
+        // 1. Theme Initialization
         const htmlElement = document.documentElement;
-        
-        // Initialize Theme from localStorage (Default to dark)
-        if (localStorage.getItem('theme') === 'light') {
-            htmlElement.classList.remove('dark');
-        } else {
-            htmlElement.classList.add('dark');
-        }
-
-        themeToggle.addEventListener('click', () => {
+        if (localStorage.getItem('theme') === 'dark') { htmlElement.classList.add('dark'); }
+        document.getElementById('themeToggle').addEventListener('click', () => {
             htmlElement.classList.toggle('dark');
             localStorage.setItem('theme', htmlElement.classList.contains('dark') ? 'dark' : 'light');
         });
 
-        // Mobile Sidebar Logic
-        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
-        const sidebar = document.getElementById('sidebar');
-        const sidebarOverlay = document.getElementById('sidebarOverlay');
+        // 2. Fetch & Process Data
+        async function init() {
+            try {
+                const res = await fetch(JSON_URL + "?t=" + Date.now());
+                if (!res.ok) throw new Error("JSON Fetch Failed");
+                const rawData = await res.json();
+                
+                // Process and Group Data
+                rawData.forEach(icon => {
+                    // Extract size from filename (e.g., .48.png, -64px.ico, 128x128.png)
+                    const sizeMatch = icon.name.match(/[\.-]((\d+x\d+)|\d+)(px)?\.(png|ico|icns)$/i);
+                    icon.size = sizeMatch ? sizeMatch[1] : 'Vector';
+                    icon.fullUrl = CDN_BASE + icon.path;
+
+                    if (!groupedData[icon.artist]) groupedData[icon.artist] = {};
+                    if (!groupedData[icon.artist][icon.set]) groupedData[icon.artist][icon.set] = [];
+                    
+                    groupedData[icon.artist][icon.set].push(icon);
+                    allIcons.push(icon);
+                });
+
+                document.getElementById('loading').classList.add('hidden');
+                viewContainer.classList.remove('hidden');
+                renderArtists();
+            } catch (err) {
+                document.getElementById('loading').innerHTML = `<p class="text-red-500 font-bold">Error loading index. Please ensure master_index.json exists.</p>`;
+            }
+        }
+
+        // --- NAVIGATION & RENDERING ---
+
+        function updateBreadcrumbs() {
+            let html = `<button onclick="goHome()" class="text-gray-500 hover:text-blue-600 transition flex items-center gap-1"><i class="fa-solid fa-house"></i> Home</button>`;
+            
+            if (currentState.view === 'search') {
+                html += `<span class="text-gray-400 mx-2">/</span><span class="text-gray-900 dark:text-white font-bold">Search Results</span>`;
+            } else {
+                if (currentState.artist) {
+                    html += `<span class="text-gray-400 mx-2">/</span><button onclick="openArtist('${currentState.artist}')" class="text-gray-500 hover:text-blue-600 transition truncate max-w-[150px]"><i class="fa-solid fa-user-pen mr-1"></i>${currentState.artist}</button>`;
+                }
+                if (currentState.pack) {
+                    html += `<span class="text-gray-400 mx-2">/</span><span class="text-gray-900 dark:text-white font-bold truncate max-w-[200px]"><i class="fa-solid fa-folder mr-1"></i>${currentState.pack}</span>`;
+                }
+            }
+            breadcrumbs.innerHTML = html;
+        }
+
+        function goHome() {
+            currentState.view = 'artists';
+            currentState.artist = null;
+            currentState.pack = null;
+            document.getElementById('searchInput').value = '';
+            sizeFilterContainer.classList.add('hidden');
+            renderArtists();
+        }
+
+        function openArtist(artistName) {
+            currentState.view = 'packs';
+            currentState.artist = artistName;
+            currentState.pack = null;
+            sizeFilterContainer.classList.add('hidden');
+            renderPacks();
+        }
+
+        function openPack(packName) {
+            currentState.view = 'icons';
+            currentState.pack = packName;
+            
+            // Generate Size Filters for this pack
+            availableSizes.clear();
+            groupedData[currentState.artist][packName].forEach(icon => {
+                if (icon.size !== 'Vector') availableSizes.add(icon.size);
+            });
+            
+            renderSizeFilters();
+            renderIconsList(groupedData[currentState.artist][packName]);
+        }
+
+        // --- RENDERERS ---
+
+        function renderArtists() {
+            updateBreadcrumbs();
+            hideAllViews();
+            artistsGrid.classList.remove('hidden');
+            artistsGrid.innerHTML = '';
+
+            Object.keys(groupedData).sort().forEach(artist => {
+                const count = Object.values(groupedData[artist]).flat().length;
+                const packCount = Object.keys(groupedData[artist]).length;
+                
+                const card = document.createElement('div');
+                card.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 p-6 rounded-2xl text-center cursor-pointer hover:shadow-lg hover:border-blue-500 transition group flex flex-col items-center justify-center";
+                card.onclick = () => openArtist(artist);
+                
+                // Create a colored avatar based on first letter
+                const colors = ['bg-blue-500', 'bg-purple-500', 'bg-green-500', 'bg-orange-500', 'bg-pink-500'];
+                const color = colors[artist.charCodeAt(0) % colors.length];
+
+                card.innerHTML = `
+                    <div class="w-16 h-16 rounded-full ${color} text-white flex items-center justify-center text-2xl font-bold shadow-inner mb-4 group-hover:scale-110 transition-transform">
+                        ${artist.charAt(0).toUpperCase()}
+                    </div>
+                    <h3 class="font-bold text-gray-900 dark:text-white truncate w-full" title="${artist}">${artist}</h3>
+                    <p class="text-xs text-gray-500 mt-1">${packCount} Packs • ${count} Icons</p>
+                `;
+                artistsGrid.appendChild(card);
+            });
+        }
+
+        function renderPacks() {
+            updateBreadcrumbs();
+            hideAllViews();
+            packsGrid.classList.remove('hidden');
+            packsGrid.innerHTML = '';
+
+            const packs = groupedData[currentState.artist];
+            
+            Object.keys(packs).sort().forEach(packName => {
+                const icons = packs[packName];
+                const count = icons.length;
+                
+                // Get 3 preview icons (prefer images over raw files)
+                const previews = icons.filter(i => i.format === 'PNG' || i.format === 'Vector').slice(0, 3);
+                
+                let previewsHtml = `<div class="flex-1 flex items-center justify-center bg-gray-50 dark:bg-dark-900 text-gray-400"><i class="fa-solid fa-folder-open text-4xl"></i></div>`;
+                
+                if (previews.length > 0) {
+                    previewsHtml = `<div class="flex items-center justify-center h-32 p-4 bg-checker gap-4">
+                        ${previews.map(p => `<img src="${p.fullUrl}" class="w-1/3 max-h-20 object-contain drop-shadow-sm transition hover:scale-110" loading="lazy">`).join('')}
+                    </div>`;
+                }
+
+                const card = document.createElement('div');
+                card.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl overflow-hidden cursor-pointer hover:shadow-xl hover:-translate-y-1 transition group flex flex-col";
+                card.onclick = () => openPack(packName);
+                
+                card.innerHTML = `
+                    ${previewsHtml}
+                    <div class="border-t border-gray-100 dark:border-dark-700 p-4 flex justify-between items-center bg-white dark:bg-dark-800">
+                        <span class="text-blue-600 dark:text-blue-400 font-semibold text-sm truncate pr-2 group-hover:underline">${packName}</span>
+                        <span class="text-gray-400 font-bold text-[10px] tracking-wider whitespace-nowrap bg-gray-100 dark:bg-dark-700 px-2 py-1 rounded">${count} ICONS</span>
+                    </div>
+                `;
+                packsGrid.appendChild(card);
+            });
+        }
+
+        function renderIconsList(sourceList) {
+            updateBreadcrumbs();
+            hideAllViews();
+            iconsGrid.classList.remove('hidden');
+            document.getElementById('noResults').classList.add('hidden');
+            
+            // Apply Format and Size Filters
+            activeIconList = sourceList.filter(icon => {
+                if (currentState.format !== 'all' && icon.format !== currentState.format) return false;
+                if (currentState.size !== 'all' && icon.size !== currentState.size) return false;
+                return true;
+            });
+
+            if (activeIconList.length === 0) {
+                document.getElementById('noResults').classList.remove('hidden');
+                iconsGrid.innerHTML = '';
+                return;
+            }
+
+            currentRenderLimit = 100;
+            iconsGrid.innerHTML = '';
+            document.getElementById('scrollContainer').scrollTop = 0;
+            renderIconChunk();
+        }
+
+        // PERFECT ICON CARD RENDERER (Matches Screenshot 1 & 2)
+        function renderIconChunk() {
+            const chunk = activeIconList.slice(iconsGrid.children.length, currentRenderLimit);
+            const showDetails = currentState.showDetails;
+
+            chunk.forEach(icon => {
+                const isImage = ['PNG', 'Vector'].includes(icon.format);
+                
+                const card = document.createElement('div');
+                // Base layout: white border, rounded, checkerboard inside
+                card.className = "icon-card relative group flex flex-col bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition cursor-pointer";
+                
+                card.innerHTML = `
+                    <!-- Image Area (Checkerboard) -->
+                    <div class="flex-1 bg-checker p-6 flex items-center justify-center min-h-[120px]">
+                        ${isImage ? 
+                            `<img src="${icon.fullUrl}" class="max-w-full max-h-full object-contain transition-transform group-hover:scale-105 drop-shadow-sm" loading="lazy">` : 
+                            `<i class="fa-solid fa-file text-4xl text-gray-400"></i>`
+                        }
+                    </div>
+                    
+                    <!-- Optional Details Bar -->
+                    <div class="details-text text-center border-t border-gray-100 dark:border-dark-700 px-2 py-2 bg-white dark:bg-dark-800 ${showDetails ? '' : 'hidden'}">
+                        <p class="text-[11px] font-medium text-gray-600 dark:text-gray-300 truncate" title="${icon.name}">${icon.name}</p>
+                        <p class="text-[9px] font-bold text-gray-400 mt-0.5 uppercase">${icon.format} ${icon.size !== 'Vector' ? '• ' + icon.size : ''}</p>
+                    </div>
+
+                    <!-- HOVER OVERLAY (Matches Screenshot 1 EXACTLY) -->
+                    <div class="overlay absolute inset-0 bg-gray-500/40 dark:bg-black/60 pointer-events-none flex flex-col justify-between">
+                        
+                        <!-- Top Right Actions -->
+                        <div class="absolute top-2 right-2 flex gap-1.5 pointer-events-auto">
+                            <button onclick="copyUrl('${icon.fullUrl}')" class="w-8 h-8 rounded-full bg-gray-800/80 text-white hover:bg-gray-900 flex items-center justify-center backdrop-blur-sm transition shadow" title="Copy URL">
+                                <i class="fa-regular fa-copy text-sm"></i>
+                            </button>
+                            <button onclick="downloadIcon('${icon.fullUrl}', '${icon.name}')" class="w-8 h-8 rounded-full bg-gray-800/80 text-white hover:bg-gray-900 flex items-center justify-center backdrop-blur-sm transition shadow" title="Download">
+                                <i class="fa-solid fa-download text-sm"></i>
+                            </button>
+                        </div>
+                        
+                        <!-- Bottom Center Action -->
+                        <div class="absolute bottom-3 left-1/2 -translate-x-1/2 pointer-events-auto">
+                            <button onclick="window.open('${icon.fullUrl}', '_blank')" class="bg-white text-gray-900 px-4 py-1.5 rounded-full text-xs font-bold shadow-lg hover:bg-gray-100 transition flex items-center gap-2 border border-gray-200">
+                                Utiliser <i class="fa-solid fa-chevron-down text-[10px]"></i>
+                            </button>
+                        </div>
+                    </div>
+                `;
+                iconsGrid.appendChild(card);
+            });
+        }
+
+        // --- FILTERS & INTERACTIVITY ---
+
+        function hideAllViews() {
+            artistsGrid.classList.add('hidden');
+            packsGrid.classList.add('hidden');
+            iconsGrid.classList.add('hidden');
+        }
 
         function toggleSidebar() {
             sidebar.classList.toggle('-translate-x-full');
-            sidebarOverlay.classList.toggle('hidden');
-        }
-        mobileMenuBtn.addEventListener('click', toggleSidebar);
-        sidebarOverlay.addEventListener('click', toggleSidebar);
-
-
-        // --- CORE LOGIC ---
-
-        async function init() {
-            try {
-                // Fetch Data
-                const res = await fetch(JSON_URL + "?t=" + Date.now());
-                if (!res.ok) throw new Error("JSON Fetch Failed");
-                allIcons = await res.json();
-                
-                // Extract Unique Artists
-                populateArtists();
-                
-                // Hide Loading, Show Grid
-                loading.classList.add('hidden');
-                grid.classList.remove('hidden');
-                
-                // Initial Render
-                filterData();
-            } catch (err) {
-                loading.innerHTML = `
-                    <i class="fa-solid fa-triangle-exclamation text-red-500 text-5xl mb-4"></i>
-                    <h2 class="text-xl font-bold text-gray-800 dark:text-gray-200">Connection Error</h2>
-                    <p class="text-gray-500 dark:text-gray-400 mt-2">Check master_index.json in your GitHub repository.</p>
-                `;
-            }
+            document.getElementById('sidebarOverlay').classList.toggle('hidden');
         }
 
-        // Dropdown Population Logic
-        function populateArtists() {
-            const artists = [...new Set(allIcons.map(icon => icon.artist))].sort();
-            artists.forEach(artist => {
-                const opt = document.createElement('option');
-                opt.value = artist;
-                opt.textContent = artist;
-                artistSelect.appendChild(opt);
-            });
-        }
-
-        function populatePacks(selectedArtist) {
-            packSelect.innerHTML = '<option value="all">All Packs</option>';
-            if (selectedArtist === 'all') {
-                packSelect.disabled = true;
+        // Global Search
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            if (!query) {
+                if (currentState.view === 'search') goHome();
                 return;
             }
             
-            packSelect.disabled = false;
-            // Get unique sets ONLY for the selected artist
-            const packs = [...new Set(allIcons.filter(i => i.artist === selectedArtist).map(i => i.set))].sort();
+            currentState.view = 'search';
+            sizeFilterContainer.classList.add('hidden');
             
-            packs.forEach(pack => {
-                const opt = document.createElement('option');
-                opt.value = pack;
-                opt.textContent = pack;
-                packSelect.appendChild(opt);
+            const results = allIcons.filter(icon => 
+                `${icon.name} ${icon.set} ${icon.artist}`.toLowerCase().includes(query)
+            );
+            
+            renderIconsList(results);
+        });
+
+        // Toggle Text Details
+        toggleDetails.addEventListener('change', (e) => {
+            currentState.showDetails = e.target.checked;
+            document.querySelectorAll('.details-text').forEach(el => {
+                if(currentState.showDetails) el.classList.remove('hidden');
+                else el.classList.add('hidden');
             });
-        }
+        });
 
-        // Filtering Engine
-        function filterData() {
-            const query = searchInput.value.toLowerCase().trim();
-            const selectedArtist = artistSelect.value;
-            const selectedPack = packSelect.value;
-            const selectedFormat = document.querySelector('input[name="format"]:checked').value;
-
-            displayedIcons = allIcons.filter(icon => {
-                let match = true;
-                if (selectedArtist !== 'all' && icon.artist !== selectedArtist) match = false;
-                if (selectedPack !== 'all' && icon.set !== selectedPack) match = false;
-                if (selectedFormat !== 'all' && icon.format !== selectedFormat) match = false;
+        // Format Filters UI
+        document.querySelectorAll('#formatFilters .filter-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.querySelectorAll('#formatFilters .filter-btn').forEach(b => {
+                    b.classList.remove('bg-blue-600', 'text-white');
+                    b.classList.add('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
+                });
+                e.target.classList.remove('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
+                e.target.classList.add('bg-blue-600', 'text-white');
                 
-                if (query) {
-                    const searchStr = `${icon.name} ${icon.set} ${icon.artist}`.toLowerCase();
-                    if (!searchStr.includes(query)) match = false;
+                currentState.format = e.target.getAttribute('data-filter');
+                if(currentState.view === 'icons' || currentState.view === 'search') {
+                    renderIconsList(currentState.view === 'search' ? activeIconList : groupedData[currentState.artist][currentState.pack]);
                 }
-                
-                return match;
             });
+        });
 
-            // Reset Render State
-            currentRenderLimit = 100;
-            grid.innerHTML = '';
-            scrollContainer.scrollTop = 0;
-            
-            renderChunk();
-            
-            // Update Stats
-            resultCount.innerHTML = `<span class="font-bold text-gray-900 dark:text-white">${displayedIcons.length.toLocaleString()}</span> assets`;
-        }
-
-        function resetFilters() {
-            searchInput.value = '';
-            artistSelect.value = 'all';
-            packSelect.innerHTML = '<option value="all">All Packs</option>';
-            packSelect.disabled = true;
-            document.querySelector('input[name="format"][value="all"]').checked = true;
-            filterData();
-        }
-
-        // Render Graphics Engine
-        function renderChunk() {
-            if (displayedIcons.length === 0) {
-                noResults.classList.remove('hidden');
-                grid.classList.add('hidden');
+        // Dynamic Size Filters
+        function renderSizeFilters() {
+            if (availableSizes.size === 0) {
+                sizeFilterContainer.classList.add('hidden');
                 return;
             }
+            sizeFilterContainer.classList.remove('hidden');
             
-            noResults.classList.add('hidden');
-            grid.classList.remove('hidden');
-
-            const chunk = displayedIcons.slice(grid.children.length, currentRenderLimit);
+            const sizes = Array.from(availableSizes).sort((a, b) => parseInt(a) - parseInt(b));
+            let html = `<button class="size-btn active px-3 py-1.5 rounded-lg text-sm font-medium bg-blue-600 text-white shadow" data-size="all">All Sizes</button>`;
             
-            chunk.forEach(icon => {
-                const fullUrl = CDN_BASE + icon.path;
-                const isImage = ['Vector', 'PNG'].includes(icon.format);
-                
-                const card = document.createElement('div');
-                card.className = "icon-card bg-white dark:bg-dark-800 rounded-2xl p-4 flex flex-col items-center justify-center relative aspect-square border border-gray-200 dark:border-dark-700 shadow-sm hover:shadow-xl transition-all duration-300 group overflow-hidden cursor-crosshair";
-                
-                // Format Badge (Top Left)
-                const formatColors = {
-                    'Vector': 'bg-orange-100 text-orange-600 dark:bg-orange-900/30 dark:text-orange-400',
-                    'PNG': 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400',
-                    'Windows': 'bg-cyan-100 text-cyan-600 dark:bg-cyan-900/30 dark:text-cyan-400',
-                    'Mac': 'bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-300',
-                    'Favicon': 'bg-purple-100 text-purple-600 dark:bg-purple-900/30 dark:text-purple-400'
-                };
-                const badgeClass = formatColors[icon.format] || formatColors['Mac'];
-
-                const previewHtml = isImage 
-                    ? `<img src="${fullUrl}" alt="${icon.name}" class="w-16 h-16 sm:w-20 sm:h-20 object-contain drop-shadow-md group-hover:scale-110 transition-transform duration-300" loading="lazy">`
-                    : `<div class="w-16 h-16 sm:w-20 sm:h-20 flex items-center justify-center bg-gray-100 dark:bg-dark-700 rounded-2xl group-hover:scale-110 transition-transform duration-300"><i class="fa-solid fa-file-image text-3xl text-gray-400"></i></div>`;
-
-                card.innerHTML = `
-                    <!-- Badge -->
-                    <div class="absolute top-3 left-3 px-2 py-0.5 rounded text-[9px] font-extrabold uppercase tracking-widest ${badgeClass} z-10">
-                        ${icon.format}
-                    </div>
-                    
-                    <!-- Icon Preview -->
-                    ${previewHtml}
-                    
-                    <!-- File Name Footer -->
-                    <div class="absolute bottom-3 left-3 right-3 text-center">
-                        <p class="text-[10px] font-medium text-gray-400 dark:text-gray-500 truncate w-full" title="${icon.name}">${icon.name}</p>
-                    </div>
-
-                    <!-- Modern Hover Actions -->
-                    <div class="overlay absolute inset-0 bg-white/80 dark:bg-dark-900/80 backdrop-blur-sm flex flex-col items-center justify-center gap-3">
-                        <button onclick="copyUrl('${fullUrl}')" class="w-10/12 py-2 bg-gray-900 dark:bg-white text-white dark:text-gray-900 text-xs font-bold rounded-xl shadow-lg hover:scale-105 transition flex items-center justify-center gap-2">
-                            <i class="fa-solid fa-link"></i> CDN URL
-                        </button>
-                        <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="w-10/12 py-2 bg-blue-600 text-white text-xs font-bold rounded-xl shadow-lg shadow-blue-500/30 hover:bg-blue-500 hover:scale-105 transition flex items-center justify-center gap-2">
-                            <i class="fa-solid fa-download"></i> Download
-                        </button>
-                    </div>
-                `;
-                grid.appendChild(card);
+            sizes.forEach(size => {
+                html += `<button class="size-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 border border-gray-200 dark:border-dark-600" data-size="${size}">${size}</button>`;
             });
-            
-            isFetching = false;
-            scrollLoading.classList.add('hidden');
+            sizeFilters.innerHTML = html;
+
+            document.querySelectorAll('.size-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    document.querySelectorAll('.size-btn').forEach(b => {
+                        b.classList.remove('bg-blue-600', 'text-white');
+                        b.classList.add('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
+                    });
+                    e.target.classList.remove('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
+                    e.target.classList.add('bg-blue-600', 'text-white');
+                    
+                    currentState.size = e.target.getAttribute('data-size');
+                    renderIconsList(groupedData[currentState.artist][currentState.pack]);
+                });
+            });
         }
 
-        // Infinite Scroll Logic
-        scrollContainer.addEventListener('scroll', () => {
-            if (isFetching || currentRenderLimit >= displayedIcons.length) return;
+        // Infinite Scroll
+        document.getElementById('scrollContainer').addEventListener('scroll', function() {
+            if (currentState.view !== 'icons' && currentState.view !== 'search') return;
+            if (currentRenderLimit >= activeIconList.length) return;
             
-            // If scrolled to bottom (with 200px threshold)
-            if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight - 200) {
-                isFetching = true;
-                scrollLoading.classList.remove('hidden');
-                
-                // Fake delay to show loading animation slightly (feels premium)
-                setTimeout(() => {
-                    currentRenderLimit += 100;
-                    renderChunk();
-                }, 300);
+            if (this.scrollTop + this.clientHeight >= this.scrollHeight - 200) {
+                currentRenderLimit += 100;
+                renderIconChunk();
             }
-        });
-
-        // Event Listeners for Filters
-        artistSelect.addEventListener('change', (e) => {
-            populatePacks(e.target.value);
-            filterData();
-        });
-
-        packSelect.addEventListener('change', filterData);
-        
-        formatRadios.forEach(radio => {
-            radio.addEventListener('change', filterData);
-        });
-
-        // Debounced Live Search
-        searchInput.addEventListener('input', () => {
-            clearTimeout(searchTimeout);
-            searchTimeout = setTimeout(() => {
-                filterData();
-            }, 300); // 300ms delay prevents lagging while typing fast
         });
 
         // --- UTILS (Copy & Download) ---
-
         function copyUrl(url) {
-            navigator.clipboard.writeText(url).then(() => showToast());
+            navigator.clipboard.writeText(url).then(() => showToast("URL Copied to clipboard!"));
         }
 
         async function downloadIcon(url, filename) {
             try {
-                showToast("Downloading file...");
+                showToast("Downloading...");
                 const response = await fetch(url);
                 const blob = await response.blob();
                 const blobUrl = window.URL.createObjectURL(blob);
-                
                 const a = document.createElement('a');
                 a.href = blobUrl;
                 a.download = filename;
@@ -488,24 +569,17 @@
             }
         }
 
-        // Toast UI
         const toast = document.getElementById('toast');
-        const toastMsg = document.getElementById('toastMsg');
         let toastTimeoutId;
-
-        function showToast(msg = "Copied to clipboard!") {
-            toastMsg.innerText = msg;
+        function showToast(msg) {
+            document.getElementById('toastMsg').innerText = msg;
             toast.classList.remove('opacity-0', 'translate-y-4');
-            
             clearTimeout(toastTimeoutId);
-            toastTimeoutId = setTimeout(() => {
-                toast.classList.add('opacity-0', 'translate-y-4');
-            }, 2500);
+            toastTimeoutId = setTimeout(() => toast.classList.add('opacity-0', 'translate-y-4'), 2500);
         }
 
-        // Boot Application
+        // Boot
         init();
-
     </script>
 </body>
 </html>
