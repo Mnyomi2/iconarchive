@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en"> <!-- Light mode default -->
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premium Icon Gallery</title>
+    <title>Ultimate Icon Gallery</title>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -13,7 +13,7 @@
             theme: {
                 extend: {
                     colors: {
-                        dark: { 900: '#121212', 800: '#1e1e1e', 700: '#2d2d2d', 600: '#3f3f3f' }
+                        dark: { 900: '#121212', 800: '#1e1e1e', 700: '#2d2d2d' }
                     }
                 }
             }
@@ -23,158 +23,143 @@
     <!-- FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
+    <!-- Custom Styles -->
     <style>
-        /* Modern Scrollbar */
+        /* Smooth Scrollbar */
         ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-track { background: transparent; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        .dark ::-webkit-scrollbar-thumb { background: #475569; }
-        
-        /* Transparent Checkerboard Pattern (Like Photoshop) */
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+
+        /* Transparent Checkered Background (For Icons) */
         .bg-checker {
             background-color: #ffffff;
             background-image: 
-                linear-gradient(45deg, #f3f4f6 25%, transparent 25%, transparent 75%, #f3f4f6 75%, #f3f4f6),
-                linear-gradient(45deg, #f3f4f6 25%, transparent 25%, transparent 75%, #f3f4f6 75%, #f3f4f6);
+                linear-gradient(45deg, #f8fafc 25%, transparent 25%, transparent 75%, #f8fafc 75%, #f8fafc),
+                linear-gradient(45deg, #f8fafc 25%, transparent 25%, transparent 75%, #f8fafc 75%, #f8fafc);
             background-size: 16px 16px;
             background-position: 0 0, 8px 8px;
         }
         .dark .bg-checker {
             background-color: #1e1e1e;
             background-image: 
-                linear-gradient(45deg, #2d2d2d 25%, transparent 25%, transparent 75%, #2d2d2d 75%, #2d2d2d),
-                linear-gradient(45deg, #2d2d2d 25%, transparent 25%, transparent 75%, #2d2d2d 75%, #2d2d2d);
+                linear-gradient(45deg, #252525 25%, transparent 25%, transparent 75%, #252525 75%, #252525),
+                linear-gradient(45deg, #252525 25%, transparent 25%, transparent 75%, #252525 75%, #252525);
         }
 
-        /* Hover animations */
-        .icon-card .overlay { opacity: 0; transition: opacity 0.2s ease-out; }
+        /* Sidebar Dock Behavior */
+        #sidebar { width: 5rem; transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        #sidebar:hover { width: 16rem; }
+        #sidebar .nav-text { opacity: 0; width: 0; overflow: hidden; transition: opacity 0.3s, width 0.3s; white-space: nowrap; }
+        #sidebar:hover .nav-text { opacity: 1; width: auto; margin-left: 1rem; }
+
+        /* Icon Hover Animations (Matching Screenshot 1) */
+        .icon-card .overlay { opacity: 0; transition: opacity 0.2s ease-in-out; }
         .icon-card:hover .overlay { opacity: 1; }
+        .action-btn { transition: transform 0.1s, background-color 0.2s; }
+        .action-btn:hover { transform: scale(1.1); background-color: rgba(0,0,0,0.8); text-color: white;}
         
-        /* Hide Details Transition */
-        .details-text { transition: all 0.2s; }
-        
-        /* Checkbox Switch */
-        .switch { position: relative; display: inline-block; width: 44px; height: 24px; }
-        .switch input { opacity: 0; width: 0; height: 0; }
-        .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 34px; }
-        .slider:before { position: absolute; content: ""; height: 18px; width: 18px; left: 3px; bottom: 3px; background-color: white; transition: .4s; border-radius: 50%; }
-        input:checked + .slider { background-color: #2563eb; }
-        input:checked + .slider:before { transform: translateX(20px); }
+        .toast { transition: opacity 0.3s, transform 0.3s; }
     </style>
 </head>
-<body class="bg-gray-50 dark:bg-dark-900 text-gray-900 dark:text-gray-100 h-screen flex overflow-hidden font-sans transition-colors duration-300">
+<body class="bg-gray-100 dark:bg-dark-900 text-gray-900 dark:text-gray-100 h-screen flex overflow-hidden font-sans">
 
-    <!-- SIDEBAR (Collapsed by default) -->
-    <aside id="sidebar" class="w-72 bg-white dark:bg-dark-800 border-r border-gray-200 dark:border-dark-700 flex flex-col transition-transform duration-300 absolute md:relative z-40 h-full -translate-x-full shadow-2xl md:shadow-none flex-shrink-0">
-        <div class="h-16 flex items-center justify-between px-6 border-b border-gray-200 dark:border-dark-700">
-            <h2 class="font-bold text-lg"><i class="fa-solid fa-sliders text-blue-500 mr-2"></i> Filters</h2>
-            <button onclick="toggleSidebar()" class="md:hidden text-gray-500 hover:text-gray-900 dark:hover:text-white">
-                <i class="fa-solid fa-xmark text-xl"></i>
-            </button>
+    <!-- UBUNTU DOCK SIDEBAR -->
+    <aside id="sidebar" class="bg-white dark:bg-dark-800 border-r border-gray-200 dark:border-dark-700 flex flex-col z-50 h-full shadow-lg shrink-0 group">
+        
+        <!-- Logo -->
+        <div class="h-20 flex items-center px-5 border-b border-gray-200 dark:border-dark-700 w-full overflow-hidden shrink-0">
+            <div class="bg-blue-600 p-2.5 rounded-xl text-white shrink-0 shadow-md">
+                <i class="fa-solid fa-shapes text-xl"></i>
+            </div>
+            <h1 class="nav-text text-xl font-bold tracking-tight">Icon<span class="text-blue-500 font-light">Gallery</span></h1>
         </div>
 
-        <div class="flex-1 overflow-y-auto p-6 space-y-8">
-            <!-- View Settings -->
-            <div>
-                <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">View Settings</h3>
-                <div class="flex items-center justify-between">
-                    <span class="text-sm font-medium">Show Icon Names</span>
-                    <label class="switch">
-                        <input type="checkbox" id="toggleDetails" checked>
-                        <span class="slider"></span>
-                    </label>
-                </div>
-            </div>
+        <!-- Navigation -->
+        <nav class="flex-1 py-6 flex flex-col gap-2 px-3 overflow-x-hidden">
+            <button onclick="navigate('all')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left" id="nav-all">
+                <i class="fa-solid fa-border-all text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0"></i>
+                <span class="nav-text font-medium text-gray-700 dark:text-gray-300">All Icons</span>
+            </button>
+            
+            <button onclick="navigate('designers')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left" id="nav-designers">
+                <i class="fa-solid fa-user-pen text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0"></i>
+                <span class="nav-text font-medium text-gray-700 dark:text-gray-300">Designers & Artists</span>
+            </button>
+        </nav>
 
-            <!-- Formats -->
-            <div>
-                <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">Formats</h3>
-                <div class="flex flex-wrap gap-2" id="formatFilters">
-                    <button class="filter-btn active px-3 py-1.5 rounded-lg text-sm font-medium bg-blue-600 text-white shadow" data-filter="all">All</button>
-                    <button class="filter-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-dark-600 border border-gray-200 dark:border-dark-600" data-filter="Vector">SVG</button>
-                    <button class="filter-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-dark-600 border border-gray-200 dark:border-dark-600" data-filter="PNG">PNG</button>
-                    <button class="filter-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-dark-600 border border-gray-200 dark:border-dark-600" data-filter="Favicon">Favicon</button>
-                </div>
-            </div>
-
-            <!-- Sizes (Dynamically Populated based on PNG/ICO) -->
-            <div id="sizeFilterContainer" class="hidden">
-                <h3 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">Size (px)</h3>
-                <div class="flex flex-wrap gap-2" id="sizeFilters">
-                    <!-- Pills injected via JS -->
-                </div>
-            </div>
+        <!-- Bottom Controls -->
+        <div class="p-3 border-t border-gray-200 dark:border-dark-700 flex flex-col gap-2">
+            <button id="themeToggle" class="flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition w-full text-left group/btn">
+                <i class="fa-solid fa-moon text-xl w-6 text-center text-gray-500 dark:text-yellow-400 shrink-0 block dark:hidden"></i>
+                <i class="fa-solid fa-sun text-xl w-6 text-center text-gray-500 dark:text-yellow-400 shrink-0 hidden dark:block"></i>
+                <span class="nav-text font-medium text-gray-700 dark:text-gray-300 dark:hidden">Dark Mode</span>
+                <span class="nav-text font-medium text-gray-700 dark:text-gray-300 hidden dark:block">Light Mode</span>
+            </button>
         </div>
     </aside>
 
-    <!-- Overlay for Mobile Sidebar -->
-    <div id="sidebarOverlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-30 hidden" onclick="toggleSidebar()"></div>
-
     <!-- MAIN CONTENT -->
-    <main class="flex-1 flex flex-col min-w-0 relative h-full">
+    <main class="flex-1 flex flex-col min-w-0 bg-gray-50 dark:bg-dark-900 relative">
         
-        <!-- Top Navbar -->
-        <header class="h-16 px-4 sm:px-6 flex items-center justify-between border-b border-gray-200 dark:border-dark-700 bg-white dark:bg-dark-800 z-20">
-            <div class="flex items-center gap-4">
-                <button onclick="toggleSidebar()" class="text-gray-500 hover:text-blue-600 dark:hover:text-blue-400 transition w-8 h-8 rounded-lg hover:bg-gray-100 dark:hover:bg-dark-700 flex items-center justify-center">
-                    <i class="fa-solid fa-bars text-lg"></i>
-                </button>
-                <div class="font-bold text-xl tracking-tight hidden sm:block">Icon<span class="text-blue-600">Gallery</span></div>
+        <!-- Header Controls -->
+        <header class="px-6 py-4 border-b border-gray-200 dark:border-dark-700 bg-white dark:bg-dark-800 shrink-0 flex flex-col gap-4">
+            
+            <div class="flex items-center justify-between gap-4">
+                <!-- Dynamic Breadcrumbs -->
+                <div id="breadcrumbs" class="text-sm font-semibold flex items-center gap-2 text-gray-500 dark:text-gray-400 overflow-x-auto no-scrollbar whitespace-nowrap">
+                    <!-- Injected by JS -->
+                </div>
+
+                <!-- Global Search & Details Toggle -->
+                <div class="flex items-center gap-4 ml-auto">
+                    <!-- Details Toggle -->
+                    <label class="flex items-center gap-2 cursor-pointer bg-gray-100 dark:bg-dark-700 px-4 py-2 rounded-full border border-gray-200 dark:border-dark-600">
+                        <input type="checkbox" id="detailsToggle" class="sr-only peer">
+                        <div class="w-9 h-5 bg-gray-300 dark:bg-gray-600 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-blue-600 relative"></div>
+                        <span class="text-sm font-medium text-gray-700 dark:text-gray-300 whitespace-nowrap">Show Details</span>
+                    </label>
+
+                    <!-- Search -->
+                    <div class="relative w-64 hidden sm:block">
+                        <i class="fa-solid fa-magnifying-glass absolute left-3 top-2.5 text-gray-400"></i>
+                        <input type="text" id="searchInput" placeholder="Search..." 
+                            class="w-full bg-gray-100 dark:bg-dark-700 border-none rounded-full pl-10 pr-4 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-sm">
+                    </div>
+                </div>
             </div>
 
-            <!-- Global Search -->
-            <div class="relative w-full max-w-md mx-4">
-                <i class="fa-solid fa-search absolute left-3 top-2.5 text-gray-400"></i>
-                <input type="text" id="searchInput" placeholder="Search icons..." 
-                    class="w-full bg-gray-100 dark:bg-dark-700 border-transparent text-sm rounded-full pl-9 pr-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 transition">
+            <!-- Format & Size Filters (Only shows when viewing Icons) -->
+            <div id="advancedFilters" class="hidden flex flex-wrap gap-2 items-center bg-gray-50 dark:bg-dark-900 p-2 rounded-lg border border-gray-200 dark:border-dark-700">
+                <span class="text-xs font-bold text-gray-400 uppercase tracking-wider mr-2">Formats:</span>
+                <div id="formatButtonsContainer" class="flex flex-wrap gap-2"></div>
             </div>
-
-            <button id="themeToggle" class="text-gray-500 w-8 h-8 rounded-full hover:bg-gray-100 dark:hover:bg-dark-700 flex items-center justify-center transition">
-                <i class="fa-solid fa-moon block dark:hidden"></i>
-                <i class="fa-solid fa-sun hidden dark:block text-yellow-400"></i>
-            </button>
+            
         </header>
 
-        <!-- Breadcrumbs Navigation -->
-        <div class="bg-gray-50 dark:bg-dark-900 border-b border-gray-200 dark:border-dark-700 px-6 py-3 flex items-center gap-2 text-sm font-medium overflow-x-auto no-scrollbar" id="breadcrumbs">
-            <button onclick="goHome()" class="text-blue-600 hover:underline flex items-center gap-1"><i class="fa-solid fa-house"></i> Home</button>
-        </div>
-
-        <!-- Scrollable Content Area -->
+        <!-- Scrollable Grid Area -->
         <div id="scrollContainer" class="flex-1 overflow-y-auto p-6 relative">
             
-            <div id="loading" class="flex flex-col items-center justify-center h-full">
-                <i class="fa-solid fa-spinner fa-spin text-4xl text-blue-500 mb-4"></i>
-                <p class="text-gray-500">Processing repository...</p>
+            <div id="loading" class="absolute inset-0 flex flex-col items-center justify-center z-20">
+                <i class="fa-solid fa-circle-notch fa-spin text-4xl text-blue-500 mb-4"></i>
             </div>
 
-            <!-- Dynamic Views -->
-            <div id="viewContainer" class="hidden">
-                <!-- Artists Grid -->
-                <div id="artistsGrid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 hidden"></div>
-                
-                <!-- Packs Grid -->
-                <div id="packsGrid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 hidden"></div>
-                
-                <!-- Icons Grid -->
-                <div id="iconsGrid" class="grid gap-4 hidden" style="grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));"></div>
+            <!-- Dynamic Grid (Changes based on View State) -->
+            <div id="mainGrid" class="grid gap-6">
+                <!-- Cards Injected Here -->
             </div>
             
-            <div id="noResults" class="hidden flex flex-col items-center justify-center py-20">
-                <i class="fa-regular fa-folder-open text-5xl text-gray-300 mb-4"></i>
-                <p class="text-gray-500 text-lg">No assets found.</p>
-            </div>
-            
-            <div id="scrollLoading" class="hidden text-center py-6">
+            <div id="scrollLoading" class="hidden text-center py-8">
                 <i class="fa-solid fa-ellipsis fa-bounce text-2xl text-gray-400"></i>
             </div>
         </div>
     </main>
 
-    <!-- Toast Notification -->
-    <div id="toast" class="fixed bottom-6 right-6 bg-gray-900 dark:bg-white text-white dark:text-gray-900 px-5 py-3 rounded-xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3 transition-all">
+    <!-- Copy Toast -->
+    <div id="toast" class="fixed bottom-6 right-6 bg-gray-900 text-white px-6 py-3 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3">
         <i class="fa-solid fa-circle-check text-green-400"></i>
-        <span id="toastMsg" class="font-medium text-sm">Action successful!</span>
+        <span id="toastMsg">Copied!</span>
     </div>
 
     <script>
@@ -185,370 +170,302 @@
         const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
         const JSON_URL = CDN_BASE + "master_index.json";
 
-        // Global State & Data Structure
+        // --- STATE MANAGEMENT ---
         let allIcons = [];
-        let groupedData = {}; // { ArtistName: { PackName: [icon1, icon2...] } }
-        let availableSizes = new Set();
+        let groupedData = {}; // Structured: { Artist: { Pack: [icons...] } }
+        let currentView = 'all'; // 'all', 'designers', 'packs', 'icons'
+        let navState = { artist: null, pack: null };
+        let showDetails = false;
+        let activeFormatFilter = 'All'; // Specific format like 'Vector', 'PNG-48px'
         
-        let currentState = {
-            view: 'artists', // 'artists', 'packs', 'icons', 'search'
-            artist: null,
-            pack: null,
-            format: 'all',
-            size: 'all',
-            showDetails: true
-        };
+        let displayList = [];
+        let renderLimit = 100;
+        let isFetching = false;
 
         // DOM Elements
-        const sidebar = document.getElementById('sidebar');
-        const sidebarOverlay = document.getElementById('sidebarOverlay');
-        const viewContainer = document.getElementById('viewContainer');
-        const artistsGrid = document.getElementById('artistsGrid');
-        const packsGrid = document.getElementById('packsGrid');
-        const iconsGrid = document.getElementById('iconsGrid');
+        const mainGrid = document.getElementById('mainGrid');
+        const loading = document.getElementById('loading');
+        const scrollContainer = document.getElementById('scrollContainer');
         const breadcrumbs = document.getElementById('breadcrumbs');
-        const toggleDetails = document.getElementById('toggleDetails');
-        const sizeFilterContainer = document.getElementById('sizeFilterContainer');
-        const sizeFilters = document.getElementById('sizeFilters');
+        const detailsToggle = document.getElementById('detailsToggle');
+        const searchInput = document.getElementById('searchInput');
+        const advancedFilters = document.getElementById('advancedFilters');
+        const formatButtonsContainer = document.getElementById('formatButtonsContainer');
 
-        // Render limits for Infinite Scroll
-        let currentRenderLimit = 100;
-        let activeIconList = []; // The list currently being rendered
-
-        // 1. Theme Initialization
-        const htmlElement = document.documentElement;
-        if (localStorage.getItem('theme') === 'dark') { htmlElement.classList.add('dark'); }
+        // Theme Setup (Light by Default)
+        const html = document.documentElement;
+        if(localStorage.getItem('theme') === 'dark') html.classList.add('dark');
         document.getElementById('themeToggle').addEventListener('click', () => {
-            htmlElement.classList.toggle('dark');
-            localStorage.setItem('theme', htmlElement.classList.contains('dark') ? 'dark' : 'light');
+            html.classList.toggle('dark');
+            localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
         });
 
-        // 2. Fetch & Process Data
+        // Toggle Details
+        detailsToggle.addEventListener('change', (e) => {
+            showDetails = e.target.checked;
+            renderView(); // Re-render current view
+        });
+
+        // --- CORE INITIALIZATION ---
         async function init() {
             try {
                 const res = await fetch(JSON_URL + "?t=" + Date.now());
                 if (!res.ok) throw new Error("JSON Fetch Failed");
                 const rawData = await res.json();
                 
-                // Process and Group Data
-                rawData.forEach(icon => {
-                    // Extract size from filename (e.g., .48.png, -64px.ico, 128x128.png)
-                    const sizeMatch = icon.name.match(/[\.-]((\d+x\d+)|\d+)(px)?\.(png|ico|icns)$/i);
-                    icon.size = sizeMatch ? sizeMatch[1] : 'Vector';
-                    icon.fullUrl = CDN_BASE + icon.path;
-
-                    if (!groupedData[icon.artist]) groupedData[icon.artist] = {};
-                    if (!groupedData[icon.artist][icon.set]) groupedData[icon.artist][icon.set] = [];
+                // Process and enhance data with specific sizes
+                allIcons = rawData.map(icon => {
+                    // Extract size from filename if exists (e.g. name.48.png -> 48px)
+                    const sizeMatch = icon.name.match(/\.((\d+x\d+)|\d+)\.(png|ico|icns)$/i);
+                    const specificSize = sizeMatch ? sizeMatch[1] + 'px' : null;
                     
-                    groupedData[icon.artist][icon.set].push(icon);
-                    allIcons.push(icon);
+                    // e.g., 'PNG' -> 'PNG-48px' or just 'Vector'
+                    const exactFormat = specificSize ? `${icon.format}-${specificSize}` : icon.format;
+
+                    return { ...icon, specificSize, exactFormat };
                 });
 
-                document.getElementById('loading').classList.add('hidden');
-                viewContainer.classList.remove('hidden');
-                renderArtists();
+                buildGroupedData();
+                loading.classList.add('hidden');
+                
+                // Default to all icons
+                navigate('all');
             } catch (err) {
-                document.getElementById('loading').innerHTML = `<p class="text-red-500 font-bold">Error loading index. Please ensure master_index.json exists.</p>`;
+                loading.innerHTML = `<p class="text-red-500">Failed to load index.json. Ensure python script was run.</p>`;
             }
         }
 
-        // --- NAVIGATION & RENDERING ---
+        // Group flat data into Hierarchy
+        function buildGroupedData() {
+            groupedData = {};
+            allIcons.forEach(icon => {
+                if(!groupedData[icon.artist]) groupedData[icon.artist] = {};
+                if(!groupedData[icon.artist][icon.set]) groupedData[icon.artist][icon.set] = [];
+                groupedData[icon.artist][icon.set].push(icon);
+            });
+        }
+
+        // --- NAVIGATION ENGINE ---
+        function navigate(view, artist = null, pack = null) {
+            currentView = view;
+            navState = { artist, pack };
+            searchInput.value = '';
+            activeFormatFilter = 'All';
+            
+            updateBreadcrumbs();
+            updateSidebarHighlight();
+            
+            if (view === 'icons' || view === 'all') {
+                buildFormatFilters();
+                advancedFilters.classList.remove('hidden');
+                // Adjust grid cols for icons
+                mainGrid.className = "grid gap-6 grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10";
+            } else {
+                advancedFilters.classList.add('hidden');
+                // Adjust grid cols for larger cards
+                mainGrid.className = "grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4";
+            }
+
+            filterAndRender();
+        }
 
         function updateBreadcrumbs() {
-            let html = `<button onclick="goHome()" class="text-gray-500 hover:text-blue-600 transition flex items-center gap-1"><i class="fa-solid fa-house"></i> Home</button>`;
+            let html = `<button onclick="navigate('all')" class="hover:text-blue-500 transition"><i class="fa-solid fa-house"></i> Home</button>`;
             
-            if (currentState.view === 'search') {
-                html += `<span class="text-gray-400 mx-2">/</span><span class="text-gray-900 dark:text-white font-bold">Search Results</span>`;
-            } else {
-                if (currentState.artist) {
-                    html += `<span class="text-gray-400 mx-2">/</span><button onclick="openArtist('${currentState.artist}')" class="text-gray-500 hover:text-blue-600 transition truncate max-w-[150px]"><i class="fa-solid fa-user-pen mr-1"></i>${currentState.artist}</button>`;
-                }
-                if (currentState.pack) {
-                    html += `<span class="text-gray-400 mx-2">/</span><span class="text-gray-900 dark:text-white font-bold truncate max-w-[200px]"><i class="fa-solid fa-folder mr-1"></i>${currentState.pack}</span>`;
-                }
+            if (currentView === 'designers') {
+                html += ` <i class="fa-solid fa-chevron-right text-[10px]"></i> <span class="text-gray-800 dark:text-gray-200">Designers</span>`;
+            }
+            if (navState.artist) {
+                html += ` <i class="fa-solid fa-chevron-right text-[10px]"></i> <button onclick="navigate('packs', '${navState.artist}')" class="hover:text-blue-500 transition">${navState.artist}</button>`;
+            }
+            if (navState.pack) {
+                html += ` <i class="fa-solid fa-chevron-right text-[10px]"></i> <span class="text-gray-800 dark:text-gray-200">${navState.pack}</span>`;
             }
             breadcrumbs.innerHTML = html;
         }
 
-        function goHome() {
-            currentState.view = 'artists';
-            currentState.artist = null;
-            currentState.pack = null;
-            document.getElementById('searchInput').value = '';
-            sizeFilterContainer.classList.add('hidden');
-            renderArtists();
+        function updateSidebarHighlight() {
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('bg-blue-50', 'dark:bg-dark-700', 'text-blue-600'));
+            if(currentView === 'all') document.getElementById('nav-all').classList.add('bg-blue-50', 'dark:bg-dark-700', 'text-blue-600');
+            if(['designers', 'packs'].includes(currentView)) document.getElementById('nav-designers').classList.add('bg-blue-50', 'dark:bg-dark-700', 'text-blue-600');
         }
 
-        function openArtist(artistName) {
-            currentState.view = 'packs';
-            currentState.artist = artistName;
-            currentState.pack = null;
-            sizeFilterContainer.classList.add('hidden');
-            renderPacks();
-        }
+        // --- FILTERING & DATA PREP ---
+        function filterAndRender() {
+            const query = searchInput.value.toLowerCase();
+            renderLimit = 100;
+            scrollContainer.scrollTop = 0;
 
-        function openPack(packName) {
-            currentState.view = 'icons';
-            currentState.pack = packName;
-            
-            // Generate Size Filters for this pack
-            availableSizes.clear();
-            groupedData[currentState.artist][packName].forEach(icon => {
-                if (icon.size !== 'Vector') availableSizes.add(icon.size);
-            });
-            
-            renderSizeFilters();
-            renderIconsList(groupedData[currentState.artist][packName]);
-        }
-
-        // --- RENDERERS ---
-
-        function renderArtists() {
-            updateBreadcrumbs();
-            hideAllViews();
-            artistsGrid.classList.remove('hidden');
-            artistsGrid.innerHTML = '';
-
-            Object.keys(groupedData).sort().forEach(artist => {
-                const count = Object.values(groupedData[artist]).flat().length;
-                const packCount = Object.keys(groupedData[artist]).length;
+            if (currentView === 'designers') {
+                displayList = Object.keys(groupedData).filter(a => a.toLowerCase().includes(query)).sort();
+            } 
+            else if (currentView === 'packs') {
+                displayList = Object.keys(groupedData[navState.artist]).filter(p => p.toLowerCase().includes(query)).sort();
+            } 
+            else {
+                // View: 'icons' or 'all'
+                let sourceList = currentView === 'icons' ? groupedData[navState.artist][navState.pack] : allIcons;
                 
-                const card = document.createElement('div');
-                card.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 p-6 rounded-2xl text-center cursor-pointer hover:shadow-lg hover:border-blue-500 transition group flex flex-col items-center justify-center";
-                card.onclick = () => openArtist(artist);
-                
-                // Create a colored avatar based on first letter
-                const colors = ['bg-blue-500', 'bg-purple-500', 'bg-green-500', 'bg-orange-500', 'bg-pink-500'];
-                const color = colors[artist.charCodeAt(0) % colors.length];
-
-                card.innerHTML = `
-                    <div class="w-16 h-16 rounded-full ${color} text-white flex items-center justify-center text-2xl font-bold shadow-inner mb-4 group-hover:scale-110 transition-transform">
-                        ${artist.charAt(0).toUpperCase()}
-                    </div>
-                    <h3 class="font-bold text-gray-900 dark:text-white truncate w-full" title="${artist}">${artist}</h3>
-                    <p class="text-xs text-gray-500 mt-1">${packCount} Packs • ${count} Icons</p>
-                `;
-                artistsGrid.appendChild(card);
-            });
-        }
-
-        function renderPacks() {
-            updateBreadcrumbs();
-            hideAllViews();
-            packsGrid.classList.remove('hidden');
-            packsGrid.innerHTML = '';
-
-            const packs = groupedData[currentState.artist];
-            
-            Object.keys(packs).sort().forEach(packName => {
-                const icons = packs[packName];
-                const count = icons.length;
-                
-                // Get 3 preview icons (prefer images over raw files)
-                const previews = icons.filter(i => i.format === 'PNG' || i.format === 'Vector').slice(0, 3);
-                
-                let previewsHtml = `<div class="flex-1 flex items-center justify-center bg-gray-50 dark:bg-dark-900 text-gray-400"><i class="fa-solid fa-folder-open text-4xl"></i></div>`;
-                
-                if (previews.length > 0) {
-                    previewsHtml = `<div class="flex items-center justify-center h-32 p-4 bg-checker gap-4">
-                        ${previews.map(p => `<img src="${p.fullUrl}" class="w-1/3 max-h-20 object-contain drop-shadow-sm transition hover:scale-110" loading="lazy">`).join('')}
-                    </div>`;
-                }
-
-                const card = document.createElement('div');
-                card.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl overflow-hidden cursor-pointer hover:shadow-xl hover:-translate-y-1 transition group flex flex-col";
-                card.onclick = () => openPack(packName);
-                
-                card.innerHTML = `
-                    ${previewsHtml}
-                    <div class="border-t border-gray-100 dark:border-dark-700 p-4 flex justify-between items-center bg-white dark:bg-dark-800">
-                        <span class="text-blue-600 dark:text-blue-400 font-semibold text-sm truncate pr-2 group-hover:underline">${packName}</span>
-                        <span class="text-gray-400 font-bold text-[10px] tracking-wider whitespace-nowrap bg-gray-100 dark:bg-dark-700 px-2 py-1 rounded">${count} ICONS</span>
-                    </div>
-                `;
-                packsGrid.appendChild(card);
-            });
-        }
-
-        function renderIconsList(sourceList) {
-            updateBreadcrumbs();
-            hideAllViews();
-            iconsGrid.classList.remove('hidden');
-            document.getElementById('noResults').classList.add('hidden');
-            
-            // Apply Format and Size Filters
-            activeIconList = sourceList.filter(icon => {
-                if (currentState.format !== 'all' && icon.format !== currentState.format) return false;
-                if (currentState.size !== 'all' && icon.size !== currentState.size) return false;
-                return true;
-            });
-
-            if (activeIconList.length === 0) {
-                document.getElementById('noResults').classList.remove('hidden');
-                iconsGrid.innerHTML = '';
-                return;
-            }
-
-            currentRenderLimit = 100;
-            iconsGrid.innerHTML = '';
-            document.getElementById('scrollContainer').scrollTop = 0;
-            renderIconChunk();
-        }
-
-        // PERFECT ICON CARD RENDERER (Matches Screenshot 1 & 2)
-        function renderIconChunk() {
-            const chunk = activeIconList.slice(iconsGrid.children.length, currentRenderLimit);
-            const showDetails = currentState.showDetails;
-
-            chunk.forEach(icon => {
-                const isImage = ['PNG', 'Vector'].includes(icon.format);
-                
-                const card = document.createElement('div');
-                // Base layout: white border, rounded, checkerboard inside
-                card.className = "icon-card relative group flex flex-col bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition cursor-pointer";
-                
-                card.innerHTML = `
-                    <!-- Image Area (Checkerboard) -->
-                    <div class="flex-1 bg-checker p-6 flex items-center justify-center min-h-[120px]">
-                        ${isImage ? 
-                            `<img src="${icon.fullUrl}" class="max-w-full max-h-full object-contain transition-transform group-hover:scale-105 drop-shadow-sm" loading="lazy">` : 
-                            `<i class="fa-solid fa-file text-4xl text-gray-400"></i>`
-                        }
-                    </div>
-                    
-                    <!-- Optional Details Bar -->
-                    <div class="details-text text-center border-t border-gray-100 dark:border-dark-700 px-2 py-2 bg-white dark:bg-dark-800 ${showDetails ? '' : 'hidden'}">
-                        <p class="text-[11px] font-medium text-gray-600 dark:text-gray-300 truncate" title="${icon.name}">${icon.name}</p>
-                        <p class="text-[9px] font-bold text-gray-400 mt-0.5 uppercase">${icon.format} ${icon.size !== 'Vector' ? '• ' + icon.size : ''}</p>
-                    </div>
-
-                    <!-- HOVER OVERLAY (Matches Screenshot 1 EXACTLY) -->
-                    <div class="overlay absolute inset-0 bg-gray-500/40 dark:bg-black/60 pointer-events-none flex flex-col justify-between">
-                        
-                        <!-- Top Right Actions -->
-                        <div class="absolute top-2 right-2 flex gap-1.5 pointer-events-auto">
-                            <button onclick="copyUrl('${icon.fullUrl}')" class="w-8 h-8 rounded-full bg-gray-800/80 text-white hover:bg-gray-900 flex items-center justify-center backdrop-blur-sm transition shadow" title="Copy URL">
-                                <i class="fa-regular fa-copy text-sm"></i>
-                            </button>
-                            <button onclick="downloadIcon('${icon.fullUrl}', '${icon.name}')" class="w-8 h-8 rounded-full bg-gray-800/80 text-white hover:bg-gray-900 flex items-center justify-center backdrop-blur-sm transition shadow" title="Download">
-                                <i class="fa-solid fa-download text-sm"></i>
-                            </button>
-                        </div>
-                        
-                        <!-- Bottom Center Action -->
-                        <div class="absolute bottom-3 left-1/2 -translate-x-1/2 pointer-events-auto">
-                            <button onclick="window.open('${icon.fullUrl}', '_blank')" class="bg-white text-gray-900 px-4 py-1.5 rounded-full text-xs font-bold shadow-lg hover:bg-gray-100 transition flex items-center gap-2 border border-gray-200">
-                                Utiliser <i class="fa-solid fa-chevron-down text-[10px]"></i>
-                            </button>
-                        </div>
-                    </div>
-                `;
-                iconsGrid.appendChild(card);
-            });
-        }
-
-        // --- FILTERS & INTERACTIVITY ---
-
-        function hideAllViews() {
-            artistsGrid.classList.add('hidden');
-            packsGrid.classList.add('hidden');
-            iconsGrid.classList.add('hidden');
-        }
-
-        function toggleSidebar() {
-            sidebar.classList.toggle('-translate-x-full');
-            document.getElementById('sidebarOverlay').classList.toggle('hidden');
-        }
-
-        // Global Search
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase().trim();
-            if (!query) {
-                if (currentState.view === 'search') goHome();
-                return;
-            }
-            
-            currentState.view = 'search';
-            sizeFilterContainer.classList.add('hidden');
-            
-            const results = allIcons.filter(icon => 
-                `${icon.name} ${icon.set} ${icon.artist}`.toLowerCase().includes(query)
-            );
-            
-            renderIconsList(results);
-        });
-
-        // Toggle Text Details
-        toggleDetails.addEventListener('change', (e) => {
-            currentState.showDetails = e.target.checked;
-            document.querySelectorAll('.details-text').forEach(el => {
-                if(currentState.showDetails) el.classList.remove('hidden');
-                else el.classList.add('hidden');
-            });
-        });
-
-        // Format Filters UI
-        document.querySelectorAll('#formatFilters .filter-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                document.querySelectorAll('#formatFilters .filter-btn').forEach(b => {
-                    b.classList.remove('bg-blue-600', 'text-white');
-                    b.classList.add('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
+                displayList = sourceList.filter(i => {
+                    const matchQ = `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query);
+                    const matchF = activeFormatFilter === 'All' || i.exactFormat === activeFormatFilter;
+                    return matchQ && matchF;
                 });
-                e.target.classList.remove('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
-                e.target.classList.add('bg-blue-600', 'text-white');
-                
-                currentState.format = e.target.getAttribute('data-filter');
-                if(currentState.view === 'icons' || currentState.view === 'search') {
-                    renderIconsList(currentState.view === 'search' ? activeIconList : groupedData[currentState.artist][currentState.pack]);
-                }
-            });
-        });
+            }
 
-        // Dynamic Size Filters
-        function renderSizeFilters() {
-            if (availableSizes.size === 0) {
-                sizeFilterContainer.classList.add('hidden');
+            mainGrid.innerHTML = '';
+            renderChunk();
+        }
+
+        searchInput.addEventListener('input', filterAndRender);
+
+        // --- FORMAT FILTER BUILDER ---
+        function buildFormatFilters() {
+            let sourceList = currentView === 'icons' ? groupedData[navState.artist][navState.pack] : allIcons;
+            // Get unique exact formats (e.g. Vector, PNG-48px)
+            const formats = [...new Set(sourceList.map(i => i.exactFormat))].sort();
+            
+            let html = `<button onclick="setFormat('All')" class="px-3 py-1 rounded-full text-xs font-semibold border transition ${activeFormatFilter === 'All' ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-gray-600 border-gray-300 hover:bg-gray-100'}">All</button>`;
+            
+            formats.forEach(f => {
+                const isActive = activeFormatFilter === f;
+                const css = isActive ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-gray-600 border-gray-300 hover:bg-gray-100';
+                // Make name pretty (PNG-48px -> PNG (48px))
+                const displayName = f.replace('-', ' (') + (f.includes('-') ? ')' : '');
+                html += `<button onclick="setFormat('${f}')" class="px-3 py-1 rounded-full text-xs font-semibold border transition ${css}">${displayName}</button>`;
+            });
+            
+            formatButtonsContainer.innerHTML = html;
+        }
+
+        function setFormat(f) {
+            activeFormatFilter = f;
+            buildFormatFilters();
+            filterAndRender();
+        }
+
+        // --- RENDERING ENGINE ---
+        function renderChunk() {
+            const chunk = displayList.slice(mainGrid.children.length, renderLimit);
+            
+            if(chunk.length === 0 && mainGrid.children.length === 0) {
+                mainGrid.innerHTML = `<div class="col-span-full text-center py-20 text-gray-400 font-bold text-xl"><i class="fa-regular fa-face-frown text-4xl block mb-4"></i> No items found.</div>`;
                 return;
             }
-            sizeFilterContainer.classList.remove('hidden');
-            
-            const sizes = Array.from(availableSizes).sort((a, b) => parseInt(a) - parseInt(b));
-            let html = `<button class="size-btn active px-3 py-1.5 rounded-lg text-sm font-medium bg-blue-600 text-white shadow" data-size="all">All Sizes</button>`;
-            
-            sizes.forEach(size => {
-                html += `<button class="size-btn px-3 py-1.5 rounded-lg text-sm font-medium bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 border border-gray-200 dark:border-dark-600" data-size="${size}">${size}</button>`;
-            });
-            sizeFilters.innerHTML = html;
 
-            document.querySelectorAll('.size-btn').forEach(btn => {
-                btn.addEventListener('click', (e) => {
-                    document.querySelectorAll('.size-btn').forEach(b => {
-                        b.classList.remove('bg-blue-600', 'text-white');
-                        b.classList.add('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
-                    });
-                    e.target.classList.remove('bg-gray-100', 'text-gray-600', 'dark:bg-dark-700', 'dark:text-gray-300');
-                    e.target.classList.add('bg-blue-600', 'text-white');
-                    
-                    currentState.size = e.target.getAttribute('data-size');
-                    renderIconsList(groupedData[currentState.artist][currentState.pack]);
-                });
+            chunk.forEach(item => {
+                if (currentView === 'designers') mainGrid.appendChild(createDesignerCard(item));
+                else if (currentView === 'packs') mainGrid.appendChild(createPackCard(item));
+                else mainGrid.appendChild(createIconCard(item));
             });
+
+            isFetching = false;
+        }
+
+        // Card Renderers
+        function createDesignerCard(artistName) {
+            const packs = Object.keys(groupedData[artistName]);
+            const totalIcons = packs.reduce((acc, p) => acc + groupedData[artistName][p].length, 0);
+            
+            const div = document.createElement('div');
+            div.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-2xl p-6 hover:shadow-xl transition cursor-pointer group flex flex-col items-center text-center gap-3";
+            div.onclick = () => navigate('packs', artistName);
+            div.innerHTML = `
+                <div class="w-16 h-16 bg-blue-50 dark:bg-blue-900/30 rounded-full flex items-center justify-center group-hover:scale-110 transition">
+                    <i class="fa-solid fa-user-pen text-2xl text-blue-500"></i>
+                </div>
+                <div>
+                    <h3 class="font-bold text-lg text-gray-900 dark:text-white truncate w-full">${artistName}</h3>
+                    <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${packs.length} Packs • ${totalIcons} Icons</p>
+                </div>
+            `;
+            return div;
+        }
+
+        function createPackCard(packName) {
+            const icons = groupedData[navState.artist][packName];
+            const previews = icons.filter(i => ['Vector','PNG'].includes(i.format)).slice(0, 4); // Get up to 4 images
+            
+            let previewHtml = '';
+            previews.forEach(p => {
+                previewHtml += `<img src="${CDN_BASE}${p.path}" class="w-12 h-12 object-contain drop-shadow-sm" loading="lazy">`;
+            });
+            if(previews.length === 0) previewHtml = `<i class="fa-solid fa-folder-open text-4xl text-gray-300"></i>`;
+
+            const div = document.createElement('div');
+            div.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl hover:shadow-xl transition cursor-pointer group overflow-hidden flex flex-col";
+            div.onclick = () => navigate('icons', navState.artist, packName);
+            
+            // EXACTLY matches screenshot 3
+            div.innerHTML = `
+                <div class="h-32 bg-gray-50 dark:bg-dark-900 border-b border-gray-100 dark:border-dark-700 flex items-center justify-center gap-4 p-4">
+                    ${previewHtml}
+                </div>
+                <div class="p-4 flex justify-between items-center bg-white dark:bg-dark-800">
+                    <h3 class="font-semibold text-gray-800 dark:text-white truncate w-2/3">${packName}</h3>
+                    <span class="text-[10px] font-bold uppercase text-gray-400 bg-gray-100 dark:bg-dark-700 px-2 py-1 rounded">${icons.length} ICONS</span>
+                </div>
+            `;
+            return div;
+        }
+
+        function createIconCard(icon) {
+            const fullUrl = CDN_BASE + icon.path;
+            const isImg = ['Vector', 'PNG'].includes(icon.format);
+            const preview = isImg ? `<img src="${fullUrl}" class="w-full h-full object-contain transition-transform duration-300 group-hover:scale-110" loading="lazy">` 
+                                  : `<i class="fa-solid fa-file text-4xl text-gray-300"></i>`;
+
+            const div = document.createElement('div');
+            
+            // EXACTLY matches Screenshot 1 & 2 logic
+            if (!showDetails) {
+                // Checkered BG, No text, Hover dark overlay with Action Buttons top centered
+                div.className = "icon-card bg-checker border border-gray-200 dark:border-dark-700 rounded-2xl relative aspect-square group overflow-hidden shadow-sm";
+                div.innerHTML = `
+                    <div class="absolute inset-4 flex items-center justify-center">${preview}</div>
+                    
+                    <!-- Screenshot 1 Hover Overlay -->
+                    <div class="overlay absolute inset-0 bg-black/40 backdrop-blur-[2px] flex flex-col justify-between p-3">
+                        <div class="flex justify-center gap-2 mt-1">
+                            <button onclick="window.open('${fullUrl}', '_blank')" class="action-btn w-9 h-9 rounded-full bg-gray-600 text-white flex items-center justify-center hover:bg-gray-900 shadow-md" title="View"><i class="fa-solid fa-magnifying-glass-plus text-sm"></i></button>
+                            <button onclick="copyUrl('${fullUrl}')" class="action-btn w-9 h-9 rounded-full bg-gray-600 text-white flex items-center justify-center hover:bg-gray-900 shadow-md" title="Copy URL"><i class="fa-regular fa-copy text-sm"></i></button>
+                            <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="action-btn w-9 h-9 rounded-full bg-gray-600 text-white flex items-center justify-center hover:bg-gray-900 shadow-md" title="Download"><i class="fa-solid fa-download text-sm"></i></button>
+                        </div>
+                        <button class="w-full bg-white text-gray-900 font-bold text-xs py-2 rounded-xl shadow mt-auto hover:bg-gray-100 transition">Utiliser</button>
+                    </div>
+                `;
+            } else {
+                // Showing Details (Text under icon)
+                div.className = "icon-card bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl p-4 relative flex flex-col items-center shadow-sm group overflow-hidden";
+                div.innerHTML = `
+                    <div class="w-16 h-16 mb-3 bg-checker rounded-lg flex items-center justify-center relative">
+                        <div class="absolute inset-1 flex items-center justify-center">${preview}</div>
+                    </div>
+                    <p class="text-[11px] text-gray-800 dark:text-gray-200 font-medium truncate w-full text-center" title="${icon.name}">${icon.name}</p>
+                    <span class="text-[9px] bg-gray-100 dark:bg-dark-700 text-gray-500 mt-1 px-2 py-0.5 rounded font-bold">${icon.exactFormat}</span>
+                    
+                    <div class="overlay absolute inset-0 bg-white/90 dark:bg-dark-900/90 backdrop-blur-sm flex flex-col items-center justify-center gap-2">
+                        <button onclick="copyUrl('${fullUrl}')" class="w-10/12 py-1.5 bg-gray-800 text-white text-xs rounded-md shadow hover:scale-105 transition"><i class="fa-solid fa-link"></i> Copy URL</button>
+                        <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="w-10/12 py-1.5 bg-blue-600 text-white text-xs rounded-md shadow hover:scale-105 transition"><i class="fa-solid fa-download"></i> Download</button>
+                    </div>
+                `;
+            }
+            return div;
         }
 
         // Infinite Scroll
-        document.getElementById('scrollContainer').addEventListener('scroll', function() {
-            if (currentState.view !== 'icons' && currentState.view !== 'search') return;
-            if (currentRenderLimit >= activeIconList.length) return;
-            
-            if (this.scrollTop + this.clientHeight >= this.scrollHeight - 200) {
-                currentRenderLimit += 100;
-                renderIconChunk();
+        scrollContainer.addEventListener('scroll', () => {
+            if (isFetching || renderLimit >= displayList.length) return;
+            if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight - 100) {
+                isFetching = true;
+                renderLimit += 100;
+                renderChunk();
             }
         });
 
-        // --- UTILS (Copy & Download) ---
+        // --- UTILITIES ---
         function copyUrl(url) {
-            navigator.clipboard.writeText(url).then(() => showToast("URL Copied to clipboard!"));
+            navigator.clipboard.writeText(url).then(() => showToast("CDN URL Copied!"));
         }
 
         async function downloadIcon(url, filename) {
@@ -558,27 +475,19 @@
                 const blob = await response.blob();
                 const blobUrl = window.URL.createObjectURL(blob);
                 const a = document.createElement('a');
-                a.href = blobUrl;
-                a.download = filename;
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
+                a.href = blobUrl; a.download = filename;
+                document.body.appendChild(a); a.click(); document.body.removeChild(a);
                 window.URL.revokeObjectURL(blobUrl);
-            } catch (err) {
-                window.open(url, '_blank');
-            }
+            } catch (err) { window.open(url, '_blank'); }
         }
 
-        const toast = document.getElementById('toast');
-        let toastTimeoutId;
         function showToast(msg) {
+            const toast = document.getElementById('toast');
             document.getElementById('toastMsg').innerText = msg;
             toast.classList.remove('opacity-0', 'translate-y-4');
-            clearTimeout(toastTimeoutId);
-            toastTimeoutId = setTimeout(() => toast.classList.add('opacity-0', 'translate-y-4'), 2500);
+            setTimeout(() => toast.classList.add('opacity-0', 'translate-y-4'), 2000);
         }
 
-        // Boot
         init();
     </script>
 </body>
