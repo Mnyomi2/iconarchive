@@ -29,6 +29,7 @@ jobs:
 
       - name: 🚀 Run Icon Scraper (Vector Only)
         run: python3 iconarchive_perfect_selective.py vector
+        run: ls
 
       - name: 📤 Commit and Push changes
         run: |
