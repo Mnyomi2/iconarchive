@@ -1,3 +1,6 @@
+
+cat > iconarchive_perfect_selective.py << 'EOF'
+
 import os
 import sys
 import re
@@ -11,8 +14,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 BASE = "https://www.iconarchive.com"
-ROOT_DIR = "iconarchive"
-DESIGNER_DIR = os.path.join(ROOT_DIR, "Designer")
+ROOT_DIR = "Designer"
+DESIGNER_DIR = "Designer"
 
 # --- THREAD-SAFE BROWSER SESSIONS ---
 thread_local = threading.local()
@@ -216,7 +219,7 @@ def build_index():
     data = []
     
     valid_extensions = {'.svg', '.png', '.ico', '.icns'}
-    base_dir = ROOT_DIR 
+    base_dir = "." 
     
     if not os.path.exists(base_dir):
         print(f"⚠️ Directory {base_dir} does not exist yet. Skipping index build.")
