@@ -1,27 +1,20 @@
-jobs:
-  name: Download Vector Icons
+name: Auto Download Icons
 
 on:
-  workflow_dispatch:
-
-  # Runs every Sunday at 00:00 UTC
-  schedule:
-    - cron: "0 0 * * 0"
+  workflow_dispatch: # 1. Allows you to run it manually from the "Actions" tab!
+  push:
+    paths:
+      - 'Designer.txt' # 2. Auto-runs if you add a new artist to Designer.txt
 
 permissions:
-  contents: write
-
-concurrency:
-  group: vector-icons-download
-  cancel-in-progress: false
+  contents: write # Crucial: Allows the bot to upload files back to the repo
 
 jobs:
-  update-icons:
+  download-and-upload:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
 
     steps:
-      - name: 📥 Checkout repository
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -29,51 +22,32 @@ jobs:
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
-          cache: "pip"
+          python-version: '3.11'
 
-      - name: 📦 Install requirements
-        shell: bash
+      - name: 📦 Install Dependencies
         run: |
-          set -euxo pipefail
-
           python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml tqdm
 
-          pip install \
-            requests \
-            beautifulsoup4 \
-            lxml \
-            tqdm
-
-      - name: 🚀 Run vector icon scraper
-        shell: bash
+      - name: 🚀 Run Scraper (Vector + Update)
         run: |
-          set -euxo pipefail
+          # We use "update vector" so it checks existing folders for newly released icons
+          python3 iconarchive_perfect_selective.py update vector
 
-          python3 iconarchive_perfect_selective.py vector
-
-          echo "📂 Generated files:"
-          ls -lah
-
-      - name: 📤 Commit and push changes
-        shell: bash
+      - name: 📤 Auto Commit and Push back to GitHub
         run: |
-          set -euxo pipefail
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # Add files if they exist
-          git add -A
-
-          # Check for changes
-          if git diff --cached --quiet; then
-            echo "✅ No new changes to commit."
-            exit 0
-          fi
-
-          git commit -m "🚀 Auto-update vector icons"
-
-          git push
+          # Set up the GitHub Actions Bot identity
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          echo "✅ Successfully pushed updates!"
+          # Add the newly downloaded files and the updated master_index.json
+          git add iconarchive/ master_index.json Designer.txt
+          
+          # Check if there are actually any new files downloaded
+          if git diff --staged --quiet; then
+            echo "✅ No new icons were downloaded. Everything is up to date."
+          else
+            echo "🚀 New icons found! Committing to the repository..."
+            git commit -m "🤖 Auto-downloaded missing vector icons & updated index"
+            git push origin HEAD:${GITHUB_REF}
+          fi
