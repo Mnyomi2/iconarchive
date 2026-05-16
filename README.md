@@ -106,9 +106,7 @@ The script will automatically create a root folder called `iconarchive` and orga
  ├── 📄 Designer.txt                        <-- List of artists to download
  ├── 📄 master_index.json                   <-- Re-built automatically at the end!
  │
- └── 📂 iconarchive/
-      │
-      └── 📂 Designer/
+ └── └── 📂 Designer/
            │
            ├── 📂 Papirus-Team/             <-- Artist Name
            │    │
