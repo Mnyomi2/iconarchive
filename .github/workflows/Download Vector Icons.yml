@@ -1,10 +1,7 @@
-name: Auto Download Icons
+name: Download Vector Icons
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'Designer.txt'
 
 permissions:
   contents: write
