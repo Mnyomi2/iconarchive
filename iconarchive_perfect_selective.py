@@ -1,4 +1,3 @@
-
 import os
 import sys
 import re
@@ -13,6 +12,7 @@ from tqdm import tqdm
 
 BASE = "https://www.iconarchive.com"
 ROOT_DIR = "iconarchive"
+DESIGNER_DIR = os.path.join(ROOT_DIR, "Designer")
 
 # --- THREAD-SAFE BROWSER SESSIONS ---
 thread_local = threading.local()
@@ -20,7 +20,6 @@ thread_local = threading.local()
 def get_session():
     if not hasattr(thread_local, "session"):
         s = requests.Session()
-        # Increased pool size to allow more simultaneous downloads
         adapter = requests.adapters.HTTPAdapter(max_retries=3, pool_connections=8, pool_maxsize=8)
         s.mount("http://", adapter)
         s.mount("https://", adapter)
@@ -216,11 +215,8 @@ def build_index():
     print(f"\n{'='*60}\n🔍 Scanning folders to build master index...\n{'='*60}")
     data = []
     
-    # Valid file extensions to include in the website
     valid_extensions = {'.svg', '.png', '.ico', '.icns'}
-    
-    # Point directly at the ROOT_DIR (iconarchive folder)
-    base_dir = ROOT_DIR
+    base_dir = ROOT_DIR 
     
     if not os.path.exists(base_dir):
         print(f"⚠️ Directory {base_dir} does not exist yet. Skipping index build.")
@@ -228,23 +224,18 @@ def build_index():
 
     for root, dirs, files in os.walk(base_dir):
         for file in files:
-            # Skip hidden files, JSON files, HTML files, and scripts
             if file.startswith('.') or file.endswith('.json') or file.endswith('.html') or file.endswith('.py'):
                 continue
                 
-            # Check if it's a valid image/icon file
             ext = os.path.splitext(file)[1].lower()
             if ext not in valid_extensions:
                 continue
                 
-            # Get the relative path from the iconarchive folder
-            # e.g. "Papirus-Team/Papirus-Apps-Icons/Vector/0ad.svg"
+            # Path will now look like: Designer/Papirus-Team/Papirus-Apps/Vector/0ad.svg
             rel_path = os.path.relpath(os.path.join(root, file), base_dir)
-            
-            # Split the path to figure out Artist, Set, and Format
             parts = rel_path.replace('\\', '/').split('/')
             
-            # We expect at least: Artist / Set / Format / File.ext
+            # Count backwards safely finds Artist, Set, Format regardless of nested root folders
             if len(parts) >= 4:
                 artist = parts[-4]
                 icon_set = parts[-3]
@@ -258,10 +249,8 @@ def build_index():
                     "path": "/".join(parts) # Web safe path
                 })
 
-    # Sort alphabetically by Artist -> Set -> Name
     data = sorted(data, key=lambda x: (x['artist'], x['set'], x['name']))
 
-    # Save to master_index.json in the current working directory
     output_file = 'master_index.json'
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
@@ -270,14 +259,14 @@ def build_index():
     print(f"📁 Saved to {output_file}")
 
 
-# ---------- Entry Point (CLI logic) ----------
+# ---------- Entry Point ----------
 def main():
-    os.makedirs(ROOT_DIR, exist_ok=True)
+    # Make sure ROOT_DIR and DESIGNER_DIR both exist
+    os.makedirs(DESIGNER_DIR, exist_ok=True)
     
     args = sys.argv[1:]
     args_lower = [a.lower() for a in args]
 
-    # Map CLI strings to actual Category names
     category_map = {
         "vector": "Vector",
         "png": "PNG",
@@ -288,24 +277,19 @@ def main():
     
     selected_categories = [category_map[a] for a in args_lower if a in category_map]
     
-    # If no specific categories chosen, default to ALL
     if not selected_categories:
         selected_categories = list(category_map.values())
 
-    # Check for force / update flags
     force_update = "update" in args_lower or "force" in args_lower
 
-    # Any word not recognized as a command is treated as a specific artist
     reserved_words = ["all", "update", "force"] + list(category_map.keys())
     specific_artists = [a for a in args if a.lower() not in reserved_words]
 
     artists_to_process = []
     
     if specific_artists:
-        # User specified an artist directly via CLI
         artists_to_process = specific_artists
     else:
-        # Read from Designer.txt
         if not os.path.exists("Designer.txt"):
             print("❌ Designer.txt not found! Creating a template for you...")
             with open("Designer.txt", "w") as f:
@@ -323,17 +307,15 @@ def main():
     print(f"✅ Categories to download: {', '.join(selected_categories)}")
     print(f"✅ Update/Force Mode: {'ON' if force_update else 'OFF'}")
 
-    # Process each Artist
     for artist_name in artists_to_process:
         artist_url = f"https://www.iconarchive.com/artist/{artist_name}.html"
         
-        # Determine the local folder name
         artist_dir_name = "-".join(word.capitalize() for word in artist_name.split("-"))
-        artist_dir = os.path.join(ROOT_DIR, artist_dir_name)
+        # Save inside iconarchive/Designer/
+        artist_dir = os.path.join(DESIGNER_DIR, artist_dir_name)
         
         print(f"\n{'='*60}\n👨‍🎨 Processing Artist: {artist_name}\n{'='*60}")
         
-        # --- SKIP LOGIC ---
         if os.path.exists(artist_dir) and not force_update:
             if any(os.scandir(artist_dir)):
                 print(f"⏩ Skipping '{artist_dir_name}' (Already exists).")
@@ -355,11 +337,10 @@ def main():
         for set_name, set_url in sets:
             process_set(artist_dir, set_name, set_url, selected_categories)
 
-    # Automatically build the master index at the very end
     build_index()
-
     print("\n🎉 ALL FINISHED PERFECTLY!")
 
 if __name__ == "__main__":
     main()
 
+EOF
