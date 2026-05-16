@@ -100,17 +100,44 @@ python iconarchive_perfect_selective.py papirus-team update vector png
 The script will automatically create a root folder called `iconarchive` and organize files like this:
 
 ```text
-iconarchive/
-└── Papirus-Team/
-    ├── Papirus-Apps/
-    │   ├── Vector/
-    │   │   ├── icon1.svg
-    │   │   ├── icon2.svg
-    │   │   └── Vector.json    <-- Tracks downloaded files
-    │   ├── PNG/
-    │   │   ├── icon1.png
-    │   │   └── PNG.json
-    ├── Papirus-Places/
+📂 (Your Current Working Directory)
+ │
+ ├── 📄 iconarchive_perfect_selective.py    <-- The main Python script
+ ├── 📄 Designer.txt                        <-- List of artists to download
+ ├── 📄 master_index.json                   <-- Re-built automatically at the end!
+ │
+ └── 📂 iconarchive/
+      │
+      └── 📂 Designer/
+           │
+           ├── 📂 Papirus-Team/             <-- Artist Name
+           │    │
+           │    ├── 📂 Papirus-Apps/        <-- Set Name
+           │    │    │
+           │    │    ├── 📂 Vector/         <-- Format Category
+           │    │    │    ├── 0ad.svg
+           │    │    │    ├── amazon.svg
+           │    │    │    └── ... (all vector icons)
+           │    │    │
+           │    │    ├── 📂 PNG/            <-- Format Category
+           │    │    │    ├── 0ad.png
+           │    │    │    ├── amazon.png
+           │    │    │    └── ... (all png icons)
+           │    │    │
+           │    │    ├── 📄 Vector.json     <-- Tracks downloaded Vector files
+           │    │    └── 📄 PNG.json        <-- Tracks downloaded PNG files
+           │    │
+           │    └── 📂 Papirus-Places/      <-- Another Set
+           │         ├── 📂 Vector/
+           │         │    └── ...
+           │         └── 📄 Vector.json
+           │
+           └── 📂 Justicon/                 <-- Another Artist
+                │
+                └── 📂 Medical-Icons/
+                     ├── 📂 PNG/
+                     │    └── ...
+                     └── 📄 PNG.json
     ...
 ```
 
