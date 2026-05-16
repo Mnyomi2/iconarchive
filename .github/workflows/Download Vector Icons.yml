@@ -1,0 +1,56 @@
+name: Download Vector Icons
+
+on:
+  workflow_dispatch: # 🟢 Allows you to run this manually from the Actions tab
+  schedule:
+    - cron: '0 0 * * 0' # ⏰ Optional: Runs automatically every Sunday at midnight (UTC)
+
+permissions:
+  contents: write # 🔑 Required so the bot can upload files back to your repo
+
+jobs:
+  update-icons:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install Requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml tqdm
+
+      - name: 📝 Ensure Designer.txt exists
+        run: |
+          if [ ! -f "Designer.txt" ]; then
+            echo "papirus-team" > Designer.txt
+            echo "justicon" >> Designer.txt
+            echo "gartoon-team" >> Designer.txt
+          fi
+
+      - name: 🚀 Run Icon Scraper (Vector Only)
+        run: python3 iconarchive_perfect_selective.py vector
+
+      - name: 📤 Commit and Push changes
+        run: |
+          # Set up the GitHub Actions bot git user
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the generated folders and files
+          git add iconarchive/ master_index.json Designer.txt
+          
+          # Check if there are actually any new files downloaded
+          if git diff-index --quiet HEAD --; then
+            echo "✅ No new icons to commit. Everything is up to date!"
+          else
+            git commit -m "🚀 Auto-downloaded new vector icons and updated index"
+            git push
+            echo "✅ Successfully pushed new icons to the repository!"
+          fi
