@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,7 +26,7 @@
     <!-- Custom Styles -->
     <style>
         /* Smooth Scrollbar */
-        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: transparent; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
@@ -36,66 +36,88 @@
         .bg-checker {
             background-color: #ffffff;
             background-image: 
-                linear-gradient(45deg, #f8fafc 25%, transparent 25%, transparent 75%, #f8fafc 75%, #f8fafc),
-                linear-gradient(45deg, #f8fafc 25%, transparent 25%, transparent 75%, #f8fafc 75%, #f8fafc);
-            background-size: 16px 16px;
-            background-position: 0 0, 8px 8px;
+                linear-gradient(45deg, #f1f5f9 25%, transparent 25%, transparent 75%, #f1f5f9 75%, #f1f5f9),
+                linear-gradient(45deg, #f1f5f9 25%, transparent 25%, transparent 75%, #f1f5f9 75%, #f1f5f9);
+            background-size: 20px 20px;
+            background-position: 0 0, 10px 10px;
         }
         .dark .bg-checker {
-            background-color: #1e1e1e;
+            background-color: #1a1a1a;
             background-image: 
-                linear-gradient(45deg, #252525 25%, transparent 25%, transparent 75%, #252525 75%, #252525),
-                linear-gradient(45deg, #252525 25%, transparent 25%, transparent 75%, #252525 75%, #252525);
+                linear-gradient(45deg, #222222 25%, transparent 25%, transparent 75%, #222222 75%, #222222),
+                linear-gradient(45deg, #222222 25%, transparent 25%, transparent 75%, #222222 75%, #222222);
         }
 
-        /* Sidebar Dock Behavior */
-        #sidebar { width: 5rem; transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
-        #sidebar:hover { width: 16rem; }
+        /* VS Code Style Sidebar */
+        #sidebar { width: 4.5rem; transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        #sidebar.expanded { width: 16rem; }
         #sidebar .nav-text { opacity: 0; width: 0; overflow: hidden; transition: opacity 0.3s, width 0.3s; white-space: nowrap; }
-        #sidebar:hover .nav-text { opacity: 1; width: auto; margin-left: 1rem; }
+        #sidebar.expanded .nav-text { opacity: 1; width: auto; margin-left: 1rem; }
+        .dark ::-webkit-scrollbar-thumb { background: #475569; }
+        .dark ::-webkit-scrollbar-thumb:hover { background: #64748b; }
 
-        /* Icon Hover Animations (Matching Screenshot 1) */
-        .icon-card .overlay { opacity: 0; transition: opacity 0.2s ease-in-out; }
+        /* Sidebar Centering for Ubuntu Dock Style */
+        #sidebar:not(.expanded) .nav-btn,
+        #sidebar:not(.expanded) .sidebar-header,
+        #sidebar:not(.expanded) .sidebar-footer {
+            justify-content: center;
+        }
+        #sidebar.expanded .sidebar-header {
+            justify-content: flex-start;
+            padding: 0 1.25rem; /* Replicates original px-5 */
+        }
+        #sidebar.expanded .nav-btn {
+            justify-content: flex-start;
+        }
+        #sidebar.expanded .sidebar-footer {
+            justify-content: flex-end;
+        }
+
+        /* Modern Card Hover Animations */
+        .icon-card .overlay { opacity: 0; transition: opacity 0.3s ease-in-out; }
         .icon-card:hover .overlay { opacity: 1; }
-        .action-btn { transition: transform 0.1s, background-color 0.2s; }
-        .action-btn:hover { transform: scale(1.1); background-color: rgba(0,0,0,0.8); text-color: white;}
+        .icon-card .action-btn { transform: translateY(10px); transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.2s, color 0.2s; }
+        .icon-card:hover .action-btn { transform: translateY(0); }
         
         .toast { transition: opacity 0.3s, transform 0.3s; }
     </style>
 </head>
-<body class="bg-gray-100 dark:bg-dark-900 text-gray-900 dark:text-gray-100 h-screen flex overflow-hidden font-sans">
+<body class="bg-gray-50 dark:bg-dark-900 text-gray-900 dark:text-gray-100 h-screen flex overflow-hidden font-sans">
 
-    <!-- UBUNTU DOCK SIDEBAR -->
-    <aside id="sidebar" class="bg-white dark:bg-dark-800 border-r border-gray-200 dark:border-dark-700 flex flex-col z-50 h-full shadow-lg shrink-0 group">
+    <!-- VS CODE STYLE SIDEBAR -->
+    <aside id="sidebar" class="bg-white dark:bg-dark-800 flex flex-col z-50 h-full shadow-md shrink-0 relative">
         
         <!-- Logo -->
-        <div class="h-20 flex items-center px-5 border-b border-gray-200 dark:border-dark-700 w-full overflow-hidden shrink-0">
-            <div class="bg-blue-600 p-2.5 rounded-xl text-white shrink-0 shadow-md">
+        <div class="h-20 flex items-center border-b border-gray-200 dark:border-dark-700 w-full overflow-hidden shrink-0 sidebar-header">
+            <div class="bg-blue-600 p-2.5 rounded-lg text-white shrink-0 shadow-md">
                 <i class="fa-solid fa-shapes text-xl"></i>
             </div>
             <h1 class="nav-text text-xl font-bold tracking-tight">Icon<span class="text-blue-500 font-light">Gallery</span></h1>
         </div>
 
         <!-- Navigation -->
-        <nav class="flex-1 py-6 flex flex-col gap-2 px-3 overflow-x-hidden">
-            <button onclick="navigate('all')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left" id="nav-all">
-                <i class="fa-solid fa-border-all text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0"></i>
+        <nav class="flex-1 py-6 flex flex-col gap-3 px-3 overflow-x-hidden">
+            <button onclick="navigate('all')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left relative" id="nav-all">
+                <i class="fa-solid fa-border-all text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0 transition-colors"></i>
                 <span class="nav-text font-medium text-gray-700 dark:text-gray-300">All Icons</span>
             </button>
             
-            <button onclick="navigate('designers')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left" id="nav-designers">
-                <i class="fa-solid fa-user-pen text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0"></i>
+            <button onclick="navigate('designers')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left relative" id="nav-designers">
+                <i class="fa-solid fa-user-pen text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0 transition-colors"></i>
                 <span class="nav-text font-medium text-gray-700 dark:text-gray-300">Designers & Artists</span>
+            </button>
+            
+            <button onclick="navigate('iconpacks')" class="nav-btn flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition group/btn w-full text-left relative" id="nav-iconpacks">
+                <i class="fa-solid fa-box-archive text-xl w-6 text-center text-gray-500 group-hover/btn:text-blue-600 shrink-0 transition-colors"></i>
+                <span class="nav-text font-medium text-gray-700 dark:text-gray-300">Icon Packs</span>
             </button>
         </nav>
 
         <!-- Bottom Controls -->
-        <div class="p-3 border-t border-gray-200 dark:border-dark-700 flex flex-col gap-2">
-            <button id="themeToggle" class="flex items-center p-3 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition w-full text-left group/btn">
-                <i class="fa-solid fa-moon text-xl w-6 text-center text-gray-500 dark:text-yellow-400 shrink-0 block dark:hidden"></i>
-                <i class="fa-solid fa-sun text-xl w-6 text-center text-gray-500 dark:text-yellow-400 shrink-0 hidden dark:block"></i>
-                <span class="nav-text font-medium text-gray-700 dark:text-gray-300 dark:hidden">Dark Mode</span>
-                <span class="nav-text font-medium text-gray-700 dark:text-gray-300 hidden dark:block">Light Mode</span>
+        <div class="p-2 border-t border-gray-200 dark:border-dark-700 flex sidebar-footer">
+            <!-- Expand/Collapse Toggle -->
+            <button id="sidebarToggle" class="flex items-center justify-center w-12 h-12 rounded-xl hover:bg-gray-100 dark:hover:bg-dark-700 transition" title="Toggle Sidebar">
+                <i id="sidebarToggleIcon" class="fa-solid fa-chevron-right text-xl text-gray-500 transition-transform"></i>
             </button>
         </div>
     </aside>
@@ -104,36 +126,44 @@
     <main class="flex-1 flex flex-col min-w-0 bg-gray-50 dark:bg-dark-900 relative">
         
         <!-- Header Controls -->
-        <header class="px-6 py-4 border-b border-gray-200 dark:border-dark-700 bg-white dark:bg-dark-800 shrink-0 flex flex-col gap-4">
+        <header class="px-4 py-3 bg-white dark:bg-dark-800 shrink-0 flex flex-col gap-3 z-20">
             
-            <div class="flex items-center justify-between gap-4">
+            <div class="flex items-center justify-between gap-6">
                 <!-- Dynamic Breadcrumbs -->
-                <div id="breadcrumbs" class="text-sm font-semibold flex items-center gap-2 text-gray-500 dark:text-gray-400 overflow-x-auto no-scrollbar whitespace-nowrap">
+                <div id="breadcrumbs" class="text-sm font-semibold flex items-center gap-3 text-gray-500 dark:text-gray-400 overflow-x-auto no-scrollbar whitespace-nowrap">
                     <!-- Injected by JS -->
                 </div>
 
-                <!-- Global Search & Details Toggle -->
-                <div class="flex items-center gap-4 ml-auto">
-                    <!-- Details Toggle -->
-                    <label class="flex items-center gap-2 cursor-pointer bg-gray-100 dark:bg-dark-700 px-4 py-2 rounded-full border border-gray-200 dark:border-dark-600">
-                        <input type="checkbox" id="detailsToggle" class="sr-only peer">
-                        <div class="w-9 h-5 bg-gray-300 dark:bg-gray-600 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-blue-600 relative"></div>
-                        <span class="text-sm font-medium text-gray-700 dark:text-gray-300 whitespace-nowrap">Show Details</span>
-                    </label>
-
-                    <!-- Search -->
-                    <div class="relative w-64 hidden sm:block">
-                        <i class="fa-solid fa-magnifying-glass absolute left-3 top-2.5 text-gray-400"></i>
-                        <input type="text" id="searchInput" placeholder="Search..." 
-                            class="w-full bg-gray-100 dark:bg-dark-700 border-none rounded-full pl-10 pr-4 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-sm">
+                <div class="flex items-center gap-4 w-full max-w-md">
+                    <!-- Global Search -->
+                    <div class="relative w-full hidden sm:block">
+                        <i class="fa-solid fa-magnifying-glass absolute left-4 top-3.5 text-gray-400"></i>
+                        <input type="text" id="searchInput" placeholder="Search perfect icons..." 
+                            class="w-full bg-gray-100 dark:bg-dark-700 border border-transparent focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-11 pr-4 py-3 outline-none transition shadow-sm text-sm">
                     </div>
+                    
+                    <!-- Theme Toggle -->
+                    <button id="themeToggle" class="w-11 h-11 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-yellow-400 hover:bg-gray-200 dark:hover:bg-dark-600 transition shrink-0 shadow-sm">
+                        <i class="fa-solid fa-moon block dark:hidden text-lg"></i>
+                        <i class="fa-solid fa-sun hidden dark:block text-lg"></i>
+                    </button>
                 </div>
             </div>
 
-            <!-- Format & Size Filters (Only shows when viewing Icons) -->
-            <div id="advancedFilters" class="hidden flex flex-wrap gap-2 items-center bg-gray-50 dark:bg-dark-900 p-2 rounded-lg border border-gray-200 dark:border-dark-700">
-                <span class="text-xs font-bold text-gray-400 uppercase tracking-wider mr-2">Formats:</span>
+            <!-- Format & Size Filters -->
+            <div id="advancedFilters" class="hidden flex flex-wrap gap-3 items-center justify-between w-full">
                 <div id="formatButtonsContainer" class="flex flex-wrap gap-2"></div>
+                
+                <!-- Advanced Zoom Controls -->
+                <div class="flex items-center gap-1 bg-gray-100 dark:bg-dark-700 p-1 rounded-full ml-auto shrink-0">
+                    <button onclick="zoomGrid('out')" class="w-7 h-7 flex items-center justify-center rounded-full hover:bg-white dark:hover:bg-dark-800 transition text-gray-600 dark:text-gray-300" title="Make Icons Smaller">
+                        <i class="fa-solid fa-minus text-xs"></i>
+                    </button>
+                    <i class="fa-solid fa-image text-gray-400 text-sm px-1.5"></i>
+                    <button onclick="zoomGrid('in')" class="w-7 h-7 flex items-center justify-center rounded-full hover:bg-white dark:hover:bg-dark-800 transition text-gray-600 dark:text-gray-300" title="Make Icons Bigger">
+                        <i class="fa-solid fa-plus text-xs"></i>
+                    </button>
+                </div>
             </div>
             
         </header>
@@ -142,24 +172,34 @@
         <div id="scrollContainer" class="flex-1 overflow-y-auto p-6 relative">
             
             <div id="loading" class="absolute inset-0 flex flex-col items-center justify-center z-20">
-                <i class="fa-solid fa-circle-notch fa-spin text-4xl text-blue-500 mb-4"></i>
+                <i class="fa-solid fa-circle-notch fa-spin text-5xl text-blue-500 mb-4"></i>
             </div>
 
-            <!-- Dynamic Grid (Changes based on View State) -->
-            <div id="mainGrid" class="grid gap-6">
+            <!-- Dynamic Grid -->
+            <div id="mainGrid" class="grid gap-8">
                 <!-- Cards Injected Here -->
             </div>
             
-            <div id="scrollLoading" class="hidden text-center py-8">
-                <i class="fa-solid fa-ellipsis fa-bounce text-2xl text-gray-400"></i>
+            <div id="scrollLoading" class="hidden text-center py-10">
+                <i class="fa-solid fa-ellipsis fa-bounce text-3xl text-gray-400"></i>
             </div>
         </div>
     </main>
 
     <!-- Copy Toast -->
-    <div id="toast" class="fixed bottom-6 right-6 bg-gray-900 text-white px-6 py-3 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3">
-        <i class="fa-solid fa-circle-check text-green-400"></i>
-        <span id="toastMsg">Copied!</span>
+    <div id="toast" class="fixed bottom-8 right-8 bg-gray-900 dark:bg-white text-white dark:text-gray-900 font-medium px-6 py-4 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3">
+        <i class="fa-solid fa-circle-check text-green-400 dark:text-green-500 text-xl"></i>
+        <span id="toastMsg">URL Copied Successfully!</span>
+    </div>
+
+    <!-- View Modal (Frosted Glass) -->
+    <div id="viewModal" class="fixed inset-0 z-[100] hidden bg-black/60 backdrop-blur-md opacity-0 transition-opacity duration-300 items-center justify-center p-10">
+        <button onclick="closeModal()" class="absolute top-6 right-6 text-white hover:text-gray-300 text-4xl transition-transform hover:scale-110 z-[101]">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+        <div class="relative w-full h-full flex items-center justify-center" id="modalContent" onclick="event.stopPropagation()">
+            <!-- Image injected here -->
+        </div>
     </div>
 
     <script>
@@ -172,14 +212,14 @@
 
         // --- STATE MANAGEMENT ---
         let allIcons = [];
-        let groupedData = {}; // Structured: { Artist: { Pack: [icons...] } }
-        let currentView = 'all'; // 'all', 'designers', 'packs', 'icons'
+        let groupedData = {}; 
+        let currentView = 'all'; 
         let navState = { artist: null, pack: null };
-        let showDetails = false;
-        let activeFormatFilter = 'All'; // Specific format like 'Vector', 'PNG-48px'
+        let activeFormatFilter = 'All'; 
+        let currentZoomLevel = 3; // 1 (Tiny) to 5 (Huge) 
         
         let displayList = [];
-        let renderLimit = 100;
+        let renderLimit = 50; // Initial load smaller chunk for larger icons
         let isFetching = false;
 
         // DOM Elements
@@ -187,23 +227,36 @@
         const loading = document.getElementById('loading');
         const scrollContainer = document.getElementById('scrollContainer');
         const breadcrumbs = document.getElementById('breadcrumbs');
-        const detailsToggle = document.getElementById('detailsToggle');
         const searchInput = document.getElementById('searchInput');
         const advancedFilters = document.getElementById('advancedFilters');
         const formatButtonsContainer = document.getElementById('formatButtonsContainer');
 
-        // Theme Setup (Light by Default)
+        // --- THEME & SIDEBAR TOGGLES ---
         const html = document.documentElement;
-        if(localStorage.getItem('theme') === 'dark') html.classList.add('dark');
+        
+        // Default to dark if no preference is stored
+        if (localStorage.getItem('theme') === 'light') {
+            html.classList.remove('dark');
+        } else {
+            html.classList.add('dark');
+        }
+        
         document.getElementById('themeToggle').addEventListener('click', () => {
             html.classList.toggle('dark');
             localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
         });
 
-        // Toggle Details
-        detailsToggle.addEventListener('change', (e) => {
-            showDetails = e.target.checked;
-            renderView(); // Re-render current view
+        const sidebar = document.getElementById('sidebar');
+        const sidebarToggle = document.getElementById('sidebarToggle');
+        const sidebarToggleIcon = document.getElementById('sidebarToggleIcon');
+
+        sidebarToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('expanded');
+            if (sidebar.classList.contains('expanded')) {
+                sidebarToggleIcon.className = "fa-solid fa-chevron-left text-xl w-6 text-center text-gray-500 shrink-0 transition-transform";
+            } else {
+                sidebarToggleIcon.className = "fa-solid fa-chevron-right text-xl w-6 text-center text-gray-500 shrink-0 transition-transform";
+            }
         });
 
         // --- CORE INITIALIZATION ---
@@ -213,29 +266,22 @@
                 if (!res.ok) throw new Error("JSON Fetch Failed");
                 const rawData = await res.json();
                 
-                // Process and enhance data with specific sizes
+                // Process data and detect specific sizes
                 allIcons = rawData.map(icon => {
-                    // Extract size from filename if exists (e.g. name.48.png -> 48px)
                     const sizeMatch = icon.name.match(/\.((\d+x\d+)|\d+)\.(png|ico|icns)$/i);
                     const specificSize = sizeMatch ? sizeMatch[1] + 'px' : null;
-                    
-                    // e.g., 'PNG' -> 'PNG-48px' or just 'Vector'
                     const exactFormat = specificSize ? `${icon.format}-${specificSize}` : icon.format;
-
                     return { ...icon, specificSize, exactFormat };
                 });
 
                 buildGroupedData();
                 loading.classList.add('hidden');
-                
-                // Default to all icons
                 navigate('all');
             } catch (err) {
-                loading.innerHTML = `<p class="text-red-500">Failed to load index.json. Ensure python script was run.</p>`;
+                loading.innerHTML = `<p class="text-red-500 font-bold text-xl">Failed to load index.json.</p>`;
             }
         }
 
-        // Group flat data into Hierarchy
         function buildGroupedData() {
             groupedData = {};
             allIcons.forEach(icon => {
@@ -258,54 +304,75 @@
             if (view === 'icons' || view === 'all') {
                 buildFormatFilters();
                 advancedFilters.classList.remove('hidden');
-                // Adjust grid cols for icons
-                mainGrid.className = "grid gap-6 grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10";
+                applyZoom(); // Applies the zoom grid layout
             } else {
                 advancedFilters.classList.add('hidden');
-                // Adjust grid cols for larger cards
-                mainGrid.className = "grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4";
+                mainGrid.className = "grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4";
             }
 
             filterAndRender();
         }
 
         function updateBreadcrumbs() {
-            let html = `<button onclick="navigate('all')" class="hover:text-blue-500 transition"><i class="fa-solid fa-house"></i> Home</button>`;
+            let htmlText = `<button onclick="navigate('all')" class="hover:text-blue-600 dark:hover:text-blue-400 transition flex items-center gap-2"><i class="fa-solid fa-house"></i> Home</button>`;
             
             if (currentView === 'designers') {
-                html += ` <i class="fa-solid fa-chevron-right text-[10px]"></i> <span class="text-gray-800 dark:text-gray-200">Designers</span>`;
+                htmlText += ` <i class="fa-solid fa-chevron-right text-[10px] text-gray-300 dark:text-gray-600"></i> <span class="text-gray-900 dark:text-gray-100">Designers</span>`;
+            }
+            if (currentView === 'iconpacks') {
+                htmlText += ` <i class="fa-solid fa-chevron-right text-[10px] text-gray-300 dark:text-gray-600"></i> <span class="text-gray-900 dark:text-gray-100">Icon Packs</span>`;
             }
             if (navState.artist) {
-                html += ` <i class="fa-solid fa-chevron-right text-[10px]"></i> <button onclick="navigate('packs', '${navState.artist}')" class="hover:text-blue-500 transition">${navState.artist}</button>`;
+                htmlText += ` <i class="fa-solid fa-chevron-right text-[10px] text-gray-300 dark:text-gray-600"></i> <button onclick="navigate('packs', '${navState.artist}')" class="hover:text-blue-600 dark:hover:text-blue-400 transition">${navState.artist}</button>`;
             }
             if (navState.pack) {
-                html += ` <i class="fa-solid fa-chevron-right text-[10px]"></i> <span class="text-gray-800 dark:text-gray-200">${navState.pack}</span>`;
+                htmlText += ` <i class="fa-solid fa-chevron-right text-[10px] text-gray-300 dark:text-gray-600"></i> <span class="text-gray-900 dark:text-gray-100">${navState.pack}</span>`;
             }
-            breadcrumbs.innerHTML = html;
+            breadcrumbs.innerHTML = htmlText;
         }
 
         function updateSidebarHighlight() {
-            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('bg-blue-50', 'dark:bg-dark-700', 'text-blue-600'));
-            if(currentView === 'all') document.getElementById('nav-all').classList.add('bg-blue-50', 'dark:bg-dark-700', 'text-blue-600');
-            if(['designers', 'packs'].includes(currentView)) document.getElementById('nav-designers').classList.add('bg-blue-50', 'dark:bg-dark-700', 'text-blue-600');
+            document.querySelectorAll('.nav-btn').forEach(b => {
+                b.classList.remove('bg-blue-50', 'dark:bg-dark-700/50');
+                b.querySelector('i').classList.remove('text-blue-600');
+            });
+            if(currentView === 'all') {
+                document.getElementById('nav-all').classList.add('bg-blue-50', 'dark:bg-dark-700/50');
+                document.getElementById('nav-all').querySelector('i').classList.add('text-blue-600');
+            }
+            if(currentView === 'designers') {
+                document.getElementById('nav-designers').classList.add('bg-blue-50', 'dark:bg-dark-700/50');
+                document.getElementById('nav-designers').querySelector('i').classList.add('text-blue-600');
+            }
+            if(['iconpacks', 'packs'].includes(currentView)) {
+                document.getElementById('nav-iconpacks').classList.add('bg-blue-50', 'dark:bg-dark-700/50');
+                document.getElementById('nav-iconpacks').querySelector('i').classList.add('text-blue-600');
+            }
         }
 
         // --- FILTERING & DATA PREP ---
         function filterAndRender() {
             const query = searchInput.value.toLowerCase();
-            renderLimit = 100;
+            renderLimit = 50; 
             scrollContainer.scrollTop = 0;
 
             if (currentView === 'designers') {
                 displayList = Object.keys(groupedData).filter(a => a.toLowerCase().includes(query)).sort();
             } 
+            else if (currentView === 'iconpacks') {
+                displayList = [];
+                Object.entries(groupedData).forEach(([artist, packs]) => {
+                    Object.keys(packs).forEach(p => {
+                        if (p.toLowerCase().includes(query)) displayList.push({ artist, pack: p });
+                    });
+                });
+                displayList.sort((a, b) => a.pack.localeCompare(b.pack));
+            }
             else if (currentView === 'packs') {
                 displayList = Object.keys(groupedData[navState.artist]).filter(p => p.toLowerCase().includes(query)).sort();
             } 
             else {
-                // View: 'icons' or 'all'
                 let sourceList = currentView === 'icons' ? groupedData[navState.artist][navState.pack] : allIcons;
-                
                 displayList = sourceList.filter(i => {
                     const matchQ = `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query);
                     const matchF = activeFormatFilter === 'All' || i.exactFormat === activeFormatFilter;
@@ -322,20 +389,22 @@
         // --- FORMAT FILTER BUILDER ---
         function buildFormatFilters() {
             let sourceList = currentView === 'icons' ? groupedData[navState.artist][navState.pack] : allIcons;
-            // Get unique exact formats (e.g. Vector, PNG-48px)
             const formats = [...new Set(sourceList.map(i => i.exactFormat))].sort();
             
-            let html = `<button onclick="setFormat('All')" class="px-3 py-1 rounded-full text-xs font-semibold border transition ${activeFormatFilter === 'All' ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-gray-600 border-gray-300 hover:bg-gray-100'}">All</button>`;
+            // PERFECT COLORS: Clean Blue for active, subtle borders for inactive (no harsh white edges)
+            // SQUARER CORNERS: Changed to rounded-md
+            const activeCss = "bg-blue-600 text-white border-transparent shadow-md";
+            const inactiveCss = "bg-white dark:bg-dark-800 text-gray-500 dark:text-gray-400 border-gray-200 dark:border-dark-700 hover:border-blue-500/50 dark:hover:border-blue-500/50";
+            
+            let htmlText = `<button onclick="setFormat('All')" class="px-4 py-1.5 rounded-md text-sm font-bold border transition-all ${activeFormatFilter === 'All' ? activeCss : inactiveCss}">All Formats</button>`;
             
             formats.forEach(f => {
                 const isActive = activeFormatFilter === f;
-                const css = isActive ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-gray-600 border-gray-300 hover:bg-gray-100';
-                // Make name pretty (PNG-48px -> PNG (48px))
                 const displayName = f.replace('-', ' (') + (f.includes('-') ? ')' : '');
-                html += `<button onclick="setFormat('${f}')" class="px-3 py-1 rounded-full text-xs font-semibold border transition ${css}">${displayName}</button>`;
+                htmlText += `<button onclick="setFormat('${f}')" class="px-4 py-1.5 rounded-md text-sm font-bold border transition-all ${isActive ? activeCss : inactiveCss}">${displayName}</button>`;
             });
             
-            formatButtonsContainer.innerHTML = html;
+            formatButtonsContainer.innerHTML = htmlText;
         }
 
         function setFormat(f) {
@@ -349,61 +418,88 @@
             const chunk = displayList.slice(mainGrid.children.length, renderLimit);
             
             if(chunk.length === 0 && mainGrid.children.length === 0) {
-                mainGrid.innerHTML = `<div class="col-span-full text-center py-20 text-gray-400 font-bold text-xl"><i class="fa-regular fa-face-frown text-4xl block mb-4"></i> No items found.</div>`;
+                mainGrid.innerHTML = `<div class="col-span-full text-center py-24 text-gray-400 font-medium text-lg"><div class="bg-gray-100 dark:bg-dark-800 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-6"><i class="fa-regular fa-folder-open text-4xl"></i></div>No results found.</div>`;
                 return;
             }
 
             chunk.forEach(item => {
                 if (currentView === 'designers') mainGrid.appendChild(createDesignerCard(item));
-                else if (currentView === 'packs') mainGrid.appendChild(createPackCard(item));
+                else if (currentView === 'iconpacks') mainGrid.appendChild(createPackCard(item.pack, item.artist));
+                else if (currentView === 'packs') mainGrid.appendChild(createPackCard(item, navState.artist));
                 else mainGrid.appendChild(createIconCard(item));
             });
 
             isFetching = false;
         }
 
-        // Card Renderers
+        // --- CARD RENDERERS ---
         function createDesignerCard(artistName) {
-            const packs = Object.keys(groupedData[artistName]);
-            const totalIcons = packs.reduce((acc, p) => acc + groupedData[artistName][p].length, 0);
-            
-            const div = document.createElement('div');
-            div.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-2xl p-6 hover:shadow-xl transition cursor-pointer group flex flex-col items-center text-center gap-3";
-            div.onclick = () => navigate('packs', artistName);
-            div.innerHTML = `
-                <div class="w-16 h-16 bg-blue-50 dark:bg-blue-900/30 rounded-full flex items-center justify-center group-hover:scale-110 transition">
-                    <i class="fa-solid fa-user-pen text-2xl text-blue-500"></i>
-                </div>
-                <div>
-                    <h3 class="font-bold text-lg text-gray-900 dark:text-white truncate w-full">${artistName}</h3>
-                    <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">${packs.length} Packs • ${totalIcons} Icons</p>
-                </div>
-            `;
-            return div;
-        }
+    const packs = Object.keys(groupedData[artistName]);
+    const totalIcons = packs.reduce(
+        (acc, p) => acc + groupedData[artistName][p].length,
+        0
+    );
 
-        function createPackCard(packName) {
-            const icons = groupedData[navState.artist][packName];
-            const previews = icons.filter(i => ['Vector','PNG'].includes(i.format)).slice(0, 4); // Get up to 4 images
+    const div = document.createElement("div");
+
+    div.className =
+        "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 " +
+        "rounded-2xl p-5 hover:shadow-lg hover:-translate-y-1 transition-all duration-300 " +
+        "cursor-pointer group flex items-center gap-4";
+
+    div.onclick = () => navigate("packs", artistName);
+
+    div.innerHTML = `
+        <div class="w-14 h-14 shrink-0 bg-blue-50 dark:bg-blue-900/20 rounded-xl 
+                    flex items-center justify-center 
+                    group-hover:scale-105 transition-transform duration-300">
+            <i class="fa-solid fa-pen-nib text-xl text-blue-600 dark:text-blue-400"></i>
+        </div>
+
+        <div class="flex-1 min-w-0">
+            <h3 class="font-semibold text-base text-gray-900 dark:text-white truncate">
+                ${artistName}
+            </h3>
+
+            <div class="flex items-center gap-2 mt-2 flex-wrap">
+                <span class="text-xs px-2 py-1 rounded-lg bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300">
+                    ${packs.length} Packs
+                </span>
+
+                <span class="text-xs px-2 py-1 rounded-lg bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300">
+                    ${totalIcons} Icons
+                </span>
+            </div>
+        </div>
+    `;
+
+    return div;
+}
+
+        function createPackCard(packName, artistName) {
+            const icons = groupedData[artistName][packName];
+            const previews = icons.filter(i => ['Vector','PNG'].includes(i.format)).slice(0, 4);
             
             let previewHtml = '';
             previews.forEach(p => {
-                previewHtml += `<img src="${CDN_BASE}${p.path}" class="w-12 h-12 object-contain drop-shadow-sm" loading="lazy">`;
+                previewHtml += `<img src="${CDN_BASE}${p.path}" class="w-16 h-16 object-contain drop-shadow-md group-hover:scale-110 transition-transform duration-500" loading="lazy">`;
             });
-            if(previews.length === 0) previewHtml = `<i class="fa-solid fa-folder-open text-4xl text-gray-300"></i>`;
+            if(previews.length === 0) previewHtml = `<i class="fa-solid fa-folder-open text-5xl text-gray-300"></i>`;
 
             const div = document.createElement('div');
-            div.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl hover:shadow-xl transition cursor-pointer group overflow-hidden flex flex-col";
-            div.onclick = () => navigate('icons', navState.artist, packName);
+            div.className = "bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-3xl hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 cursor-pointer group overflow-hidden flex flex-col";
+            div.onclick = () => navigate('icons', artistName, packName);
             
-            // EXACTLY matches screenshot 3
             div.innerHTML = `
-                <div class="h-32 bg-gray-50 dark:bg-dark-900 border-b border-gray-100 dark:border-dark-700 flex items-center justify-center gap-4 p-4">
+                <div class="h-40 bg-gray-50 dark:bg-dark-900/50 border-b border-gray-100 dark:border-dark-700 flex items-center justify-center gap-6 p-6">
                     ${previewHtml}
                 </div>
-                <div class="p-4 flex justify-between items-center bg-white dark:bg-dark-800">
-                    <h3 class="font-semibold text-gray-800 dark:text-white truncate w-2/3">${packName}</h3>
-                    <span class="text-[10px] font-bold uppercase text-gray-400 bg-gray-100 dark:bg-dark-700 px-2 py-1 rounded">${icons.length} ICONS</span>
+                <div class="p-6 flex justify-between items-center bg-white dark:bg-dark-800">
+                    <div class="w-2/3">
+                        <h3 class="font-bold text-lg text-gray-900 dark:text-white truncate">${packName}</h3>
+                        <p class="text-[10px] text-gray-400 font-bold uppercase tracking-widest mt-1">${artistName}</p>
+                    </div>
+                    <span class="text-xs font-black uppercase tracking-wider text-blue-600 bg-blue-50 dark:bg-blue-900/30 dark:text-blue-400 px-3 py-1.5 rounded-lg">${icons.length} ICONS</span>
                 </div>
             `;
             return div;
@@ -412,65 +508,69 @@
         function createIconCard(icon) {
             const fullUrl = CDN_BASE + icon.path;
             const isImg = ['Vector', 'PNG'].includes(icon.format);
-            const preview = isImg ? `<img src="${fullUrl}" class="w-full h-full object-contain transition-transform duration-300 group-hover:scale-110" loading="lazy">` 
-                                  : `<i class="fa-solid fa-file text-4xl text-gray-300"></i>`;
+            // Bigger Icons via inset-8 (more padding, lets icon fill beautifully)
+            const preview = isImg ? `<img src="${fullUrl}" class="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110 drop-shadow-sm" loading="lazy">` 
+                                  : `<i class="fa-solid fa-file text-6xl text-gray-300"></i>`;
 
             const div = document.createElement('div');
             
-            // EXACTLY matches Screenshot 1 & 2 logic
-            if (!showDetails) {
-                // Checkered BG, No text, Hover dark overlay with Action Buttons top centered
-                div.className = "icon-card bg-checker border border-gray-200 dark:border-dark-700 rounded-2xl relative aspect-square group overflow-hidden shadow-sm";
-                div.innerHTML = `
-                    <div class="absolute inset-4 flex items-center justify-center">${preview}</div>
+            // Professional Modern Checkered Card (No "Details" Toggle, Always clean)
+            div.className = "icon-card bg-checker border border-gray-200 dark:border-dark-700 rounded-[2rem] relative aspect-square group overflow-hidden shadow-sm hover:shadow-2xl transition-all duration-300";
+            
+            div.innerHTML = `
+                <!-- Icon Display (Adjusted for 7-column layout) -->
+                <div class="absolute inset-5 flex items-center justify-center">${preview}</div>
+                
+                <!-- Format Badge -->
+                <div class="absolute top-3 left-3 px-2 py-0.5 rounded-md text-[9px] font-black uppercase tracking-wider bg-white/90 dark:bg-dark-800/90 text-gray-800 dark:text-gray-200 shadow-sm backdrop-blur-md border border-gray-200 dark:border-dark-600 z-10">
+                    ${icon.exactFormat}
+                </div>
+
+                <!-- Hover Glass Overlay -->
+                <div class="overlay absolute inset-0 bg-white/40 dark:bg-black/60 backdrop-blur-sm flex flex-col items-center justify-center">
                     
-                    <!-- Screenshot 1 Hover Overlay -->
-                    <div class="overlay absolute inset-0 bg-black/40 backdrop-blur-[2px] flex flex-col justify-between p-3">
-                        <div class="flex justify-center gap-2 mt-1">
-                            <button onclick="window.open('${fullUrl}', '_blank')" class="action-btn w-9 h-9 rounded-full bg-gray-600 text-white flex items-center justify-center hover:bg-gray-900 shadow-md" title="View"><i class="fa-solid fa-magnifying-glass-plus text-sm"></i></button>
-                            <button onclick="copyUrl('${fullUrl}')" class="action-btn w-9 h-9 rounded-full bg-gray-600 text-white flex items-center justify-center hover:bg-gray-900 shadow-md" title="Copy URL"><i class="fa-regular fa-copy text-sm"></i></button>
-                            <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="action-btn w-9 h-9 rounded-full bg-gray-600 text-white flex items-center justify-center hover:bg-gray-900 shadow-md" title="Download"><i class="fa-solid fa-download text-sm"></i></button>
+                    <!-- Centered Professional Buttons -->
+                    <div class="flex items-center justify-center gap-2 sm:gap-3 -translate-y-2">
+                        <button onclick="openModal('${fullUrl}')" class="action-btn w-10 h-10 rounded-full bg-white dark:bg-dark-800 text-gray-900 dark:text-white flex items-center justify-center hover:bg-gray-100 dark:hover:bg-dark-700 shadow-xl border border-gray-200 dark:border-dark-600" title="View">
+                            <i class="fa-solid fa-eye text-base"></i>
+                        </button>
+                        <button onclick="copyUrl('${fullUrl}')" class="action-btn w-10 h-10 rounded-full bg-white dark:bg-dark-800 text-gray-900 dark:text-white flex items-center justify-center hover:bg-gray-100 dark:hover:bg-dark-700 shadow-xl border border-gray-200 dark:border-dark-600" title="Copy URL">
+                            <i class="fa-regular fa-copy text-base"></i>
+                        </button>
+                        <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="action-btn w-10 h-10 rounded-full bg-gray-900 dark:bg-white text-white dark:text-gray-900 flex items-center justify-center hover:scale-105 shadow-xl" title="Download">
+                            <i class="fa-solid fa-download text-base"></i>
+                        </button>
+                    </div>
+
+                    <!-- Perfect Glass Title (95% Transparent, No Edges) -->
+                    <div class="absolute bottom-0 left-0 right-0 translate-y-4 group-hover:translate-y-0 transition-all duration-300 opacity-0 group-hover:opacity-100">
+                        <div class="w-full py-2 bg-white/[0.05] backdrop-blur-3xl border-t border-white/5 text-center">
+                            <span class="text-[10px] font-black tracking-widest text-gray-900 dark:text-white truncate block px-4 uppercase drop-shadow-sm">${icon.name}</span>
                         </div>
-                        <button class="w-full bg-white text-gray-900 font-bold text-xs py-2 rounded-xl shadow mt-auto hover:bg-gray-100 transition">Utiliser</button>
                     </div>
-                `;
-            } else {
-                // Showing Details (Text under icon)
-                div.className = "icon-card bg-white dark:bg-dark-800 border border-gray-200 dark:border-dark-700 rounded-xl p-4 relative flex flex-col items-center shadow-sm group overflow-hidden";
-                div.innerHTML = `
-                    <div class="w-16 h-16 mb-3 bg-checker rounded-lg flex items-center justify-center relative">
-                        <div class="absolute inset-1 flex items-center justify-center">${preview}</div>
-                    </div>
-                    <p class="text-[11px] text-gray-800 dark:text-gray-200 font-medium truncate w-full text-center" title="${icon.name}">${icon.name}</p>
-                    <span class="text-[9px] bg-gray-100 dark:bg-dark-700 text-gray-500 mt-1 px-2 py-0.5 rounded font-bold">${icon.exactFormat}</span>
-                    
-                    <div class="overlay absolute inset-0 bg-white/90 dark:bg-dark-900/90 backdrop-blur-sm flex flex-col items-center justify-center gap-2">
-                        <button onclick="copyUrl('${fullUrl}')" class="w-10/12 py-1.5 bg-gray-800 text-white text-xs rounded-md shadow hover:scale-105 transition"><i class="fa-solid fa-link"></i> Copy URL</button>
-                        <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="w-10/12 py-1.5 bg-blue-600 text-white text-xs rounded-md shadow hover:scale-105 transition"><i class="fa-solid fa-download"></i> Download</button>
-                    </div>
-                `;
-            }
+                </div>
+            `;
             return div;
         }
 
-        // Infinite Scroll
+        // Infinite Scroll Logic
         scrollContainer.addEventListener('scroll', () => {
             if (isFetching || renderLimit >= displayList.length) return;
-            if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight - 100) {
+            if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight - 150) {
                 isFetching = true;
-                renderLimit += 100;
+                renderLimit += 50;
                 renderChunk();
             }
         });
 
         // --- UTILITIES ---
         function copyUrl(url) {
-            navigator.clipboard.writeText(url).then(() => showToast("CDN URL Copied!"));
+            navigator.clipboard.writeText(url).then(() => showToast("CDN URL Copied Successfully!"));
         }
 
         async function downloadIcon(url, filename) {
             try {
-                showToast("Downloading...");
+                showToast("Starting Download...");
                 const response = await fetch(url);
                 const blob = await response.blob();
                 const blobUrl = window.URL.createObjectURL(blob);
@@ -485,8 +585,53 @@
             const toast = document.getElementById('toast');
             document.getElementById('toastMsg').innerText = msg;
             toast.classList.remove('opacity-0', 'translate-y-4');
-            setTimeout(() => toast.classList.add('opacity-0', 'translate-y-4'), 2000);
+            setTimeout(() => toast.classList.add('opacity-0', 'translate-y-4'), 2500);
         }
+
+        // --- ZOOM LOGIC ---
+        const gridZoomClasses = {
+            1: "grid gap-4 grid-cols-4 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-10 xl:grid-cols-12",
+            2: "grid gap-5 grid-cols-3 sm:grid-cols-5 md:grid-cols-7 lg:grid-cols-8 xl:grid-cols-10",
+            3: "grid gap-6 grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 2xl:grid-cols-8",
+            4: "grid gap-8 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-5",
+            5: "grid gap-10 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4"
+        };
+
+        function zoomGrid(action) {
+            if(action === 'in' && currentZoomLevel < 5) currentZoomLevel++;
+            if(action === 'out' && currentZoomLevel > 1) currentZoomLevel--;
+            applyZoom();
+        }
+
+        function applyZoom() {
+            if(currentView === 'icons' || currentView === 'all') {
+                mainGrid.className = gridZoomClasses[currentZoomLevel];
+            }
+        }
+
+        // --- PERFECT CENTERED MODAL LOGIC ---
+        const viewModal = document.getElementById('viewModal');
+        const modalContent = document.getElementById('modalContent');
+
+        function openModal(url) {
+            // Force the image to occupy 80% of the viewport width and height
+            modalContent.innerHTML = `<img src="${url}" class="w-[80vw] h-[80vh] object-contain drop-shadow-[0_35px_35px_rgba(0,0,0,0.5)]" />`;
+            viewModal.classList.remove('hidden');
+            viewModal.classList.add('flex'); 
+            
+            setTimeout(() => { viewModal.classList.remove('opacity-0'); }, 10);
+        }
+
+        function closeModal() {
+            viewModal.classList.add('opacity-0');
+            setTimeout(() => {
+                viewModal.classList.add('hidden');
+                viewModal.classList.remove('flex');
+                modalContent.innerHTML = '';
+            }, 300);
+        }
+
+        viewModal.addEventListener('click', closeModal);
 
         init();
     </script>
