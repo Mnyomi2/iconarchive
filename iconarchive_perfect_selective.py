@@ -1,4 +1,3 @@
-cat > iconarchive_perfect_selective.py << 'EOF'
 
 import os
 import sys
