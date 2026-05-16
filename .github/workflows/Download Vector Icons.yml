@@ -26,13 +26,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml tqdm
 
-      - name: 📝 Ensure Designer.txt exists
-        run: |
-          if [ ! -f "Designer.txt" ]; then
-            echo "papirus-team" > Designer.txt
-            echo "justicon" >> Designer.txt
-            echo "gartoon-team" >> Designer.txt
-          fi
 
       - name: 🚀 Run Icon Scraper (Vector Only)
         run: python3 iconarchive_perfect_selective.py vector
