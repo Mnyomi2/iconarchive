@@ -1,80 +1,206 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark"> <!-- DARK MODE DEFAULT -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modern IconArchive</title>
+    <title>Premium Icon Gallery</title>
+    
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        dark: {
+                            900: '#121212',
+                            800: '#1e1e1e',
+                            700: '#2d2d2d',
+                            600: '#3f3f3f'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Scrollbar & Utility CSS -->
     <style>
-        .icon-card:hover .overlay { opacity: 1; }
-        .toast { transition: opacity 0.3s ease-in-out; }
+        /* Modern Scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        .dark ::-webkit-scrollbar-thumb { background: #475569; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        
+        /* Hide scrollbar for category pills but keep functionality */
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+        /* Card Hover Animations */
+        .icon-card .overlay { opacity: 0; transform: translateY(10px); transition: all 0.2s ease-out; }
+        .icon-card:hover .overlay { opacity: 1; transform: translateY(0); }
+        
+        .toast { transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col font-sans">
+<body class="bg-gray-50 dark:bg-dark-900 text-gray-900 dark:text-gray-100 h-screen flex overflow-hidden font-sans transition-colors duration-300">
 
-    <!-- Navbar -->
-    <header class="bg-white shadow-md sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
-            <div class="flex items-center gap-2">
-                <i class="fa-solid fa-layer-group text-blue-600 text-2xl"></i>
-                <h1 class="text-2xl font-bold text-gray-900 tracking-tight">Icon<span class="text-blue-600">Archive</span></h1>
+    <!-- Mobile Menu Button (Visible only on small screens) -->
+    <button id="mobileMenuBtn" class="md:hidden fixed top-4 right-4 z-50 bg-gray-800 text-white p-2 rounded-lg shadow-lg">
+        <i class="fa-solid fa-bars"></i>
+    </button>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="sidebar" class="w-72 bg-white dark:bg-dark-800 border-r border-gray-200 dark:border-dark-700 flex flex-col transition-all duration-300 absolute md:relative z-40 h-full -translate-x-full md:translate-x-0 shadow-2xl md:shadow-none">
+        
+        <!-- Logo Area -->
+        <div class="h-20 flex items-center justify-between px-6 border-b border-gray-200 dark:border-dark-700">
+            <div class="flex items-center gap-3">
+                <div class="bg-blue-600 p-2 rounded-lg text-white flex items-center justify-center">
+                    <i class="fa-solid fa-shapes text-xl"></i>
+                </div>
+                <h1 class="text-xl font-bold tracking-tight">Icon<span class="text-blue-500 font-light">Gallery</span></h1>
+            </div>
+            <!-- Theme Toggle -->
+            <button id="themeToggle" class="text-gray-500 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400 transition text-lg w-8 h-8 rounded-full hover:bg-gray-100 dark:hover:bg-dark-700 flex items-center justify-center">
+                <i class="fa-solid fa-sun hidden dark:block"></i>
+                <i class="fa-solid fa-moon block dark:hidden"></i>
+            </button>
+        </div>
+
+        <!-- Filters Form -->
+        <div class="flex-1 overflow-y-auto p-6 space-y-8">
+            
+            <!-- Designers Filter -->
+            <div>
+                <h3 class="text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">
+                    <i class="fa-solid fa-user-pen mr-1"></i> Designer / Artist
+                </h3>
+                <div class="relative">
+                    <select id="artistSelect" class="w-full appearance-none bg-gray-100 dark:bg-dark-700 border border-transparent dark:border-dark-600 text-sm rounded-xl px-4 py-3 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500 transition cursor-pointer text-gray-800 dark:text-gray-200 font-medium shadow-sm">
+                        <option value="all">All Designers</option>
+                    </select>
+                    <i class="fa-solid fa-chevron-down absolute right-4 top-3.5 text-gray-400 pointer-events-none text-sm"></i>
+                </div>
+            </div>
+
+            <!-- Icon Packs Filter -->
+            <div>
+                <h3 class="text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">
+                    <i class="fa-solid fa-folder-tree mr-1"></i> Icon Pack
+                </h3>
+                <div class="relative">
+                    <select id="packSelect" class="w-full appearance-none bg-gray-100 dark:bg-dark-700 border border-transparent dark:border-dark-600 text-sm rounded-xl px-4 py-3 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500 transition cursor-pointer text-gray-800 dark:text-gray-200 font-medium shadow-sm" disabled>
+                        <option value="all">All Packs</option>
+                    </select>
+                    <i class="fa-solid fa-chevron-down absolute right-4 top-3.5 text-gray-400 pointer-events-none text-sm"></i>
+                </div>
+            </div>
+
+            <!-- Format List -->
+            <div>
+                <h3 class="text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-3">
+                    <i class="fa-solid fa-file-code mr-1"></i> Formats
+                </h3>
+                <div class="space-y-2" id="formatRadios">
+                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
+                        <input type="radio" name="format" value="all" checked class="accent-blue-500 w-4 h-4">
+                        <span class="text-sm font-medium">All Formats</span>
+                    </label>
+                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
+                        <input type="radio" name="format" value="Vector" class="accent-blue-500 w-4 h-4">
+                        <span class="text-sm font-medium">Vector (SVG)</span>
+                    </label>
+                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
+                        <input type="radio" name="format" value="PNG" class="accent-blue-500 w-4 h-4">
+                        <span class="text-sm font-medium">PNG Transparent</span>
+                    </label>
+                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
+                        <input type="radio" name="format" value="Favicon" class="accent-blue-500 w-4 h-4">
+                        <span class="text-sm font-medium">Favicons</span>
+                    </label>
+                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
+                        <input type="radio" name="format" value="Windows" class="accent-blue-500 w-4 h-4">
+                        <span class="text-sm font-medium">Windows (.ico)</span>
+                    </label>
+                    <label class="flex items-center gap-3 p-2 rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-dark-700 transition">
+                        <input type="radio" name="format" value="Mac" class="accent-blue-500 w-4 h-4">
+                        <span class="text-sm font-medium">Mac (.icns)</span>
+                    </label>
+                </div>
+            </div>
+
+        </div>
+    </aside>
+
+    <!-- MAIN CONTENT AREA -->
+    <main class="flex-1 flex flex-col min-w-0 bg-gray-50 dark:bg-dark-900 relative">
+        
+        <!-- Top Navigation / Search -->
+        <header class="h-20 px-6 sm:px-10 flex items-center justify-between border-b border-gray-200 dark:border-dark-700 bg-white/80 dark:bg-dark-800/80 backdrop-blur-md sticky top-0 z-30">
+            
+            <div class="relative w-full max-w-2xl group">
+                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                    <i class="fa-solid fa-magnifying-glass text-gray-400 group-focus-within:text-blue-500 transition-colors"></i>
+                </div>
+                <input type="text" id="searchInput" placeholder="Search across millions of icons..." 
+                    class="w-full bg-gray-100 dark:bg-dark-700 border-2 border-transparent dark:border-dark-600 focus:border-blue-500 dark:focus:border-blue-500 text-gray-900 dark:text-white rounded-2xl pl-11 pr-4 py-3 outline-none transition shadow-sm text-sm sm:text-base placeholder-gray-500">
+            </div>
+
+            <div class="hidden lg:block text-sm font-medium text-gray-500 dark:text-gray-400 ml-4 whitespace-nowrap bg-gray-100 dark:bg-dark-700 px-4 py-2 rounded-xl border border-gray-200 dark:border-dark-600 shadow-sm">
+                <i class="fa-solid fa-chart-simple mr-2"></i><span id="resultCount">Loading...</span>
+            </div>
+        </header>
+
+        <!-- Scrollable Icon Area -->
+        <div id="scrollContainer" class="flex-1 overflow-y-auto p-6 sm:p-10 relative">
+            
+            <!-- Loading State -->
+            <div id="loading" class="absolute inset-0 flex flex-col items-center justify-center bg-gray-50 dark:bg-dark-900 z-20">
+                <i class="fa-solid fa-circle-notch fa-spin text-5xl text-blue-500 mb-4"></i>
+                <h2 class="text-xl font-bold text-gray-800 dark:text-gray-200">Syncing Library</h2>
+                <p class="text-gray-500 dark:text-gray-400 text-sm mt-2">Loading master index...</p>
+            </div>
+
+            <!-- Empty State -->
+            <div id="noResults" class="hidden h-full flex flex-col items-center justify-center">
+                <div class="bg-gray-100 dark:bg-dark-800 w-32 h-32 rounded-full flex items-center justify-center mb-6">
+                    <i class="fa-solid fa-ghost text-5xl text-gray-300 dark:text-dark-600"></i>
+                </div>
+                <h2 class="text-2xl font-bold text-gray-800 dark:text-white mb-2">No icons found</h2>
+                <p class="text-gray-500 dark:text-gray-400 max-w-sm text-center text-sm">Try adjusting your filters or searching for a different keyword.</p>
+                <button onclick="resetFilters()" class="mt-6 px-6 py-2.5 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition shadow-lg shadow-blue-500/30">
+                    Clear Filters
+                </button>
+            </div>
+
+            <!-- Grid -->
+            <!-- Using auto-fill for perfect responsive sizing just like modern galleries -->
+            <div id="iconGrid" class="grid gap-6 hidden" style="grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));">
+                <!-- Cards Injected Here via JS -->
             </div>
             
-            <!-- Live Search Bar -->
-            <div class="relative w-full sm:w-[500px]">
-                <i class="fa-solid fa-search absolute left-4 top-3 text-gray-400"></i>
-                <input type="text" id="searchInput" placeholder="Search icons, sets, or artists (e.g. papirus, folder)..." 
-                    class="w-full pl-11 pr-4 py-2 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition bg-gray-50">
+            <!-- Infinite Scroll Loading Indicator -->
+            <div id="scrollLoading" class="hidden text-center py-8">
+                <i class="fa-solid fa-ellipsis fa-bounce text-2xl text-gray-400"></i>
             </div>
-        </div>
-
-        <!-- Format Filters -->
-        <div class="bg-gray-100 border-b border-gray-200">
-            <div class="max-w-7xl mx-auto px-4 py-3 flex gap-2 overflow-x-auto no-scrollbar" id="categoryFilters">
-                <button data-filter="all" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-blue-600 text-white shadow transition">All</button>
-                <button data-filter="Vector" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300 transition">Vector (SVG)</button>
-                <button data-filter="PNG" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300 transition">PNG</button>
-                <button data-filter="Favicon" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300 transition">Favicon</button>
-                <button data-filter="Mac" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300 transition">Mac (ICNS)</button>
-                <button data-filter="Windows" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300 transition">Windows (ICO)</button>
-            </div>
-        </div>
-    </header>
-
-    <!-- Main Content -->
-    <main class="flex-grow max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
-        
-        <div class="mb-4 flex justify-between items-center text-sm text-gray-500">
-            <span id="resultCount">Loading icons...</span>
-        </div>
-
-        <div id="loading" class="text-center py-20">
-            <i class="fa-solid fa-spinner fa-spin text-4xl text-blue-600"></i>
-            <p class="mt-4 text-gray-500 font-medium">Loading massive icon library...</p>
-        </div>
-
-        <!-- Icon Grid -->
-        <div id="iconGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-4 hidden">
-            <!-- Icons injected here by JS -->
-        </div>
-
-        <div id="noResults" class="text-center py-20 hidden">
-            <i class="fa-regular fa-folder-open text-5xl text-gray-300"></i>
-            <p class="mt-4 text-gray-500 text-lg">No icons found matching your search.</p>
-        </div>
-        
-        <div class="text-center mt-8 hidden" id="loadMoreBtnContainer">
-            <button id="loadMoreBtn" class="bg-white border border-gray-300 text-gray-700 px-6 py-2 rounded-full hover:bg-gray-100 transition shadow-sm font-medium">
-                Load More
-            </button>
         </div>
     </main>
 
+    <!-- Overlay for Mobile Sidebar -->
+    <div id="sidebarOverlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-30 hidden lg:hidden"></div>
+
     <!-- Toast Notification -->
-    <div id="toast" class="fixed bottom-5 right-5 bg-gray-900 text-white px-6 py-3 rounded-lg shadow-xl opacity-0 pointer-events-none toast z-50 flex items-center">
-        <i class="fa-solid fa-check-circle text-green-400 mr-2 text-lg"></i> 
-        <span id="toastMsg" class="font-medium">Copied!</span>
+    <div id="toast" class="fixed bottom-6 inset-x-0 mx-auto max-w-max bg-gray-900 dark:bg-white text-white dark:text-gray-900 px-6 py-3 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-50 flex items-center gap-3 font-medium">
+        <div class="bg-green-500/20 text-green-400 dark:text-green-600 rounded-full w-6 h-6 flex items-center justify-center">
+            <i class="fa-solid fa-check text-sm"></i>
+        </div>
+        <span id="toastMsg">Copied to clipboard!</span>
     </div>
 
     <script>
@@ -85,147 +211,267 @@
         // ---------------------
 
         const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
-        // We load the JSON we built locally!
         const JSON_URL = CDN_BASE + "master_index.json";
 
+        // Global State
         let allIcons = [];
         let displayedIcons = [];
-        let currentLimit = 100; // Lazy loading chunk size
+        let currentRenderLimit = 100;
+        let isFetching = false;
+        let searchTimeout = null;
 
         // DOM Elements
         const grid = document.getElementById('iconGrid');
         const loading = document.getElementById('loading');
         const noResults = document.getElementById('noResults');
-        const searchInput = document.getElementById('searchInput');
-        const filterBtns = document.querySelectorAll('.filter-btn');
+        const scrollContainer = document.getElementById('scrollContainer');
+        const scrollLoading = document.getElementById('scrollLoading');
         const resultCount = document.getElementById('resultCount');
-        const loadMoreBtn = document.getElementById('loadMoreBtn');
-        const loadMoreBtnContainer = document.getElementById('loadMoreBtnContainer');
+        
+        // Filters DOM
+        const searchInput = document.getElementById('searchInput');
+        const artistSelect = document.getElementById('artistSelect');
+        const packSelect = document.getElementById('packSelect');
+        const formatRadios = document.querySelectorAll('input[name="format"]');
 
-        // 1. Fetch JSON Database
-        async function fetchIcons() {
+        // Theme Setup
+        const themeToggle = document.getElementById('themeToggle');
+        const htmlElement = document.documentElement;
+        
+        // Initialize Theme from localStorage (Default to dark)
+        if (localStorage.getItem('theme') === 'light') {
+            htmlElement.classList.remove('dark');
+        } else {
+            htmlElement.classList.add('dark');
+        }
+
+        themeToggle.addEventListener('click', () => {
+            htmlElement.classList.toggle('dark');
+            localStorage.setItem('theme', htmlElement.classList.contains('dark') ? 'dark' : 'light');
+        });
+
+        // Mobile Sidebar Logic
+        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+        const sidebar = document.getElementById('sidebar');
+        const sidebarOverlay = document.getElementById('sidebarOverlay');
+
+        function toggleSidebar() {
+            sidebar.classList.toggle('-translate-x-full');
+            sidebarOverlay.classList.toggle('hidden');
+        }
+        mobileMenuBtn.addEventListener('click', toggleSidebar);
+        sidebarOverlay.addEventListener('click', toggleSidebar);
+
+
+        // --- CORE LOGIC ---
+
+        async function init() {
             try {
-                // Add a cache-busting parameter to prevent loading old JSON during dev
-                const response = await fetch(JSON_URL + "?t=" + new Date().getTime());
-                if(!response.ok) throw new Error("JSON not found");
+                // Fetch Data
+                const res = await fetch(JSON_URL + "?t=" + Date.now());
+                if (!res.ok) throw new Error("JSON Fetch Failed");
+                allIcons = await res.json();
                 
-                allIcons = await response.json();
+                // Extract Unique Artists
+                populateArtists();
                 
+                // Hide Loading, Show Grid
                 loading.classList.add('hidden');
                 grid.classList.remove('hidden');
                 
-                displayedIcons = allIcons;
-                renderIcons(true);
-            } catch (error) {
-                loading.innerHTML = `<i class="fa-solid fa-triangle-exclamation text-red-500 text-4xl"></i>
-                                     <p class="mt-4 text-red-500">Could not load master_index.json. Did you push it to GitHub?</p>`;
+                // Initial Render
+                filterData();
+            } catch (err) {
+                loading.innerHTML = `
+                    <i class="fa-solid fa-triangle-exclamation text-red-500 text-5xl mb-4"></i>
+                    <h2 class="text-xl font-bold text-gray-800 dark:text-gray-200">Connection Error</h2>
+                    <p class="text-gray-500 dark:text-gray-400 mt-2">Check master_index.json in your GitHub repository.</p>
+                `;
             }
         }
 
-        // 2. Render Grid
-        function renderIcons(reset = false) {
-            if (reset) {
-                grid.innerHTML = '';
-                currentLimit = 100;
+        // Dropdown Population Logic
+        function populateArtists() {
+            const artists = [...new Set(allIcons.map(icon => icon.artist))].sort();
+            artists.forEach(artist => {
+                const opt = document.createElement('option');
+                opt.value = artist;
+                opt.textContent = artist;
+                artistSelect.appendChild(opt);
+            });
+        }
+
+        function populatePacks(selectedArtist) {
+            packSelect.innerHTML = '<option value="all">All Packs</option>';
+            if (selectedArtist === 'all') {
+                packSelect.disabled = true;
+                return;
             }
             
-            resultCount.innerText = `Showing ${displayedIcons.length} icons`;
+            packSelect.disabled = false;
+            // Get unique sets ONLY for the selected artist
+            const packs = [...new Set(allIcons.filter(i => i.artist === selectedArtist).map(i => i.set))].sort();
+            
+            packs.forEach(pack => {
+                const opt = document.createElement('option');
+                opt.value = pack;
+                opt.textContent = pack;
+                packSelect.appendChild(opt);
+            });
+        }
 
+        // Filtering Engine
+        function filterData() {
+            const query = searchInput.value.toLowerCase().trim();
+            const selectedArtist = artistSelect.value;
+            const selectedPack = packSelect.value;
+            const selectedFormat = document.querySelector('input[name="format"]:checked').value;
+
+            displayedIcons = allIcons.filter(icon => {
+                let match = true;
+                if (selectedArtist !== 'all' && icon.artist !== selectedArtist) match = false;
+                if (selectedPack !== 'all' && icon.set !== selectedPack) match = false;
+                if (selectedFormat !== 'all' && icon.format !== selectedFormat) match = false;
+                
+                if (query) {
+                    const searchStr = `${icon.name} ${icon.set} ${icon.artist}`.toLowerCase();
+                    if (!searchStr.includes(query)) match = false;
+                }
+                
+                return match;
+            });
+
+            // Reset Render State
+            currentRenderLimit = 100;
+            grid.innerHTML = '';
+            scrollContainer.scrollTop = 0;
+            
+            renderChunk();
+            
+            // Update Stats
+            resultCount.innerHTML = `<span class="font-bold text-gray-900 dark:text-white">${displayedIcons.length.toLocaleString()}</span> assets`;
+        }
+
+        function resetFilters() {
+            searchInput.value = '';
+            artistSelect.value = 'all';
+            packSelect.innerHTML = '<option value="all">All Packs</option>';
+            packSelect.disabled = true;
+            document.querySelector('input[name="format"][value="all"]').checked = true;
+            filterData();
+        }
+
+        // Render Graphics Engine
+        function renderChunk() {
             if (displayedIcons.length === 0) {
                 noResults.classList.remove('hidden');
-                loadMoreBtnContainer.classList.add('hidden');
+                grid.classList.add('hidden');
                 return;
             }
             
             noResults.classList.add('hidden');
+            grid.classList.remove('hidden');
 
-            const iconsToRender = displayedIcons.slice(grid.children.length, currentLimit);
-
-            iconsToRender.forEach(icon => {
+            const chunk = displayedIcons.slice(grid.children.length, currentRenderLimit);
+            
+            chunk.forEach(icon => {
                 const fullUrl = CDN_BASE + icon.path;
-                const isImage = icon.format === 'Vector' || icon.format === 'PNG';
+                const isImage = ['Vector', 'PNG'].includes(icon.format);
                 
-                const previewContent = isImage 
-                    ? `<img src="${fullUrl}" alt="${icon.name}" class="w-16 h-16 object-contain" loading="lazy">`
-                    : `<div class="w-16 h-16 flex items-center justify-center bg-gray-100 rounded-lg"><span class="text-xs font-bold text-gray-500">${icon.format}</span></div>`;
-
                 const card = document.createElement('div');
-                card.className = "icon-card bg-white p-4 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center relative overflow-hidden transition hover:shadow-lg group cursor-pointer";
+                card.className = "icon-card bg-white dark:bg-dark-800 rounded-2xl p-4 flex flex-col items-center justify-center relative aspect-square border border-gray-200 dark:border-dark-700 shadow-sm hover:shadow-xl transition-all duration-300 group overflow-hidden cursor-crosshair";
                 
+                // Format Badge (Top Left)
+                const formatColors = {
+                    'Vector': 'bg-orange-100 text-orange-600 dark:bg-orange-900/30 dark:text-orange-400',
+                    'PNG': 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400',
+                    'Windows': 'bg-cyan-100 text-cyan-600 dark:bg-cyan-900/30 dark:text-cyan-400',
+                    'Mac': 'bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-300',
+                    'Favicon': 'bg-purple-100 text-purple-600 dark:bg-purple-900/30 dark:text-purple-400'
+                };
+                const badgeClass = formatColors[icon.format] || formatColors['Mac'];
+
+                const previewHtml = isImage 
+                    ? `<img src="${fullUrl}" alt="${icon.name}" class="w-16 h-16 sm:w-20 sm:h-20 object-contain drop-shadow-md group-hover:scale-110 transition-transform duration-300" loading="lazy">`
+                    : `<div class="w-16 h-16 sm:w-20 sm:h-20 flex items-center justify-center bg-gray-100 dark:bg-dark-700 rounded-2xl group-hover:scale-110 transition-transform duration-300"><i class="fa-solid fa-file-image text-3xl text-gray-400"></i></div>`;
+
                 card.innerHTML = `
-                    <div class="mb-3">${previewContent}</div>
+                    <!-- Badge -->
+                    <div class="absolute top-3 left-3 px-2 py-0.5 rounded text-[9px] font-extrabold uppercase tracking-widest ${badgeClass} z-10">
+                        ${icon.format}
+                    </div>
                     
-                    <p class="text-[11px] text-gray-400 font-semibold uppercase tracking-wider mb-1 truncate w-full text-center" title="${icon.artist}">${icon.artist}</p>
-                    <p class="text-xs text-gray-700 font-medium truncate w-full text-center mb-1" title="${icon.name}">${icon.name}</p>
-                    <span class="text-[10px] bg-blue-50 text-blue-600 border border-blue-100 px-2 py-0.5 rounded-md font-bold">${icon.format}</span>
+                    <!-- Icon Preview -->
+                    ${previewHtml}
                     
-                    <!-- Hover Actions -->
-                    <div class="overlay absolute inset-0 bg-white/95 backdrop-blur-sm opacity-0 flex flex-col items-center justify-center gap-2 transition-opacity duration-200">
-                        <button onclick="copyUrl('${fullUrl}')" class="w-10/12 py-1.5 bg-gray-800 text-white text-xs rounded-md shadow hover:bg-gray-700 transition flex items-center justify-center gap-2">
-                            <i class="fa-solid fa-link"></i> CDN Link
+                    <!-- File Name Footer -->
+                    <div class="absolute bottom-3 left-3 right-3 text-center">
+                        <p class="text-[10px] font-medium text-gray-400 dark:text-gray-500 truncate w-full" title="${icon.name}">${icon.name}</p>
+                    </div>
+
+                    <!-- Modern Hover Actions -->
+                    <div class="overlay absolute inset-0 bg-white/80 dark:bg-dark-900/80 backdrop-blur-sm flex flex-col items-center justify-center gap-3">
+                        <button onclick="copyUrl('${fullUrl}')" class="w-10/12 py-2 bg-gray-900 dark:bg-white text-white dark:text-gray-900 text-xs font-bold rounded-xl shadow-lg hover:scale-105 transition flex items-center justify-center gap-2">
+                            <i class="fa-solid fa-link"></i> CDN URL
                         </button>
-                        <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="w-10/12 py-1.5 bg-blue-600 text-white text-xs rounded-md shadow hover:bg-blue-700 transition flex items-center justify-center gap-2">
+                        <button onclick="downloadIcon('${fullUrl}', '${icon.name}')" class="w-10/12 py-2 bg-blue-600 text-white text-xs font-bold rounded-xl shadow-lg shadow-blue-500/30 hover:bg-blue-500 hover:scale-105 transition flex items-center justify-center gap-2">
                             <i class="fa-solid fa-download"></i> Download
                         </button>
                     </div>
                 `;
                 grid.appendChild(card);
             });
+            
+            isFetching = false;
+            scrollLoading.classList.add('hidden');
+        }
 
-            // Show or hide "Load More" button
-            if (currentLimit < displayedIcons.length) {
-                loadMoreBtnContainer.classList.remove('hidden');
-            } else {
-                loadMoreBtnContainer.classList.add('hidden');
+        // Infinite Scroll Logic
+        scrollContainer.addEventListener('scroll', () => {
+            if (isFetching || currentRenderLimit >= displayedIcons.length) return;
+            
+            // If scrolled to bottom (with 200px threshold)
+            if (scrollContainer.scrollTop + scrollContainer.clientHeight >= scrollContainer.scrollHeight - 200) {
+                isFetching = true;
+                scrollLoading.classList.remove('hidden');
+                
+                // Fake delay to show loading animation slightly (feels premium)
+                setTimeout(() => {
+                    currentRenderLimit += 100;
+                    renderChunk();
+                }, 300);
             }
-        }
-
-        // Load More Logic
-        loadMoreBtn.addEventListener('click', () => {
-            currentLimit += 100;
-            renderIcons(false);
         });
 
-        // 3. Search & Filter Logic
-        let currentFilter = 'all';
+        // Event Listeners for Filters
+        artistSelect.addEventListener('change', (e) => {
+            populatePacks(e.target.value);
+            filterData();
+        });
 
-        function filterData() {
-            const query = searchInput.value.toLowerCase();
-            displayedIcons = allIcons.filter(icon => {
-                const searchString = `${icon.name} ${icon.set} ${icon.artist}`.toLowerCase();
-                const matchesSearch = searchString.includes(query);
-                const matchesFilter = currentFilter === 'all' || icon.format === currentFilter;
-                return matchesSearch && matchesFilter;
-            });
-            renderIcons(true);
-        }
+        packSelect.addEventListener('change', filterData);
+        
+        formatRadios.forEach(radio => {
+            radio.addEventListener('change', filterData);
+        });
 
-        searchInput.addEventListener('input', filterData);
-
-        filterBtns.forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                filterBtns.forEach(b => {
-                    b.classList.remove('bg-blue-600', 'text-white');
-                    b.classList.add('bg-white', 'text-gray-600');
-                });
-                e.target.classList.remove('bg-white', 'text-gray-600');
-                e.target.classList.add('bg-blue-600', 'text-white');
-
-                currentFilter = e.target.getAttribute('data-filter');
+        // Debounced Live Search
+        searchInput.addEventListener('input', () => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
                 filterData();
-            });
+            }, 300); // 300ms delay prevents lagging while typing fast
         });
 
-        // 4. Interaction Functions
+        // --- UTILS (Copy & Download) ---
+
         function copyUrl(url) {
-            navigator.clipboard.writeText(url).then(() => {
-                showToast("CDN URL Copied to clipboard!");
-            });
+            navigator.clipboard.writeText(url).then(() => showToast());
         }
 
         async function downloadIcon(url, filename) {
             try {
-                showToast("Downloading...");
+                showToast("Downloading file...");
                 const response = await fetch(url);
                 const blob = await response.blob();
                 const blobUrl = window.URL.createObjectURL(blob);
@@ -242,22 +488,24 @@
             }
         }
 
-        // Toast
+        // Toast UI
         const toast = document.getElementById('toast');
         const toastMsg = document.getElementById('toastMsg');
-        let toastTimeout;
-        
-        function showToast(message) {
-            toastMsg.innerText = message;
-            toast.classList.remove('opacity-0');
-            clearTimeout(toastTimeout);
-            toastTimeout = setTimeout(() => {
-                toast.classList.add('opacity-0');
-            }, 2000);
+        let toastTimeoutId;
+
+        function showToast(msg = "Copied to clipboard!") {
+            toastMsg.innerText = msg;
+            toast.classList.remove('opacity-0', 'translate-y-4');
+            
+            clearTimeout(toastTimeoutId);
+            toastTimeoutId = setTimeout(() => {
+                toast.classList.add('opacity-0', 'translate-y-4');
+            }, 2500);
         }
 
-        // Boot up
-        fetchIcons();
+        // Boot Application
+        init();
+
     </script>
 </body>
 </html>
