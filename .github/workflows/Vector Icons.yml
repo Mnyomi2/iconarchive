@@ -1,13 +1,13 @@
 name: Auto Download Icons
 
 on:
-  workflow_dispatch: # 1. Allows you to run it manually from the "Actions" tab!
+  workflow_dispatch:
   push:
     paths:
-      - 'Designer.txt' # 2. Auto-runs if you add a new artist to Designer.txt
+      - 'Designer.txt'
 
 permissions:
-  contents: write # Crucial: Allows the bot to upload files back to the repo
+  contents: write
 
 jobs:
   download-and-upload:
@@ -31,19 +31,17 @@ jobs:
 
       - name: 🚀 Run Scraper (Vector + Update)
         run: |
-          # We use "update vector" so it checks existing folders for newly released icons
-          python3 iconarchive_perfect_selective.py vector
+          # Added "update" so it scans existing artist folders for new icons
+          python3 iconarchive_perfect_selective.py vector update
 
       - name: 📤 Auto Commit and Push back to GitHub
         run: |
-          # Set up the GitHub Actions Bot identity
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add the newly downloaded files and the updated master_index.json
-          git add iconarchive/ master_index.json Designer.txt
+          # FIXED: Changed iconarchive/ to Designer/
+          git add Designer/ master_index.json Designer.txt
           
-          # Check if there are actually any new files downloaded
           if git diff --staged --quiet; then
             echo "✅ No new icons were downloaded. Everything is up to date."
           else
