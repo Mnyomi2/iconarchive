@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern IconArchive</title>
+    <!-- Tailwind CSS for Modern Styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome for UI Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .icon-card:hover .overlay { opacity: 1; }
+        .toast { transition: opacity 0.3s ease-in-out; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800 min-h-screen flex flex-col font-sans">
+
+    <!-- Navbar -->
+    <header class="bg-white shadow-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-2">
+                <i class="fa-solid fa-shapes text-blue-600 text-2xl"></i>
+                <h1 class="text-2xl font-bold text-gray-900 tracking-tight">Icon<span class="text-blue-600">Gallery</span></h1>
+            </div>
+            
+            <!-- Search Bar -->
+            <div class="relative w-full sm:w-96">
+                <i class="fa-solid fa-search absolute left-3 top-3 text-gray-400"></i>
+                <input type="text" id="searchInput" placeholder="Search icons (e.g., folder, user)..." 
+                    class="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition">
+            </div>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="bg-gray-100 border-b border-gray-200">
+            <div class="max-w-7xl mx-auto px-4 py-3 flex gap-2 overflow-x-auto no-scrollbar" id="categoryFilters">
+                <button data-filter="all" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-blue-600 text-white shadow">All</button>
+                <button data-filter="Vector" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300">Vector (SVG)</button>
+                <button data-filter="PNG" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300">PNG</button>
+                <button data-filter="Favicon" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300">Favicon</button>
+                <button data-filter="Mac" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300">Mac (ICNS)</button>
+                <button data-filter="Windows" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white text-gray-600 hover:bg-gray-200 border border-gray-300">Windows (ICO)</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+        <div id="loading" class="text-center py-20">
+            <i class="fa-solid fa-spinner fa-spin text-4xl text-blue-600"></i>
+            <p class="mt-4 text-gray-500 font-medium">Scanning repository for icons...</p>
+        </div>
+
+        <!-- Icon Grid -->
+        <div id="iconGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 hidden">
+            <!-- Icons injected here by JS -->
+        </div>
+
+        <div id="noResults" class="text-center py-20 hidden">
+            <i class="fa-regular fa-face-frown text-4xl text-gray-400"></i>
+            <p class="mt-4 text-gray-500 text-lg">No icons found matching your search.</p>
+        </div>
+    </main>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="fixed bottom-5 right-5 bg-gray-900 text-white px-6 py-3 rounded-lg shadow-xl opacity-0 pointer-events-none toast z-50">
+        <i class="fa-solid fa-check-circle text-green-400 mr-2"></i> <span id="toastMsg">Copied!</span>
+    </div>
+
+    <script>
+        // --- CONFIGURATION ---
+        const GITHUB_USERNAME = "Mnyomi2";
+        const REPO_NAME = "iconarchive";
+        const BRANCH = "main";
+        // ---------------------
+
+        const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
+        const API_URL = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/git/trees/${BRANCH}?recursive=1`;
+
+        let allIcons = [];
+        let displayedIcons = [];
+
+        // DOM Elements
+        const grid = document.getElementById('iconGrid');
+        const loading = document.getElementById('loading');
+        const noResults = document.getElementById('noResults');
+        const searchInput = document.getElementById('searchInput');
+        const filterBtns = document.querySelectorAll('.filter-btn');
+
+        // Fetch data from GitHub API
+        async function fetchIcons() {
+            try {
+                const response = await fetch(API_URL);
+                const data = await response.json();
+
+                // Filter for image files in the iconarchive folder
+                allIcons = data.tree
+                    .filter(item => item.type === "blob" && item.path.startsWith("iconarchive/") && !item.path.endsWith(".json"))
+                    .map(item => {
+                        const parts = item.path.split('/');
+                        const fileName = parts[parts.length - 1];
+                        const format = parts[parts.length - 2]; // e.g. Vector, PNG
+                        const setName = parts[parts.length - 3]; 
+
+                        return {
+                            name: fileName,
+                            format: format,
+                            set: setName,
+                            path: item.path,
+                            url: CDN_BASE + item.path
+                        };
+                    });
+
+                loading.classList.add('hidden');
+                grid.classList.remove('hidden');
+                
+                displayedIcons = allIcons;
+                renderIcons();
+            } catch (error) {
+                loading.innerHTML = `<i class="fa-solid fa-triangle-exclamation text-red-500 text-4xl"></i><p class="mt-4 text-red-500">Error loading icons. You might have hit the GitHub API rate limit.</p>`;
+            }
+        }
+
+        // Render Icons to Grid
+        function renderIcons() {
+            grid.innerHTML = '';
+            if (displayedIcons.length === 0) {
+                noResults.classList.remove('hidden');
+                return;
+            }
+            noResults.classList.add('hidden');
+
+            // Limit to 200 for performance. You can implement pagination later if needed.
+            const iconsToRender = displayedIcons.slice(0, 200);
+
+            iconsToRender.forEach(icon => {
+                const isImage = icon.format === 'Vector' || icon.format === 'PNG';
+                const previewContent = isImage 
+                    ? `<img src="${icon.url}" alt="${icon.name}" class="w-16 h-16 object-contain" loading="lazy">`
+                    : `<div class="w-16 h-16 flex items-center justify-center bg-gray-100 rounded-lg"><span class="text-xs font-bold text-gray-500">${icon.format}</span></div>`;
+
+                const card = document.createElement('div');
+                card.className = "icon-card bg-white p-4 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center relative overflow-hidden transition hover:shadow-lg";
+                
+                card.innerHTML = `
+                    <div class="mb-3">${previewContent}</div>
+                    <p class="text-xs text-gray-500 truncate w-full text-center" title="${icon.name}">${icon.name}</p>
+                    <span class="text-[10px] bg-gray-100 text-gray-600 px-2 py-0.5 rounded mt-1">${icon.format}</span>
+                    
+                    <!-- Hover Actions -->
+                    <div class="overlay absolute inset-0 bg-white/90 backdrop-blur-sm opacity-0 flex flex-col items-center justify-center gap-2 transition-opacity duration-200">
+                        <button onclick="copyUrl('${icon.url}')" class="w-3/4 py-1.5 bg-gray-800 text-white text-xs rounded shadow hover:bg-gray-700 transition">
+                            <i class="fa-solid fa-link"></i> Copy URL
+                        </button>
+                        <button onclick="downloadIcon('${icon.url}', '${icon.name}')" class="w-3/4 py-1.5 bg-blue-600 text-white text-xs rounded shadow hover:bg-blue-700 transition">
+                            <i class="fa-solid fa-download"></i> Download
+                        </button>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Search Logic
+        searchInput.addEventListener('input', (e) => {
+            filterData();
+        });
+
+        // Filter Logic
+        let currentFilter = 'all';
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                // Update active button styling
+                filterBtns.forEach(b => {
+                    b.classList.remove('bg-blue-600', 'text-white');
+                    b.classList.add('bg-white', 'text-gray-600');
+                });
+                e.target.classList.remove('bg-white', 'text-gray-600');
+                e.target.classList.add('bg-blue-600', 'text-white');
+
+                currentFilter = e.target.getAttribute('data-filter');
+                filterData();
+            });
+        });
+
+        function filterData() {
+            const query = searchInput.value.toLowerCase();
+            displayedIcons = allIcons.filter(icon => {
+                const matchesSearch = icon.name.toLowerCase().includes(query) || icon.set.toLowerCase().includes(query);
+                const matchesFilter = currentFilter === 'all' || icon.format === currentFilter;
+                return matchesSearch && matchesFilter;
+            });
+            renderIcons();
+        }
+
+        // Copy CDN URL
+        function copyUrl(url) {
+            navigator.clipboard.writeText(url).then(() => {
+                showToast("CDN URL Copied!");
+            });
+        }
+
+        // Force Download (bypass cross-origin "open in new tab" behavior)
+        async function downloadIcon(url, filename) {
+            try {
+                showToast("Starting download...");
+                const response = await fetch(url);
+                const blob = await response.blob();
+                const blobUrl = window.URL.createObjectURL(blob);
+                
+                const a = document.createElement('a');
+                a.href = blobUrl;
+                a.download = filename;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                window.URL.revokeObjectURL(blobUrl);
+            } catch (err) {
+                // Fallback for strict CORS
+                window.open(url, '_blank');
+            }
+        }
+
+        // Toast Notification
+        const toast = document.getElementById('toast');
+        const toastMsg = document.getElementById('toastMsg');
+        let toastTimeout;
+        
+        function showToast(message) {
+            toastMsg.innerText = message;
+            toast.classList.remove('opacity-0');
+            clearTimeout(toastTimeout);
+            toastTimeout = setTimeout(() => {
+                toast.classList.add('opacity-0');
+            }, 2000);
+        }
+
+        // Initialize
+        fetchIcons();
+    </script>
+</body>
+</html>
