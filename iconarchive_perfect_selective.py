@@ -119,11 +119,13 @@ def get_all_pages(start_url):
         
     return pages
 
-# ---------- Step 3: Analyze Icon Formats ----------
-def get_icon_downloads(icon_url):
+# ---------- Step 3: Analyze Icon Formats & Tags ----------
+def get_icon_details(icon_url):
     data = {"Vector": [], "PNG": [], "Favicon": [], "Windows": [], "Mac": []}
+    tags = []
+    
     s = get_soup(icon_url)
-    if not s: return data
+    if not s: return data, tags
     
     table = s.select_one("table.down")
     if table:
@@ -140,7 +142,12 @@ def get_icon_downloads(icon_url):
                 elif "favicon" in cat_text: data["Favicon"].append(lnk)
                 elif "windows" in cat_text: data["Windows"].append(lnk)
                 elif "mac" in cat_text: data["Mac"].append(lnk)
-    return data
+                
+    # Extract Tags
+    for a in s.select("a.tagbutton"):
+        tags.append(a.text.strip())
+        
+    return data, tags
 
 # ---------- Step 4: JSON Manager ----------
 manifest_lock = threading.Lock()
@@ -186,8 +193,20 @@ def process_set(artist_dir, set_name, set_url, selected_categories):
     icon_urls = list(set(icon_urls))
     print(f"🖼️ Found {len(icon_urls)} total icons. Starting extraction...")
 
+    tags_file = os.path.join(folder, "tags.json")
+    pack_tags = {}
+    if os.path.exists(tags_file):
+        try:
+            with open(tags_file, "r", encoding="utf-8") as f:
+                pack_tags = json.load(f)
+        except Exception:
+            pass
+            
+    tags_lock = threading.Lock()
+
     def process_single_icon(icon_url):
-        downloads = get_icon_downloads(icon_url)
+        downloads, tags = get_icon_details(icon_url)
+        downloaded_bases = []
         
         for category, links in downloads.items():
             if category not in selected_categories:
@@ -205,10 +224,21 @@ def process_set(artist_dir, set_name, set_url, selected_categories):
                 success = download_file(dlink, filepath)
                 if success:
                     update_json(folder, category, filename)
+                    downloaded_bases.append(filename.split('.')[0])
+                    
+        if downloaded_bases and tags:
+            with tags_lock:
+                for base in set(downloaded_bases):
+                    pack_tags[base] = tags
 
     if icon_urls:
         with ThreadPoolExecutor(max_workers=6) as exe:
             list(tqdm(exe.map(process_single_icon, icon_urls), total=len(icon_urls), desc="Downloading", unit="icon"))
+            
+    # Save extracted tags locally to the pack folder
+    if pack_tags:
+        with open(tags_file, "w", encoding="utf-8") as f:
+            json.dump(pack_tags, f, indent=2)
 
 # ---------- Step 6: Static API Index Builder ----------
 def build_index():
@@ -221,8 +251,8 @@ def build_index():
         print(f"⚠️ Directory {base_dir} does not exist yet. Skipping index build.")
         return
 
-    # Dictionary to hold the hierarchical data before writing
     db = {}
+    pack_tags_cache = {}
     
     for root, dirs, files in os.walk(base_dir):
         for file in files:
@@ -233,7 +263,6 @@ def build_index():
             if ext not in valid_extensions:
                 continue
                 
-            # Path will now look like: Designer/Papirus-Team/Papirus-Apps/Vector/0ad.svg
             rel_path = os.path.relpath(os.path.join(root, file), ".")
             parts = rel_path.replace('\\', '/').split('/')
             
@@ -247,13 +276,29 @@ def build_index():
                 if icon_set not in db[artist]:
                     db[artist][icon_set] = []
                     
+                # Load tags for this pack dynamically
+                cache_key = f"{artist}/{icon_set}"
+                if cache_key not in pack_tags_cache:
+                    tags_path = os.path.join(DESIGNER_DIR, artist, icon_set, "tags.json")
+                    if os.path.exists(tags_path):
+                        try:
+                            with open(tags_path, 'r', encoding="utf-8") as f:
+                                pack_tags_cache[cache_key] = json.load(f)
+                        except:
+                            pack_tags_cache[cache_key] = {}
+                    else:
+                        pack_tags_cache[cache_key] = {}
+                        
+                base_name = file.split('.')[0]
+                icon_tags = pack_tags_cache[cache_key].get(base_name, [])
+                    
                 db[artist][icon_set].append({
                     "name": file,
                     "format": format_type,
-                    "path": "/".join(parts) # Web safe path
+                    "path": "/".join(parts), # Web safe path
+                    "tags": icon_tags
                 })
 
-    # --- Build the "data/" folder API ---
     API_DIR = "data"
     os.makedirs(os.path.join(API_DIR, "designers"), exist_ok=True)
     os.makedirs(os.path.join(API_DIR, "packs"), exist_ok=True)
@@ -277,8 +322,6 @@ def build_index():
         
         for pack, icons in packs.items():
             pack_id = pack
-            
-            # Sort icons in the pack
             icons = sorted(icons, key=lambda x: (x['format'], x['name']))
             
             designer_packs_list.append({
@@ -290,12 +333,10 @@ def build_index():
             designer_meta["iconCount"] += len(icons)
             total_icons_all += len(icons)
             
-            # 1. Write specific Pack JSON (Fastest for HTML to load icons)
             pack_json_path = os.path.join(artist_pack_dir, f"{pack_id}.json")
             with open(pack_json_path, 'w', encoding='utf-8') as f:
                 json.dump(icons, f, indent=2)
                 
-        # 2. Write specific Designer JSON (List of their packs)
         designer_packs_list = sorted(designer_packs_list, key=lambda x: x['name'])
         designer_json_path = os.path.join(API_DIR, "designers", f"{artist_id}.json")
         with open(designer_json_path, 'w', encoding='utf-8') as f:
@@ -303,7 +344,6 @@ def build_index():
             
         master_index.append(designer_meta)
 
-    # 3. Write lightweight Master Index
     master_index = sorted(master_index, key=lambda x: x['name'])
     
     with open('master_index.json', 'w', encoding='utf-8') as f:
@@ -315,7 +355,6 @@ def build_index():
 
 # ---------- Entry Point ----------
 def main():
-    # Make sure ROOT_DIR and DESIGNER_DIR both exist
     os.makedirs(DESIGNER_DIR, exist_ok=True)
     
     args = sys.argv[1:]
@@ -330,12 +369,9 @@ def main():
     }
     
     selected_categories = [category_map[a] for a in args_lower if a in category_map]
-    
-    if not selected_categories:
-        selected_categories = list(category_map.values())
+    if not selected_categories: selected_categories = list(category_map.values())
 
     force_update = "update" in args_lower or "force" in args_lower
-
     reserved_words = ["all", "update", "force"] + list(category_map.keys())
     specific_artists = [a for a in args if a.lower() not in reserved_words]
 
@@ -354,40 +390,27 @@ def main():
         with open("Designer.txt", "r", encoding="utf-8") as f:
             artists_to_process = [line.strip() for line in f if line.strip()]
             
-    if not artists_to_process:
-        print("❌ No artists found to process.")
-        return
+    if not artists_to_process: return
 
     print(f"✅ Categories to download: {', '.join(selected_categories)}")
     print(f"✅ Update/Force Mode: {'ON' if force_update else 'OFF'}")
 
     for artist_name in artists_to_process:
         artist_url = f"https://www.iconarchive.com/artist/{artist_name}.html"
-        
         artist_dir_name = "-".join(word.capitalize() for word in artist_name.split("-"))
-        # Save inside iconarchive/Designer/
         artist_dir = os.path.join(DESIGNER_DIR, artist_dir_name)
         
         print(f"\n{'='*60}\n👨‍🎨 Processing Artist: {artist_name}\n{'='*60}")
         
         if os.path.exists(artist_dir) and not force_update:
             if any(os.scandir(artist_dir)):
-                print(f"⏩ Skipping '{artist_dir_name}' (Already exists).")
-                print("   Use 'update' or 'force' argument to scan for missing files.")
+                print(f"⏩ Skipping '{artist_dir_name}' (Already exists). Use 'update' to fetch tags.")
                 continue
 
         os.makedirs(artist_dir, exist_ok=True)
-        print(f"📁 Base Directory: {artist_dir}")
-        print("🔍 Fetching Set Information...")
-        
         sets = get_sets(artist_url)
         
-        if not sets:
-            print(f"❌ Could not find any sets for {artist_name}. Please check the URL/Name.")
-            continue
-            
-        print(f"✅ Found {len(sets)} Sets.")
-        
+        if not sets: continue
         for set_name, set_url in sets:
             process_set(artist_dir, set_name, set_url, selected_categories)
 
