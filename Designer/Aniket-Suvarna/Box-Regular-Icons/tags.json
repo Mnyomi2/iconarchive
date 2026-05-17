@@ -1,0 +1,2871 @@
+{
+  "bx-message-square-dots": [
+    "message",
+    "square",
+    "dots"
+  ],
+  "bx-bus": [
+    "bus"
+  ],
+  "bx-camera": [
+    "camera"
+  ],
+  "bx-fingerprint": [
+    "fingerprint"
+  ],
+  "bx-shuffle": [
+    "shuffle"
+  ],
+  "bx-injection": [
+    "injection"
+  ],
+  "bx-window-close": [
+    "window",
+    "close"
+  ],
+  "bx-git-branch": [
+    "git",
+    "branch"
+  ],
+  "bx-move": [
+    "move"
+  ],
+  "bx-video-off": [
+    "video",
+    "off"
+  ],
+  "bx-joystick-alt": [
+    "joystick"
+  ],
+  "bx-chevrons-right": [
+    "chevrons",
+    "right"
+  ],
+  "bx-rewind-circle": [
+    "rewind",
+    "circle"
+  ],
+  "bx-directions": [
+    "directions"
+  ],
+  "bx-sticker": [
+    "sticker"
+  ],
+  "bx-camera-off": [
+    "camera",
+    "off"
+  ],
+  "bx-wrench": [
+    "wrench"
+  ],
+  "bx-transfer-alt": [
+    "transfer"
+  ],
+  "bx-compass": [
+    "compass"
+  ],
+  "bx-calendar-check": [
+    "calendar",
+    "check"
+  ],
+  "bx-phone-outgoing": [
+    "phone",
+    "outgoing"
+  ],
+  "bx-loader-alt": [
+    "loader"
+  ],
+  "bx-wink-smile": [
+    "wink",
+    "smile"
+  ],
+  "bx-edit-alt": [
+    "edit"
+  ],
+  "bx-laptop": [
+    "laptop"
+  ],
+  "bx-hash": [
+    "hash"
+  ],
+  "bx-caret-up": [
+    "caret",
+    "up"
+  ],
+  "bx-vertical-center": [
+    "vertical",
+    "center"
+  ],
+  "bx-equalizer": [
+    "equalizer"
+  ],
+  "bx-dots-horizontal": [
+    "dots",
+    "horizontal"
+  ],
+  "bx-wifi-0": [
+    "wifi"
+  ],
+  "bx-brush": [
+    "brush"
+  ],
+  "bx-minus": [
+    "minus"
+  ],
+  "bx-cabinet": [
+    "cabinet"
+  ],
+  "bx-heart": [
+    "heart"
+  ],
+  "bx-help-circle": [
+    "help",
+    "circle"
+  ],
+  "bx-palette": [
+    "palette"
+  ],
+  "bx-border-outer": [
+    "border",
+    "outer"
+  ],
+  "bx-magnet": [
+    "magnet"
+  ],
+  "bx-signal-1": [
+    "signal"
+  ],
+  "bx-bullseye": [
+    "bullseye"
+  ],
+  "bx-envelope-open": [
+    "envelope",
+    "open"
+  ],
+  "bx-fast-forward-circle": [
+    "fast",
+    "forward",
+    "circle"
+  ],
+  "bx-caret-up-circle": [
+    "caret",
+    "circle",
+    "up"
+  ],
+  "bx-credit-card-front": [
+    "credit",
+    "card",
+    "front"
+  ],
+  "bx-bell-minus": [
+    "bell",
+    "minus"
+  ],
+  "bx-arrow-from-top": [
+    "arrow",
+    "from",
+    "top"
+  ],
+  "bx-rename": [
+    "rename"
+  ],
+  "bx-cog": [
+    "cog"
+  ],
+  "bx-broadcast": [
+    "broadcast"
+  ],
+  "bx-music": [
+    "music"
+  ],
+  "bx-list-check": [
+    "list",
+    "check"
+  ],
+  "bx-shield-quarter": [
+    "shield",
+    "quarter"
+  ],
+  "bx-bookmark-heart": [
+    "bookmark",
+    "heart"
+  ],
+  "bx-chalkboard": [
+    "chalkboard"
+  ],
+  "bx-mouse-alt": [
+    "mouse"
+  ],
+  "bx-bed": [
+    "bed"
+  ],
+  "bx-export": [
+    "export"
+  ],
+  "bx-dice-2": [
+    "dice"
+  ],
+  "bx-walk": [
+    "walk"
+  ],
+  "bx-server": [
+    "server"
+  ],
+  "bx-mobile-alt": [
+    "mobile"
+  ],
+  "bx-chip": [
+    "chip"
+  ],
+  "bx-align-middle": [
+    "align",
+    "middle"
+  ],
+  "bx-swim": [
+    "swim"
+  ],
+  "bx-package": [
+    "package"
+  ],
+  "bx-envelope": [
+    "envelope"
+  ],
+  "bx-up-arrow": [
+    "arrow",
+    "up"
+  ],
+  "bx-bookmark-alt": [
+    "bookmark"
+  ],
+  "bx-first-aid": [
+    "first",
+    "aid"
+  ],
+  "bx-street-view": [
+    "street",
+    "view"
+  ],
+  "bx-plug": [
+    "plug"
+  ],
+  "bx-duplicate": [
+    "duplicate"
+  ],
+  "bx-hdd": [
+    "hdd"
+  ],
+  "bx-up-arrow-circle": [
+    "arrow",
+    "up",
+    "circle"
+  ],
+  "bx-comment-minus": [
+    "comment",
+    "minus"
+  ],
+  "bx-candles": [
+    "candles"
+  ],
+  "bx-caret-up-square": [
+    "caret",
+    "square",
+    "up"
+  ],
+  "bx-purchase-tag": [
+    "purchase",
+    "tag"
+  ],
+  "bx-circle": [
+    "circle"
+  ],
+  "bx-expand-vertical": [
+    "expand",
+    "vertical"
+  ],
+  "bx-label": [
+    "label"
+  ],
+  "bx-check-shield": [
+    "check",
+    "shield"
+  ],
+  "bx-alarm": [
+    "alarm"
+  ],
+  "bx-bowl-hot": [
+    "bowl",
+    "hot"
+  ],
+  "bx-folder": [
+    "folder"
+  ],
+  "bx-notepad": [
+    "notepad"
+  ],
+  "bx-volume-full": [
+    "volume",
+    "full"
+  ],
+  "bx-grid-vertical": [
+    "grid",
+    "vertical"
+  ],
+  "bx-dots-horizontal-rounded": [
+    "dots",
+    "horizontal",
+    "rounded"
+  ],
+  "bx-vertical-top": [
+    "vertical",
+    "top"
+  ],
+  "bx-caret-right-circle": [
+    "caret",
+    "right",
+    "circle"
+  ],
+  "bx-border-top": [
+    "border",
+    "top"
+  ],
+  "bx-building": [
+    "building"
+  ],
+  "bx-bookmarks": [
+    "bookmarks"
+  ],
+  "bx-grid-alt": [
+    "grid"
+  ],
+  "bx-wind": [
+    "wind"
+  ],
+  "bx-info-square": [
+    "info",
+    "square"
+  ],
+  "bx-copy": [
+    "copy"
+  ],
+  "bx-comment-dots": [
+    "comment",
+    "dots"
+  ],
+  "bx-upside-down": [
+    "upside",
+    "down"
+  ],
+  "bx-block": [
+    "block"
+  ],
+  "bx-book-alt": [
+    "book"
+  ],
+  "bx-play": [
+    "play"
+  ],
+  "bx-abacus": [
+    "abacus"
+  ],
+  "bx-exclude": [
+    "exclude"
+  ],
+  "bx-buildings": [
+    "buildings"
+  ],
+  "bx-caret-right-square": [
+    "caret",
+    "right",
+    "square"
+  ],
+  "bx-chevron-down": [
+    "chevron",
+    "down"
+  ],
+  "bx-repost": [
+    "repost"
+  ],
+  "bx-microphone": [
+    "microphone"
+  ],
+  "bx-pin": [
+    "pin"
+  ],
+  "bx-battery": [
+    "battery"
+  ],
+  "bx-exit-fullscreen": [
+    "exit",
+    "fullscreen"
+  ],
+  "bx-dice-1": [
+    "dice"
+  ],
+  "bx-cloud-snow": [
+    "cloud",
+    "snow"
+  ],
+  "bx-badge-check": [
+    "badge",
+    "check"
+  ],
+  "bx-tachometer": [
+    "tachometer"
+  ],
+  "bx-bookmark-alt-plus": [
+    "bookmark",
+    "plus"
+  ],
+  "bx-male-female": [
+    "male",
+    "female"
+  ],
+  "bx-color": [
+    "color"
+  ],
+  "bx-move-horizontal": [
+    "move",
+    "horizontal"
+  ],
+  "bx-message-square": [
+    "message",
+    "square"
+  ],
+  "bx-taxi": [
+    "taxi"
+  ],
+  "bx-signal-5": [
+    "signal"
+  ],
+  "bx-send": [
+    "send"
+  ],
+  "bx-plus-circle": [
+    "plus",
+    "circle"
+  ],
+  "bx-collection": [
+    "collection"
+  ],
+  "bx-joystick-button": [
+    "joystick",
+    "button"
+  ],
+  "bx-comment-error": [
+    "comment",
+    "error"
+  ],
+  "bx-dice-6": [
+    "dice"
+  ],
+  "bx-restaurant": [
+    "restaurant"
+  ],
+  "bx-left-top-arrow-circle": [
+    "left",
+    "top",
+    "arrow",
+    "circle"
+  ],
+  "bx-wifi-1": [
+    "wifi"
+  ],
+  "bx-paint-roll": [
+    "paint",
+    "roll"
+  ],
+  "bx-chevron-right-square": [
+    "chevron",
+    "right",
+    "square"
+  ],
+  "bx-car": [
+    "car"
+  ],
+  "bx-message-alt-add": [
+    "message",
+    "add"
+  ],
+  "bx-move-vertical": [
+    "move",
+    "vertical"
+  ],
+  "bx-folder-plus": [
+    "folder",
+    "plus"
+  ],
+  "bx-bar-chart-alt-2": [
+    "bar",
+    "chart"
+  ],
+  "bx-caret-down": [
+    "caret",
+    "down"
+  ],
+  "bx-mask": [
+    "mask"
+  ],
+  "bx-border-none": [
+    "border",
+    "none"
+  ],
+  "bx-bath": [
+    "bath"
+  ],
+  "bx-no-entry": [
+    "entry",
+    "no"
+  ],
+  "bx-check-circle": [
+    "check",
+    "circle"
+  ],
+  "bx-baguette": [
+    "baguette"
+  ],
+  "bx-male": [
+    "male"
+  ],
+  "bx-calendar-heart": [
+    "calendar",
+    "heart"
+  ],
+  "bx-dna": [
+    "dna"
+  ],
+  "bx-toggle-left": [
+    "toggle",
+    "left"
+  ],
+  "bx-extension": [
+    "extension"
+  ],
+  "bx-subdirectory-left": [
+    "left",
+    "subdirectory"
+  ],
+  "bx-purchase-tag-alt": [
+    "purchase",
+    "tag"
+  ],
+  "bx-list-minus": [
+    "list",
+    "minus"
+  ],
+  "bx-fast-forward": [
+    "fast",
+    "forward"
+  ],
+  "bx-home-circle": [
+    "home",
+    "circle"
+  ],
+  "bx-grid-small": [
+    "grid",
+    "small"
+  ],
+  "bx-basketball": [
+    "basketball"
+  ],
+  "bx-pulse": [
+    "pulse"
+  ],
+  "bx-volume-mute": [
+    "volume",
+    "mute"
+  ],
+  "bx-layer": [
+    "layer"
+  ],
+  "bx-mobile-vibration": [
+    "mobile",
+    "vibration"
+  ],
+  "bx-closet": [
+    "closet"
+  ],
+  "bx-repeat": [
+    "repeat"
+  ],
+  "bx-code-alt": [
+    "code"
+  ],
+  "bx-trending-down": [
+    "trending",
+    "down"
+  ],
+  "bx-cloud-lightning": [
+    "cloud",
+    "lightning"
+  ],
+  "bx-checkbox-checked": [
+    "checkbox",
+    "checked"
+  ],
+  "bx-filter-alt": [
+    "filter"
+  ],
+  "bx-money-withdraw": [
+    "money",
+    "withdraw"
+  ],
+  "bx-right-arrow": [
+    "right",
+    "arrow"
+  ],
+  "bx-task-x": [
+    "task"
+  ],
+  "bx-key": [
+    "key"
+  ],
+  "bx-objects-vertical-bottom": [
+    "objects",
+    "vertical",
+    "bottom"
+  ],
+  "bx-detail": [
+    "detail"
+  ],
+  "bx-dislike": [
+    "dislike"
+  ],
+  "bx-pause-circle": [
+    "pause",
+    "circle"
+  ],
+  "bx-beer": [
+    "beer"
+  ],
+  "bx-add-to-queue": [
+    "add",
+    "queue"
+  ],
+  "bx-radio": [
+    "radio"
+  ],
+  "bx-message-square-add": [
+    "message",
+    "square",
+    "add"
+  ],
+  "bx-euro": [
+    "euro"
+  ],
+  "bx-church": [
+    "church"
+  ],
+  "bx-rotate-right": [
+    "rotate",
+    "right"
+  ],
+  "bx-underline": [
+    "underline"
+  ],
+  "bx-chevron-up-square": [
+    "chevron",
+    "square",
+    "up"
+  ],
+  "bx-intersect": [
+    "intersect"
+  ],
+  "bx-briefcase-alt-2": [
+    "briefcase"
+  ],
+  "bx-brush-alt": [
+    "brush"
+  ],
+  "bx-selection": [
+    "selection"
+  ],
+  "bx-reflect-horizontal": [
+    "reflect",
+    "horizontal"
+  ],
+  "bx-award": [
+    "award"
+  ],
+  "bx-user-plus": [
+    "user",
+    "plus"
+  ],
+  "bx-transfer": [
+    "transfer"
+  ],
+  "bx-planet": [
+    "planet"
+  ],
+  "bx-file": [
+    "file"
+  ],
+  "bx-comment-check": [
+    "comment",
+    "check"
+  ],
+  "bx-category": [
+    "category"
+  ],
+  "bx-menu-alt-left": [
+    "menu",
+    "left"
+  ],
+  "bx-unite": [
+    "unite"
+  ],
+  "bx-wifi": [
+    "wifi"
+  ],
+  "bx-layout": [
+    "layout"
+  ],
+  "bx-football": [
+    "football"
+  ],
+  "bx-cool": [
+    "cool"
+  ],
+  "bx-clipboard": [
+    "clipboard"
+  ],
+  "bx-ball": [
+    "ball"
+  ],
+  "bx-skip-next-circle": [
+    "skip",
+    "next",
+    "circle"
+  ],
+  "bx-skip-next": [
+    "skip",
+    "next"
+  ],
+  "bx-microchip": [
+    "microchip"
+  ],
+  "bx-arrow-from-bottom": [
+    "arrow",
+    "from",
+    "bottom"
+  ],
+  "bx-line-chart": [
+    "line",
+    "chart"
+  ],
+  "bx-dish": [
+    "dish"
+  ],
+  "bx-bible": [
+    "bible"
+  ],
+  "bx-hive": [
+    "hive"
+  ],
+  "bx-happy": [
+    "happy"
+  ],
+  "bx-message-square-x": [
+    "message",
+    "square"
+  ],
+  "bx-shape-circle": [
+    "shape",
+    "circle"
+  ],
+  "bx-shield-minus": [
+    "shield",
+    "minus"
+  ],
+  "bx-pie-chart": [
+    "pie",
+    "chart"
+  ],
+  "bx-scan": [
+    "scan"
+  ],
+  "bx-radio-circle-marked": [
+    "radio",
+    "circle",
+    "marked"
+  ],
+  "bx-glasses-alt": [
+    "glasses"
+  ],
+  "bx-list-ul": [
+    "list"
+  ],
+  "bx-adjust": [
+    "adjust"
+  ],
+  "bx-skip-previous-circle": [
+    "skip",
+    "previous",
+    "circle"
+  ],
+  "bx-border-right": [
+    "border",
+    "right"
+  ],
+  "bx-trim": [
+    "trim"
+  ],
+  "bx-arrow-from-right": [
+    "arrow",
+    "from",
+    "right"
+  ],
+  "bx-donate-heart": [
+    "donate",
+    "heart"
+  ],
+  "bx-coffee": [
+    "coffee"
+  ],
+  "bx-checkbox-square": [
+    "checkbox",
+    "square"
+  ],
+  "bx-certification": [
+    "certification"
+  ],
+  "bx-registered": [
+    "registered"
+  ],
+  "bx-file-find": [
+    "file",
+    "find"
+  ],
+  "bx-vial": [
+    "vial"
+  ],
+  "bx-shield-plus": [
+    "shield",
+    "plus"
+  ],
+  "bx-buoy": [
+    "buoy"
+  ],
+  "bx-bolt-circle": [
+    "bolt",
+    "circle"
+  ],
+  "bx-video-recording": [
+    "video",
+    "recording"
+  ],
+  "bx-dumbbell": [
+    "dumbbell"
+  ],
+  "bx-carousel": [
+    "carousel"
+  ],
+  "bx-checkbox-minus": [
+    "checkbox",
+    "minus"
+  ],
+  "bx-grid-horizontal": [
+    "grid",
+    "horizontal"
+  ],
+  "bx-align-justify": [
+    "align",
+    "justify"
+  ],
+  "bx-barcode-reader": [
+    "barcode",
+    "reader"
+  ],
+  "bx-box": [
+    "box"
+  ],
+  "bx-trip": [
+    "trip"
+  ],
+  "bx-highlight": [
+    "highlight"
+  ],
+  "bx-comment": [
+    "comment"
+  ],
+  "bx-grid": [
+    "grid"
+  ],
+  "bx-horizontal-right": [
+    "horizontal",
+    "right"
+  ],
+  "bx-target-lock": [
+    "target",
+    "lock"
+  ],
+  "bx-upload": [
+    "upload"
+  ],
+  "bx-code-curly": [
+    "code",
+    "curly"
+  ],
+  "bx-shower": [
+    "shower"
+  ],
+  "bx-line-chart-down": [
+    "line",
+    "chart",
+    "down"
+  ],
+  "bx-wink-tongue": [
+    "wink",
+    "tongue"
+  ],
+  "bx-caret-left": [
+    "caret",
+    "left"
+  ],
+  "bx-rocket": [
+    "rocket"
+  ],
+  "bx-map-pin": [
+    "map",
+    "pin"
+  ],
+  "bx-image-add": [
+    "image",
+    "add"
+  ],
+  "bx-devices": [
+    "devices"
+  ],
+  "bx-image-alt": [
+    "image"
+  ],
+  "bx-arrow-to-right": [
+    "arrow",
+    "right"
+  ],
+  "bx-mail-send": [
+    "mail",
+    "send"
+  ],
+  "bx-female": [
+    "female"
+  ],
+  "bx-alarm-off": [
+    "alarm",
+    "off"
+  ],
+  "bx-photo-album": [
+    "photo",
+    "album"
+  ],
+  "bx-left-indent": [
+    "left",
+    "indent"
+  ],
+  "bx-rss": [
+    "rss"
+  ],
+  "bx-rewind": [
+    "rewind"
+  ],
+  "bx-bowling-ball": [
+    "bowling",
+    "ball"
+  ],
+  "bx-subdirectory-right": [
+    "right",
+    "subdirectory"
+  ],
+  "bx-calendar-exclamation": [
+    "calendar",
+    "exclamation"
+  ],
+  "bx-note": [
+    "note"
+  ],
+  "bx-ghost": [
+    "ghost"
+  ],
+  "bx-chevron-down-square": [
+    "chevron",
+    "down",
+    "square"
+  ],
+  "bx-left-arrow": [
+    "left",
+    "arrow"
+  ],
+  "bx-brightness-half": [
+    "brightness",
+    "half"
+  ],
+  "bx-objects-horizontal-center": [
+    "objects",
+    "center",
+    "horizontal"
+  ],
+  "bx-building-house": [
+    "building",
+    "house"
+  ],
+  "bx-comment-edit": [
+    "comment",
+    "edit"
+  ],
+  "bx-folder-minus": [
+    "folder",
+    "minus"
+  ],
+  "bx-objects-vertical-center": [
+    "objects",
+    "vertical",
+    "center"
+  ],
+  "bx-cart": [
+    "cart"
+  ],
+  "bx-trending-up": [
+    "trending",
+    "up"
+  ],
+  "bx-user-voice": [
+    "user",
+    "voice"
+  ],
+  "bx-bold": [
+    "bold"
+  ],
+  "bx-play-circle": [
+    "play",
+    "circle"
+  ],
+  "bx-shape-triangle": [
+    "shape",
+    "triangle"
+  ],
+  "bx-exit": [
+    "exit"
+  ],
+  "bx-cylinder": [
+    "cylinder"
+  ],
+  "bx-arrow-to-top": [
+    "arrow",
+    "top"
+  ],
+  "bx-caret-right": [
+    "caret",
+    "right"
+  ],
+  "bx-sad": [
+    "sad"
+  ],
+  "bx-chart": [
+    "chart"
+  ],
+  "bx-run": [
+    "run"
+  ],
+  "bx-checkbox": [
+    "checkbox"
+  ],
+  "bx-refresh": [
+    "refresh"
+  ],
+  "bx-navigation": [
+    "navigation"
+  ],
+  "bx-select-multiple": [
+    "select",
+    "multiple"
+  ],
+  "bx-border-bottom": [
+    "border",
+    "bottom"
+  ],
+  "bx-chair": [
+    "chair"
+  ],
+  "bx-universal-access": [
+    "universal",
+    "access"
+  ],
+  "bx-donate-blood": [
+    "donate",
+    "blood"
+  ],
+  "bx-fullscreen": [
+    "fullscreen"
+  ],
+  "bx-book-heart": [
+    "book",
+    "heart"
+  ],
+  "bx-support": [
+    "support"
+  ],
+  "bx-user-x": [
+    "user"
+  ],
+  "bx-text": [
+    "text"
+  ],
+  "bx-calendar-star": [
+    "calendar",
+    "star"
+  ],
+  "bx-heading": [
+    "heading"
+  ],
+  "bx-cheese": [
+    "cheese"
+  ],
+  "bx-paint": [
+    "paint"
+  ],
+  "bx-lemon": [
+    "lemon"
+  ],
+  "bx-border-radius": [
+    "border",
+    "radius"
+  ],
+  "bx-error-circle": [
+    "error",
+    "circle"
+  ],
+  "bx-history": [
+    "history"
+  ],
+  "bx-hotel": [
+    "hotel"
+  ],
+  "bx-microphone-off": [
+    "microphone",
+    "off"
+  ],
+  "bx-water": [
+    "water"
+  ],
+  "bx-tennis-ball": [
+    "tennis",
+    "ball"
+  ],
+  "bx-happy-alt": [
+    "happy"
+  ],
+  "bx-dock-top": [
+    "dock",
+    "top"
+  ],
+  "bx-hourglass": [
+    "hourglass"
+  ],
+  "bx-border-inner": [
+    "border",
+    "inner"
+  ],
+  "bx-volume": [
+    "volume"
+  ],
+  "bx-edit": [
+    "edit"
+  ],
+  "bx-rectangle": [
+    "rectangle"
+  ],
+  "bx-caret-down-square": [
+    "caret",
+    "down",
+    "square"
+  ],
+  "bx-like": [
+    "like"
+  ],
+  "bx-message-rounded-x": [
+    "message",
+    "rounded"
+  ],
+  "bx-upvote": [
+    "upvote"
+  ],
+  "bx-badge": [
+    "badge"
+  ],
+  "bx-headphone": [
+    "headphone"
+  ],
+  "bx-bug-alt": [
+    "bug"
+  ],
+  "bx-card": [
+    "card"
+  ],
+  "bx-scatter-chart": [
+    "scatter",
+    "chart"
+  ],
+  "bx-paste": [
+    "paste"
+  ],
+  "bx-wine": [
+    "wine"
+  ],
+  "bx-message-alt-x": [
+    "message"
+  ],
+  "bx-shield-x": [
+    "shield"
+  ],
+  "bx-globe": [
+    "globe"
+  ],
+  "bx-message-square-detail": [
+    "message",
+    "square",
+    "detail"
+  ],
+  "bx-atom": [
+    "atom"
+  ],
+  "bx-wifi-off": [
+    "wifi",
+    "off"
+  ],
+  "bx-down-arrow": [
+    "down",
+    "arrow"
+  ],
+  "bx-mobile": [
+    "mobile"
+  ],
+  "bx-sort-a-z": [
+    "sort"
+  ],
+  "bx-bar-chart-square": [
+    "bar",
+    "chart",
+    "square"
+  ],
+  "bx-message-alt": [
+    "message"
+  ],
+  "bx-show-alt": [
+    "show"
+  ],
+  "bx-circle-half": [
+    "circle",
+    "half"
+  ],
+  "bx-sort-down": [
+    "sort",
+    "down"
+  ],
+  "bx-bulb": [
+    "bulb"
+  ],
+  "bx-tired": [
+    "tired"
+  ],
+  "bx-laugh": [
+    "laugh"
+  ],
+  "bx-no-signal": [
+    "no",
+    "signal"
+  ],
+  "bx-meteor": [
+    "meteor"
+  ],
+  "bx-droplet": [
+    "droplet"
+  ],
+  "bx-user-circle": [
+    "user",
+    "circle"
+  ],
+  "bx-leaf": [
+    "leaf"
+  ],
+  "bx-chat": [
+    "chat"
+  ],
+  "bx-space-bar": [
+    "space",
+    "bar"
+  ],
+  "bx-infinite": [
+    "infinite"
+  ],
+  "bx-share-alt": [
+    "share"
+  ],
+  "bx-money": [
+    "money"
+  ],
+  "bx-paper-plane": [
+    "paper",
+    "plane"
+  ],
+  "bx-message-alt-detail": [
+    "message",
+    "detail"
+  ],
+  "bx-sleepy": [
+    "sleepy"
+  ],
+  "bx-aperture": [
+    "aperture"
+  ],
+  "bx-home": [
+    "home"
+  ],
+  "bx-accessibility": [
+    "accessibility"
+  ],
+  "bx-mouse": [
+    "mouse"
+  ],
+  "bx-message-alt-minus": [
+    "message",
+    "minus"
+  ],
+  "bx-radio-circle": [
+    "radio",
+    "circle"
+  ],
+  "bx-circle-quarter": [
+    "circle",
+    "quarter"
+  ],
+  "bx-arrow-to-left": [
+    "arrow",
+    "left"
+  ],
+  "bx-sidebar": [
+    "sidebar"
+  ],
+  "bx-plus": [
+    "plus"
+  ],
+  "bx-home-heart": [
+    "home",
+    "heart"
+  ],
+  "bx-reflect-vertical": [
+    "reflect",
+    "vertical"
+  ],
+  "bx-objects-horizontal-left": [
+    "objects",
+    "horizontal",
+    "left"
+  ],
+  "bx-message-alt-error": [
+    "message",
+    "error"
+  ],
+  "bx-handicap": [
+    "handicap"
+  ],
+  "bx-message-minus": [
+    "message",
+    "minus"
+  ],
+  "bx-down-arrow-circle": [
+    "down",
+    "arrow",
+    "circle"
+  ],
+  "bx-memory-card": [
+    "memory",
+    "card"
+  ],
+  "bx-command": [
+    "command"
+  ],
+  "bx-message-rounded-detail": [
+    "message",
+    "rounded",
+    "detail"
+  ],
+  "bx-current-location": [
+    "current",
+    "location"
+  ],
+  "bx-message-x": [
+    "message"
+  ],
+  "bx-zoom-in": [
+    "zoom"
+  ],
+  "bx-objects-vertical-top": [
+    "objects",
+    "vertical",
+    "top"
+  ],
+  "bx-minus-front": [
+    "minus",
+    "front"
+  ],
+  "bx-credit-card-alt": [
+    "credit",
+    "card"
+  ],
+  "bx-log-in": [
+    "log"
+  ],
+  "bx-cube-alt": [
+    "cube"
+  ],
+  "bx-crown": [
+    "crown"
+  ],
+  "bx-food-menu": [
+    "food",
+    "menu"
+  ],
+  "bx-group": [
+    "group"
+  ],
+  "bx-face": [
+    "face"
+  ],
+  "bx-movie": [
+    "movie"
+  ],
+  "bx-phone": [
+    "phone"
+  ],
+  "bx-video": [
+    "video"
+  ],
+  "bx-cable-car": [
+    "cable",
+    "car"
+  ],
+  "bx-happy-beaming": [
+    "happy",
+    "beaming"
+  ],
+  "bx-color-fill": [
+    "color",
+    "fill"
+  ],
+  "bx-lock-alt": [
+    "lock"
+  ],
+  "bx-message-square-minus": [
+    "message",
+    "square",
+    "minus"
+  ],
+  "bx-screenshot": [
+    "screenshot"
+  ],
+  "bx-collapse-alt": [
+    "collapse"
+  ],
+  "bx-phone-call": [
+    "phone",
+    "call"
+  ],
+  "bx-square": [
+    "square"
+  ],
+  "bx-home-smile": [
+    "home",
+    "smile"
+  ],
+  "bx-collapse": [
+    "collapse"
+  ],
+  "bx-receipt": [
+    "receipt"
+  ],
+  "bx-user-pin": [
+    "user",
+    "pin"
+  ],
+  "bx-wallet-alt": [
+    "wallet"
+  ],
+  "bx-band-aid": [
+    "band",
+    "aid"
+  ],
+  "bx-coin-stack": [
+    "coin",
+    "stack"
+  ],
+  "bx-ruler": [
+    "ruler"
+  ],
+  "bx-signal-3": [
+    "signal"
+  ],
+  "bx-message-alt-check": [
+    "message",
+    "check"
+  ],
+  "bx-area": [
+    "area"
+  ],
+  "bx-archive-in": [
+    "archive"
+  ],
+  "bx-chevron-up": [
+    "chevron",
+    "up"
+  ],
+  "bx-archive-out": [
+    "archive",
+    "out"
+  ],
+  "bx-rotate-left": [
+    "rotate",
+    "left"
+  ],
+  "bx-shield-alt": [
+    "shield"
+  ],
+  "bx-reply-all": [
+    "reply"
+  ],
+  "bx-cake": [
+    "cake"
+  ],
+  "bx-ruble": [
+    "ruble"
+  ],
+  "bx-time": [
+    "time"
+  ],
+  "bx-meh": [
+    "meh"
+  ],
+  "bx-briefcase": [
+    "briefcase"
+  ],
+  "bx-reply": [
+    "reply"
+  ],
+  "bx-barcode": [
+    "barcode"
+  ],
+  "bx-message-alt-edit": [
+    "message",
+    "edit"
+  ],
+  "bx-log-out-circle": [
+    "log",
+    "out",
+    "circle"
+  ],
+  "bx-camera-home": [
+    "camera",
+    "home"
+  ],
+  "bx-message-rounded-edit": [
+    "message",
+    "rounded",
+    "edit"
+  ],
+  "bx-calendar-edit": [
+    "calendar",
+    "edit"
+  ],
+  "bx-bug": [
+    "bug"
+  ],
+  "bx-drink": [
+    "drink"
+  ],
+  "bx-info-circle": [
+    "info",
+    "circle"
+  ],
+  "bx-folder-open": [
+    "folder",
+    "open"
+  ],
+  "bx-alarm-exclamation": [
+    "alarm",
+    "exclamation"
+  ],
+  "bx-heart-square": [
+    "heart",
+    "square"
+  ],
+  "bx-cast": [
+    "cast"
+  ],
+  "bx-code-block": [
+    "code",
+    "block"
+  ],
+  "bx-lock": [
+    "lock"
+  ],
+  "bx-math": [
+    "math"
+  ],
+  "bx-cloud-rain": [
+    "cloud",
+    "rain"
+  ],
+  "bx-cloud-light-rain": [
+    "cloud",
+    "light",
+    "rain"
+  ],
+  "bx-file-blank": [
+    "file",
+    "blank"
+  ],
+  "bx-dice-3": [
+    "dice"
+  ],
+  "bx-test-tube": [
+    "test",
+    "tube"
+  ],
+  "bx-bomb": [
+    "bomb"
+  ],
+  "bx-station": [
+    "station"
+  ],
+  "bx-bell-off": [
+    "bell",
+    "off"
+  ],
+  "bx-terminal": [
+    "terminal"
+  ],
+  "bx-skip-previous": [
+    "skip",
+    "previous"
+  ],
+  "bx-dice-5": [
+    "dice"
+  ],
+  "bx-shopping-bag": [
+    "shopping",
+    "bag"
+  ],
+  "bx-lock-open-alt": [
+    "lock",
+    "open"
+  ],
+  "bx-food-tag": [
+    "food",
+    "tag"
+  ],
+  "bx-cart-alt": [
+    "cart"
+  ],
+  "bx-chevron-up-circle": [
+    "chevron",
+    "circle",
+    "up"
+  ],
+  "bx-table": [
+    "table"
+  ],
+  "bx-braille": [
+    "braille"
+  ],
+  "bx-check": [
+    "check"
+  ],
+  "bx-cycling": [
+    "cycling"
+  ],
+  "bx-world": [
+    "world"
+  ],
+  "bx-link-external": [
+    "link",
+    "external"
+  ],
+  "bx-brain": [
+    "brain"
+  ],
+  "bx-git-compare": [
+    "git",
+    "compare"
+  ],
+  "bx-shekel": [
+    "shekel"
+  ],
+  "bx-pie-chart-alt": [
+    "pie",
+    "chart"
+  ],
+  "bx-image": [
+    "image"
+  ],
+  "bx-paperclip": [
+    "paperclip"
+  ],
+  "bx-rupee": [
+    "rupee"
+  ],
+  "bx-plus-medical": [
+    "plus",
+    "medical"
+  ],
+  "bx-news": [
+    "news"
+  ],
+  "bx-reset": [
+    "reset"
+  ],
+  "bx-hide": [
+    "hide"
+  ],
+  "bx-dollar": [
+    "dollar"
+  ],
+  "bx-search-alt-2": [
+    "search"
+  ],
+  "bx-tag": [
+    "tag"
+  ],
+  "bx-desktop": [
+    "desktop"
+  ],
+  "bx-alarm-add": [
+    "alarm",
+    "add"
+  ],
+  "bx-tab": [
+    "tab"
+  ],
+  "bx-power-off": [
+    "power",
+    "off"
+  ],
+  "bx-gift": [
+    "gift"
+  ],
+  "bx-meh-alt": [
+    "meh"
+  ],
+  "bx-comment-detail": [
+    "comment",
+    "detail"
+  ],
+  "bx-check-square": [
+    "check",
+    "square"
+  ],
+  "bx-slideshow": [
+    "slideshow"
+  ],
+  "bx-bluetooth": [
+    "bluetooth"
+  ],
+  "bx-category-alt": [
+    "category"
+  ],
+  "bx-pie-chart-alt-2": [
+    "pie",
+    "chart"
+  ],
+  "bx-trash-alt": [
+    "trash"
+  ],
+  "bx-signal-2": [
+    "signal"
+  ],
+  "bx-lock-open": [
+    "lock",
+    "open"
+  ],
+  "bx-message-square-check": [
+    "message",
+    "square",
+    "check"
+  ],
+  "bx-diamond": [
+    "diamond"
+  ],
+  "bx-coin": [
+    "coin"
+  ],
+  "bx-comment-x": [
+    "comment"
+  ],
+  "bx-window-open": [
+    "window",
+    "open"
+  ],
+  "bx-windows": [
+    "windows"
+  ],
+  "bx-message-edit": [
+    "message",
+    "edit"
+  ],
+  "bx-outline": [
+    "outline"
+  ],
+  "bx-star": [
+    "star"
+  ],
+  "bx-bitcoin": [
+    "bitcoin"
+  ],
+  "bx-unlink": [
+    "unlink"
+  ],
+  "bx-minus-circle": [
+    "minus",
+    "circle"
+  ],
+  "bx-dizzy": [
+    "dizzy"
+  ],
+  "bx-calendar-minus": [
+    "calendar",
+    "minus"
+  ],
+  "bx-right-arrow-circle": [
+    "right",
+    "arrow",
+    "circle"
+  ],
+  "bx-briefcase-alt": [
+    "briefcase"
+  ],
+  "bx-bowl-rice": [
+    "bowl",
+    "rice"
+  ],
+  "bx-speaker": [
+    "speaker"
+  ],
+  "bx-game": [
+    "game"
+  ],
+  "bx-share": [
+    "share"
+  ],
+  "bx-blanket": [
+    "blanket"
+  ],
+  "bx-conversation": [
+    "conversation"
+  ],
+  "bx-arrow-back": [
+    "arrow",
+    "back"
+  ],
+  "bx-x-circle": [
+    "circle"
+  ],
+  "bx-happy-heart-eyes": [
+    "happy",
+    "heart",
+    "eyes"
+  ],
+  "bx-cross": [
+    "cross"
+  ],
+  "bx-been-here": [
+    "been",
+    "here"
+  ],
+  "bx-usb": [
+    "usb"
+  ],
+  "bx-sort-z-a": [
+    "sort"
+  ],
+  "bx-door-open": [
+    "door",
+    "open"
+  ],
+  "bx-camera-movie": [
+    "camera",
+    "movie"
+  ],
+  "bx-bracket": [
+    "bracket"
+  ],
+  "bx-gas-pump": [
+    "gas",
+    "pump"
+  ],
+  "bx-sync": [
+    "sync"
+  ],
+  "bx-brightness": [
+    "brightness"
+  ],
+  "bx-arrow-from-left": [
+    "arrow",
+    "from",
+    "left"
+  ],
+  "bx-caret-down-circle": [
+    "caret",
+    "down",
+    "circle"
+  ],
+  "bx-downvote": [
+    "downvote"
+  ],
+  "bx-error": [
+    "error"
+  ],
+  "bx-cloud-upload": [
+    "cloud",
+    "upload"
+  ],
+  "bx-bus-school": [
+    "bus",
+    "school"
+  ],
+  "bx-pyramid": [
+    "pyramid"
+  ],
+  "bx-video-plus": [
+    "video",
+    "plus"
+  ],
+  "bx-align-left": [
+    "align",
+    "left"
+  ],
+  "bx-spreadsheet": [
+    "spreadsheet"
+  ],
+  "bx-book-bookmark": [
+    "book",
+    "bookmark"
+  ],
+  "bx-list-plus": [
+    "list",
+    "plus"
+  ],
+  "bx-message-rounded-dots": [
+    "message",
+    "rounded",
+    "dots"
+  ],
+  "bx-left-arrow-alt": [
+    "left",
+    "arrow"
+  ],
+  "bx-vector": [
+    "vector"
+  ],
+  "bx-qr-scan": [
+    "scan"
+  ],
+  "bx-calendar-x": [
+    "calendar"
+  ],
+  "bx-loader": [
+    "loader"
+  ],
+  "bx-chevron-left": [
+    "chevron",
+    "left"
+  ],
+  "bx-spray-can": [
+    "spray",
+    "can"
+  ],
+  "bx-git-pull-request": [
+    "git",
+    "pull",
+    "request"
+  ],
+  "bx-landscape": [
+    "landscape"
+  ],
+  "bx-toggle-right": [
+    "toggle",
+    "right"
+  ],
+  "bx-window-alt": [
+    "window"
+  ],
+  "bx-book-content": [
+    "book",
+    "content"
+  ],
+  "bx-won": [
+    "won"
+  ],
+  "bx-pound": [
+    "pound"
+  ],
+  "bx-chevron-right": [
+    "chevron",
+    "right"
+  ],
+  "bx-crosshair": [
+    "crosshair"
+  ],
+  "bx-pointer": [
+    "pointer"
+  ],
+  "bx-child": [
+    "child"
+  ],
+  "bx-baseball": [
+    "baseball"
+  ],
+  "bx-message-rounded-error": [
+    "message",
+    "rounded",
+    "error"
+  ],
+  "bx-library": [
+    "library"
+  ],
+  "bx-undo": [
+    "undo"
+  ],
+  "bx-clinic": [
+    "clinic"
+  ],
+  "bx-medal": [
+    "medal"
+  ],
+  "bx-joystick": [
+    "joystick"
+  ],
+  "bx-link": [
+    "link"
+  ],
+  "bx-expand-alt": [
+    "expand"
+  ],
+  "bx-sun": [
+    "sun"
+  ],
+  "bx-minus-back": [
+    "minus",
+    "back"
+  ],
+  "bx-caret-left-circle": [
+    "caret",
+    "left",
+    "circle"
+  ],
+  "bx-notification": [
+    "notification"
+  ],
+  "bx-cuboid": [
+    "cuboid"
+  ],
+  "bx-show": [
+    "show"
+  ],
+  "bx-font-family": [
+    "font",
+    "family"
+  ],
+  "bx-cube": [
+    "cube"
+  ],
+  "bx-layer-plus": [
+    "layer",
+    "plus"
+  ],
+  "bx-sushi": [
+    "sushi"
+  ],
+  "bx-tag-alt": [
+    "tag"
+  ],
+  "bx-cart-download": [
+    "cart",
+    "download"
+  ],
+  "bx-strikethrough": [
+    "strikethrough"
+  ],
+  "bx-webcam": [
+    "webcam"
+  ],
+  "bx-sort-up": [
+    "sort",
+    "up"
+  ],
+  "bx-vertical-bottom": [
+    "vertical",
+    "bottom"
+  ],
+  "bx-calendar-event": [
+    "calendar",
+    "event"
+  ],
+  "bx-notification-off": [
+    "notification",
+    "off"
+  ],
+  "bx-poll": [
+    "poll"
+  ],
+  "bx-globe-alt": [
+    "globe"
+  ],
+  "bx-arrow-to-bottom": [
+    "arrow",
+    "bottom"
+  ],
+  "bx-message-rounded-add": [
+    "message",
+    "rounded",
+    "add"
+  ],
+  "bx-pen": [
+    "pen"
+  ],
+  "bx-check-double": [
+    "check",
+    "double"
+  ],
+  "bx-flag": [
+    "flag"
+  ],
+  "bx-code": [
+    "code"
+  ],
+  "bx-italic": [
+    "italic"
+  ],
+  "bx-low-vision": [
+    "low",
+    "vision"
+  ],
+  "bx-arch": [
+    "arch"
+  ],
+  "bx-rfid": [
+    "rfid"
+  ],
+  "bx-heart-circle": [
+    "heart",
+    "circle"
+  ],
+  "bx-meh-blank": [
+    "meh",
+    "blank"
+  ],
+  "bx-bar-chart": [
+    "bar",
+    "chart"
+  ],
+  "bx-collapse-horizontal": [
+    "collapse",
+    "horizontal"
+  ],
+  "bx-stop": [
+    "stop"
+  ],
+  "bx-store-alt": [
+    "store"
+  ],
+  "bx-right-top-arrow-circle": [
+    "right",
+    "top",
+    "arrow",
+    "circle"
+  ],
+  "bx-expand": [
+    "expand"
+  ],
+  "bx-sitemap": [
+    "sitemap"
+  ],
+  "bx-confused": [
+    "confused"
+  ],
+  "bx-archive": [
+    "archive"
+  ],
+  "bx-horizontal-center": [
+    "center",
+    "horizontal"
+  ],
+  "bx-calendar-alt": [
+    "calendar"
+  ],
+  "bx-shield": [
+    "shield"
+  ],
+  "bx-bookmark": [
+    "bookmark"
+  ],
+  "bx-layer-minus": [
+    "layer",
+    "minus"
+  ],
+  "bx-chevrons-down": [
+    "chevrons",
+    "down"
+  ],
+  "bx-bookmark-plus": [
+    "bookmark",
+    "plus"
+  ],
+  "bx-book-add": [
+    "book",
+    "add"
+  ],
+  "bx-slider-alt": [
+    "slider"
+  ],
+  "bx-message-add": [
+    "message",
+    "add"
+  ],
+  "bx-recycle": [
+    "recycle"
+  ],
+  "bx-book-open": [
+    "book",
+    "open"
+  ],
+  "bx-user": [
+    "user"
+  ],
+  "bx-cut": [
+    "cut"
+  ],
+  "bx-message-dots": [
+    "message",
+    "dots"
+  ],
+  "bx-copy-alt": [
+    "copy"
+  ],
+  "bx-comment-add": [
+    "comment",
+    "add"
+  ],
+  "bx-calendar-plus": [
+    "calendar",
+    "plus"
+  ],
+  "bx-health": [
+    "health"
+  ],
+  "bx-film": [
+    "film"
+  ],
+  "bx-calendar-week": [
+    "calendar",
+    "week"
+  ],
+  "bx-circle-three-quarter": [
+    "circle",
+    "three",
+    "quarter"
+  ],
+  "bx-pause": [
+    "pause"
+  ],
+  "bx-male-sign": [
+    "male",
+    "sign"
+  ],
+  "bx-train": [
+    "train"
+  ],
+  "bx-right-indent": [
+    "right",
+    "indent"
+  ],
+  "bx-right-down-arrow-circle": [
+    "right",
+    "down",
+    "arrow",
+    "circle"
+  ],
+  "bx-git-merge": [
+    "git",
+    "merge"
+  ],
+  "bx-horizontal-left": [
+    "horizontal",
+    "left"
+  ],
+  "bx-printer": [
+    "printer"
+  ],
+  "bx-message-rounded": [
+    "message",
+    "rounded"
+  ],
+  "bx-message-rounded-check": [
+    "message",
+    "rounded",
+    "check"
+  ],
+  "bx-chevron-left-circle": [
+    "chevron",
+    "left",
+    "circle"
+  ],
+  "bx-save": [
+    "save"
+  ],
+  "bx-map": [
+    "map"
+  ],
+  "bx-dock-left": [
+    "dock",
+    "left"
+  ],
+  "bx-dots-vertical-rounded": [
+    "dots",
+    "vertical",
+    "rounded"
+  ],
+  "bx-podcast": [
+    "podcast"
+  ],
+  "bx-font-size": [
+    "font",
+    "size"
+  ],
+  "bx-left-down-arrow-circle": [
+    "left",
+    "down",
+    "arrow",
+    "circle"
+  ],
+  "bx-eraser": [
+    "eraser"
+  ],
+  "bx-store": [
+    "store"
+  ],
+  "bx-id-card": [
+    "card"
+  ],
+  "bx-message-error": [
+    "message",
+    "error"
+  ],
+  "bx-fork": [
+    "fork"
+  ],
+  "bx-dialpad": [
+    "dialpad"
+  ],
+  "bx-border-all": [
+    "border"
+  ],
+  "bx-hard-hat": [
+    "hard",
+    "hat"
+  ],
+  "bx-tone": [
+    "tone"
+  ],
+  "bx-log-out": [
+    "log",
+    "out"
+  ],
+  "bx-network-chart": [
+    "network",
+    "chart"
+  ],
+  "bx-body": [
+    "body"
+  ],
+  "bx-message-rounded-minus": [
+    "message",
+    "rounded",
+    "minus"
+  ],
+  "bx-map-alt": [
+    "map"
+  ],
+  "bx-fridge": [
+    "fridge"
+  ],
+  "bx-bell-plus": [
+    "bell",
+    "plus"
+  ],
+  "bx-message-square-edit": [
+    "message",
+    "square",
+    "edit"
+  ],
+  "bx-columns": [
+    "columns"
+  ],
+  "bx-glasses": [
+    "glasses"
+  ],
+  "bx-moon": [
+    "moon"
+  ],
+  "bx-credit-card": [
+    "credit",
+    "card"
+  ],
+  "bx-filter": [
+    "filter"
+  ],
+  "bx-bar-chart-alt": [
+    "bar",
+    "chart"
+  ],
+  "bx-cloud-drizzle": [
+    "cloud",
+    "drizzle"
+  ],
+  "bx-mobile-landscape": [
+    "mobile",
+    "landscape"
+  ],
+  "bx-user-check": [
+    "user",
+    "check"
+  ],
+  "bx-yen": [
+    "yen"
+  ],
+  "bx-objects-horizontal-right": [
+    "objects",
+    "horizontal",
+    "right"
+  ],
+  "bx-party": [
+    "party"
+  ],
+  "bx-copyright": [
+    "copyright"
+  ],
+  "bx-collapse-vertical": [
+    "collapse",
+    "vertical"
+  ],
+  "bx-popsicle": [
+    "popsicle"
+  ],
+  "bx-message-square-error": [
+    "message",
+    "square",
+    "error"
+  ],
+  "bx-bone": [
+    "bone"
+  ],
+  "bx-redo": [
+    "redo"
+  ],
+  "bx-bookmark-alt-minus": [
+    "bookmark",
+    "minus"
+  ],
+  "bx-tv": [
+    "tv"
+  ],
+  "bx-menu": [
+    "menu"
+  ],
+  "bx-slider": [
+    "slider"
+  ],
+  "bx-paragraph": [
+    "paragraph"
+  ],
+  "bx-disc": [
+    "disc"
+  ],
+  "bx-zoom-out": [
+    "zoom",
+    "out"
+  ],
+  "bx-dollar-circle": [
+    "dollar",
+    "circle"
+  ],
+  "bx-anchor": [
+    "anchor"
+  ],
+  "bx-menu-alt-right": [
+    "menu",
+    "right"
+  ],
+  "bx-right-arrow-alt": [
+    "right",
+    "arrow"
+  ],
+  "bx-alarm-snooze": [
+    "alarm",
+    "snooze"
+  ],
+  "bx-download": [
+    "download"
+  ],
+  "bx-dialpad-alt": [
+    "dialpad"
+  ],
+  "bx-capsule": [
+    "capsule"
+  ],
+  "bx-location-plus": [
+    "location",
+    "plus"
+  ],
+  "bx-shield-alt-2": [
+    "shield"
+  ],
+  "bx-git-commit": [
+    "git",
+    "commit"
+  ],
+  "bx-cloud-download": [
+    "cloud",
+    "download"
+  ],
+  "bx-align-right": [
+    "align",
+    "right"
+  ],
+  "bx-import": [
+    "import"
+  ],
+  "bx-time-five": [
+    "time",
+    "five"
+  ],
+  "bx-chevron-right-circle": [
+    "chevron",
+    "right",
+    "circle"
+  ],
+  "bx-chevrons-up": [
+    "chevrons",
+    "up"
+  ],
+  "bx-merge": [
+    "merge"
+  ],
+  "bx-caret-left-square": [
+    "caret",
+    "left",
+    "square"
+  ],
+  "bx-wifi-2": [
+    "wifi"
+  ],
+  "bx-up-arrow-alt": [
+    "arrow",
+    "up"
+  ],
+  "bx-movie-play": [
+    "movie",
+    "play"
+  ],
+  "bx-cookie": [
+    "cookie"
+  ],
+  "bx-phone-off": [
+    "phone",
+    "off"
+  ],
+  "bx-loader-circle": [
+    "loader",
+    "circle"
+  ],
+  "bx-data": [
+    "data"
+  ],
+  "bx-trash": [
+    "trash"
+  ],
+  "bx-cctv": [
+    "cctv"
+  ],
+  "bx-window": [
+    "window"
+  ],
+  "bx-dock-bottom": [
+    "dock",
+    "bottom"
+  ],
+  "bx-font-color": [
+    "font",
+    "color"
+  ],
+  "bx-message-detail": [
+    "message",
+    "detail"
+  ],
+  "bx-shape-polygon": [
+    "shape",
+    "polygon"
+  ],
+  "bx-signal-4": [
+    "signal"
+  ],
+  "bx-doughnut-chart": [
+    "doughnut",
+    "chart"
+  ],
+  "bx-search-alt": [
+    "search"
+  ],
+  "bx-question-mark": [
+    "question",
+    "mark"
+  ],
+  "bx-font": [
+    "font"
+  ],
+  "bx-calendar": [
+    "calendar"
+  ],
+  "bx-log-in-circle": [
+    "log",
+    "circle"
+  ],
+  "bx-traffic-cone": [
+    "traffic",
+    "cone"
+  ],
+  "bx-polygon": [
+    "polygon"
+  ],
+  "bx-bookmark-minus": [
+    "bookmark",
+    "minus"
+  ],
+  "bx-crop": [
+    "crop"
+  ],
+  "bx-book": [
+    "book"
+  ],
+  "bx-dots-vertical": [
+    "dots",
+    "vertical"
+  ],
+  "bx-message-check": [
+    "message",
+    "check"
+  ],
+  "bx-volume-low": [
+    "volume",
+    "low"
+  ],
+  "bx-stop-circle": [
+    "stop",
+    "circle"
+  ],
+  "bx-expand-horizontal": [
+    "expand",
+    "horizontal"
+  ],
+  "bx-angry": [
+    "angry"
+  ],
+  "bx-captions": [
+    "captions"
+  ],
+  "bx-chevron-left-square": [
+    "chevron",
+    "left",
+    "square"
+  ],
+  "bx-first-page": [
+    "first",
+    "page"
+  ],
+  "bx-revision": [
+    "revision"
+  ],
+  "bx-stopwatch": [
+    "stopwatch"
+  ],
+  "bx-home-alt": [
+    "home"
+  ],
+  "bx-list-ol": [
+    "list"
+  ],
+  "bx-border-left": [
+    "border",
+    "left"
+  ],
+  "bx-shape-square": [
+    "shape",
+    "square"
+  ],
+  "bx-basket": [
+    "basket"
+  ],
+  "bx-search": [
+    "search"
+  ],
+  "bx-task": [
+    "task"
+  ],
+  "bx-message-alt-dots": [
+    "message",
+    "dots"
+  ],
+  "bx-images": [
+    "images"
+  ],
+  "bx-analyse": [
+    "analyse"
+  ],
+  "bx-chevrons-left": [
+    "chevrons",
+    "left"
+  ],
+  "bx-sort": [
+    "sort"
+  ],
+  "bx-voicemail": [
+    "voicemail"
+  ],
+  "bx-bot": [
+    "bot"
+  ],
+  "bx-knife": [
+    "knife"
+  ],
+  "bx-dock-right": [
+    "dock",
+    "right"
+  ],
+  "bx-book-reader": [
+    "book",
+    "reader"
+  ],
+  "bx-stats": [
+    "stats"
+  ],
+  "bx-pencil": [
+    "pencil"
+  ],
+  "bx-smile": [
+    "smile"
+  ],
+  "bx-album": [
+    "album"
+  ],
+  "bx-spa": [
+    "spa"
+  ],
+  "bx-cloud": [
+    "cloud"
+  ],
+  "bx-radar": [
+    "radar"
+  ],
+  "bx-git-repo-forked": [
+    "git",
+    "repo",
+    "forked"
+  ],
+  "bx-timer": [
+    "timer"
+  ],
+  "bx-customize": [
+    "customize"
+  ],
+  "bx-down-arrow-alt": [
+    "down",
+    "arrow"
+  ],
+  "bx-cricket-ball": [
+    "cricket",
+    "ball"
+  ],
+  "bx-female-sign": [
+    "female",
+    "sign"
+  ],
+  "bx-calculator": [
+    "calculator"
+  ],
+  "bx-cart-add": [
+    "cart",
+    "add"
+  ],
+  "bx-lira": [
+    "lira"
+  ],
+  "bx-last-page": [
+    "last",
+    "page"
+  ],
+  "bx-user-minus": [
+    "user",
+    "minus"
+  ],
+  "bx-dice-4": [
+    "dice"
+  ],
+  "bx-bong": [
+    "bong"
+  ],
+  "bx-coffee-togo": [
+    "coffee",
+    "togo"
+  ],
+  "bx-left-arrow-circle": [
+    "left",
+    "arrow",
+    "circle"
+  ],
+  "bx-sort-alt-2": [
+    "sort"
+  ],
+  "bx-square-rounded": [
+    "square",
+    "rounded"
+  ],
+  "bx-wallet": [
+    "wallet"
+  ],
+  "bx-message": [
+    "message"
+  ],
+  "bx-bell": [
+    "bell"
+  ],
+  "bx-link-alt": [
+    "link"
+  ],
+  "bx-phone-incoming": [
+    "phone",
+    "incoming"
+  ],
+  "bx-trophy": [
+    "trophy"
+  ],
+  "bx-chevron-down-circle": [
+    "chevron",
+    "down",
+    "circle"
+  ],
+  "bx-shocked": [
+    "shocked"
+  ],
+  "bx-home-alt-2": [
+    "home"
+  ],
+  "bx-error-alt": [
+    "error"
+  ]
+}

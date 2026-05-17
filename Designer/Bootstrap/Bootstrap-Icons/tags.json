@@ -1,0 +1,9982 @@
+{
+  "Bootstrap-send-slash": [
+    "bootstrap",
+    "send",
+    "slash"
+  ],
+  "Bootstrap-gear-fill": [
+    "bootstrap",
+    "gear",
+    "fill"
+  ],
+  "Bootstrap-paint-bucket": [
+    "bootstrap",
+    "paint",
+    "bucket"
+  ],
+  "Bootstrap-arrow-down-left-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "left",
+    "circle"
+  ],
+  "Bootstrap-file-ppt-fill": [
+    "bootstrap",
+    "file",
+    "ppt",
+    "fill"
+  ],
+  "Bootstrap-chevron-contract": [
+    "bootstrap",
+    "chevron",
+    "contract"
+  ],
+  "Bootstrap-skip-forward-circle": [
+    "bootstrap",
+    "skip",
+    "forward",
+    "circle"
+  ],
+  "Bootstrap-currency-pound": [
+    "bootstrap",
+    "currency",
+    "pound"
+  ],
+  "Bootstrap-person-x-fill": [
+    "bootstrap",
+    "person",
+    "fill"
+  ],
+  "Bootstrap-water": [
+    "bootstrap",
+    "water"
+  ],
+  "Bootstrap-sign-intersection-y": [
+    "bootstrap",
+    "sign",
+    "intersection"
+  ],
+  "Bootstrap-filetype-cs": [
+    "bootstrap",
+    "filetype",
+    "cs"
+  ],
+  "Bootstrap-chevron-right": [
+    "bootstrap",
+    "chevron",
+    "right"
+  ],
+  "Bootstrap-dice-1-fill": [
+    "bootstrap",
+    "dice",
+    "fill"
+  ],
+  "Bootstrap-clipboard-pulse": [
+    "bootstrap",
+    "clipboard",
+    "pulse"
+  ],
+  "Bootstrap-clock-history": [
+    "bootstrap",
+    "clock",
+    "history"
+  ],
+  "Bootstrap-archive-fill": [
+    "bootstrap",
+    "archive",
+    "fill"
+  ],
+  "Bootstrap-thunderbolt": [
+    "bootstrap",
+    "thunderbolt"
+  ],
+  "Bootstrap-envelope-at-fill": [
+    "bootstrap",
+    "envelope",
+    "fill"
+  ],
+  "Bootstrap-record-btn": [
+    "bootstrap",
+    "record",
+    "btn"
+  ],
+  "Bootstrap-building-x": [
+    "bootstrap",
+    "building"
+  ],
+  "Bootstrap-filetype-exe": [
+    "bootstrap",
+    "filetype",
+    "exe"
+  ],
+  "Bootstrap-cone-striped": [
+    "bootstrap",
+    "cone",
+    "striped"
+  ],
+  "Bootstrap-arrow-90deg-left": [
+    "bootstrap",
+    "arrow",
+    "deg",
+    "left"
+  ],
+  "Bootstrap-file-bar-graph": [
+    "bootstrap",
+    "file",
+    "bar",
+    "graph"
+  ],
+  "Bootstrap-file-earmark-richtext": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "richtext"
+  ],
+  "Bootstrap-filter-square-fill": [
+    "bootstrap",
+    "filter",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-truck-front": [
+    "bootstrap",
+    "truck",
+    "front"
+  ],
+  "Bootstrap-shield-fill-x": [
+    "bootstrap",
+    "shield",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-lock-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-command": [
+    "bootstrap",
+    "command"
+  ],
+  "Bootstrap-code-slash": [
+    "bootstrap",
+    "code",
+    "slash"
+  ],
+  "Bootstrap-volume-mute": [
+    "bootstrap",
+    "volume",
+    "mute"
+  ],
+  "Bootstrap-slash": [
+    "bootstrap",
+    "slash"
+  ],
+  "Bootstrap-suit-diamond-fill": [
+    "bootstrap",
+    "suit",
+    "diamond",
+    "fill"
+  ],
+  "Bootstrap-chat-fill": [
+    "bootstrap",
+    "chat",
+    "fill"
+  ],
+  "Bootstrap-database-fill-x": [
+    "bootstrap",
+    "database",
+    "fill"
+  ],
+  "Bootstrap-exclamation-diamond": [
+    "bootstrap",
+    "diamond",
+    "exclamation"
+  ],
+  "Bootstrap-symmetry-vertical": [
+    "bootstrap",
+    "symmetry",
+    "vertical"
+  ],
+  "Bootstrap-signpost": [
+    "bootstrap",
+    "signpost"
+  ],
+  "Bootstrap-caret-down": [
+    "bootstrap",
+    "caret",
+    "down"
+  ],
+  "Bootstrap-wrench-adjustable-circle": [
+    "bootstrap",
+    "wrench",
+    "adjustable",
+    "circle"
+  ],
+  "Bootstrap-clipboard-x": [
+    "bootstrap",
+    "clipboard"
+  ],
+  "Bootstrap-fast-forward-circle": [
+    "bootstrap",
+    "fast",
+    "forward",
+    "circle"
+  ],
+  "Bootstrap-skip-end-fill": [
+    "bootstrap",
+    "skip",
+    "end",
+    "fill"
+  ],
+  "Bootstrap-cloud-check": [
+    "bootstrap",
+    "cloud",
+    "check"
+  ],
+  "Bootstrap-inbox": [
+    "bootstrap",
+    "inbox"
+  ],
+  "Bootstrap-card-list": [
+    "bootstrap",
+    "card",
+    "list"
+  ],
+  "Bootstrap-file-excel-fill": [
+    "bootstrap",
+    "file",
+    "excel",
+    "fill"
+  ],
+  "Bootstrap-file-spreadsheet": [
+    "bootstrap",
+    "file",
+    "spreadsheet"
+  ],
+  "Bootstrap-text-center": [
+    "bootstrap",
+    "text",
+    "center"
+  ],
+  "Bootstrap-question-circle-fill": [
+    "bootstrap",
+    "question",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-window-dash": [
+    "bootstrap",
+    "window",
+    "dash"
+  ],
+  "Bootstrap-pass": [
+    "bootstrap",
+    "pass"
+  ],
+  "Bootstrap-record-circle-fill": [
+    "bootstrap",
+    "record",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-dice-1": [
+    "bootstrap",
+    "dice"
+  ],
+  "Bootstrap-browser-firefox": [
+    "bootstrap",
+    "browser",
+    "firefox"
+  ],
+  "Bootstrap-cloud-rain-heavy-fill": [
+    "bootstrap",
+    "cloud",
+    "rain",
+    "heavy",
+    "fill"
+  ],
+  "Bootstrap-align-end": [
+    "bootstrap",
+    "align",
+    "end"
+  ],
+  "Bootstrap-person-video-2": [
+    "bootstrap",
+    "person",
+    "video"
+  ],
+  "Bootstrap-calendar-month": [
+    "bootstrap",
+    "calendar",
+    "month"
+  ],
+  "Bootstrap-arrow-clockwise": [
+    "bootstrap",
+    "arrow",
+    "clockwise"
+  ],
+  "Bootstrap-badge-vo-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-database-x": [
+    "bootstrap",
+    "database"
+  ],
+  "Bootstrap-dice-3": [
+    "bootstrap",
+    "dice"
+  ],
+  "Bootstrap-emoji-smile-fill": [
+    "bootstrap",
+    "emoji",
+    "smile",
+    "fill"
+  ],
+  "Bootstrap-tencent-qq": [
+    "bootstrap",
+    "tencent"
+  ],
+  "Bootstrap-calendar2-x-fill": [
+    "bootstrap",
+    "calendar",
+    "fill"
+  ],
+  "Bootstrap-8-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-skip-backward": [
+    "bootstrap",
+    "skip",
+    "backward"
+  ],
+  "Bootstrap-sun-fill": [
+    "bootstrap",
+    "sun",
+    "fill"
+  ],
+  "Bootstrap-file-diff-fill": [
+    "bootstrap",
+    "file",
+    "diff",
+    "fill"
+  ],
+  "Bootstrap-journal-code": [
+    "bootstrap",
+    "journal",
+    "code"
+  ],
+  "Bootstrap-question-octagon": [
+    "bootstrap",
+    "question",
+    "octagon"
+  ],
+  "Bootstrap-explicit": [
+    "bootstrap",
+    "explicit"
+  ],
+  "Bootstrap-webcam-fill": [
+    "bootstrap",
+    "webcam",
+    "fill"
+  ],
+  "Bootstrap-x-diamond-fill": [
+    "bootstrap",
+    "diamond",
+    "fill"
+  ],
+  "Bootstrap-arrow-bar-right": [
+    "bootstrap",
+    "arrow",
+    "bar",
+    "right"
+  ],
+  "Bootstrap-ticket": [
+    "bootstrap",
+    "ticket"
+  ],
+  "Bootstrap-person-badge": [
+    "bootstrap",
+    "person",
+    "badge"
+  ],
+  "Bootstrap-layout-sidebar-inset-reverse": [
+    "bootstrap",
+    "layout",
+    "sidebar",
+    "inset",
+    "reverse"
+  ],
+  "Bootstrap-taxi-front": [
+    "bootstrap",
+    "taxi",
+    "front"
+  ],
+  "Bootstrap-upc-scan": [
+    "bootstrap",
+    "upc",
+    "scan"
+  ],
+  "Bootstrap-building-down": [
+    "bootstrap",
+    "building",
+    "down"
+  ],
+  "Bootstrap-house-add": [
+    "bootstrap",
+    "house",
+    "add"
+  ],
+  "Bootstrap-music-note": [
+    "bootstrap",
+    "music",
+    "note"
+  ],
+  "Bootstrap-caret-left": [
+    "bootstrap",
+    "caret",
+    "left"
+  ],
+  "Bootstrap-microsoft-teams": [
+    "bootstrap",
+    "microsoft",
+    "teams"
+  ],
+  "Bootstrap-emoji-sunglasses-fill": [
+    "bootstrap",
+    "emoji",
+    "fill",
+    "sunglasses"
+  ],
+  "Bootstrap-pause-btn": [
+    "bootstrap",
+    "pause",
+    "btn"
+  ],
+  "Bootstrap-arrow-left-square-fill": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-pdf": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "pdf"
+  ],
+  "Bootstrap-arrow-down-left-square-fill": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "left",
+    "square"
+  ],
+  "Bootstrap-layers-fill": [
+    "bootstrap",
+    "layers",
+    "fill"
+  ],
+  "Bootstrap-emoji-wink": [
+    "bootstrap",
+    "emoji",
+    "wink"
+  ],
+  "Bootstrap-heart-fill": [
+    "bootstrap",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-chat-right-text": [
+    "bootstrap",
+    "chat",
+    "right",
+    "text"
+  ],
+  "Bootstrap-clipboard2-heart": [
+    "bootstrap",
+    "clipboard",
+    "heart"
+  ],
+  "Bootstrap-unindent": [
+    "bootstrap",
+    "unindent"
+  ],
+  "Bootstrap-stop-circle-fill": [
+    "bootstrap",
+    "stop",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-x-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "fill"
+  ],
+  "Bootstrap-badge-cc": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-layout-three-columns": [
+    "bootstrap",
+    "layout",
+    "three",
+    "columns"
+  ],
+  "Bootstrap-filetype-yml": [
+    "bootstrap",
+    "filetype",
+    "yml"
+  ],
+  "Bootstrap-grid": [
+    "bootstrap",
+    "grid"
+  ],
+  "Bootstrap-diagram-2-fill": [
+    "bootstrap",
+    "diagram",
+    "fill"
+  ],
+  "Bootstrap-calendar-heart": [
+    "bootstrap",
+    "calendar",
+    "heart"
+  ],
+  "Bootstrap-calendar-2": [
+    "bootstrap",
+    "calendar"
+  ],
+  "Bootstrap-wechat": [
+    "bootstrap",
+    "wechat"
+  ],
+  "Bootstrap-envelope-dash-fill": [
+    "bootstrap",
+    "envelope",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-filter-circle-fill": [
+    "bootstrap",
+    "filter",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-pen": [
+    "bootstrap",
+    "pen"
+  ],
+  "Bootstrap-caret-up-fill": [
+    "bootstrap",
+    "caret",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-chat-text-fill": [
+    "bootstrap",
+    "chat",
+    "text",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-right-square": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "up",
+    "square"
+  ],
+  "Bootstrap-basket-3": [
+    "bootstrap",
+    "basket"
+  ],
+  "Bootstrap-hdd": [
+    "bootstrap",
+    "hdd"
+  ],
+  "Bootstrap-journal-bookmark": [
+    "bootstrap",
+    "journal",
+    "bookmark"
+  ],
+  "Bootstrap-file-zip": [
+    "bootstrap",
+    "file",
+    "zip"
+  ],
+  "Bootstrap-dice-3-fill": [
+    "bootstrap",
+    "dice",
+    "fill"
+  ],
+  "Bootstrap-x-octagon": [
+    "bootstrap",
+    "octagon"
+  ],
+  "Bootstrap-cup-hot-fill": [
+    "bootstrap",
+    "cup",
+    "hot",
+    "fill"
+  ],
+  "Bootstrap-toggles": [
+    "bootstrap",
+    "toggles"
+  ],
+  "Bootstrap-cart-dash-fill": [
+    "bootstrap",
+    "cart",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-caret-down-fill": [
+    "bootstrap",
+    "caret",
+    "down",
+    "fill"
+  ],
+  "Bootstrap-sign-stop-fill": [
+    "bootstrap",
+    "sign",
+    "stop",
+    "fill"
+  ],
+  "Bootstrap-emoji-angry-fill": [
+    "bootstrap",
+    "emoji",
+    "angry",
+    "fill"
+  ],
+  "Bootstrap-badge-tm": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-chevron-bar-right": [
+    "bootstrap",
+    "chevron",
+    "bar",
+    "right"
+  ],
+  "Bootstrap-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-input-cursor": [
+    "bootstrap",
+    "input",
+    "cursor"
+  ],
+  "Bootstrap-question-circle": [
+    "bootstrap",
+    "question",
+    "circle"
+  ],
+  "Bootstrap-wifi-1": [
+    "bootstrap",
+    "wifi"
+  ],
+  "Bootstrap-pentagon-fill": [
+    "bootstrap",
+    "pentagon",
+    "fill"
+  ],
+  "Bootstrap-capsule-pill": [
+    "bootstrap",
+    "capsule",
+    "pill"
+  ],
+  "Bootstrap-view-list": [
+    "bootstrap",
+    "view",
+    "list"
+  ],
+  "Bootstrap-sign-intersection-t-fill": [
+    "bootstrap",
+    "sign",
+    "fill",
+    "intersection"
+  ],
+  "Bootstrap-person-plus-fill": [
+    "bootstrap",
+    "person",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-earbuds": [
+    "bootstrap",
+    "earbuds"
+  ],
+  "Bootstrap-clipboard2-fill": [
+    "bootstrap",
+    "clipboard",
+    "fill"
+  ],
+  "Bootstrap-lightning-charge-fill": [
+    "bootstrap",
+    "lightning",
+    "charge",
+    "fill"
+  ],
+  "Bootstrap-calendar3-event-fill": [
+    "bootstrap",
+    "calendar",
+    "event",
+    "fill"
+  ],
+  "Bootstrap-receipt-cutoff": [
+    "bootstrap",
+    "receipt",
+    "cutoff"
+  ],
+  "Bootstrap-bucket": [
+    "bootstrap",
+    "bucket"
+  ],
+  "Bootstrap-arrow-left-right": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "right"
+  ],
+  "Bootstrap-r-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-border-left": [
+    "bootstrap",
+    "border",
+    "left"
+  ],
+  "Bootstrap-credit-card-2-front-fill": [
+    "bootstrap",
+    "credit",
+    "card",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-search": [
+    "bootstrap",
+    "search"
+  ],
+  "Bootstrap-filetype-xls": [
+    "bootstrap",
+    "filetype",
+    "xls"
+  ],
+  "Bootstrap-escape": [
+    "bootstrap",
+    "escape"
+  ],
+  "Bootstrap-file-earmark-lock-2": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "lock"
+  ],
+  "Bootstrap-text-left": [
+    "bootstrap",
+    "text",
+    "left"
+  ],
+  "Bootstrap-file-text-fill": [
+    "bootstrap",
+    "file",
+    "text",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-bar-graph-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "bar",
+    "graph"
+  ],
+  "Bootstrap-umbrella-fill": [
+    "bootstrap",
+    "umbrella",
+    "fill"
+  ],
+  "Bootstrap-filetype-mdx": [
+    "bootstrap",
+    "filetype",
+    "mdx"
+  ],
+  "Bootstrap-paperclip": [
+    "bootstrap",
+    "paperclip"
+  ],
+  "Bootstrap-cloud-lightning-rain-fill": [
+    "bootstrap",
+    "cloud",
+    "lightning",
+    "rain",
+    "fill"
+  ],
+  "Bootstrap-badge-hd-fill": [
+    "bootstrap",
+    "badge",
+    "fill",
+    "hd"
+  ],
+  "Bootstrap-sign-do-not-enter-fill": [
+    "bootstrap",
+    "sign",
+    "enter",
+    "fill"
+  ],
+  "Bootstrap-badge-3d": [
+    "bootstrap",
+    "badge",
+    "3d"
+  ],
+  "Bootstrap-basket3-fill": [
+    "bootstrap",
+    "basket",
+    "fill"
+  ],
+  "Bootstrap-piggy-bank-fill": [
+    "bootstrap",
+    "piggy",
+    "bank",
+    "fill"
+  ],
+  "Bootstrap-award-fill": [
+    "bootstrap",
+    "award",
+    "fill"
+  ],
+  "Bootstrap-megaphone-fill": [
+    "bootstrap",
+    "megaphone",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-right-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "up",
+    "circle"
+  ],
+  "Bootstrap-hexagon": [
+    "bootstrap",
+    "hexagon"
+  ],
+  "Bootstrap-pentagon-half": [
+    "bootstrap",
+    "pentagon",
+    "half"
+  ],
+  "Bootstrap-layout-text-window-reverse": [
+    "bootstrap",
+    "layout",
+    "text",
+    "window",
+    "reverse"
+  ],
+  "Bootstrap-person-dash": [
+    "bootstrap",
+    "person",
+    "dash"
+  ],
+  "Bootstrap-sign-merge-left": [
+    "bootstrap",
+    "sign",
+    "merge",
+    "left"
+  ],
+  "Bootstrap-pie-chart": [
+    "bootstrap",
+    "pie",
+    "chart"
+  ],
+  "Bootstrap-play-fill": [
+    "bootstrap",
+    "play",
+    "fill"
+  ],
+  "Bootstrap-gender-ambiguous": [
+    "bootstrap",
+    "gender",
+    "ambiguous"
+  ],
+  "Bootstrap-file-earmark-easel": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "easel"
+  ],
+  "Bootstrap-file-post": [
+    "bootstrap",
+    "file",
+    "post"
+  ],
+  "Bootstrap-calendar-week": [
+    "bootstrap",
+    "calendar",
+    "week"
+  ],
+  "Bootstrap-skip-backward-btn": [
+    "bootstrap",
+    "skip",
+    "backward",
+    "btn"
+  ],
+  "Bootstrap-thermometer-half": [
+    "bootstrap",
+    "half",
+    "thermometer"
+  ],
+  "Bootstrap-qr-code-scan": [
+    "bootstrap",
+    "code",
+    "scan"
+  ],
+  "Bootstrap-hdd-fill": [
+    "bootstrap",
+    "hdd",
+    "fill"
+  ],
+  "Bootstrap-chat-left-dots-fill": [
+    "bootstrap",
+    "chat",
+    "left",
+    "dots",
+    "fill"
+  ],
+  "Bootstrap-person-hearts": [
+    "bootstrap",
+    "person",
+    "hearts"
+  ],
+  "Bootstrap-x-octagon-fill": [
+    "bootstrap",
+    "octagon",
+    "fill"
+  ],
+  "Bootstrap-webcam": [
+    "bootstrap",
+    "webcam"
+  ],
+  "Bootstrap-arrow-right-square": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "square"
+  ],
+  "Bootstrap-mastodon": [
+    "bootstrap",
+    "mastodon"
+  ],
+  "Bootstrap-rocket-takeoff": [
+    "bootstrap",
+    "rocket",
+    "takeoff"
+  ],
+  "Bootstrap-dpad": [
+    "bootstrap",
+    "dpad"
+  ],
+  "Bootstrap-database-gear": [
+    "bootstrap",
+    "database",
+    "gear"
+  ],
+  "Bootstrap-filetype-pptx": [
+    "bootstrap",
+    "filetype",
+    "pptx"
+  ],
+  "Bootstrap-superscript": [
+    "bootstrap",
+    "superscript"
+  ],
+  "Bootstrap-repeat-1": [
+    "bootstrap",
+    "repeat"
+  ],
+  "Bootstrap-unlock-fill": [
+    "bootstrap",
+    "unlock",
+    "fill"
+  ],
+  "Bootstrap-filetype-php": [
+    "bootstrap",
+    "filetype",
+    "php"
+  ],
+  "Bootstrap-emoji-angry": [
+    "bootstrap",
+    "emoji",
+    "angry"
+  ],
+  "Bootstrap-person-fill-dash": [
+    "bootstrap",
+    "person",
+    "fill",
+    "dash"
+  ],
+  "Bootstrap-file-bar-graph-fill": [
+    "bootstrap",
+    "file",
+    "bar",
+    "graph",
+    "fill"
+  ],
+  "Bootstrap-calendar-week-fill": [
+    "bootstrap",
+    "calendar",
+    "week",
+    "fill"
+  ],
+  "Bootstrap-heart-pulse": [
+    "bootstrap",
+    "heart",
+    "pulse"
+  ],
+  "Bootstrap-exclamation": [
+    "bootstrap",
+    "exclamation"
+  ],
+  "Bootstrap-key-fill": [
+    "bootstrap",
+    "key",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-break": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "break"
+  ],
+  "Bootstrap-journal-text": [
+    "bootstrap",
+    "journal",
+    "text"
+  ],
+  "Bootstrap-git": [
+    "bootstrap",
+    "git"
+  ],
+  "Bootstrap-shield-check": [
+    "bootstrap",
+    "shield",
+    "check"
+  ],
+  "Bootstrap-handbag": [
+    "bootstrap",
+    "handbag"
+  ],
+  "Bootstrap-vinyl": [
+    "bootstrap",
+    "vinyl"
+  ],
+  "Bootstrap-cloud-snow": [
+    "bootstrap",
+    "cloud",
+    "snow"
+  ],
+  "Bootstrap-mic-fill": [
+    "bootstrap",
+    "mic",
+    "fill"
+  ],
+  "Bootstrap-cc-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-coin": [
+    "bootstrap",
+    "coin"
+  ],
+  "Bootstrap-box-arrow-in-left": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "left"
+  ],
+  "Bootstrap-ear-fill": [
+    "bootstrap",
+    "ear",
+    "fill"
+  ],
+  "Bootstrap-clipboard-minus-fill": [
+    "bootstrap",
+    "clipboard",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-calendar-day-fill": [
+    "bootstrap",
+    "calendar",
+    "day",
+    "fill"
+  ],
+  "Bootstrap-usb-fill": [
+    "bootstrap",
+    "usb",
+    "fill"
+  ],
+  "Bootstrap-h-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-x-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-cloud-rain-heavy": [
+    "bootstrap",
+    "cloud",
+    "rain",
+    "heavy"
+  ],
+  "Bootstrap-shield-slash": [
+    "bootstrap",
+    "shield",
+    "slash"
+  ],
+  "Bootstrap-plus-square": [
+    "bootstrap",
+    "plus",
+    "square"
+  ],
+  "Bootstrap-box-arrow-in-right": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "right"
+  ],
+  "Bootstrap-thermometer": [
+    "bootstrap",
+    "thermometer"
+  ],
+  "Bootstrap-database-fill-check": [
+    "bootstrap",
+    "database",
+    "fill",
+    "check"
+  ],
+  "Bootstrap-device-hdd-fill": [
+    "bootstrap",
+    "device",
+    "hdd",
+    "fill"
+  ],
+  "Bootstrap-clipboard": [
+    "bootstrap",
+    "clipboard"
+  ],
+  "Bootstrap-alexa": [
+    "bootstrap",
+    "alexa"
+  ],
+  "Bootstrap-droplet": [
+    "bootstrap",
+    "droplet"
+  ],
+  "Bootstrap-shield-fill-plus": [
+    "bootstrap",
+    "shield",
+    "fill",
+    "plus"
+  ],
+  "Bootstrap-house-slash": [
+    "bootstrap",
+    "house",
+    "slash"
+  ],
+  "Bootstrap-wifi-2": [
+    "bootstrap",
+    "wifi"
+  ],
+  "Bootstrap-calendar3-range": [
+    "bootstrap",
+    "calendar",
+    "range"
+  ],
+  "Bootstrap-6-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-pc-horizontal": [
+    "bootstrap",
+    "pc",
+    "horizontal"
+  ],
+  "Bootstrap-clipboard2-pulse-fill": [
+    "bootstrap",
+    "clipboard",
+    "pulse",
+    "fill"
+  ],
+  "Bootstrap-backspace-fill": [
+    "bootstrap",
+    "backspace",
+    "fill"
+  ],
+  "Bootstrap-laptop-fill": [
+    "bootstrap",
+    "laptop",
+    "fill"
+  ],
+  "Bootstrap-textarea-t": [
+    "bootstrap",
+    "textarea"
+  ],
+  "Bootstrap-chevron-double-up": [
+    "bootstrap",
+    "chevron",
+    "double",
+    "up"
+  ],
+  "Bootstrap-square-half": [
+    "bootstrap",
+    "square",
+    "half"
+  ],
+  "Bootstrap-shield-plus": [
+    "bootstrap",
+    "shield",
+    "plus"
+  ],
+  "Bootstrap-plus-slash-minus": [
+    "bootstrap",
+    "plus",
+    "slash",
+    "minus"
+  ],
+  "Bootstrap-windows": [
+    "bootstrap",
+    "windows"
+  ],
+  "Bootstrap-easel-3": [
+    "bootstrap",
+    "easel"
+  ],
+  "Bootstrap-cast": [
+    "bootstrap",
+    "cast"
+  ],
+  "Bootstrap-journal-album": [
+    "bootstrap",
+    "journal",
+    "album"
+  ],
+  "Bootstrap-telephone-outbound-fill": [
+    "bootstrap",
+    "telephone",
+    "outbound",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-arrow-up-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-trash3-fill": [
+    "bootstrap",
+    "trash",
+    "fill"
+  ],
+  "Bootstrap-house-exclamation": [
+    "bootstrap",
+    "house",
+    "exclamation"
+  ],
+  "Bootstrap-sign-merge-right": [
+    "bootstrap",
+    "sign",
+    "merge",
+    "right"
+  ],
+  "Bootstrap-arrow-down-left-square": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "left",
+    "square"
+  ],
+  "Bootstrap-moon-stars": [
+    "bootstrap",
+    "moon",
+    "stars"
+  ],
+  "Bootstrap-columns": [
+    "bootstrap",
+    "columns"
+  ],
+  "Bootstrap-quora": [
+    "bootstrap",
+    "quora"
+  ],
+  "Bootstrap-reception-2": [
+    "bootstrap",
+    "reception"
+  ],
+  "Bootstrap-cloud-sun-fill": [
+    "bootstrap",
+    "cloud",
+    "sun",
+    "fill"
+  ],
+  "Bootstrap-patch-question": [
+    "bootstrap",
+    "patch",
+    "question"
+  ],
+  "Bootstrap-question-diamond": [
+    "bootstrap",
+    "question",
+    "diamond"
+  ],
+  "Bootstrap-umbrella": [
+    "bootstrap",
+    "umbrella"
+  ],
+  "Bootstrap-zoom-out": [
+    "bootstrap",
+    "zoom",
+    "out"
+  ],
+  "Bootstrap-calendar3-range-fill": [
+    "bootstrap",
+    "calendar",
+    "range",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-binary": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "binary"
+  ],
+  "Bootstrap-arrow-up-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "circle",
+    "up",
+    "fill"
+  ],
+  "Bootstrap-person-lock": [
+    "bootstrap",
+    "person",
+    "lock"
+  ],
+  "Bootstrap-gift": [
+    "bootstrap",
+    "gift"
+  ],
+  "Bootstrap-braces-asterisk": [
+    "bootstrap",
+    "braces",
+    "asterisk"
+  ],
+  "Bootstrap-box-arrow-down": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-phone": [
+    "bootstrap",
+    "phone"
+  ],
+  "Bootstrap-person-down": [
+    "bootstrap",
+    "person",
+    "down"
+  ],
+  "Bootstrap-camera-video-fill": [
+    "bootstrap",
+    "camera",
+    "video",
+    "fill"
+  ],
+  "Bootstrap-file-image-fill": [
+    "bootstrap",
+    "file",
+    "image",
+    "fill"
+  ],
+  "Bootstrap-sign-intersection-side-fill": [
+    "bootstrap",
+    "sign",
+    "intersection",
+    "side",
+    "fill"
+  ],
+  "Bootstrap-ticket-perforated": [
+    "bootstrap",
+    "ticket",
+    "perforated"
+  ],
+  "Bootstrap-credit-card-2-front": [
+    "bootstrap",
+    "credit",
+    "card",
+    "front"
+  ],
+  "Bootstrap-sort-numeric-up-alt": [
+    "bootstrap",
+    "sort",
+    "numeric",
+    "up"
+  ],
+  "Bootstrap-shift": [
+    "bootstrap",
+    "shift"
+  ],
+  "Bootstrap-file-earmark-slides": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "slides"
+  ],
+  "Bootstrap-0-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-palette": [
+    "bootstrap",
+    "palette"
+  ],
+  "Bootstrap-person-square": [
+    "bootstrap",
+    "person",
+    "square"
+  ],
+  "Bootstrap-emoji-neutral": [
+    "bootstrap",
+    "emoji",
+    "neutral"
+  ],
+  "Bootstrap-info-circle-fill": [
+    "bootstrap",
+    "info",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-skip-backward-fill": [
+    "bootstrap",
+    "skip",
+    "backward",
+    "fill"
+  ],
+  "Bootstrap-rewind-circle": [
+    "bootstrap",
+    "rewind",
+    "circle"
+  ],
+  "Bootstrap-camera-video-off-fill": [
+    "bootstrap",
+    "camera",
+    "video",
+    "off",
+    "fill"
+  ],
+  "Bootstrap-check-all": [
+    "bootstrap",
+    "check"
+  ],
+  "Bootstrap-slack": [
+    "bootstrap",
+    "slack"
+  ],
+  "Bootstrap-calendar2-check-fill": [
+    "bootstrap",
+    "calendar",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-bell-fill": [
+    "bootstrap",
+    "bell",
+    "fill"
+  ],
+  "Bootstrap-cart-4": [
+    "bootstrap",
+    "cart"
+  ],
+  "Bootstrap-send-exclamation": [
+    "bootstrap",
+    "send",
+    "exclamation"
+  ],
+  "Bootstrap-dice-6-fill": [
+    "bootstrap",
+    "dice",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-image": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "image"
+  ],
+  "Bootstrap-sort-alpha-down-alt": [
+    "bootstrap",
+    "sort",
+    "alpha",
+    "down"
+  ],
+  "Bootstrap-clipboard-data-fill": [
+    "bootstrap",
+    "clipboard",
+    "data",
+    "fill"
+  ],
+  "Bootstrap-border-middle": [
+    "bootstrap",
+    "border",
+    "middle"
+  ],
+  "Bootstrap-file-x-fill": [
+    "bootstrap",
+    "file",
+    "fill"
+  ],
+  "Bootstrap-box-arrow-in-down-right": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "down",
+    "right"
+  ],
+  "Bootstrap-usb-c-fill": [
+    "bootstrap",
+    "usb",
+    "fill"
+  ],
+  "Bootstrap-reception-1": [
+    "bootstrap",
+    "reception"
+  ],
+  "Bootstrap-alarm-fill": [
+    "bootstrap",
+    "alarm",
+    "fill"
+  ],
+  "Bootstrap-cloud-plus": [
+    "bootstrap",
+    "cloud",
+    "plus"
+  ],
+  "Bootstrap-modem-fill": [
+    "bootstrap",
+    "modem",
+    "fill"
+  ],
+  "Bootstrap-bricks": [
+    "bootstrap",
+    "bricks"
+  ],
+  "Bootstrap-gear-wide": [
+    "bootstrap",
+    "gear",
+    "wide"
+  ],
+  "Bootstrap-skip-backward-circle": [
+    "bootstrap",
+    "skip",
+    "backward",
+    "circle"
+  ],
+  "Bootstrap-file-earmark-word-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "word",
+    "fill"
+  ],
+  "Bootstrap-chevron-compact-up": [
+    "bootstrap",
+    "chevron",
+    "compact",
+    "up"
+  ],
+  "Bootstrap-tree-fill": [
+    "bootstrap",
+    "tree",
+    "fill"
+  ],
+  "Bootstrap-soundwave": [
+    "bootstrap",
+    "soundwave"
+  ],
+  "Bootstrap-box-arrow-up-left": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "left",
+    "up"
+  ],
+  "Bootstrap-person-circle": [
+    "bootstrap",
+    "person",
+    "circle"
+  ],
+  "Bootstrap-balloon-fill": [
+    "bootstrap",
+    "balloon",
+    "fill"
+  ],
+  "Bootstrap-postcard-heart": [
+    "bootstrap",
+    "postcard",
+    "heart"
+  ],
+  "Bootstrap-hash": [
+    "bootstrap",
+    "hash"
+  ],
+  "Bootstrap-terminal-split": [
+    "bootstrap",
+    "terminal",
+    "split"
+  ],
+  "Bootstrap-credit-card": [
+    "bootstrap",
+    "credit",
+    "card"
+  ],
+  "Bootstrap-border-style": [
+    "bootstrap",
+    "border",
+    "style"
+  ],
+  "Bootstrap-1-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-p-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-journal-minus": [
+    "bootstrap",
+    "journal",
+    "minus"
+  ],
+  "Bootstrap-building-fill-x": [
+    "bootstrap",
+    "building",
+    "fill"
+  ],
+  "Bootstrap-filetype-wav": [
+    "bootstrap",
+    "filetype",
+    "wav"
+  ],
+  "Bootstrap-motherboard": [
+    "bootstrap",
+    "motherboard"
+  ],
+  "Bootstrap-skip-start-btn-fill": [
+    "bootstrap",
+    "skip",
+    "start",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-badge-ad-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-front": [
+    "bootstrap",
+    "front"
+  ],
+  "Bootstrap-hand-index-thumb": [
+    "bootstrap",
+    "hand",
+    "index",
+    "thumb"
+  ],
+  "Bootstrap-journal-arrow-up": [
+    "bootstrap",
+    "journal",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-send-exclamation-fill": [
+    "bootstrap",
+    "send",
+    "exclamation",
+    "fill"
+  ],
+  "Bootstrap-chat-left-heart": [
+    "bootstrap",
+    "chat",
+    "left",
+    "heart"
+  ],
+  "Bootstrap-send-check": [
+    "bootstrap",
+    "send",
+    "check"
+  ],
+  "Bootstrap-ticket-perforated-fill": [
+    "bootstrap",
+    "ticket",
+    "fill",
+    "perforated"
+  ],
+  "Bootstrap-dash": [
+    "bootstrap",
+    "dash"
+  ],
+  "Bootstrap-9-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-chat-left-quote-fill": [
+    "bootstrap",
+    "chat",
+    "left",
+    "quote",
+    "fill"
+  ],
+  "Bootstrap-cloud-arrow-up-fill": [
+    "bootstrap",
+    "cloud",
+    "arrow",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-cassette": [
+    "bootstrap",
+    "cassette"
+  ],
+  "Bootstrap-binoculars": [
+    "bootstrap",
+    "binoculars"
+  ],
+  "Bootstrap-calendar-check-fill": [
+    "bootstrap",
+    "calendar",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-caret-right-fill": [
+    "bootstrap",
+    "caret",
+    "right",
+    "fill"
+  ],
+  "Bootstrap-question": [
+    "bootstrap",
+    "question"
+  ],
+  "Bootstrap-filetype-mov": [
+    "bootstrap",
+    "filetype",
+    "mov"
+  ],
+  "Bootstrap-arrow-left": [
+    "bootstrap",
+    "arrow",
+    "left"
+  ],
+  "Bootstrap-easel": [
+    "bootstrap",
+    "easel"
+  ],
+  "Bootstrap-link-45deg": [
+    "bootstrap",
+    "link",
+    "deg"
+  ],
+  "Bootstrap-database-fill-gear": [
+    "bootstrap",
+    "database",
+    "fill",
+    "gear"
+  ],
+  "Bootstrap-chat-text": [
+    "bootstrap",
+    "chat",
+    "text"
+  ],
+  "Bootstrap-layers-half": [
+    "bootstrap",
+    "layers",
+    "half"
+  ],
+  "Bootstrap-brightness-alt-low": [
+    "bootstrap",
+    "brightness",
+    "low"
+  ],
+  "Bootstrap-google": [
+    "bootstrap",
+    "google"
+  ],
+  "Bootstrap-egg-fried": [
+    "bootstrap",
+    "egg",
+    "fried"
+  ],
+  "Bootstrap-filetype-ppt": [
+    "bootstrap",
+    "filetype",
+    "ppt"
+  ],
+  "Bootstrap-box-arrow-left": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "left"
+  ],
+  "Bootstrap-fan": [
+    "bootstrap",
+    "fan"
+  ],
+  "Bootstrap-file-earmark-person": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "person"
+  ],
+  "Bootstrap-capslock": [
+    "bootstrap",
+    "capslock"
+  ],
+  "Bootstrap-repeat": [
+    "bootstrap",
+    "repeat"
+  ],
+  "Bootstrap-building-fill-dash": [
+    "bootstrap",
+    "building",
+    "fill",
+    "dash"
+  ],
+  "Bootstrap-filetype-bmp": [
+    "bootstrap",
+    "filetype",
+    "bmp"
+  ],
+  "Bootstrap-plug-fill": [
+    "bootstrap",
+    "plug",
+    "fill"
+  ],
+  "Bootstrap-bar-chart": [
+    "bootstrap",
+    "bar",
+    "chart"
+  ],
+  "Bootstrap-easel3-fill": [
+    "bootstrap",
+    "easel",
+    "fill"
+  ],
+  "Bootstrap-telephone-forward": [
+    "bootstrap",
+    "telephone",
+    "forward"
+  ],
+  "Bootstrap-hand-index-thumb-fill": [
+    "bootstrap",
+    "hand",
+    "index",
+    "thumb",
+    "fill"
+  ],
+  "Bootstrap-filter-circle": [
+    "bootstrap",
+    "filter",
+    "circle"
+  ],
+  "Bootstrap-sign-yield": [
+    "bootstrap",
+    "sign",
+    "yield"
+  ],
+  "Bootstrap-mouse3-fill": [
+    "bootstrap",
+    "mouse",
+    "fill"
+  ],
+  "Bootstrap-file-easel-fill": [
+    "bootstrap",
+    "file",
+    "easel",
+    "fill"
+  ],
+  "Bootstrap-toggles-2": [
+    "bootstrap",
+    "toggles"
+  ],
+  "Bootstrap-folder-check": [
+    "bootstrap",
+    "folder",
+    "check"
+  ],
+  "Bootstrap-chevron-double-left": [
+    "bootstrap",
+    "chevron",
+    "double",
+    "left"
+  ],
+  "Bootstrap-emoji-heart-eyes-fill": [
+    "bootstrap",
+    "emoji",
+    "heart",
+    "eyes",
+    "fill"
+  ],
+  "Bootstrap-4-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-chat-left-text-fill": [
+    "bootstrap",
+    "chat",
+    "left",
+    "text",
+    "fill"
+  ],
+  "Bootstrap-card-image": [
+    "bootstrap",
+    "card",
+    "image"
+  ],
+  "Bootstrap-play": [
+    "bootstrap",
+    "play"
+  ],
+  "Bootstrap-sign-merge-left-fill": [
+    "bootstrap",
+    "sign",
+    "merge",
+    "left",
+    "fill"
+  ],
+  "Bootstrap-bug-fill": [
+    "bootstrap",
+    "bug",
+    "fill"
+  ],
+  "Bootstrap-list-check": [
+    "bootstrap",
+    "list",
+    "check"
+  ],
+  "Bootstrap-sort-down-alt": [
+    "bootstrap",
+    "sort",
+    "down"
+  ],
+  "Bootstrap-taxi-front-fill": [
+    "bootstrap",
+    "taxi",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-arrow-up": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-fullscreen": [
+    "bootstrap",
+    "fullscreen"
+  ],
+  "Bootstrap-instagram": [
+    "bootstrap",
+    "instagram"
+  ],
+  "Bootstrap-peace": [
+    "bootstrap",
+    "peace"
+  ],
+  "Bootstrap-badge-vo": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-database-check": [
+    "bootstrap",
+    "database",
+    "check"
+  ],
+  "Bootstrap-bookmark-plus": [
+    "bootstrap",
+    "bookmark",
+    "plus"
+  ],
+  "Bootstrap-2-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-skip-start-circle-fill": [
+    "bootstrap",
+    "skip",
+    "start",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-disc-fill": [
+    "bootstrap",
+    "disc",
+    "fill"
+  ],
+  "Bootstrap-file-check-fill": [
+    "bootstrap",
+    "file",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-left-square": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "up",
+    "square"
+  ],
+  "Bootstrap-folder-minus": [
+    "bootstrap",
+    "folder",
+    "minus"
+  ],
+  "Bootstrap-code": [
+    "bootstrap",
+    "code"
+  ],
+  "Bootstrap-stop": [
+    "bootstrap",
+    "stop"
+  ],
+  "Bootstrap-graph-down": [
+    "bootstrap",
+    "graph",
+    "down"
+  ],
+  "Bootstrap-sign-merge-right-fill": [
+    "bootstrap",
+    "sign",
+    "merge",
+    "right",
+    "fill"
+  ],
+  "Bootstrap-diamond-half": [
+    "bootstrap",
+    "diamond",
+    "half"
+  ],
+  "Bootstrap-sign-no-left-turn": [
+    "bootstrap",
+    "sign",
+    "left",
+    "no",
+    "turn"
+  ],
+  "Bootstrap-sign-intersection-fill": [
+    "bootstrap",
+    "sign",
+    "fill",
+    "intersection"
+  ],
+  "Bootstrap-currency-exchange": [
+    "bootstrap",
+    "currency",
+    "exchange"
+  ],
+  "Bootstrap-music-note-list": [
+    "bootstrap",
+    "music",
+    "note",
+    "list"
+  ],
+  "Bootstrap-chevron-bar-left": [
+    "bootstrap",
+    "chevron",
+    "bar",
+    "left"
+  ],
+  "Bootstrap-database-fill": [
+    "bootstrap",
+    "database",
+    "fill"
+  ],
+  "Bootstrap-dash-lg": [
+    "bootstrap",
+    "dash"
+  ],
+  "Bootstrap-calendar2-date-fill": [
+    "bootstrap",
+    "calendar",
+    "date",
+    "fill"
+  ],
+  "Bootstrap-slash-square": [
+    "bootstrap",
+    "slash",
+    "square"
+  ],
+  "Bootstrap-cart-plus": [
+    "bootstrap",
+    "cart",
+    "plus"
+  ],
+  "Bootstrap-border-center": [
+    "bootstrap",
+    "border",
+    "center"
+  ],
+  "Bootstrap-film": [
+    "bootstrap",
+    "film"
+  ],
+  "Bootstrap-file-earmark-font": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "font"
+  ],
+  "Bootstrap-hand-thumbs-up": [
+    "bootstrap",
+    "hand",
+    "thumbs",
+    "up"
+  ],
+  "Bootstrap-hourglass": [
+    "bootstrap",
+    "hourglass"
+  ],
+  "Bootstrap-chat-right-quote-fill": [
+    "bootstrap",
+    "chat",
+    "right",
+    "quote",
+    "fill"
+  ],
+  "Bootstrap-reply-all": [
+    "bootstrap",
+    "reply"
+  ],
+  "Bootstrap-lungs-fill": [
+    "bootstrap",
+    "lungs",
+    "fill"
+  ],
+  "Bootstrap-calendar-x": [
+    "bootstrap",
+    "calendar"
+  ],
+  "Bootstrap-clouds": [
+    "bootstrap",
+    "clouds"
+  ],
+  "Bootstrap-nintendo-switch": [
+    "bootstrap",
+    "nintendo",
+    "switch"
+  ],
+  "Bootstrap-person-plus": [
+    "bootstrap",
+    "person",
+    "plus"
+  ],
+  "Bootstrap-skip-start-fill": [
+    "bootstrap",
+    "skip",
+    "start",
+    "fill"
+  ],
+  "Bootstrap-pc": [
+    "bootstrap",
+    "pc"
+  ],
+  "Bootstrap-save": [
+    "bootstrap",
+    "save"
+  ],
+  "Bootstrap-heart-pulse-fill": [
+    "bootstrap",
+    "heart",
+    "pulse",
+    "fill"
+  ],
+  "Bootstrap-cloud-download": [
+    "bootstrap",
+    "cloud",
+    "download"
+  ],
+  "Bootstrap-emoji-heart-eyes": [
+    "bootstrap",
+    "emoji",
+    "heart",
+    "eyes"
+  ],
+  "Bootstrap-shield-minus": [
+    "bootstrap",
+    "shield",
+    "minus"
+  ],
+  "Bootstrap-5-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-line": [
+    "bootstrap",
+    "line"
+  ],
+  "Bootstrap-telephone-fill": [
+    "bootstrap",
+    "telephone",
+    "fill"
+  ],
+  "Bootstrap-flag-fill": [
+    "bootstrap",
+    "flag",
+    "fill"
+  ],
+  "Bootstrap-easel2-fill": [
+    "bootstrap",
+    "easel",
+    "fill"
+  ],
+  "Bootstrap-database-fill-down": [
+    "bootstrap",
+    "database",
+    "fill",
+    "down"
+  ],
+  "Bootstrap-hexagon-fill": [
+    "bootstrap",
+    "hexagon",
+    "fill"
+  ],
+  "Bootstrap-flag": [
+    "bootstrap",
+    "flag"
+  ],
+  "Bootstrap-radioactive": [
+    "bootstrap",
+    "radioactive"
+  ],
+  "Bootstrap-arrow-up-left-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "up",
+    "circle"
+  ],
+  "Bootstrap-file-earmark-ruled-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "ruled",
+    "fill"
+  ],
+  "Bootstrap-clipboard2-plus-fill": [
+    "bootstrap",
+    "clipboard",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-brightness-high-fill": [
+    "bootstrap",
+    "brightness",
+    "high",
+    "fill"
+  ],
+  "Bootstrap-collection-play-fill": [
+    "bootstrap",
+    "collection",
+    "play",
+    "fill"
+  ],
+  "Bootstrap-segmented-nav": [
+    "bootstrap",
+    "segmented",
+    "nav"
+  ],
+  "Bootstrap-fuel-pump": [
+    "bootstrap",
+    "fuel",
+    "pump"
+  ],
+  "Bootstrap-volume-up": [
+    "bootstrap",
+    "volume",
+    "up"
+  ],
+  "Bootstrap-speedometer": [
+    "bootstrap",
+    "speedometer"
+  ],
+  "Bootstrap-badge-8k": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-headset": [
+    "bootstrap",
+    "headset"
+  ],
+  "Bootstrap-wallet": [
+    "bootstrap",
+    "wallet"
+  ],
+  "Bootstrap-record": [
+    "bootstrap",
+    "record"
+  ],
+  "Bootstrap-grid-3x3-gap-fill": [
+    "bootstrap",
+    "grid",
+    "gap",
+    "fill"
+  ],
+  "Bootstrap-layers": [
+    "bootstrap",
+    "layers"
+  ],
+  "Bootstrap-android-2": [
+    "bootstrap",
+    "android"
+  ],
+  "Bootstrap-display": [
+    "bootstrap",
+    "display"
+  ],
+  "Bootstrap-badge-8k-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-arrow-through-heart": [
+    "bootstrap",
+    "arrow",
+    "through",
+    "heart"
+  ],
+  "Bootstrap-heart-arrow": [
+    "bootstrap",
+    "heart",
+    "arrow"
+  ],
+  "Bootstrap-safe": [
+    "bootstrap",
+    "safe"
+  ],
+  "Bootstrap-rewind-btn-fill": [
+    "bootstrap",
+    "rewind",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-life-preserver": [
+    "bootstrap",
+    "life",
+    "preserver"
+  ],
+  "Bootstrap-volume-up-fill": [
+    "bootstrap",
+    "volume",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-shield": [
+    "bootstrap",
+    "shield"
+  ],
+  "Bootstrap-file-word": [
+    "bootstrap",
+    "file",
+    "word"
+  ],
+  "Bootstrap-box-fill": [
+    "bootstrap",
+    "box",
+    "fill"
+  ],
+  "Bootstrap-person-heart": [
+    "bootstrap",
+    "person",
+    "heart"
+  ],
+  "Bootstrap-plus-square-fill": [
+    "bootstrap",
+    "plus",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-archive": [
+    "bootstrap",
+    "archive"
+  ],
+  "Bootstrap-displayport-fill": [
+    "bootstrap",
+    "displayport",
+    "fill"
+  ],
+  "Bootstrap-forward": [
+    "bootstrap",
+    "forward"
+  ],
+  "Bootstrap-nut": [
+    "bootstrap",
+    "nut"
+  ],
+  "Bootstrap-cloud-slash-fill": [
+    "bootstrap",
+    "cloud",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-pc-display": [
+    "bootstrap",
+    "display",
+    "pc"
+  ],
+  "Bootstrap-sunset": [
+    "bootstrap",
+    "sunset"
+  ],
+  "Bootstrap-send": [
+    "bootstrap",
+    "send"
+  ],
+  "Bootstrap-person-lines-fill": [
+    "bootstrap",
+    "person",
+    "lines",
+    "fill"
+  ],
+  "Bootstrap-building-fill-up": [
+    "bootstrap",
+    "building",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-calendar-range-fill": [
+    "bootstrap",
+    "calendar",
+    "range",
+    "fill"
+  ],
+  "Bootstrap-chat-right-dots": [
+    "bootstrap",
+    "chat",
+    "right",
+    "dots"
+  ],
+  "Bootstrap-puzzle": [
+    "bootstrap",
+    "puzzle"
+  ],
+  "Bootstrap-sign-stop-lights-fill": [
+    "bootstrap",
+    "sign",
+    "stop",
+    "lights",
+    "fill"
+  ],
+  "Bootstrap-virus": [
+    "bootstrap",
+    "virus"
+  ],
+  "Bootstrap-record-btn-fill": [
+    "bootstrap",
+    "record",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-compass-fill": [
+    "bootstrap",
+    "compass",
+    "fill"
+  ],
+  "Bootstrap-gem": [
+    "bootstrap",
+    "gem"
+  ],
+  "Bootstrap-layout-wtf": [
+    "bootstrap",
+    "layout",
+    "wtf"
+  ],
+  "Bootstrap-file-earmark-arrow-down-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-terminal-x": [
+    "bootstrap",
+    "terminal"
+  ],
+  "Bootstrap-window-dock": [
+    "bootstrap",
+    "window",
+    "dock"
+  ],
+  "Bootstrap-battery": [
+    "bootstrap",
+    "battery"
+  ],
+  "Bootstrap-app": [
+    "bootstrap",
+    "app"
+  ],
+  "Bootstrap-badge-hd": [
+    "bootstrap",
+    "badge",
+    "hd"
+  ],
+  "Bootstrap-cup-fill": [
+    "bootstrap",
+    "cup",
+    "fill"
+  ],
+  "Bootstrap-triangle": [
+    "bootstrap",
+    "triangle"
+  ],
+  "Bootstrap-ev-station": [
+    "bootstrap",
+    "station"
+  ],
+  "Bootstrap-reception-0": [
+    "bootstrap",
+    "reception"
+  ],
+  "Bootstrap-arrow-up": [
+    "bootstrap",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-reception-3": [
+    "bootstrap",
+    "reception"
+  ],
+  "Bootstrap-sort-down": [
+    "bootstrap",
+    "sort",
+    "down"
+  ],
+  "Bootstrap-arrow-right-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-type-bold": [
+    "bootstrap",
+    "type",
+    "bold"
+  ],
+  "Bootstrap-hdd-rack": [
+    "bootstrap",
+    "hdd",
+    "rack"
+  ],
+  "Bootstrap-arrow-right-circle": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "circle"
+  ],
+  "Bootstrap-info-circle": [
+    "bootstrap",
+    "info",
+    "circle"
+  ],
+  "Bootstrap-prescription": [
+    "bootstrap",
+    "prescription"
+  ],
+  "Bootstrap-chat-square-heart-fill": [
+    "bootstrap",
+    "chat",
+    "square",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-microsoft": [
+    "bootstrap",
+    "microsoft"
+  ],
+  "Bootstrap-calendar-4": [
+    "bootstrap",
+    "calendar"
+  ],
+  "Bootstrap-check-square-fill": [
+    "bootstrap",
+    "check",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-person-bounding-box": [
+    "bootstrap",
+    "person",
+    "bounding",
+    "box"
+  ],
+  "Bootstrap-buildings": [
+    "bootstrap",
+    "buildings"
+  ],
+  "Bootstrap-arrow-left-circle": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "circle"
+  ],
+  "Bootstrap-r-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-cloud-snow-fill": [
+    "bootstrap",
+    "cloud",
+    "snow",
+    "fill"
+  ],
+  "Bootstrap-grid-3x2": [
+    "bootstrap",
+    "grid"
+  ],
+  "Bootstrap-share-fill": [
+    "bootstrap",
+    "share",
+    "fill"
+  ],
+  "Bootstrap-list-columns": [
+    "bootstrap",
+    "list",
+    "columns"
+  ],
+  "Bootstrap-cart-plus-fill": [
+    "bootstrap",
+    "cart",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-align-start": [
+    "bootstrap",
+    "align",
+    "start"
+  ],
+  "Bootstrap-fuel-pump-diesel-fill": [
+    "bootstrap",
+    "fuel",
+    "pump",
+    "diesel",
+    "fill"
+  ],
+  "Bootstrap-box-arrow-right": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "right"
+  ],
+  "Bootstrap-eye-slash": [
+    "bootstrap",
+    "eye",
+    "slash"
+  ],
+  "Bootstrap-disc": [
+    "bootstrap",
+    "disc"
+  ],
+  "Bootstrap-fire": [
+    "bootstrap",
+    "fire"
+  ],
+  "Bootstrap-balloon": [
+    "bootstrap",
+    "balloon"
+  ],
+  "Bootstrap-emoji-smile": [
+    "bootstrap",
+    "emoji",
+    "smile"
+  ],
+  "Bootstrap-headphones": [
+    "bootstrap",
+    "headphones"
+  ],
+  "Bootstrap-person-slash": [
+    "bootstrap",
+    "person",
+    "slash"
+  ],
+  "Bootstrap-question-square": [
+    "bootstrap",
+    "question",
+    "square"
+  ],
+  "Bootstrap-sticky-fill": [
+    "bootstrap",
+    "sticky",
+    "fill"
+  ],
+  "Bootstrap-arrows-angle-contract": [
+    "bootstrap",
+    "arrows",
+    "angle",
+    "contract"
+  ],
+  "Bootstrap-file-earmark-arrow-down": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-database": [
+    "bootstrap",
+    "database"
+  ],
+  "Bootstrap-box-arrow-in-down": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-octagon-half": [
+    "bootstrap",
+    "octagon",
+    "half"
+  ],
+  "Bootstrap-plug": [
+    "bootstrap",
+    "plug"
+  ],
+  "Bootstrap-envelope-fill": [
+    "bootstrap",
+    "envelope",
+    "fill"
+  ],
+  "Bootstrap-symmetry-horizontal": [
+    "bootstrap",
+    "symmetry",
+    "horizontal"
+  ],
+  "Bootstrap-filetype-key": [
+    "bootstrap",
+    "filetype",
+    "key"
+  ],
+  "Bootstrap-basket-2": [
+    "bootstrap",
+    "basket"
+  ],
+  "Bootstrap-hdd-network-fill": [
+    "bootstrap",
+    "hdd",
+    "network",
+    "fill"
+  ],
+  "Bootstrap-house-exclamation-fill": [
+    "bootstrap",
+    "house",
+    "exclamation",
+    "fill"
+  ],
+  "Bootstrap-border-right": [
+    "bootstrap",
+    "border",
+    "right"
+  ],
+  "Bootstrap-chat-right-quote": [
+    "bootstrap",
+    "chat",
+    "right",
+    "quote"
+  ],
+  "Bootstrap-calendar2-minus": [
+    "bootstrap",
+    "calendar",
+    "minus"
+  ],
+  "Bootstrap-brightness-low-fill": [
+    "bootstrap",
+    "brightness",
+    "low",
+    "fill"
+  ],
+  "Bootstrap-arrow-down-square-fill": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-sign-turn-right": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "right"
+  ],
+  "Bootstrap-envelope": [
+    "bootstrap",
+    "envelope"
+  ],
+  "Bootstrap-cart-2": [
+    "bootstrap",
+    "cart"
+  ],
+  "Bootstrap-skip-backward-circle-fill": [
+    "bootstrap",
+    "skip",
+    "backward",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-layout-sidebar-inset": [
+    "bootstrap",
+    "layout",
+    "sidebar",
+    "inset"
+  ],
+  "Bootstrap-speedometer-2": [
+    "bootstrap",
+    "speedometer"
+  ],
+  "Bootstrap-indent": [
+    "bootstrap",
+    "indent"
+  ],
+  "Bootstrap-upc": [
+    "bootstrap",
+    "upc"
+  ],
+  "Bootstrap-database-fill-up": [
+    "bootstrap",
+    "database",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-badge-vr-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-chat-quote": [
+    "bootstrap",
+    "chat",
+    "quote"
+  ],
+  "Bootstrap-ethernet": [
+    "bootstrap",
+    "ethernet"
+  ],
+  "Bootstrap-file-check": [
+    "bootstrap",
+    "file",
+    "check"
+  ],
+  "Bootstrap-folder2-open": [
+    "bootstrap",
+    "folder",
+    "open"
+  ],
+  "Bootstrap-send-check-fill": [
+    "bootstrap",
+    "send",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-person-dash-fill": [
+    "bootstrap",
+    "person",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "fill"
+  ],
+  "Bootstrap-database-fill-lock": [
+    "bootstrap",
+    "database",
+    "fill",
+    "lock"
+  ],
+  "Bootstrap-database-exclamation": [
+    "bootstrap",
+    "database",
+    "exclamation"
+  ],
+  "Bootstrap-chat-left-text": [
+    "bootstrap",
+    "chat",
+    "left",
+    "text"
+  ],
+  "Bootstrap-box-arrow-down-left": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "down",
+    "left"
+  ],
+  "Bootstrap-eraser-fill": [
+    "bootstrap",
+    "eraser",
+    "fill"
+  ],
+  "Bootstrap-sign-no-right-turn": [
+    "bootstrap",
+    "sign",
+    "no",
+    "right",
+    "turn"
+  ],
+  "Bootstrap-usb-drive-fill": [
+    "bootstrap",
+    "usb",
+    "drive",
+    "fill"
+  ],
+  "Bootstrap-chat-square-dots": [
+    "bootstrap",
+    "chat",
+    "square",
+    "dots"
+  ],
+  "Bootstrap-usb-mini-fill": [
+    "bootstrap",
+    "usb",
+    "mini",
+    "fill"
+  ],
+  "Bootstrap-hourglass-bottom": [
+    "bootstrap",
+    "hourglass",
+    "bottom"
+  ],
+  "Bootstrap-search-heart-fill": [
+    "bootstrap",
+    "search",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-tropical-storm": [
+    "bootstrap",
+    "tropical",
+    "storm"
+  ],
+  "Bootstrap-sign-intersection-side": [
+    "bootstrap",
+    "sign",
+    "intersection",
+    "side"
+  ],
+  "Bootstrap-calendar3-week-fill": [
+    "bootstrap",
+    "calendar",
+    "week",
+    "fill"
+  ],
+  "Bootstrap-terminal-plus": [
+    "bootstrap",
+    "terminal",
+    "plus"
+  ],
+  "Bootstrap-shield-fill-minus": [
+    "bootstrap",
+    "shield",
+    "fill",
+    "minus"
+  ],
+  "Bootstrap-clipboard2-data": [
+    "bootstrap",
+    "clipboard",
+    "data"
+  ],
+  "Bootstrap-door-closed-fill": [
+    "bootstrap",
+    "door",
+    "closed",
+    "fill"
+  ],
+  "Bootstrap-emoji-expressionless": [
+    "bootstrap",
+    "emoji",
+    "expressionless"
+  ],
+  "Bootstrap-markdown": [
+    "bootstrap",
+    "markdown"
+  ],
+  "Bootstrap-caret-left-square-fill": [
+    "bootstrap",
+    "caret",
+    "left",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-sign-yield-fill": [
+    "bootstrap",
+    "sign",
+    "yield",
+    "fill"
+  ],
+  "Bootstrap-intersect": [
+    "bootstrap",
+    "intersect"
+  ],
+  "Bootstrap-filetype-doc": [
+    "bootstrap",
+    "filetype",
+    "doc"
+  ],
+  "Bootstrap-layout-split": [
+    "bootstrap",
+    "layout",
+    "split"
+  ],
+  "Bootstrap-person-fill-check": [
+    "bootstrap",
+    "person",
+    "fill",
+    "check"
+  ],
+  "Bootstrap-database-add": [
+    "bootstrap",
+    "database",
+    "add"
+  ],
+  "Bootstrap-reply-fill": [
+    "bootstrap",
+    "reply",
+    "fill"
+  ],
+  "Bootstrap-pc-display-horizontal": [
+    "bootstrap",
+    "display",
+    "pc",
+    "horizontal"
+  ],
+  "Bootstrap-person-workspace": [
+    "bootstrap",
+    "person",
+    "workspace"
+  ],
+  "Bootstrap-mortarboard": [
+    "bootstrap",
+    "mortarboard"
+  ],
+  "Bootstrap-cloud-download-fill": [
+    "bootstrap",
+    "cloud",
+    "download",
+    "fill"
+  ],
+  "Bootstrap-youtube": [
+    "bootstrap",
+    "youtube"
+  ],
+  "Bootstrap-check-square": [
+    "bootstrap",
+    "check",
+    "square"
+  ],
+  "Bootstrap-asterisk": [
+    "bootstrap",
+    "asterisk"
+  ],
+  "Bootstrap-check2-circle": [
+    "bootstrap",
+    "check",
+    "circle"
+  ],
+  "Bootstrap-filter-right": [
+    "bootstrap",
+    "filter",
+    "right"
+  ],
+  "Bootstrap-postage": [
+    "bootstrap",
+    "postage"
+  ],
+  "Bootstrap-envelope-paper": [
+    "bootstrap",
+    "envelope",
+    "paper"
+  ],
+  "Bootstrap-clipboard2-x": [
+    "bootstrap",
+    "clipboard"
+  ],
+  "Bootstrap-node-plus": [
+    "bootstrap",
+    "node",
+    "plus"
+  ],
+  "Bootstrap-chat-square": [
+    "bootstrap",
+    "chat",
+    "square"
+  ],
+  "Bootstrap-file-zip-fill": [
+    "bootstrap",
+    "file",
+    "zip",
+    "fill"
+  ],
+  "Bootstrap-menu-app-fill": [
+    "bootstrap",
+    "menu",
+    "app",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-right": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "up"
+  ],
+  "Bootstrap-pin-map": [
+    "bootstrap",
+    "pin",
+    "map"
+  ],
+  "Bootstrap-envelope-plus-fill": [
+    "bootstrap",
+    "envelope",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-book": [
+    "bootstrap",
+    "book"
+  ],
+  "Bootstrap-houses-fill": [
+    "bootstrap",
+    "houses",
+    "fill"
+  ],
+  "Bootstrap-input-cursor-text": [
+    "bootstrap",
+    "input",
+    "cursor",
+    "text"
+  ],
+  "Bootstrap-gift-fill": [
+    "bootstrap",
+    "gift",
+    "fill"
+  ],
+  "Bootstrap-house-up": [
+    "bootstrap",
+    "house",
+    "up"
+  ],
+  "Bootstrap-usb-micro-fill": [
+    "bootstrap",
+    "usb",
+    "micro",
+    "fill"
+  ],
+  "Bootstrap-stickies": [
+    "bootstrap",
+    "stickies"
+  ],
+  "Bootstrap-geo": [
+    "bootstrap",
+    "geo"
+  ],
+  "Bootstrap-chat-left": [
+    "bootstrap",
+    "chat",
+    "left"
+  ],
+  "Bootstrap-card-checklist": [
+    "bootstrap",
+    "card",
+    "checklist"
+  ],
+  "Bootstrap-database-fill-dash": [
+    "bootstrap",
+    "database",
+    "fill",
+    "dash"
+  ],
+  "Bootstrap-c-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-regex": [
+    "bootstrap",
+    "regex"
+  ],
+  "Bootstrap-book-half": [
+    "bootstrap",
+    "book",
+    "half"
+  ],
+  "Bootstrap-snow-3": [
+    "bootstrap",
+    "snow"
+  ],
+  "Bootstrap-cloud-lightning": [
+    "bootstrap",
+    "cloud",
+    "lightning"
+  ],
+  "Bootstrap-eyedropper": [
+    "bootstrap",
+    "eyedropper"
+  ],
+  "Bootstrap-save2-fill": [
+    "bootstrap",
+    "save",
+    "fill"
+  ],
+  "Bootstrap-rewind-circle-fill": [
+    "bootstrap",
+    "rewind",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-box2-heart-fill": [
+    "bootstrap",
+    "box",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-mouse-3": [
+    "bootstrap",
+    "mouse"
+  ],
+  "Bootstrap-journals": [
+    "bootstrap",
+    "journals"
+  ],
+  "Bootstrap-lock": [
+    "bootstrap",
+    "lock"
+  ],
+  "Bootstrap-diagram-2": [
+    "bootstrap",
+    "diagram"
+  ],
+  "Bootstrap-arrow-left-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-skip-forward": [
+    "bootstrap",
+    "skip",
+    "forward"
+  ],
+  "Bootstrap-file-x": [
+    "bootstrap",
+    "file"
+  ],
+  "Bootstrap-arrow-down-right": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "right"
+  ],
+  "Bootstrap-tornado": [
+    "bootstrap",
+    "tornado"
+  ],
+  "Bootstrap-sign-do-not-enter": [
+    "bootstrap",
+    "sign",
+    "enter"
+  ],
+  "Bootstrap-file-earmark-zip": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "zip"
+  ],
+  "Bootstrap-music-player": [
+    "bootstrap",
+    "music",
+    "player"
+  ],
+  "Bootstrap-chat-heart": [
+    "bootstrap",
+    "chat",
+    "heart"
+  ],
+  "Bootstrap-sd-card-fill": [
+    "bootstrap",
+    "card",
+    "fill"
+  ],
+  "Bootstrap-playstation": [
+    "bootstrap",
+    "playstation"
+  ],
+  "Bootstrap-type": [
+    "bootstrap",
+    "type"
+  ],
+  "Bootstrap-outlet": [
+    "bootstrap",
+    "outlet"
+  ],
+  "Bootstrap-spellcheck": [
+    "bootstrap",
+    "spellcheck"
+  ],
+  "Bootstrap-arrow-up-square-fill": [
+    "bootstrap",
+    "arrow",
+    "square",
+    "up",
+    "fill"
+  ],
+  "Bootstrap-cloud-plus-fill": [
+    "bootstrap",
+    "cloud",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-safe-2": [
+    "bootstrap",
+    "safe"
+  ],
+  "Bootstrap-clipboard-plus": [
+    "bootstrap",
+    "clipboard",
+    "plus"
+  ],
+  "Bootstrap-cloud-arrow-down-fill": [
+    "bootstrap",
+    "cloud",
+    "arrow",
+    "down",
+    "fill"
+  ],
+  "Bootstrap-blockquote-left": [
+    "bootstrap",
+    "blockquote",
+    "left"
+  ],
+  "Bootstrap-x-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-camera": [
+    "bootstrap",
+    "camera"
+  ],
+  "Bootstrap-columns-gap": [
+    "bootstrap",
+    "columns",
+    "gap"
+  ],
+  "Bootstrap-puzzle-fill": [
+    "bootstrap",
+    "puzzle",
+    "fill"
+  ],
+  "Bootstrap-emoji-kiss": [
+    "bootstrap",
+    "emoji",
+    "kiss"
+  ],
+  "Bootstrap-database-fill-slash": [
+    "bootstrap",
+    "database",
+    "fill",
+    "slash"
+  ],
+  "Bootstrap-cloud-slash": [
+    "bootstrap",
+    "cloud",
+    "slash"
+  ],
+  "Bootstrap-justify-left": [
+    "bootstrap",
+    "justify",
+    "left"
+  ],
+  "Bootstrap-view-stacked": [
+    "bootstrap",
+    "view",
+    "stacked"
+  ],
+  "Bootstrap-mouse2-fill": [
+    "bootstrap",
+    "mouse",
+    "fill"
+  ],
+  "Bootstrap-boxes": [
+    "bootstrap",
+    "boxes"
+  ],
+  "Bootstrap-arrow-repeat": [
+    "bootstrap",
+    "arrow",
+    "repeat"
+  ],
+  "Bootstrap-sticky": [
+    "bootstrap",
+    "sticky"
+  ],
+  "Bootstrap-patch-exclamation": [
+    "bootstrap",
+    "patch",
+    "exclamation"
+  ],
+  "Bootstrap-speaker": [
+    "bootstrap",
+    "speaker"
+  ],
+  "Bootstrap-fuel-pump-diesel": [
+    "bootstrap",
+    "fuel",
+    "pump",
+    "diesel"
+  ],
+  "Bootstrap-filetype-rb": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-tablet-landscape": [
+    "bootstrap",
+    "tablet",
+    "landscape"
+  ],
+  "Bootstrap-people-fill": [
+    "bootstrap",
+    "people",
+    "fill"
+  ],
+  "Bootstrap-cash-coin": [
+    "bootstrap",
+    "cash",
+    "coin"
+  ],
+  "Bootstrap-mic": [
+    "bootstrap",
+    "mic"
+  ],
+  "Bootstrap-calendar2-month-fill": [
+    "bootstrap",
+    "calendar",
+    "month",
+    "fill"
+  ],
+  "Bootstrap-aspect-ratio": [
+    "bootstrap",
+    "aspect",
+    "ratio"
+  ],
+  "Bootstrap-wrench-adjustable": [
+    "bootstrap",
+    "wrench",
+    "adjustable"
+  ],
+  "Bootstrap-house-fill": [
+    "bootstrap",
+    "house",
+    "fill"
+  ],
+  "Bootstrap-info": [
+    "bootstrap",
+    "info"
+  ],
+  "Bootstrap-telephone-minus-fill": [
+    "bootstrap",
+    "telephone",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-grid-3x3": [
+    "bootstrap",
+    "grid"
+  ],
+  "Bootstrap-bookmark-dash-fill": [
+    "bootstrap",
+    "bookmark",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-clipboard2-check": [
+    "bootstrap",
+    "clipboard",
+    "check"
+  ],
+  "Bootstrap-fill": [
+    "bootstrap",
+    "fill"
+  ],
+  "Bootstrap-file-arrow-up": [
+    "bootstrap",
+    "file",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-bookmark": [
+    "bootstrap",
+    "bookmark"
+  ],
+  "Bootstrap-globe": [
+    "bootstrap",
+    "globe"
+  ],
+  "Bootstrap-universal-access-circle": [
+    "bootstrap",
+    "universal",
+    "access",
+    "circle"
+  ],
+  "Bootstrap-safe2-fill": [
+    "bootstrap",
+    "safe",
+    "fill"
+  ],
+  "Bootstrap-whatsapp": [
+    "bootstrap",
+    "whatsapp"
+  ],
+  "Bootstrap-house-door": [
+    "bootstrap",
+    "house",
+    "door"
+  ],
+  "Bootstrap-calendar2-range": [
+    "bootstrap",
+    "calendar",
+    "range"
+  ],
+  "Bootstrap-text-indent-right": [
+    "bootstrap",
+    "text",
+    "indent",
+    "right"
+  ],
+  "Bootstrap-h-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-database-fill-add": [
+    "bootstrap",
+    "database",
+    "fill",
+    "add"
+  ],
+  "Bootstrap-file-earmark-excel": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "excel"
+  ],
+  "Bootstrap-usb": [
+    "bootstrap",
+    "usb"
+  ],
+  "Bootstrap-train-front": [
+    "bootstrap",
+    "train",
+    "front"
+  ],
+  "Bootstrap-telephone-plus-fill": [
+    "bootstrap",
+    "telephone",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-cloudy": [
+    "bootstrap",
+    "cloudy"
+  ],
+  "Bootstrap-vimeo": [
+    "bootstrap",
+    "vimeo"
+  ],
+  "Bootstrap-skip-forward-btn": [
+    "bootstrap",
+    "skip",
+    "forward",
+    "btn"
+  ],
+  "Bootstrap-stop-fill": [
+    "bootstrap",
+    "stop",
+    "fill"
+  ],
+  "Bootstrap-filetype-sh": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-incognito": [
+    "bootstrap",
+    "incognito"
+  ],
+  "Bootstrap-p-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-calendar-minus": [
+    "bootstrap",
+    "calendar",
+    "minus"
+  ],
+  "Bootstrap-filetype-scss": [
+    "bootstrap",
+    "filetype",
+    "scss"
+  ],
+  "Bootstrap-badge-vr": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-chat-quote-fill": [
+    "bootstrap",
+    "chat",
+    "quote",
+    "fill"
+  ],
+  "Bootstrap-info-square": [
+    "bootstrap",
+    "info",
+    "square"
+  ],
+  "Bootstrap-bookmark-fill": [
+    "bootstrap",
+    "bookmark",
+    "fill"
+  ],
+  "Bootstrap-menu-app": [
+    "bootstrap",
+    "menu",
+    "app"
+  ],
+  "Bootstrap-file-earmark-spreadsheet-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "fill",
+    "spreadsheet"
+  ],
+  "Bootstrap-file-lock2-fill": [
+    "bootstrap",
+    "file",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-sign-stop": [
+    "bootstrap",
+    "sign",
+    "stop"
+  ],
+  "Bootstrap-bookmark-star": [
+    "bootstrap",
+    "bookmark",
+    "star"
+  ],
+  "Bootstrap-snapchat": [
+    "bootstrap",
+    "snapchat"
+  ],
+  "Bootstrap-briefcase-fill": [
+    "bootstrap",
+    "briefcase",
+    "fill"
+  ],
+  "Bootstrap-record-2": [
+    "bootstrap",
+    "record"
+  ],
+  "Bootstrap-person-fill-down": [
+    "bootstrap",
+    "person",
+    "fill",
+    "down"
+  ],
+  "Bootstrap-cpu-fill": [
+    "bootstrap",
+    "cpu",
+    "fill"
+  ],
+  "Bootstrap-filetype-html": [
+    "bootstrap",
+    "filetype",
+    "html"
+  ],
+  "Bootstrap-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-pause": [
+    "bootstrap",
+    "pause"
+  ],
+  "Bootstrap-arrow-down-right-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "right",
+    "circle"
+  ],
+  "Bootstrap-pencil": [
+    "bootstrap",
+    "pencil"
+  ],
+  "Bootstrap-menu-button-wide-fill": [
+    "bootstrap",
+    "menu",
+    "button",
+    "wide",
+    "fill"
+  ],
+  "Bootstrap-chevron-compact-down": [
+    "bootstrap",
+    "chevron",
+    "compact",
+    "down"
+  ],
+  "Bootstrap-check-lg": [
+    "bootstrap",
+    "check"
+  ],
+  "Bootstrap-calendar2-minus-fill": [
+    "bootstrap",
+    "calendar",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-house-x-fill": [
+    "bootstrap",
+    "house",
+    "fill"
+  ],
+  "Bootstrap-6-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-filetype-docx": [
+    "bootstrap",
+    "filetype",
+    "docx"
+  ],
+  "Bootstrap-bag-x": [
+    "bootstrap",
+    "bag"
+  ],
+  "Bootstrap-cloud-rain-fill": [
+    "bootstrap",
+    "cloud",
+    "rain",
+    "fill"
+  ],
+  "Bootstrap-lightning-fill": [
+    "bootstrap",
+    "lightning",
+    "fill"
+  ],
+  "Bootstrap-journal": [
+    "bootstrap",
+    "journal"
+  ],
+  "Bootstrap-link": [
+    "bootstrap",
+    "link"
+  ],
+  "Bootstrap-pip-fill": [
+    "bootstrap",
+    "pip",
+    "fill"
+  ],
+  "Bootstrap-lightbulb-off-fill": [
+    "bootstrap",
+    "lightbulb",
+    "off",
+    "fill"
+  ],
+  "Bootstrap-snow-2": [
+    "bootstrap",
+    "snow"
+  ],
+  "Bootstrap-exclude": [
+    "bootstrap",
+    "exclude"
+  ],
+  "Bootstrap-skip-forward-circle-fill": [
+    "bootstrap",
+    "skip",
+    "forward",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-filetype-pdf": [
+    "bootstrap",
+    "filetype",
+    "pdf"
+  ],
+  "Bootstrap-suit-club-fill": [
+    "bootstrap",
+    "suit",
+    "club",
+    "fill"
+  ],
+  "Bootstrap-pie-chart-fill": [
+    "bootstrap",
+    "pie",
+    "chart",
+    "fill"
+  ],
+  "Bootstrap-dash-square-fill": [
+    "bootstrap",
+    "dash",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-building-check": [
+    "bootstrap",
+    "building",
+    "check"
+  ],
+  "Bootstrap-filetype-psd": [
+    "bootstrap",
+    "filetype",
+    "psd"
+  ],
+  "Bootstrap-7-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-plugin": [
+    "bootstrap",
+    "plugin"
+  ],
+  "Bootstrap-file-earmark-medical-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "medical",
+    "fill"
+  ],
+  "Bootstrap-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-mouse-2": [
+    "bootstrap",
+    "mouse"
+  ],
+  "Bootstrap-laptop": [
+    "bootstrap",
+    "laptop"
+  ],
+  "Bootstrap-dice-6": [
+    "bootstrap",
+    "dice"
+  ],
+  "Bootstrap-bucket-fill": [
+    "bootstrap",
+    "bucket",
+    "fill"
+  ],
+  "Bootstrap-plus": [
+    "bootstrap",
+    "plus"
+  ],
+  "Bootstrap-exclamation-lg": [
+    "bootstrap",
+    "exclamation"
+  ],
+  "Bootstrap-suit-heart": [
+    "bootstrap",
+    "suit",
+    "heart"
+  ],
+  "Bootstrap-slash-circle-fill": [
+    "bootstrap",
+    "slash",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-arrows-fullscreen": [
+    "bootstrap",
+    "arrows",
+    "fullscreen"
+  ],
+  "Bootstrap-tags-fill": [
+    "bootstrap",
+    "tags",
+    "fill"
+  ],
+  "Bootstrap-clock": [
+    "bootstrap",
+    "clock"
+  ],
+  "Bootstrap-journal-plus": [
+    "bootstrap",
+    "journal",
+    "plus"
+  ],
+  "Bootstrap-ui-checks": [
+    "bootstrap",
+    "checks"
+  ],
+  "Bootstrap-box-2": [
+    "bootstrap",
+    "box"
+  ],
+  "Bootstrap-send-dash-fill": [
+    "bootstrap",
+    "send",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-calendar2-plus-fill": [
+    "bootstrap",
+    "calendar",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-suit-spade": [
+    "bootstrap",
+    "suit",
+    "spade"
+  ],
+  "Bootstrap-envelope-open": [
+    "bootstrap",
+    "envelope",
+    "open"
+  ],
+  "Bootstrap-file-earmark-diff": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "diff"
+  ],
+  "Bootstrap-wordpress": [
+    "bootstrap",
+    "wordpress"
+  ],
+  "Bootstrap-optical-audio": [
+    "bootstrap",
+    "optical",
+    "audio"
+  ],
+  "Bootstrap-cart-dash": [
+    "bootstrap",
+    "cart",
+    "dash"
+  ],
+  "Bootstrap-backspace-reverse": [
+    "bootstrap",
+    "backspace",
+    "reverse"
+  ],
+  "Bootstrap-plus-lg": [
+    "bootstrap",
+    "plus"
+  ],
+  "Bootstrap-dot": [
+    "bootstrap",
+    "dot"
+  ],
+  "Bootstrap-person-fill-gear": [
+    "bootstrap",
+    "person",
+    "fill",
+    "gear"
+  ],
+  "Bootstrap-file-earmark-slides-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "slides",
+    "fill"
+  ],
+  "Bootstrap-window-desktop": [
+    "bootstrap",
+    "window",
+    "desktop"
+  ],
+  "Bootstrap-caret-left-square": [
+    "bootstrap",
+    "caret",
+    "left",
+    "square"
+  ],
+  "Bootstrap-clipboard2-check-fill": [
+    "bootstrap",
+    "clipboard",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-person-vcard": [
+    "bootstrap",
+    "person",
+    "vcard"
+  ],
+  "Bootstrap-play-btn-fill": [
+    "bootstrap",
+    "play",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-snow": [
+    "bootstrap",
+    "snow"
+  ],
+  "Bootstrap-sign-no-parking": [
+    "bootstrap",
+    "sign",
+    "no",
+    "parking"
+  ],
+  "Bootstrap-chat-right-heart-fill": [
+    "bootstrap",
+    "chat",
+    "right",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-emoji-frown-fill": [
+    "bootstrap",
+    "emoji",
+    "frown",
+    "fill"
+  ],
+  "Bootstrap-tags": [
+    "bootstrap",
+    "tags"
+  ],
+  "Bootstrap-github": [
+    "bootstrap",
+    "github"
+  ],
+  "Bootstrap-cloud-lightning-fill": [
+    "bootstrap",
+    "cloud",
+    "lightning",
+    "fill"
+  ],
+  "Bootstrap-building-fill-down": [
+    "bootstrap",
+    "building",
+    "fill",
+    "down"
+  ],
+  "Bootstrap-valentine": [
+    "bootstrap",
+    "valentine"
+  ],
+  "Bootstrap-skip-end-btn": [
+    "bootstrap",
+    "skip",
+    "end",
+    "btn"
+  ],
+  "Bootstrap-0-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-calendar": [
+    "bootstrap",
+    "calendar"
+  ],
+  "Bootstrap-truck-flatbed": [
+    "bootstrap",
+    "truck",
+    "flatbed"
+  ],
+  "Bootstrap-minecart-loaded": [
+    "bootstrap",
+    "minecart",
+    "loaded"
+  ],
+  "Bootstrap-filetype-sql": [
+    "bootstrap",
+    "filetype",
+    "sql"
+  ],
+  "Bootstrap-calendar2-event-fill": [
+    "bootstrap",
+    "calendar",
+    "event",
+    "fill"
+  ],
+  "Bootstrap-calendar2-check": [
+    "bootstrap",
+    "calendar",
+    "check"
+  ],
+  "Bootstrap-file-easel": [
+    "bootstrap",
+    "file",
+    "easel"
+  ],
+  "Bootstrap-octagon": [
+    "bootstrap",
+    "octagon"
+  ],
+  "Bootstrap-eye": [
+    "bootstrap",
+    "eye"
+  ],
+  "Bootstrap-file-medical-fill": [
+    "bootstrap",
+    "file",
+    "medical",
+    "fill"
+  ],
+  "Bootstrap-bookmarks": [
+    "bootstrap",
+    "bookmarks"
+  ],
+  "Bootstrap-stack-overflow": [
+    "bootstrap",
+    "stack",
+    "overflow"
+  ],
+  "Bootstrap-shift-fill": [
+    "bootstrap",
+    "shift",
+    "fill"
+  ],
+  "Bootstrap-calendar-minus-fill": [
+    "bootstrap",
+    "calendar",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-emoji-wink-fill": [
+    "bootstrap",
+    "emoji",
+    "wink",
+    "fill"
+  ],
+  "Bootstrap-sign-turn-slight-left-fill": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "slight",
+    "left"
+  ],
+  "Bootstrap-brightness-alt-low-fill": [
+    "bootstrap",
+    "brightness",
+    "low",
+    "fill"
+  ],
+  "Bootstrap-file-minus-fill": [
+    "bootstrap",
+    "file",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-toggle2-on": [
+    "bootstrap",
+    "toggle"
+  ],
+  "Bootstrap-file-earmark-plus": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "plus"
+  ],
+  "Bootstrap-braces": [
+    "bootstrap",
+    "braces"
+  ],
+  "Bootstrap-rainbow": [
+    "bootstrap",
+    "rainbow"
+  ],
+  "Bootstrap-building-fill-exclamation": [
+    "bootstrap",
+    "building",
+    "fill",
+    "exclamation"
+  ],
+  "Bootstrap-globe-europe-africa": [
+    "bootstrap",
+    "globe",
+    "europe",
+    "africa"
+  ],
+  "Bootstrap-camera-video-off": [
+    "bootstrap",
+    "camera",
+    "video",
+    "off"
+  ],
+  "Bootstrap-briefcase": [
+    "bootstrap",
+    "briefcase"
+  ],
+  "Bootstrap-image": [
+    "bootstrap",
+    "image"
+  ],
+  "Bootstrap-person-fill-lock": [
+    "bootstrap",
+    "person",
+    "fill",
+    "lock"
+  ],
+  "Bootstrap-lungs": [
+    "bootstrap",
+    "lungs"
+  ],
+  "Bootstrap-info-lg": [
+    "bootstrap",
+    "info"
+  ],
+  "Bootstrap-ladder": [
+    "bootstrap",
+    "ladder"
+  ],
+  "Bootstrap-calculator": [
+    "bootstrap",
+    "calculator"
+  ],
+  "Bootstrap-clipboard2-minus-fill": [
+    "bootstrap",
+    "clipboard",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-house-down-fill": [
+    "bootstrap",
+    "house",
+    "down",
+    "fill"
+  ],
+  "Bootstrap-2-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-smartwatch": [
+    "bootstrap",
+    "smartwatch"
+  ],
+  "Bootstrap-shield-shaded": [
+    "bootstrap",
+    "shield",
+    "shaded"
+  ],
+  "Bootstrap-globe-central-south-asia": [
+    "bootstrap",
+    "globe",
+    "central",
+    "south",
+    "asia"
+  ],
+  "Bootstrap-box-arrow-up-right": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "right",
+    "up"
+  ],
+  "Bootstrap-window-x": [
+    "bootstrap",
+    "window"
+  ],
+  "Bootstrap-fullscreen-exit": [
+    "bootstrap",
+    "exit",
+    "fullscreen"
+  ],
+  "Bootstrap-calendar-date": [
+    "bootstrap",
+    "calendar",
+    "date"
+  ],
+  "Bootstrap-border-bottom": [
+    "bootstrap",
+    "border",
+    "bottom"
+  ],
+  "Bootstrap-boombox-fill": [
+    "bootstrap",
+    "boombox",
+    "fill"
+  ],
+  "Bootstrap-cash-stack": [
+    "bootstrap",
+    "cash",
+    "stack"
+  ],
+  "Bootstrap-moon-fill": [
+    "bootstrap",
+    "moon",
+    "fill"
+  ],
+  "Bootstrap-table": [
+    "bootstrap",
+    "table"
+  ],
+  "Bootstrap-file-earmark-play-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "play",
+    "fill"
+  ],
+  "Bootstrap-grid-fill": [
+    "bootstrap",
+    "grid",
+    "fill"
+  ],
+  "Bootstrap-file-lock-2": [
+    "bootstrap",
+    "file",
+    "lock"
+  ],
+  "Bootstrap-ticket-fill": [
+    "bootstrap",
+    "ticket",
+    "fill"
+  ],
+  "Bootstrap-bell-slash-fill": [
+    "bootstrap",
+    "bell",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-bell-slash": [
+    "bootstrap",
+    "bell",
+    "slash"
+  ],
+  "Bootstrap-emoji-neutral-fill": [
+    "bootstrap",
+    "emoji",
+    "neutral",
+    "fill"
+  ],
+  "Bootstrap-globe-asia-australia": [
+    "bootstrap",
+    "globe",
+    "asia",
+    "australia"
+  ],
+  "Bootstrap-arrows-collapse": [
+    "bootstrap",
+    "arrows",
+    "collapse"
+  ],
+  "Bootstrap-car-front-fill": [
+    "bootstrap",
+    "car",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-buildings-fill": [
+    "bootstrap",
+    "buildings",
+    "fill"
+  ],
+  "Bootstrap-bar-chart-fill": [
+    "bootstrap",
+    "bar",
+    "chart",
+    "fill"
+  ],
+  "Bootstrap-envelope-paper-heart-fill": [
+    "bootstrap",
+    "envelope",
+    "paper",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-person-fill-x": [
+    "bootstrap",
+    "person",
+    "fill"
+  ],
+  "Bootstrap-calendar2-date": [
+    "bootstrap",
+    "calendar",
+    "date"
+  ],
+  "Bootstrap-emoji-laughing-fill": [
+    "bootstrap",
+    "emoji",
+    "laughing",
+    "fill"
+  ],
+  "Bootstrap-balloon-heart": [
+    "bootstrap",
+    "balloon",
+    "heart"
+  ],
+  "Bootstrap-badge-4k": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-calendar4-range": [
+    "bootstrap",
+    "calendar",
+    "range"
+  ],
+  "Bootstrap-question-square-fill": [
+    "bootstrap",
+    "question",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-dice-4": [
+    "bootstrap",
+    "dice"
+  ],
+  "Bootstrap-record-fill": [
+    "bootstrap",
+    "record",
+    "fill"
+  ],
+  "Bootstrap-chat-square-quote-fill": [
+    "bootstrap",
+    "chat",
+    "square",
+    "quote",
+    "fill"
+  ],
+  "Bootstrap-hand-thumbs-up-fill": [
+    "bootstrap",
+    "hand",
+    "thumbs",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-envelope-exclamation-fill": [
+    "bootstrap",
+    "envelope",
+    "exclamation",
+    "fill"
+  ],
+  "Bootstrap-bookmark-dash": [
+    "bootstrap",
+    "bookmark",
+    "dash"
+  ],
+  "Bootstrap-zoom-in": [
+    "bootstrap",
+    "zoom"
+  ],
+  "Bootstrap-cart-x-fill": [
+    "bootstrap",
+    "cart",
+    "fill"
+  ],
+  "Bootstrap-cloud-drizzle": [
+    "bootstrap",
+    "cloud",
+    "drizzle"
+  ],
+  "Bootstrap-file-word-fill": [
+    "bootstrap",
+    "file",
+    "word",
+    "fill"
+  ],
+  "Bootstrap-house-gear-fill": [
+    "bootstrap",
+    "house",
+    "gear",
+    "fill"
+  ],
+  "Bootstrap-journal-medical": [
+    "bootstrap",
+    "journal",
+    "medical"
+  ],
+  "Bootstrap-airplane-engines": [
+    "bootstrap",
+    "airplane",
+    "engines"
+  ],
+  "Bootstrap-bar-chart-line": [
+    "bootstrap",
+    "bar",
+    "chart",
+    "line"
+  ],
+  "Bootstrap-wifi-off": [
+    "bootstrap",
+    "wifi",
+    "off"
+  ],
+  "Bootstrap-vr": [
+    "bootstrap"
+  ],
+  "Bootstrap-chat-left-dots": [
+    "bootstrap",
+    "chat",
+    "left",
+    "dots"
+  ],
+  "Bootstrap-sign-intersection-t": [
+    "bootstrap",
+    "sign",
+    "intersection"
+  ],
+  "Bootstrap-bank": [
+    "bootstrap",
+    "bank"
+  ],
+  "Bootstrap-file-earmark-plus-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-code": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "code"
+  ],
+  "Bootstrap-tools": [
+    "bootstrap",
+    "tools"
+  ],
+  "Bootstrap-file-break-fill": [
+    "bootstrap",
+    "file",
+    "break",
+    "fill"
+  ],
+  "Bootstrap-house-lock": [
+    "bootstrap",
+    "house",
+    "lock"
+  ],
+  "Bootstrap-clipboard-check": [
+    "bootstrap",
+    "clipboard",
+    "check"
+  ],
+  "Bootstrap-egg": [
+    "bootstrap",
+    "egg"
+  ],
+  "Bootstrap-sign-turn-slight-right-fill": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "slight",
+    "right"
+  ],
+  "Bootstrap-bandaid-fill": [
+    "bootstrap",
+    "bandaid",
+    "fill"
+  ],
+  "Bootstrap-speaker-fill": [
+    "bootstrap",
+    "speaker",
+    "fill"
+  ],
+  "Bootstrap-textarea-resize": [
+    "bootstrap",
+    "textarea",
+    "resize"
+  ],
+  "Bootstrap-arrow-down": [
+    "bootstrap",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-stopwatch-fill": [
+    "bootstrap",
+    "stopwatch",
+    "fill"
+  ],
+  "Bootstrap-window-fullscreen": [
+    "bootstrap",
+    "window",
+    "fullscreen"
+  ],
+  "Bootstrap-arrow-down-right-circle": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "right",
+    "circle"
+  ],
+  "Bootstrap-shield-slash-fill": [
+    "bootstrap",
+    "shield",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-7-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-sign-dead-end-fill": [
+    "bootstrap",
+    "sign",
+    "dead",
+    "end",
+    "fill"
+  ],
+  "Bootstrap-envelope-exclamation": [
+    "bootstrap",
+    "envelope",
+    "exclamation"
+  ],
+  "Bootstrap-bug": [
+    "bootstrap",
+    "bug"
+  ],
+  "Bootstrap-database-down": [
+    "bootstrap",
+    "database",
+    "down"
+  ],
+  "Bootstrap-shield-fill-exclamation": [
+    "bootstrap",
+    "shield",
+    "fill",
+    "exclamation"
+  ],
+  "Bootstrap-building-fill": [
+    "bootstrap",
+    "building",
+    "fill"
+  ],
+  "Bootstrap-compass": [
+    "bootstrap",
+    "compass"
+  ],
+  "Bootstrap-arrows-expand": [
+    "bootstrap",
+    "arrows",
+    "expand"
+  ],
+  "Bootstrap-x": [
+    "bootstrap"
+  ],
+  "Bootstrap-arrow-down-right-square-fill": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "right",
+    "square"
+  ],
+  "Bootstrap-file-earmark-break-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "break",
+    "fill"
+  ],
+  "Bootstrap-cup": [
+    "bootstrap",
+    "cup"
+  ],
+  "Bootstrap-folder": [
+    "bootstrap",
+    "folder"
+  ],
+  "Bootstrap-basket-fill": [
+    "bootstrap",
+    "basket",
+    "fill"
+  ],
+  "Bootstrap-sign-intersection": [
+    "bootstrap",
+    "sign",
+    "intersection"
+  ],
+  "Bootstrap-file-earmark-easel-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "easel",
+    "fill"
+  ],
+  "Bootstrap-cloud-fog2-fill": [
+    "bootstrap",
+    "cloud",
+    "fog",
+    "fill"
+  ],
+  "Bootstrap-database-up": [
+    "bootstrap",
+    "database",
+    "up"
+  ],
+  "Bootstrap-sign-intersection-y-fill": [
+    "bootstrap",
+    "sign",
+    "fill",
+    "intersection"
+  ],
+  "Bootstrap-crop": [
+    "bootstrap",
+    "crop"
+  ],
+  "Bootstrap-file": [
+    "bootstrap",
+    "file"
+  ],
+  "Bootstrap-bookshelf": [
+    "bootstrap",
+    "bookshelf"
+  ],
+  "Bootstrap-pause-circle": [
+    "bootstrap",
+    "pause",
+    "circle"
+  ],
+  "Bootstrap-mailbox": [
+    "bootstrap",
+    "mailbox"
+  ],
+  "Bootstrap-type-h2": [
+    "bootstrap",
+    "type"
+  ],
+  "Bootstrap-file-code-fill": [
+    "bootstrap",
+    "file",
+    "code",
+    "fill"
+  ],
+  "Bootstrap-egg-fill": [
+    "bootstrap",
+    "egg",
+    "fill"
+  ],
+  "Bootstrap-hourglass-top": [
+    "bootstrap",
+    "hourglass",
+    "top"
+  ],
+  "Bootstrap-person-check": [
+    "bootstrap",
+    "person",
+    "check"
+  ],
+  "Bootstrap-stop-circle": [
+    "bootstrap",
+    "stop",
+    "circle"
+  ],
+  "Bootstrap-signpost-split-fill": [
+    "bootstrap",
+    "signpost",
+    "split",
+    "fill"
+  ],
+  "Bootstrap-list-nested": [
+    "bootstrap",
+    "list",
+    "nested"
+  ],
+  "Bootstrap-alt": [
+    "bootstrap"
+  ],
+  "Bootstrap-balloon-heart-fill": [
+    "bootstrap",
+    "balloon",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-phone-landscape-fill": [
+    "bootstrap",
+    "phone",
+    "landscape",
+    "fill"
+  ],
+  "Bootstrap-emoji-smile-upside-down": [
+    "bootstrap",
+    "emoji",
+    "smile",
+    "upside",
+    "down"
+  ],
+  "Bootstrap-sunset-fill": [
+    "bootstrap",
+    "sunset",
+    "fill"
+  ],
+  "Bootstrap-emoji-dizzy-fill": [
+    "bootstrap",
+    "emoji",
+    "dizzy",
+    "fill"
+  ],
+  "Bootstrap-telephone": [
+    "bootstrap",
+    "telephone"
+  ],
+  "Bootstrap-google-play": [
+    "bootstrap",
+    "google",
+    "play"
+  ],
+  "Bootstrap-cloudy-fill": [
+    "bootstrap",
+    "cloudy",
+    "fill"
+  ],
+  "Bootstrap-box-arrow-down-right": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "down",
+    "right"
+  ],
+  "Bootstrap-share": [
+    "bootstrap",
+    "share"
+  ],
+  "Bootstrap-piggy-bank": [
+    "bootstrap",
+    "piggy",
+    "bank"
+  ],
+  "Bootstrap-2-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-rewind-btn": [
+    "bootstrap",
+    "rewind",
+    "btn"
+  ],
+  "Bootstrap-music-note-beamed": [
+    "bootstrap",
+    "music",
+    "note",
+    "beamed"
+  ],
+  "Bootstrap-suit-heart-fill": [
+    "bootstrap",
+    "suit",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-calendar-event-fill": [
+    "bootstrap",
+    "calendar",
+    "event",
+    "fill"
+  ],
+  "Bootstrap-cursor-text": [
+    "bootstrap",
+    "cursor",
+    "text"
+  ],
+  "Bootstrap-folder-symlink": [
+    "bootstrap",
+    "folder",
+    "symlink"
+  ],
+  "Bootstrap-file-plus": [
+    "bootstrap",
+    "file",
+    "plus"
+  ],
+  "Bootstrap-xbox": [
+    "bootstrap",
+    "xbox"
+  ],
+  "Bootstrap-file-text": [
+    "bootstrap",
+    "file",
+    "text"
+  ],
+  "Bootstrap-person-exclamation": [
+    "bootstrap",
+    "person",
+    "exclamation"
+  ],
+  "Bootstrap-cloud-fog-2": [
+    "bootstrap",
+    "cloud",
+    "fog"
+  ],
+  "Bootstrap-phone-vibrate": [
+    "bootstrap",
+    "phone",
+    "vibrate"
+  ],
+  "Bootstrap-door-open": [
+    "bootstrap",
+    "door",
+    "open"
+  ],
+  "Bootstrap-credit-card-fill": [
+    "bootstrap",
+    "credit",
+    "card",
+    "fill"
+  ],
+  "Bootstrap-emoji-kiss-fill": [
+    "bootstrap",
+    "emoji",
+    "kiss",
+    "fill"
+  ],
+  "Bootstrap-telegram": [
+    "bootstrap",
+    "telegram"
+  ],
+  "Bootstrap-funnel-fill": [
+    "bootstrap",
+    "funnel",
+    "fill"
+  ],
+  "Bootstrap-pause-fill": [
+    "bootstrap",
+    "pause",
+    "fill"
+  ],
+  "Bootstrap-patch-check-fill": [
+    "bootstrap",
+    "patch",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-dice-2": [
+    "bootstrap",
+    "dice"
+  ],
+  "Bootstrap-train-freight-front-fill": [
+    "bootstrap",
+    "train",
+    "freight",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-option": [
+    "bootstrap",
+    "option"
+  ],
+  "Bootstrap-sliders-2": [
+    "bootstrap",
+    "sliders"
+  ],
+  "Bootstrap-toggle-on": [
+    "bootstrap",
+    "toggle"
+  ],
+  "Bootstrap-telephone-inbound": [
+    "bootstrap",
+    "telephone",
+    "inbound"
+  ],
+  "Bootstrap-arrow-bar-up": [
+    "bootstrap",
+    "arrow",
+    "bar",
+    "up"
+  ],
+  "Bootstrap-chat": [
+    "bootstrap",
+    "chat"
+  ],
+  "Bootstrap-handbag-fill": [
+    "bootstrap",
+    "handbag",
+    "fill"
+  ],
+  "Bootstrap-bag-plus-fill": [
+    "bootstrap",
+    "bag",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-menu-button": [
+    "bootstrap",
+    "menu",
+    "button"
+  ],
+  "Bootstrap-arrow-bar-down": [
+    "bootstrap",
+    "arrow",
+    "bar",
+    "down"
+  ],
+  "Bootstrap-journal-arrow-down": [
+    "bootstrap",
+    "journal",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-cup-straw": [
+    "bootstrap",
+    "cup",
+    "straw"
+  ],
+  "Bootstrap-sliders": [
+    "bootstrap",
+    "sliders"
+  ],
+  "Bootstrap-cart-3": [
+    "bootstrap",
+    "cart"
+  ],
+  "Bootstrap-currency-rupee": [
+    "bootstrap",
+    "currency",
+    "rupee"
+  ],
+  "Bootstrap-cc-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-text-paragraph": [
+    "bootstrap",
+    "text",
+    "paragraph"
+  ],
+  "Bootstrap-map-fill": [
+    "bootstrap",
+    "map",
+    "fill"
+  ],
+  "Bootstrap-filetype-svg": [
+    "bootstrap",
+    "filetype",
+    "svg"
+  ],
+  "Bootstrap-postage-heart-fill": [
+    "bootstrap",
+    "postage",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-badge-4k-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-calendar-date-fill": [
+    "bootstrap",
+    "calendar",
+    "date",
+    "fill"
+  ],
+  "Bootstrap-joystick": [
+    "bootstrap",
+    "joystick"
+  ],
+  "Bootstrap-filetype-png": [
+    "bootstrap",
+    "filetype",
+    "png"
+  ],
+  "Bootstrap-sign-turn-slight-right": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "slight",
+    "right"
+  ],
+  "Bootstrap-telephone-x-fill": [
+    "bootstrap",
+    "telephone",
+    "fill"
+  ],
+  "Bootstrap-4-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-person-fill-slash": [
+    "bootstrap",
+    "person",
+    "fill",
+    "slash"
+  ],
+  "Bootstrap-filetype-raw": [
+    "bootstrap",
+    "filetype",
+    "raw"
+  ],
+  "Bootstrap-bank-2": [
+    "bootstrap",
+    "bank"
+  ],
+  "Bootstrap-justify": [
+    "bootstrap",
+    "justify"
+  ],
+  "Bootstrap-telephone-x": [
+    "bootstrap",
+    "telephone"
+  ],
+  "Bootstrap-reply-all-fill": [
+    "bootstrap",
+    "reply",
+    "fill"
+  ],
+  "Bootstrap-patch-minus": [
+    "bootstrap",
+    "patch",
+    "minus"
+  ],
+  "Bootstrap-reddit": [
+    "bootstrap",
+    "reddit"
+  ],
+  "Bootstrap-hearts": [
+    "bootstrap",
+    "hearts"
+  ],
+  "Bootstrap-file-lock-fill": [
+    "bootstrap",
+    "file",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-stars": [
+    "bootstrap",
+    "stars"
+  ],
+  "Bootstrap-chevron-left": [
+    "bootstrap",
+    "chevron",
+    "left"
+  ],
+  "Bootstrap-text-indent-left": [
+    "bootstrap",
+    "text",
+    "indent",
+    "left"
+  ],
+  "Bootstrap-shuffle": [
+    "bootstrap",
+    "shuffle"
+  ],
+  "Bootstrap-stoplights-fill": [
+    "bootstrap",
+    "fill",
+    "stoplights"
+  ],
+  "Bootstrap-badge-sd": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-file-music-fill": [
+    "bootstrap",
+    "file",
+    "music",
+    "fill"
+  ],
+  "Bootstrap-award": [
+    "bootstrap",
+    "award"
+  ],
+  "Bootstrap-0-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-4-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-airplane-fill": [
+    "bootstrap",
+    "airplane",
+    "fill"
+  ],
+  "Bootstrap-envelope-heart-fill": [
+    "bootstrap",
+    "envelope",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-sunrise-fill": [
+    "bootstrap",
+    "sunrise",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-code-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "code",
+    "fill"
+  ],
+  "Bootstrap-skip-forward-btn-fill": [
+    "bootstrap",
+    "skip",
+    "forward",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-ui-radios-grid": [
+    "bootstrap",
+    "radios",
+    "grid"
+  ],
+  "Bootstrap-fast-forward-circle-fill": [
+    "bootstrap",
+    "fast",
+    "forward",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-back": [
+    "bootstrap",
+    "back"
+  ],
+  "Bootstrap-bounding-box-circles": [
+    "bootstrap",
+    "bounding",
+    "box",
+    "circles"
+  ],
+  "Bootstrap-box-arrow-in-up-left": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "left",
+    "up"
+  ],
+  "Bootstrap-diamond": [
+    "bootstrap",
+    "diamond"
+  ],
+  "Bootstrap-volume-down-fill": [
+    "bootstrap",
+    "volume",
+    "down",
+    "fill"
+  ],
+  "Bootstrap-pentagon": [
+    "bootstrap",
+    "pentagon"
+  ],
+  "Bootstrap-graph-up-arrow": [
+    "bootstrap",
+    "graph",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-list-ul": [
+    "bootstrap",
+    "list"
+  ],
+  "Bootstrap-rulers": [
+    "bootstrap",
+    "rulers"
+  ],
+  "Bootstrap-emoji-laughing": [
+    "bootstrap",
+    "emoji",
+    "laughing"
+  ],
+  "Bootstrap-screwdriver": [
+    "bootstrap",
+    "screwdriver"
+  ],
+  "Bootstrap-heart-half": [
+    "bootstrap",
+    "heart",
+    "half"
+  ],
+  "Bootstrap-droplet-fill": [
+    "bootstrap",
+    "droplet",
+    "fill"
+  ],
+  "Bootstrap-file-person": [
+    "bootstrap",
+    "file",
+    "person"
+  ],
+  "Bootstrap-menu-down": [
+    "bootstrap",
+    "menu",
+    "down"
+  ],
+  "Bootstrap-bookmark-star-fill": [
+    "bootstrap",
+    "bookmark",
+    "star",
+    "fill"
+  ],
+  "Bootstrap-box2-fill": [
+    "bootstrap",
+    "box",
+    "fill"
+  ],
+  "Bootstrap-blockquote-right": [
+    "bootstrap",
+    "blockquote",
+    "right"
+  ],
+  "Bootstrap-wind": [
+    "bootstrap",
+    "wind"
+  ],
+  "Bootstrap-badge-sd-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-gender-female": [
+    "bootstrap",
+    "gender",
+    "female"
+  ],
+  "Bootstrap-tree": [
+    "bootstrap",
+    "tree"
+  ],
+  "Bootstrap-file-pdf": [
+    "bootstrap",
+    "file",
+    "pdf"
+  ],
+  "Bootstrap-bar-chart-steps": [
+    "bootstrap",
+    "bar",
+    "chart",
+    "steps"
+  ],
+  "Bootstrap-truck-front-fill": [
+    "bootstrap",
+    "truck",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-box2-heart": [
+    "bootstrap",
+    "box",
+    "heart"
+  ],
+  "Bootstrap-credit-card-2-back-fill": [
+    "bootstrap",
+    "credit",
+    "card",
+    "back",
+    "fill"
+  ],
+  "Bootstrap-file-code": [
+    "bootstrap",
+    "file",
+    "code"
+  ],
+  "Bootstrap-heart": [
+    "bootstrap",
+    "heart"
+  ],
+  "Bootstrap-tablet-landscape-fill": [
+    "bootstrap",
+    "tablet",
+    "landscape",
+    "fill"
+  ],
+  "Bootstrap-bookmark-check-fill": [
+    "bootstrap",
+    "bookmark",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-music": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "music"
+  ],
+  "Bootstrap-slash-square-fill": [
+    "bootstrap",
+    "slash",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-ui-radios": [
+    "bootstrap",
+    "radios"
+  ],
+  "Bootstrap-plus-circle-fill": [
+    "bootstrap",
+    "plus",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-easel-2": [
+    "bootstrap",
+    "easel"
+  ],
+  "Bootstrap-bell": [
+    "bootstrap",
+    "bell"
+  ],
+  "Bootstrap-toggle-off": [
+    "bootstrap",
+    "toggle",
+    "off"
+  ],
+  "Bootstrap-8-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-train-lightrail-front-fill": [
+    "bootstrap",
+    "train",
+    "lightrail",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-sort-alpha-up": [
+    "bootstrap",
+    "sort",
+    "alpha",
+    "up"
+  ],
+  "Bootstrap-shop-window": [
+    "bootstrap",
+    "shop",
+    "window"
+  ],
+  "Bootstrap-backspace": [
+    "bootstrap",
+    "backspace"
+  ],
+  "Bootstrap-fast-forward-btn-fill": [
+    "bootstrap",
+    "fast",
+    "forward",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-cloud-lightning-rain": [
+    "bootstrap",
+    "cloud",
+    "lightning",
+    "rain"
+  ],
+  "Bootstrap-sim": [
+    "bootstrap",
+    "sim"
+  ],
+  "Bootstrap-3-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-bezier-2": [
+    "bootstrap",
+    "bezier"
+  ],
+  "Bootstrap-skip-start-circle": [
+    "bootstrap",
+    "skip",
+    "start",
+    "circle"
+  ],
+  "Bootstrap-grip-vertical": [
+    "bootstrap",
+    "grip",
+    "vertical"
+  ],
+  "Bootstrap-play-circle": [
+    "bootstrap",
+    "play",
+    "circle"
+  ],
+  "Bootstrap-star-fill": [
+    "bootstrap",
+    "star",
+    "fill"
+  ],
+  "Bootstrap-ev-front-fill": [
+    "bootstrap",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-x": [
+    "bootstrap",
+    "file",
+    "earmark"
+  ],
+  "Bootstrap-bicycle": [
+    "bootstrap",
+    "bicycle"
+  ],
+  "Bootstrap-fuel-pump-fill": [
+    "bootstrap",
+    "fuel",
+    "pump",
+    "fill"
+  ],
+  "Bootstrap-window-stack": [
+    "bootstrap",
+    "window",
+    "stack"
+  ],
+  "Bootstrap-file-ruled": [
+    "bootstrap",
+    "file",
+    "ruled"
+  ],
+  "Bootstrap-kanban-fill": [
+    "bootstrap",
+    "kanban",
+    "fill"
+  ],
+  "Bootstrap-exclamation-circle-fill": [
+    "bootstrap",
+    "circle",
+    "exclamation",
+    "fill"
+  ],
+  "Bootstrap-cloud-sleet-fill": [
+    "bootstrap",
+    "cloud",
+    "sleet",
+    "fill"
+  ],
+  "Bootstrap-phone-vibrate-fill": [
+    "bootstrap",
+    "phone",
+    "vibrate",
+    "fill"
+  ],
+  "Bootstrap-house-gear": [
+    "bootstrap",
+    "house",
+    "gear"
+  ],
+  "Bootstrap-heptagon-fill": [
+    "bootstrap",
+    "heptagon",
+    "fill"
+  ],
+  "Bootstrap-heartbreak": [
+    "bootstrap",
+    "heartbreak"
+  ],
+  "Bootstrap-sun": [
+    "bootstrap",
+    "sun"
+  ],
+  "Bootstrap-file-music": [
+    "bootstrap",
+    "file",
+    "music"
+  ],
+  "Bootstrap-question-lg": [
+    "bootstrap",
+    "question"
+  ],
+  "Bootstrap-volume-off": [
+    "bootstrap",
+    "volume",
+    "off"
+  ],
+  "Bootstrap-filter-left": [
+    "bootstrap",
+    "filter",
+    "left"
+  ],
+  "Bootstrap-bag-dash-fill": [
+    "bootstrap",
+    "bag",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-keyboard": [
+    "bootstrap",
+    "keyboard"
+  ],
+  "Bootstrap-valentine-2": [
+    "bootstrap",
+    "valentine"
+  ],
+  "Bootstrap-house-door-fill": [
+    "bootstrap",
+    "house",
+    "door",
+    "fill"
+  ],
+  "Bootstrap-arrow-right": [
+    "bootstrap",
+    "arrow",
+    "right"
+  ],
+  "Bootstrap-person-gear": [
+    "bootstrap",
+    "person",
+    "gear"
+  ],
+  "Bootstrap-signpost-fill": [
+    "bootstrap",
+    "signpost",
+    "fill"
+  ],
+  "Bootstrap-brightness-high": [
+    "bootstrap",
+    "brightness",
+    "high"
+  ],
+  "Bootstrap-clock-fill": [
+    "bootstrap",
+    "clock",
+    "fill"
+  ],
+  "Bootstrap-arrow-90deg-down": [
+    "bootstrap",
+    "arrow",
+    "deg",
+    "down"
+  ],
+  "Bootstrap-mouse-fill": [
+    "bootstrap",
+    "mouse",
+    "fill"
+  ],
+  "Bootstrap-camera-2": [
+    "bootstrap",
+    "camera"
+  ],
+  "Bootstrap-facebook": [
+    "bootstrap",
+    "facebook"
+  ],
+  "Bootstrap-suit-spade-fill": [
+    "bootstrap",
+    "suit",
+    "spade",
+    "fill"
+  ],
+  "Bootstrap-calendar2-heart": [
+    "bootstrap",
+    "calendar",
+    "heart"
+  ],
+  "Bootstrap-device-hdd": [
+    "bootstrap",
+    "device",
+    "hdd"
+  ],
+  "Bootstrap-skype": [
+    "bootstrap",
+    "skype"
+  ],
+  "Bootstrap-text-wrap": [
+    "bootstrap",
+    "text",
+    "wrap"
+  ],
+  "Bootstrap-tag-fill": [
+    "bootstrap",
+    "tag",
+    "fill"
+  ],
+  "Bootstrap-arrow-down-left": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "left"
+  ],
+  "Bootstrap-filetype-css": [
+    "bootstrap",
+    "filetype",
+    "css"
+  ],
+  "Bootstrap-paragraph": [
+    "bootstrap",
+    "paragraph"
+  ],
+  "Bootstrap-calendar-fill": [
+    "bootstrap",
+    "calendar",
+    "fill"
+  ],
+  "Bootstrap-bandaid": [
+    "bootstrap",
+    "bandaid"
+  ],
+  "Bootstrap-distribute-vertical": [
+    "bootstrap",
+    "distribute",
+    "vertical"
+  ],
+  "Bootstrap-chevron-down": [
+    "bootstrap",
+    "chevron",
+    "down"
+  ],
+  "Bootstrap-box": [
+    "bootstrap",
+    "box"
+  ],
+  "Bootstrap-sign-no-parking-fill": [
+    "bootstrap",
+    "sign",
+    "no",
+    "parking",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-check": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "check"
+  ],
+  "Bootstrap-currency-dollar": [
+    "bootstrap",
+    "currency",
+    "dollar"
+  ],
+  "Bootstrap-send-x": [
+    "bootstrap",
+    "send"
+  ],
+  "Bootstrap-distribute-horizontal": [
+    "bootstrap",
+    "distribute",
+    "horizontal"
+  ],
+  "Bootstrap-cloud-hail-fill": [
+    "bootstrap",
+    "cloud",
+    "hail",
+    "fill"
+  ],
+  "Bootstrap-cloud-moon-fill": [
+    "bootstrap",
+    "cloud",
+    "moon",
+    "fill"
+  ],
+  "Bootstrap-voicemail": [
+    "bootstrap",
+    "voicemail"
+  ],
+  "Bootstrap-layout-text-window": [
+    "bootstrap",
+    "layout",
+    "text",
+    "window"
+  ],
+  "Bootstrap-pin-fill": [
+    "bootstrap",
+    "pin",
+    "fill"
+  ],
+  "Bootstrap-server": [
+    "bootstrap",
+    "server"
+  ],
+  "Bootstrap-stoplights": [
+    "bootstrap",
+    "stoplights"
+  ],
+  "Bootstrap-file-earmark-zip-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "zip",
+    "fill"
+  ],
+  "Bootstrap-filetype-ttf": [
+    "bootstrap",
+    "filetype",
+    "ttf"
+  ],
+  "Bootstrap-exclamation-octagon-fill": [
+    "bootstrap",
+    "exclamation",
+    "octagon",
+    "fill"
+  ],
+  "Bootstrap-phone-flip": [
+    "bootstrap",
+    "phone",
+    "flip"
+  ],
+  "Bootstrap-slash-circle": [
+    "bootstrap",
+    "slash",
+    "circle"
+  ],
+  "Bootstrap-wallet-fill": [
+    "bootstrap",
+    "wallet",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-check-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-filetype-ai": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-inbox-fill": [
+    "bootstrap",
+    "inbox",
+    "fill"
+  ],
+  "Bootstrap-code-square": [
+    "bootstrap",
+    "code",
+    "square"
+  ],
+  "Bootstrap-person-add": [
+    "bootstrap",
+    "person",
+    "add"
+  ],
+  "Bootstrap-caret-right": [
+    "bootstrap",
+    "caret",
+    "right"
+  ],
+  "Bootstrap-check": [
+    "bootstrap",
+    "check"
+  ],
+  "Bootstrap-arrows-move": [
+    "bootstrap",
+    "arrows",
+    "move"
+  ],
+  "Bootstrap-bluetooth": [
+    "bootstrap",
+    "bluetooth"
+  ],
+  "Bootstrap-flower-1": [
+    "bootstrap",
+    "flower"
+  ],
+  "Bootstrap-8-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-calendar2-x": [
+    "bootstrap",
+    "calendar"
+  ],
+  "Bootstrap-cloud-minus": [
+    "bootstrap",
+    "cloud",
+    "minus"
+  ],
+  "Bootstrap-layer-backward": [
+    "bootstrap",
+    "layer",
+    "backward"
+  ],
+  "Bootstrap-play-btn": [
+    "bootstrap",
+    "play",
+    "btn"
+  ],
+  "Bootstrap-triangle-half": [
+    "bootstrap",
+    "triangle",
+    "half"
+  ],
+  "Bootstrap-door-closed": [
+    "bootstrap",
+    "door",
+    "closed"
+  ],
+  "Bootstrap-chat-heart-fill": [
+    "bootstrap",
+    "chat",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-image-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "image",
+    "fill"
+  ],
+  "Bootstrap-magnet-fill": [
+    "bootstrap",
+    "magnet",
+    "fill"
+  ],
+  "Bootstrap-reception-4": [
+    "bootstrap",
+    "reception"
+  ],
+  "Bootstrap-calendar2-week": [
+    "bootstrap",
+    "calendar",
+    "week"
+  ],
+  "Bootstrap-infinity": [
+    "bootstrap",
+    "infinity"
+  ],
+  "Bootstrap-chat-left-quote": [
+    "bootstrap",
+    "chat",
+    "left",
+    "quote"
+  ],
+  "Bootstrap-envelope-at": [
+    "bootstrap",
+    "envelope"
+  ],
+  "Bootstrap-file-lock": [
+    "bootstrap",
+    "file",
+    "lock"
+  ],
+  "Bootstrap-sunglasses": [
+    "bootstrap",
+    "sunglasses"
+  ],
+  "Bootstrap-bookmark-x-fill": [
+    "bootstrap",
+    "bookmark",
+    "fill"
+  ],
+  "Bootstrap-tablet-fill": [
+    "bootstrap",
+    "tablet",
+    "fill"
+  ],
+  "Bootstrap-check-circle": [
+    "bootstrap",
+    "check",
+    "circle"
+  ],
+  "Bootstrap-x-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-building-fill-gear": [
+    "bootstrap",
+    "building",
+    "fill",
+    "gear"
+  ],
+  "Bootstrap-layer-forward": [
+    "bootstrap",
+    "layer",
+    "forward"
+  ],
+  "Bootstrap-chat-dots": [
+    "bootstrap",
+    "chat",
+    "dots"
+  ],
+  "Bootstrap-signpost-2": [
+    "bootstrap",
+    "signpost"
+  ],
+  "Bootstrap-chat-square-fill": [
+    "bootstrap",
+    "chat",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-filetype-json": [
+    "bootstrap",
+    "filetype",
+    "json"
+  ],
+  "Bootstrap-box-arrow-in-down-left": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "down",
+    "left"
+  ],
+  "Bootstrap-sort-alpha-up-alt": [
+    "bootstrap",
+    "sort",
+    "alpha",
+    "up"
+  ],
+  "Bootstrap-tv-fill": [
+    "bootstrap",
+    "fill",
+    "tv"
+  ],
+  "Bootstrap-file-excel": [
+    "bootstrap",
+    "file",
+    "excel"
+  ],
+  "Bootstrap-heptagon": [
+    "bootstrap",
+    "heptagon"
+  ],
+  "Bootstrap-file-arrow-down-fill": [
+    "bootstrap",
+    "file",
+    "arrow",
+    "down",
+    "fill"
+  ],
+  "Bootstrap-scissors": [
+    "bootstrap",
+    "scissors"
+  ],
+  "Bootstrap-lightbulb": [
+    "bootstrap",
+    "lightbulb"
+  ],
+  "Bootstrap-chat-square-text": [
+    "bootstrap",
+    "chat",
+    "square",
+    "text"
+  ],
+  "Bootstrap-house-up-fill": [
+    "bootstrap",
+    "house",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-filetype-otf": [
+    "bootstrap",
+    "filetype",
+    "otf"
+  ],
+  "Bootstrap-gender-trans": [
+    "bootstrap",
+    "gender",
+    "trans"
+  ],
+  "Bootstrap-nut-fill": [
+    "bootstrap",
+    "nut",
+    "fill"
+  ],
+  "Bootstrap-star-half": [
+    "bootstrap",
+    "star",
+    "half"
+  ],
+  "Bootstrap-bag-x-fill": [
+    "bootstrap",
+    "bag",
+    "fill"
+  ],
+  "Bootstrap-sort-alpha-down": [
+    "bootstrap",
+    "sort",
+    "alpha",
+    "down"
+  ],
+  "Bootstrap-chevron-bar-expand": [
+    "bootstrap",
+    "chevron",
+    "bar",
+    "expand"
+  ],
+  "Bootstrap-calculator-fill": [
+    "bootstrap",
+    "calculator",
+    "fill"
+  ],
+  "Bootstrap-person-vcard-fill": [
+    "bootstrap",
+    "person",
+    "vcard",
+    "fill"
+  ],
+  "Bootstrap-activity": [
+    "bootstrap",
+    "activity"
+  ],
+  "Bootstrap-plus-square-dotted": [
+    "bootstrap",
+    "plus",
+    "square",
+    "dotted"
+  ],
+  "Bootstrap-filetype-aac": [
+    "bootstrap",
+    "filetype",
+    "aac"
+  ],
+  "Bootstrap-window": [
+    "bootstrap",
+    "window"
+  ],
+  "Bootstrap-medium": [
+    "bootstrap",
+    "medium"
+  ],
+  "Bootstrap-file-earmark-binary-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "binary",
+    "fill"
+  ],
+  "Bootstrap-filetype-jpg": [
+    "bootstrap",
+    "filetype",
+    "jpg"
+  ],
+  "Bootstrap-tablet": [
+    "bootstrap",
+    "tablet"
+  ],
+  "Bootstrap-arrow-90deg-up": [
+    "bootstrap",
+    "arrow",
+    "deg",
+    "up"
+  ],
+  "Bootstrap-broadcast": [
+    "bootstrap",
+    "broadcast"
+  ],
+  "Bootstrap-cart-fill": [
+    "bootstrap",
+    "cart",
+    "fill"
+  ],
+  "Bootstrap-emoji-dizzy": [
+    "bootstrap",
+    "emoji",
+    "dizzy"
+  ],
+  "Bootstrap-align-bottom": [
+    "bootstrap",
+    "align",
+    "bottom"
+  ],
+  "Bootstrap-arrow-down-circle-fill": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-shield-lock-fill": [
+    "bootstrap",
+    "shield",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-send-x-fill": [
+    "bootstrap",
+    "send",
+    "fill"
+  ],
+  "Bootstrap-pin-angle": [
+    "bootstrap",
+    "pin",
+    "angle"
+  ],
+  "Bootstrap-hospital-fill": [
+    "bootstrap",
+    "hospital",
+    "fill"
+  ],
+  "Bootstrap-list": [
+    "bootstrap",
+    "list"
+  ],
+  "Bootstrap-three-dots": [
+    "bootstrap",
+    "three",
+    "dots"
+  ],
+  "Bootstrap-filter-square": [
+    "bootstrap",
+    "filter",
+    "square"
+  ],
+  "Bootstrap-clipboard2-x-fill": [
+    "bootstrap",
+    "clipboard",
+    "fill"
+  ],
+  "Bootstrap-thermometer-sun": [
+    "bootstrap",
+    "sun",
+    "thermometer"
+  ],
+  "Bootstrap-building-up": [
+    "bootstrap",
+    "building",
+    "up"
+  ],
+  "Bootstrap-inboxes-fill": [
+    "bootstrap",
+    "inboxes",
+    "fill"
+  ],
+  "Bootstrap-list-task": [
+    "bootstrap",
+    "list",
+    "task"
+  ],
+  "Bootstrap-postage-fill": [
+    "bootstrap",
+    "postage",
+    "fill"
+  ],
+  "Bootstrap-hypnotize": [
+    "bootstrap",
+    "hypnotize"
+  ],
+  "Bootstrap-heartbreak-fill": [
+    "bootstrap",
+    "fill",
+    "heartbreak"
+  ],
+  "Bootstrap-caret-right-square-fill": [
+    "bootstrap",
+    "caret",
+    "right",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-backspace-reverse-fill": [
+    "bootstrap",
+    "backspace",
+    "reverse",
+    "fill"
+  ],
+  "Bootstrap-database-fill-exclamation": [
+    "bootstrap",
+    "database",
+    "fill",
+    "exclamation"
+  ],
+  "Bootstrap-router-fill": [
+    "bootstrap",
+    "router",
+    "fill"
+  ],
+  "Bootstrap-android": [
+    "bootstrap",
+    "android"
+  ],
+  "Bootstrap-terminal": [
+    "bootstrap",
+    "terminal"
+  ],
+  "Bootstrap-cloud": [
+    "bootstrap",
+    "cloud"
+  ],
+  "Bootstrap-filetype-mp-4": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-files-alt": [
+    "bootstrap",
+    "files"
+  ],
+  "Bootstrap-chat-right-text-fill": [
+    "bootstrap",
+    "chat",
+    "right",
+    "text",
+    "fill"
+  ],
+  "Bootstrap-box-arrow-in-up-right": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "right",
+    "up"
+  ],
+  "Bootstrap-pip": [
+    "bootstrap",
+    "pip"
+  ],
+  "Bootstrap-arrow-through-heart-fill": [
+    "bootstrap",
+    "arrow",
+    "through",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-lock-fill": [
+    "bootstrap",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-menu-button-wide": [
+    "bootstrap",
+    "menu",
+    "button",
+    "wide"
+  ],
+  "Bootstrap-envelope-slash": [
+    "bootstrap",
+    "envelope",
+    "slash"
+  ],
+  "Bootstrap-clipboard-check-fill": [
+    "bootstrap",
+    "clipboard",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-calendar-plus": [
+    "bootstrap",
+    "calendar",
+    "plus"
+  ],
+  "Bootstrap-display-fill": [
+    "bootstrap",
+    "display",
+    "fill"
+  ],
+  "Bootstrap-eye-fill": [
+    "bootstrap",
+    "eye",
+    "fill"
+  ],
+  "Bootstrap-brightness-alt-high-fill": [
+    "bootstrap",
+    "brightness",
+    "high",
+    "fill"
+  ],
+  "Bootstrap-database-dash": [
+    "bootstrap",
+    "database",
+    "dash"
+  ],
+  "Bootstrap-scooter": [
+    "bootstrap",
+    "scooter"
+  ],
+  "Bootstrap-prescription-2": [
+    "bootstrap",
+    "prescription"
+  ],
+  "Bootstrap-sign-dead-end": [
+    "bootstrap",
+    "sign",
+    "dead",
+    "end"
+  ],
+  "Bootstrap-ticket-detailed-fill": [
+    "bootstrap",
+    "ticket",
+    "detailed",
+    "fill"
+  ],
+  "Bootstrap-check2-square": [
+    "bootstrap",
+    "check",
+    "square"
+  ],
+  "Bootstrap-cloud-fog-fill": [
+    "bootstrap",
+    "cloud",
+    "fog",
+    "fill"
+  ],
+  "Bootstrap-union": [
+    "bootstrap",
+    "union"
+  ],
+  "Bootstrap-chat-square-heart": [
+    "bootstrap",
+    "chat",
+    "square",
+    "heart"
+  ],
+  "Bootstrap-credit-card-2-back": [
+    "bootstrap",
+    "credit",
+    "card",
+    "back"
+  ],
+  "Bootstrap-clipboard-2": [
+    "bootstrap",
+    "clipboard"
+  ],
+  "Bootstrap-badge-tm-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-file-spreadsheet-fill": [
+    "bootstrap",
+    "file",
+    "fill",
+    "spreadsheet"
+  ],
+  "Bootstrap-arrow-down-right-square": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "right",
+    "square"
+  ],
+  "Bootstrap-chat-left-heart-fill": [
+    "bootstrap",
+    "chat",
+    "left",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-chevron-double-right": [
+    "bootstrap",
+    "chevron",
+    "double",
+    "right"
+  ],
+  "Bootstrap-phone-fill": [
+    "bootstrap",
+    "phone",
+    "fill"
+  ],
+  "Bootstrap-diamond-fill": [
+    "bootstrap",
+    "diamond",
+    "fill"
+  ],
+  "Bootstrap-ev-station-fill": [
+    "bootstrap",
+    "station",
+    "fill"
+  ],
+  "Bootstrap-chat-right": [
+    "bootstrap",
+    "chat",
+    "right"
+  ],
+  "Bootstrap-cloud-upload": [
+    "bootstrap",
+    "cloud",
+    "upload"
+  ],
+  "Bootstrap-usb-mini": [
+    "bootstrap",
+    "usb",
+    "mini"
+  ],
+  "Bootstrap-bookmark-plus-fill": [
+    "bootstrap",
+    "bookmark",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-database-lock": [
+    "bootstrap",
+    "database",
+    "lock"
+  ],
+  "Bootstrap-memory": [
+    "bootstrap",
+    "memory"
+  ],
+  "Bootstrap-stack": [
+    "bootstrap",
+    "stack"
+  ],
+  "Bootstrap-terminal-fill": [
+    "bootstrap",
+    "terminal",
+    "fill"
+  ],
+  "Bootstrap-nvidia": [
+    "bootstrap",
+    "nvidia"
+  ],
+  "Bootstrap-file-play-fill": [
+    "bootstrap",
+    "file",
+    "play",
+    "fill"
+  ],
+  "Bootstrap-patch-exclamation-fill": [
+    "bootstrap",
+    "patch",
+    "exclamation",
+    "fill"
+  ],
+  "Bootstrap-rewind-fill": [
+    "bootstrap",
+    "rewind",
+    "fill"
+  ],
+  "Bootstrap-aspect-ratio-fill": [
+    "bootstrap",
+    "aspect",
+    "ratio",
+    "fill"
+  ],
+  "Bootstrap-calendar-x-fill": [
+    "bootstrap",
+    "calendar",
+    "fill"
+  ],
+  "Bootstrap-alipay": [
+    "bootstrap",
+    "alipay"
+  ],
+  "Bootstrap-ui-checks-grid": [
+    "bootstrap",
+    "checks",
+    "grid"
+  ],
+  "Bootstrap-filetype-xlsx": [
+    "bootstrap",
+    "filetype",
+    "xlsx"
+  ],
+  "Bootstrap-c-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-wikipedia": [
+    "bootstrap",
+    "wikipedia"
+  ],
+  "Bootstrap-file-slides": [
+    "bootstrap",
+    "file",
+    "slides"
+  ],
+  "Bootstrap-envelope-check-fill": [
+    "bootstrap",
+    "envelope",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-binoculars-fill": [
+    "bootstrap",
+    "binoculars",
+    "fill"
+  ],
+  "Bootstrap-camera-reels": [
+    "bootstrap",
+    "camera",
+    "reels"
+  ],
+  "Bootstrap-bag-plus": [
+    "bootstrap",
+    "bag",
+    "plus"
+  ],
+  "Bootstrap-menu-button-fill": [
+    "bootstrap",
+    "menu",
+    "button",
+    "fill"
+  ],
+  "Bootstrap-camera-video": [
+    "bootstrap",
+    "camera",
+    "video"
+  ],
+  "Bootstrap-calendar-plus-fill": [
+    "bootstrap",
+    "calendar",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-minecart": [
+    "bootstrap",
+    "minecart"
+  ],
+  "Bootstrap-grid-3x2-gap-fill": [
+    "bootstrap",
+    "grid",
+    "gap",
+    "fill"
+  ],
+  "Bootstrap-pin-map-fill": [
+    "bootstrap",
+    "pin",
+    "map",
+    "fill"
+  ],
+  "Bootstrap-sign-turn-right-fill": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "right",
+    "fill"
+  ],
+  "Bootstrap-postcard": [
+    "bootstrap",
+    "postcard"
+  ],
+  "Bootstrap-align-center": [
+    "bootstrap",
+    "align",
+    "center"
+  ],
+  "Bootstrap-mask": [
+    "bootstrap",
+    "mask"
+  ],
+  "Bootstrap-pass-fill": [
+    "bootstrap",
+    "pass",
+    "fill"
+  ],
+  "Bootstrap-shield-x": [
+    "bootstrap",
+    "shield"
+  ],
+  "Bootstrap-train-freight-front": [
+    "bootstrap",
+    "train",
+    "freight",
+    "front"
+  ],
+  "Bootstrap-pencil-fill": [
+    "bootstrap",
+    "pencil",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-ppt-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "ppt",
+    "fill"
+  ],
+  "Bootstrap-linkedin": [
+    "bootstrap",
+    "linkedin"
+  ],
+  "Bootstrap-5-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-building": [
+    "bootstrap",
+    "building"
+  ],
+  "Bootstrap-hdmi-fill": [
+    "bootstrap",
+    "hdmi",
+    "fill"
+  ],
+  "Bootstrap-1-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-capsule": [
+    "bootstrap",
+    "capsule"
+  ],
+  "Bootstrap-trash-fill": [
+    "bootstrap",
+    "trash",
+    "fill"
+  ],
+  "Bootstrap-patch-plus": [
+    "bootstrap",
+    "patch",
+    "plus"
+  ],
+  "Bootstrap-dice-5-fill": [
+    "bootstrap",
+    "dice",
+    "fill"
+  ],
+  "Bootstrap-plus-circle-dotted": [
+    "bootstrap",
+    "plus",
+    "circle",
+    "dotted"
+  ],
+  "Bootstrap-chat-right-dots-fill": [
+    "bootstrap",
+    "chat",
+    "right",
+    "dots",
+    "fill"
+  ],
+  "Bootstrap-calendar2-day": [
+    "bootstrap",
+    "calendar",
+    "day"
+  ],
+  "Bootstrap-graph-up": [
+    "bootstrap",
+    "graph",
+    "up"
+  ],
+  "Bootstrap-dash-square": [
+    "bootstrap",
+    "dash",
+    "square"
+  ],
+  "Bootstrap-file-fill": [
+    "bootstrap",
+    "file",
+    "fill"
+  ],
+  "Bootstrap-cloud-check-fill": [
+    "bootstrap",
+    "cloud",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-clipboard-heart": [
+    "bootstrap",
+    "clipboard",
+    "heart"
+  ],
+  "Bootstrap-bus-front": [
+    "bootstrap",
+    "bus",
+    "front"
+  ],
+  "Bootstrap-exclamation-circle": [
+    "bootstrap",
+    "circle",
+    "exclamation"
+  ],
+  "Bootstrap-usb-micro": [
+    "bootstrap",
+    "usb",
+    "micro"
+  ],
+  "Bootstrap-inboxes": [
+    "bootstrap",
+    "inboxes"
+  ],
+  "Bootstrap-camera-fill": [
+    "bootstrap",
+    "camera",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-left-square-fill": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "up",
+    "square"
+  ],
+  "Bootstrap-align-middle": [
+    "bootstrap",
+    "align",
+    "middle"
+  ],
+  "Bootstrap-brush-fill": [
+    "bootstrap",
+    "brush",
+    "fill"
+  ],
+  "Bootstrap-person-check-fill": [
+    "bootstrap",
+    "person",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-download": [
+    "bootstrap",
+    "download"
+  ],
+  "Bootstrap-clipboard-minus": [
+    "bootstrap",
+    "clipboard",
+    "minus"
+  ],
+  "Bootstrap-pause-btn-fill": [
+    "bootstrap",
+    "pause",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-3-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-filetype-jsx": [
+    "bootstrap",
+    "filetype",
+    "jsx"
+  ],
+  "Bootstrap-calendar-check": [
+    "bootstrap",
+    "calendar",
+    "check"
+  ],
+  "Bootstrap-wrench-adjustable-circle-fill": [
+    "bootstrap",
+    "wrench",
+    "adjustable",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-gear-wide-connected": [
+    "bootstrap",
+    "gear",
+    "wide",
+    "connected"
+  ],
+  "Bootstrap-pin-angle-fill": [
+    "bootstrap",
+    "pin",
+    "angle",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-square": [
+    "bootstrap",
+    "arrow",
+    "square",
+    "up"
+  ],
+  "Bootstrap-skip-forward-fill": [
+    "bootstrap",
+    "skip",
+    "forward",
+    "fill"
+  ],
+  "Bootstrap-sort-up-alt": [
+    "bootstrap",
+    "sort",
+    "up"
+  ],
+  "Bootstrap-eye-slash-fill": [
+    "bootstrap",
+    "eye",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-skip-start-btn": [
+    "bootstrap",
+    "skip",
+    "start",
+    "btn"
+  ],
+  "Bootstrap-battery-charging": [
+    "bootstrap",
+    "battery",
+    "charging"
+  ],
+  "Bootstrap-headset-vr": [
+    "bootstrap",
+    "headset"
+  ],
+  "Bootstrap-messenger": [
+    "bootstrap",
+    "messenger"
+  ],
+  "Bootstrap-person-fill-exclamation": [
+    "bootstrap",
+    "person",
+    "fill",
+    "exclamation"
+  ],
+  "Bootstrap-badge-wc": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-chat-square-quote": [
+    "bootstrap",
+    "chat",
+    "square",
+    "quote"
+  ],
+  "Bootstrap-fast-forward": [
+    "bootstrap",
+    "fast",
+    "forward"
+  ],
+  "Bootstrap-file-earmark-spreadsheet": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "spreadsheet"
+  ],
+  "Bootstrap-lamp-fill": [
+    "bootstrap",
+    "lamp",
+    "fill"
+  ],
+  "Bootstrap-cloud-arrow-up": [
+    "bootstrap",
+    "cloud",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-caret-down-square": [
+    "bootstrap",
+    "caret",
+    "down",
+    "square"
+  ],
+  "Bootstrap-plus-circle": [
+    "bootstrap",
+    "plus",
+    "circle"
+  ],
+  "Bootstrap-trophy": [
+    "bootstrap",
+    "trophy"
+  ],
+  "Bootstrap-chat-dots-fill": [
+    "bootstrap",
+    "chat",
+    "dots",
+    "fill"
+  ],
+  "Bootstrap-r-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-3-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-calendar-event": [
+    "bootstrap",
+    "calendar",
+    "event"
+  ],
+  "Bootstrap-hdmi": [
+    "bootstrap",
+    "hdmi"
+  ],
+  "Bootstrap-twitter": [
+    "bootstrap",
+    "twitter"
+  ],
+  "Bootstrap-car-front": [
+    "bootstrap",
+    "car",
+    "front"
+  ],
+  "Bootstrap-arrow-up-circle": [
+    "bootstrap",
+    "arrow",
+    "circle",
+    "up"
+  ],
+  "Bootstrap-5-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-collection-play": [
+    "bootstrap",
+    "collection",
+    "play"
+  ],
+  "Bootstrap-sliders2-vertical": [
+    "bootstrap",
+    "sliders",
+    "vertical"
+  ],
+  "Bootstrap-calendar-3": [
+    "bootstrap",
+    "calendar"
+  ],
+  "Bootstrap-discord": [
+    "bootstrap",
+    "discord"
+  ],
+  "Bootstrap-box-arrow-in-up": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-badge-ar": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-usb-plug": [
+    "bootstrap",
+    "usb",
+    "plug"
+  ],
+  "Bootstrap-music-player-fill": [
+    "bootstrap",
+    "music",
+    "player",
+    "fill"
+  ],
+  "Bootstrap-calendar-month-fill": [
+    "bootstrap",
+    "calendar",
+    "month",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-bar-graph": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "bar",
+    "graph"
+  ],
+  "Bootstrap-stop-btn": [
+    "bootstrap",
+    "stop",
+    "btn"
+  ],
+  "Bootstrap-boombox": [
+    "bootstrap",
+    "boombox"
+  ],
+  "Bootstrap-magic": [
+    "bootstrap",
+    "magic"
+  ],
+  "Bootstrap-arrow-return-right": [
+    "bootstrap",
+    "arrow",
+    "return",
+    "right"
+  ],
+  "Bootstrap-cloud-fog": [
+    "bootstrap",
+    "cloud",
+    "fog"
+  ],
+  "Bootstrap-sort-numeric-down-alt": [
+    "bootstrap",
+    "sort",
+    "numeric",
+    "down"
+  ],
+  "Bootstrap-postcard-heart-fill": [
+    "bootstrap",
+    "postcard",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-filetype-xml": [
+    "bootstrap",
+    "filetype",
+    "xml"
+  ],
+  "Bootstrap-steam": [
+    "bootstrap",
+    "steam"
+  ],
+  "Bootstrap-projector": [
+    "bootstrap",
+    "projector"
+  ],
+  "Bootstrap-eject-fill": [
+    "bootstrap",
+    "eject",
+    "fill"
+  ],
+  "Bootstrap-house-dash": [
+    "bootstrap",
+    "house",
+    "dash"
+  ],
+  "Bootstrap-file-pdf-fill": [
+    "bootstrap",
+    "file",
+    "pdf",
+    "fill"
+  ],
+  "Bootstrap-currency-bitcoin": [
+    "bootstrap",
+    "currency",
+    "bitcoin"
+  ],
+  "Bootstrap-file-arrow-down": [
+    "bootstrap",
+    "file",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-sign-turn-left-fill": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "left",
+    "fill"
+  ],
+  "Bootstrap-triangle-fill": [
+    "bootstrap",
+    "triangle",
+    "fill"
+  ],
+  "Bootstrap-clipboard-x-fill": [
+    "bootstrap",
+    "clipboard",
+    "fill"
+  ],
+  "Bootstrap-telephone-outbound": [
+    "bootstrap",
+    "telephone",
+    "outbound"
+  ],
+  "Bootstrap-textarea": [
+    "bootstrap",
+    "textarea"
+  ],
+  "Bootstrap-wallet-2": [
+    "bootstrap",
+    "wallet"
+  ],
+  "Bootstrap-journal-x": [
+    "bootstrap",
+    "journal"
+  ],
+  "Bootstrap-telephone-plus": [
+    "bootstrap",
+    "telephone",
+    "plus"
+  ],
+  "Bootstrap-bag-check-fill": [
+    "bootstrap",
+    "bag",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-left": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "up"
+  ],
+  "Bootstrap-folder-plus": [
+    "bootstrap",
+    "folder",
+    "plus"
+  ],
+  "Bootstrap-tiktok": [
+    "bootstrap",
+    "tiktok"
+  ],
+  "Bootstrap-moon": [
+    "bootstrap",
+    "moon"
+  ],
+  "Bootstrap-send-fill": [
+    "bootstrap",
+    "send",
+    "fill"
+  ],
+  "Bootstrap-9-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-lightbulb-fill": [
+    "bootstrap",
+    "lightbulb",
+    "fill"
+  ],
+  "Bootstrap-subscript": [
+    "bootstrap",
+    "subscript"
+  ],
+  "Bootstrap-envelope-open-fill": [
+    "bootstrap",
+    "envelope",
+    "open",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-lock2-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-eraser": [
+    "bootstrap",
+    "eraser"
+  ],
+  "Bootstrap-envelope-open-heart-fill": [
+    "bootstrap",
+    "envelope",
+    "open",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-camera-reels-fill": [
+    "bootstrap",
+    "camera",
+    "reels",
+    "fill"
+  ],
+  "Bootstrap-bag": [
+    "bootstrap",
+    "bag"
+  ],
+  "Bootstrap-house-check-fill": [
+    "bootstrap",
+    "house",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-recycle": [
+    "bootstrap",
+    "recycle"
+  ],
+  "Bootstrap-globe-americas": [
+    "bootstrap",
+    "globe",
+    "americas"
+  ],
+  "Bootstrap-qr-code": [
+    "bootstrap",
+    "code"
+  ],
+  "Bootstrap-building-add": [
+    "bootstrap",
+    "building",
+    "add"
+  ],
+  "Bootstrap-file-earmark-play": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "play"
+  ],
+  "Bootstrap-globe-2": [
+    "bootstrap",
+    "globe"
+  ],
+  "Bootstrap-badge-ar-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-bookmark-x": [
+    "bootstrap",
+    "bookmark"
+  ],
+  "Bootstrap-c-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-layout-text-sidebar": [
+    "bootstrap",
+    "layout",
+    "text",
+    "sidebar"
+  ],
+  "Bootstrap-signpost-split": [
+    "bootstrap",
+    "signpost",
+    "split"
+  ],
+  "Bootstrap-bag-heart": [
+    "bootstrap",
+    "bag",
+    "heart"
+  ],
+  "Bootstrap-file-minus": [
+    "bootstrap",
+    "file",
+    "minus"
+  ],
+  "Bootstrap-cloud-haze-2": [
+    "bootstrap",
+    "cloud",
+    "haze"
+  ],
+  "Bootstrap-key": [
+    "bootstrap",
+    "key"
+  ],
+  "Bootstrap-gpu-card": [
+    "bootstrap",
+    "gpu",
+    "card"
+  ],
+  "Bootstrap-filetype-m4p": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-ticket-detailed": [
+    "bootstrap",
+    "ticket",
+    "detailed"
+  ],
+  "Bootstrap-person-x": [
+    "bootstrap",
+    "person"
+  ],
+  "Bootstrap-truck": [
+    "bootstrap",
+    "truck"
+  ],
+  "Bootstrap-controller": [
+    "bootstrap",
+    "controller"
+  ],
+  "Bootstrap-house-heart-fill": [
+    "bootstrap",
+    "house",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-image-fill": [
+    "bootstrap",
+    "image",
+    "fill"
+  ],
+  "Bootstrap-window-sidebar": [
+    "bootstrap",
+    "window",
+    "sidebar"
+  ],
+  "Bootstrap-body-text": [
+    "bootstrap",
+    "body",
+    "text"
+  ],
+  "Bootstrap-type-h3": [
+    "bootstrap",
+    "type"
+  ],
+  "Bootstrap-caret-down-square-fill": [
+    "bootstrap",
+    "caret",
+    "down",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-sign-stop-lights": [
+    "bootstrap",
+    "sign",
+    "stop",
+    "lights"
+  ],
+  "Bootstrap-person-badge-fill": [
+    "bootstrap",
+    "person",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-file-break": [
+    "bootstrap",
+    "file",
+    "break"
+  ],
+  "Bootstrap-router": [
+    "bootstrap",
+    "router"
+  ],
+  "Bootstrap-bookmark-heart": [
+    "bootstrap",
+    "bookmark",
+    "heart"
+  ],
+  "Bootstrap-pin": [
+    "bootstrap",
+    "pin"
+  ],
+  "Bootstrap-people": [
+    "bootstrap",
+    "people"
+  ],
+  "Bootstrap-2-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-cloud-hail": [
+    "bootstrap",
+    "cloud",
+    "hail"
+  ],
+  "Bootstrap-dice-5": [
+    "bootstrap",
+    "dice"
+  ],
+  "Bootstrap-envelope-paper-fill": [
+    "bootstrap",
+    "envelope",
+    "paper",
+    "fill"
+  ],
+  "Bootstrap-house-check": [
+    "bootstrap",
+    "house",
+    "check"
+  ],
+  "Bootstrap-border-top": [
+    "bootstrap",
+    "border",
+    "top"
+  ],
+  "Bootstrap-x-diamond": [
+    "bootstrap",
+    "diamond"
+  ],
+  "Bootstrap-bounding-box": [
+    "bootstrap",
+    "bounding",
+    "box"
+  ],
+  "Bootstrap-bag-dash": [
+    "bootstrap",
+    "bag",
+    "dash"
+  ],
+  "Bootstrap-fingerprint": [
+    "bootstrap",
+    "fingerprint"
+  ],
+  "Bootstrap-send-slash-fill": [
+    "bootstrap",
+    "send",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-sign-turn-slight-left": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "slight",
+    "left"
+  ],
+  "Bootstrap-shield-lock": [
+    "bootstrap",
+    "shield",
+    "lock"
+  ],
+  "Bootstrap-envelope-heart": [
+    "bootstrap",
+    "envelope",
+    "heart"
+  ],
+  "Bootstrap-browser-safari": [
+    "bootstrap",
+    "browser",
+    "safari"
+  ],
+  "Bootstrap-currency-yen": [
+    "bootstrap",
+    "currency",
+    "yen"
+  ],
+  "Bootstrap-cloud-upload-fill": [
+    "bootstrap",
+    "cloud",
+    "upload",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-right-square-fill": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "up",
+    "square"
+  ],
+  "Bootstrap-watch": [
+    "bootstrap",
+    "watch"
+  ],
+  "Bootstrap-file-earmark-diff-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "diff",
+    "fill"
+  ],
+  "Bootstrap-building-slash": [
+    "bootstrap",
+    "building",
+    "slash"
+  ],
+  "Bootstrap-sort-numeric-up": [
+    "bootstrap",
+    "sort",
+    "numeric",
+    "up"
+  ],
+  "Bootstrap-clipboard2-data-fill": [
+    "bootstrap",
+    "clipboard",
+    "data",
+    "fill"
+  ],
+  "Bootstrap-1-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-shop": [
+    "bootstrap",
+    "shop"
+  ],
+  "Bootstrap-arrow-counterclockwise": [
+    "bootstrap",
+    "arrow",
+    "counterclockwise"
+  ],
+  "Bootstrap-collection": [
+    "bootstrap",
+    "collection"
+  ],
+  "Bootstrap-envelope-paper-heart": [
+    "bootstrap",
+    "envelope",
+    "paper",
+    "heart"
+  ],
+  "Bootstrap-border": [
+    "bootstrap",
+    "border"
+  ],
+  "Bootstrap-exclamation-square-fill": [
+    "bootstrap",
+    "exclamation",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-file-richtext-fill": [
+    "bootstrap",
+    "file",
+    "richtext",
+    "fill"
+  ],
+  "Bootstrap-battery-half": [
+    "bootstrap",
+    "battery",
+    "half"
+  ],
+  "Bootstrap-calendar3-week": [
+    "bootstrap",
+    "calendar",
+    "week"
+  ],
+  "Bootstrap-filetype-sass": [
+    "bootstrap",
+    "filetype",
+    "sass"
+  ],
+  "Bootstrap-usb-drive": [
+    "bootstrap",
+    "usb",
+    "drive"
+  ],
+  "Bootstrap-arrow-right-square-fill": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-save-fill": [
+    "bootstrap",
+    "save",
+    "fill"
+  ],
+  "Bootstrap-cart-check": [
+    "bootstrap",
+    "cart",
+    "check"
+  ],
+  "Bootstrap-journal-richtext": [
+    "bootstrap",
+    "journal",
+    "richtext"
+  ],
+  "Bootstrap-cloud-sun": [
+    "bootstrap",
+    "cloud",
+    "sun"
+  ],
+  "Bootstrap-arrow-down-left-circle": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "left",
+    "circle"
+  ],
+  "Bootstrap-skip-end-btn-fill": [
+    "bootstrap",
+    "skip",
+    "end",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-printer-fill": [
+    "bootstrap",
+    "printer",
+    "fill"
+  ],
+  "Bootstrap-calendar2-event": [
+    "bootstrap",
+    "calendar",
+    "event"
+  ],
+  "Bootstrap-p-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-file-arrow-up-fill": [
+    "bootstrap",
+    "file",
+    "arrow",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-dropbox": [
+    "bootstrap",
+    "dropbox"
+  ],
+  "Bootstrap-border-width": [
+    "bootstrap",
+    "border",
+    "width"
+  ],
+  "Bootstrap-dice-2-fill": [
+    "bootstrap",
+    "dice",
+    "fill"
+  ],
+  "Bootstrap-bookmark-heart-fill": [
+    "bootstrap",
+    "bookmark",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-folder-x": [
+    "bootstrap",
+    "folder"
+  ],
+  "Bootstrap-images": [
+    "bootstrap",
+    "images"
+  ],
+  "Bootstrap-caret-left-fill": [
+    "bootstrap",
+    "caret",
+    "left",
+    "fill"
+  ],
+  "Bootstrap-cloud-moon": [
+    "bootstrap",
+    "cloud",
+    "moon"
+  ],
+  "Bootstrap-volume-mute-fill": [
+    "bootstrap",
+    "volume",
+    "mute",
+    "fill"
+  ],
+  "Bootstrap-peace-fill": [
+    "bootstrap",
+    "peace",
+    "fill"
+  ],
+  "Bootstrap-spotify": [
+    "bootstrap",
+    "spotify"
+  ],
+  "Bootstrap-layout-sidebar-reverse": [
+    "bootstrap",
+    "layout",
+    "sidebar",
+    "reverse"
+  ],
+  "Bootstrap-brightness-low": [
+    "bootstrap",
+    "brightness",
+    "low"
+  ],
+  "Bootstrap-rocket": [
+    "bootstrap",
+    "rocket"
+  ],
+  "Bootstrap-filetype-woff": [
+    "bootstrap",
+    "filetype",
+    "woff"
+  ],
+  "Bootstrap-3-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-pen-fill": [
+    "bootstrap",
+    "pen",
+    "fill"
+  ],
+  "Bootstrap-markdown-fill": [
+    "bootstrap",
+    "markdown",
+    "fill"
+  ],
+  "Bootstrap-sort-numeric-down": [
+    "bootstrap",
+    "sort",
+    "numeric",
+    "down"
+  ],
+  "Bootstrap-badge-wc-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-filetype-py": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-check-2": [
+    "bootstrap",
+    "check"
+  ],
+  "Bootstrap-tsunami": [
+    "bootstrap",
+    "tsunami"
+  ],
+  "Bootstrap-envelope-slash-fill": [
+    "bootstrap",
+    "envelope",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-minus": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "minus"
+  ],
+  "Bootstrap-three-dots-vertical": [
+    "bootstrap",
+    "three",
+    "dots",
+    "vertical"
+  ],
+  "Bootstrap-filter": [
+    "bootstrap",
+    "filter"
+  ],
+  "Bootstrap-image-alt": [
+    "bootstrap",
+    "image"
+  ],
+  "Bootstrap-postcard-fill": [
+    "bootstrap",
+    "postcard",
+    "fill"
+  ],
+  "Bootstrap-bookmarks-fill": [
+    "bootstrap",
+    "bookmarks",
+    "fill"
+  ],
+  "Bootstrap-unlock": [
+    "bootstrap",
+    "unlock"
+  ],
+  "Bootstrap-octagon-fill": [
+    "bootstrap",
+    "octagon",
+    "fill"
+  ],
+  "Bootstrap-layout-text-sidebar-reverse": [
+    "bootstrap",
+    "layout",
+    "text",
+    "sidebar",
+    "reverse"
+  ],
+  "Bootstrap-cloud-haze": [
+    "bootstrap",
+    "cloud",
+    "haze"
+  ],
+  "Bootstrap-caret-right-square": [
+    "bootstrap",
+    "caret",
+    "right",
+    "square"
+  ],
+  "Bootstrap-file-play": [
+    "bootstrap",
+    "file",
+    "play"
+  ],
+  "Bootstrap-bullseye": [
+    "bootstrap",
+    "bullseye"
+  ],
+  "Bootstrap-geo-alt": [
+    "bootstrap",
+    "geo"
+  ],
+  "Bootstrap-file-font": [
+    "bootstrap",
+    "file",
+    "font"
+  ],
+  "Bootstrap-shield-exclamation": [
+    "bootstrap",
+    "shield",
+    "exclamation"
+  ],
+  "Bootstrap-stripe": [
+    "bootstrap",
+    "stripe"
+  ],
+  "Bootstrap-exclamation-square": [
+    "bootstrap",
+    "exclamation",
+    "square"
+  ],
+  "Bootstrap-megaphone": [
+    "bootstrap",
+    "megaphone"
+  ],
+  "Bootstrap-cart": [
+    "bootstrap",
+    "cart"
+  ],
+  "Bootstrap-hdd-stack-fill": [
+    "bootstrap",
+    "hdd",
+    "stack",
+    "fill"
+  ],
+  "Bootstrap-filetype-java": [
+    "bootstrap",
+    "filetype",
+    "java"
+  ],
+  "Bootstrap-box-seam-fill": [
+    "bootstrap",
+    "box",
+    "seam",
+    "fill"
+  ],
+  "Bootstrap-r-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-file-binary-fill": [
+    "bootstrap",
+    "file",
+    "binary",
+    "fill"
+  ],
+  "Bootstrap-battery-full": [
+    "bootstrap",
+    "battery",
+    "full"
+  ],
+  "Bootstrap-1-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-grid-3x2-gap": [
+    "bootstrap",
+    "grid",
+    "gap"
+  ],
+  "Bootstrap-9-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-percent": [
+    "bootstrap",
+    "percent"
+  ],
+  "Bootstrap-thunderbolt-fill": [
+    "bootstrap",
+    "fill",
+    "thunderbolt"
+  ],
+  "Bootstrap-collection-fill": [
+    "bootstrap",
+    "collection",
+    "fill"
+  ],
+  "Bootstrap-grid-3x3-gap": [
+    "bootstrap",
+    "grid",
+    "gap"
+  ],
+  "Bootstrap-chevron-expand": [
+    "bootstrap",
+    "chevron",
+    "expand"
+  ],
+  "Bootstrap-thermometer-high": [
+    "bootstrap",
+    "high",
+    "thermometer"
+  ],
+  "Bootstrap-at": [
+    "bootstrap"
+  ],
+  "Bootstrap-filetype-mp-3": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-receipt": [
+    "bootstrap",
+    "receipt"
+  ],
+  "Bootstrap-graph-down-arrow": [
+    "bootstrap",
+    "graph",
+    "down",
+    "arrow"
+  ],
+  "Bootstrap-caret-up-square": [
+    "bootstrap",
+    "caret",
+    "square",
+    "up"
+  ],
+  "Bootstrap-behance": [
+    "bootstrap",
+    "behance"
+  ],
+  "Bootstrap-exclamation-diamond-fill": [
+    "bootstrap",
+    "diamond",
+    "exclamation",
+    "fill"
+  ],
+  "Bootstrap-file-post-fill": [
+    "bootstrap",
+    "file",
+    "post",
+    "fill"
+  ],
+  "Bootstrap-badge-3d-fill": [
+    "bootstrap",
+    "badge",
+    "3d",
+    "fill"
+  ],
+  "Bootstrap-file-slides-fill": [
+    "bootstrap",
+    "file",
+    "slides",
+    "fill"
+  ],
+  "Bootstrap-calendar4-event": [
+    "bootstrap",
+    "calendar",
+    "event"
+  ],
+  "Bootstrap-phone-landscape": [
+    "bootstrap",
+    "phone",
+    "landscape"
+  ],
+  "Bootstrap-rocket-fill": [
+    "bootstrap",
+    "rocket",
+    "fill"
+  ],
+  "Bootstrap-eject": [
+    "bootstrap",
+    "eject"
+  ],
+  "Bootstrap-cart-x": [
+    "bootstrap",
+    "cart"
+  ],
+  "Bootstrap-palette-fill": [
+    "bootstrap",
+    "palette",
+    "fill"
+  ],
+  "Bootstrap-hurricane": [
+    "bootstrap",
+    "hurricane"
+  ],
+  "Bootstrap-geo-fill": [
+    "bootstrap",
+    "geo",
+    "fill"
+  ],
+  "Bootstrap-moon-stars-fill": [
+    "bootstrap",
+    "moon",
+    "stars",
+    "fill"
+  ],
+  "Bootstrap-hdd-network": [
+    "bootstrap",
+    "hdd",
+    "network"
+  ],
+  "Bootstrap-caret-up-square-fill": [
+    "bootstrap",
+    "caret",
+    "square",
+    "up",
+    "fill"
+  ],
+  "Bootstrap-cloud-drizzle-fill": [
+    "bootstrap",
+    "cloud",
+    "drizzle",
+    "fill"
+  ],
+  "Bootstrap-info-square-fill": [
+    "bootstrap",
+    "info",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-bus-front-fill": [
+    "bootstrap",
+    "bus",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-calendar2-week-fill": [
+    "bootstrap",
+    "calendar",
+    "week",
+    "fill"
+  ],
+  "Bootstrap-patch-question-fill": [
+    "bootstrap",
+    "patch",
+    "question",
+    "fill"
+  ],
+  "Bootstrap-check-circle-fill": [
+    "bootstrap",
+    "check",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-lock": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "lock"
+  ],
+  "Bootstrap-chevron-compact-left": [
+    "bootstrap",
+    "chevron",
+    "compact",
+    "left"
+  ],
+  "Bootstrap-power": [
+    "bootstrap",
+    "power"
+  ],
+  "Bootstrap-bag-heart-fill": [
+    "bootstrap",
+    "bag",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-exclamation-triangle": [
+    "bootstrap",
+    "exclamation",
+    "triangle"
+  ],
+  "Bootstrap-calendar4-week": [
+    "bootstrap",
+    "calendar",
+    "week"
+  ],
+  "Bootstrap-cloud-sleet": [
+    "bootstrap",
+    "cloud",
+    "sleet"
+  ],
+  "Bootstrap-projector-fill": [
+    "bootstrap",
+    "projector",
+    "fill"
+  ],
+  "Bootstrap-vector-pen": [
+    "bootstrap",
+    "vector",
+    "pen"
+  ],
+  "Bootstrap-chevron-bar-contract": [
+    "bootstrap",
+    "chevron",
+    "bar",
+    "contract"
+  ],
+  "Bootstrap-file-earmark-richtext-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "richtext",
+    "fill"
+  ],
+  "Bootstrap-train-lightrail-front": [
+    "bootstrap",
+    "train",
+    "lightrail",
+    "front"
+  ],
+  "Bootstrap-mic-mute": [
+    "bootstrap",
+    "mic",
+    "mute"
+  ],
+  "Bootstrap-envelope-check": [
+    "bootstrap",
+    "envelope",
+    "check"
+  ],
+  "Bootstrap-rss-fill": [
+    "bootstrap",
+    "rss",
+    "fill"
+  ],
+  "Bootstrap-file-medical": [
+    "bootstrap",
+    "file",
+    "medical"
+  ],
+  "Bootstrap-exclamation-octagon": [
+    "bootstrap",
+    "exclamation",
+    "octagon"
+  ],
+  "Bootstrap-emoji-frown": [
+    "bootstrap",
+    "emoji",
+    "frown"
+  ],
+  "Bootstrap-file-earmark-ppt": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "ppt"
+  ],
+  "Bootstrap-arrow-down-circle": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "circle"
+  ],
+  "Bootstrap-bezier": [
+    "bootstrap",
+    "bezier"
+  ],
+  "Bootstrap-houses": [
+    "bootstrap",
+    "houses"
+  ],
+  "Bootstrap-border-inner": [
+    "bootstrap",
+    "border",
+    "inner"
+  ],
+  "Bootstrap-file-diff": [
+    "bootstrap",
+    "file",
+    "diff"
+  ],
+  "Bootstrap-arrow-down-up": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "up"
+  ],
+  "Bootstrap-translate": [
+    "bootstrap",
+    "translate"
+  ],
+  "Bootstrap-sign-no-right-turn-fill": [
+    "bootstrap",
+    "sign",
+    "no",
+    "right",
+    "turn"
+  ],
+  "Bootstrap-card-text": [
+    "bootstrap",
+    "card",
+    "text"
+  ],
+  "Bootstrap-hr": [
+    "bootstrap"
+  ],
+  "Bootstrap-folder-2": [
+    "bootstrap",
+    "folder"
+  ],
+  "Bootstrap-suit-club": [
+    "bootstrap",
+    "suit",
+    "club"
+  ],
+  "Bootstrap-p-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-cloud-haze-fill": [
+    "bootstrap",
+    "cloud",
+    "haze",
+    "fill"
+  ],
+  "Bootstrap-sign-railroad-fill": [
+    "bootstrap",
+    "sign",
+    "railroad",
+    "fill"
+  ],
+  "Bootstrap-8-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-explicit-fill": [
+    "bootstrap",
+    "explicit",
+    "fill"
+  ],
+  "Bootstrap-calendar-heart-fill": [
+    "bootstrap",
+    "calendar",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-file-richtext": [
+    "bootstrap",
+    "file",
+    "richtext"
+  ],
+  "Bootstrap-cloud-arrow-down": [
+    "bootstrap",
+    "cloud",
+    "arrow",
+    "down"
+  ],
+  "Bootstrap-chevron-bar-down": [
+    "bootstrap",
+    "chevron",
+    "bar",
+    "down"
+  ],
+  "Bootstrap-card-heading": [
+    "bootstrap",
+    "card",
+    "heading"
+  ],
+  "Bootstrap-hand-thumbs-down-fill": [
+    "bootstrap",
+    "hand",
+    "thumbs",
+    "down",
+    "fill"
+  ],
+  "Bootstrap-file-plus-fill": [
+    "bootstrap",
+    "file",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-calendar3-fill": [
+    "bootstrap",
+    "calendar",
+    "fill"
+  ],
+  "Bootstrap-skip-backward-btn-fill": [
+    "bootstrap",
+    "skip",
+    "backward",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-cloud-fill": [
+    "bootstrap",
+    "cloud",
+    "fill"
+  ],
+  "Bootstrap-calendar3-event": [
+    "bootstrap",
+    "calendar",
+    "event"
+  ],
+  "Bootstrap-check2-all": [
+    "bootstrap",
+    "check"
+  ],
+  "Bootstrap-reboot": [
+    "bootstrap",
+    "reboot"
+  ],
+  "Bootstrap-list-stars": [
+    "bootstrap",
+    "list",
+    "stars"
+  ],
+  "Bootstrap-badge-cc-fill": [
+    "bootstrap",
+    "badge",
+    "fill"
+  ],
+  "Bootstrap-shield-fill-check": [
+    "bootstrap",
+    "shield",
+    "fill",
+    "check"
+  ],
+  "Bootstrap-cloud-haze2-fill": [
+    "bootstrap",
+    "cloud",
+    "haze",
+    "fill"
+  ],
+  "Bootstrap-patch-check": [
+    "bootstrap",
+    "patch",
+    "check"
+  ],
+  "Bootstrap-building-fill-lock": [
+    "bootstrap",
+    "building",
+    "fill",
+    "lock"
+  ],
+  "Bootstrap-cup-hot": [
+    "bootstrap",
+    "cup",
+    "hot"
+  ],
+  "Bootstrap-basket2-fill": [
+    "bootstrap",
+    "basket",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-word": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "word"
+  ],
+  "Bootstrap-skip-end-circle": [
+    "bootstrap",
+    "skip",
+    "end",
+    "circle"
+  ],
+  "Bootstrap-arrow-bar-left": [
+    "bootstrap",
+    "arrow",
+    "bar",
+    "left"
+  ],
+  "Bootstrap-clipboard-data": [
+    "bootstrap",
+    "clipboard",
+    "data"
+  ],
+  "Bootstrap-arrow-return-left": [
+    "bootstrap",
+    "arrow",
+    "return",
+    "left"
+  ],
+  "Bootstrap-border-outer": [
+    "bootstrap",
+    "border",
+    "outer"
+  ],
+  "Bootstrap-ev-front": [
+    "bootstrap",
+    "front"
+  ],
+  "Bootstrap-building-exclamation": [
+    "bootstrap",
+    "building",
+    "exclamation"
+  ],
+  "Bootstrap-skip-start": [
+    "bootstrap",
+    "skip",
+    "start"
+  ],
+  "Bootstrap-shield-fill": [
+    "bootstrap",
+    "shield",
+    "fill"
+  ],
+  "Bootstrap-border-all": [
+    "bootstrap",
+    "border"
+  ],
+  "Bootstrap-telephone-inbound-fill": [
+    "bootstrap",
+    "telephone",
+    "inbound",
+    "fill"
+  ],
+  "Bootstrap-cursor": [
+    "bootstrap",
+    "cursor"
+  ],
+  "Bootstrap-arrow-left-short": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "short"
+  ],
+  "Bootstrap-filetype-tiff": [
+    "bootstrap",
+    "filetype",
+    "tiff"
+  ],
+  "Bootstrap-usb-symbol": [
+    "bootstrap",
+    "usb",
+    "symbol"
+  ],
+  "Bootstrap-wrench": [
+    "bootstrap",
+    "wrench"
+  ],
+  "Bootstrap-fonts": [
+    "bootstrap",
+    "fonts"
+  ],
+  "Bootstrap-trash-3": [
+    "bootstrap",
+    "trash"
+  ],
+  "Bootstrap-calendar-range": [
+    "bootstrap",
+    "calendar",
+    "range"
+  ],
+  "Bootstrap-tag": [
+    "bootstrap",
+    "tag"
+  ],
+  "Bootstrap-filetype-js": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-filetype-txt": [
+    "bootstrap",
+    "filetype",
+    "txt"
+  ],
+  "Bootstrap-eyeglasses": [
+    "bootstrap",
+    "eyeglasses"
+  ],
+  "Bootstrap-cash": [
+    "bootstrap",
+    "cash"
+  ],
+  "Bootstrap-arrow-down-square": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "square"
+  ],
+  "Bootstrap-gear": [
+    "bootstrap",
+    "gear"
+  ],
+  "Bootstrap-broadcast-pin": [
+    "bootstrap",
+    "broadcast",
+    "pin"
+  ],
+  "Bootstrap-4-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-person-rolodex": [
+    "bootstrap",
+    "person",
+    "rolodex"
+  ],
+  "Bootstrap-circle-square": [
+    "bootstrap",
+    "circle",
+    "square"
+  ],
+  "Bootstrap-mic-mute-fill": [
+    "bootstrap",
+    "mic",
+    "mute",
+    "fill"
+  ],
+  "Bootstrap-sign-railroad": [
+    "bootstrap",
+    "sign",
+    "railroad"
+  ],
+  "Bootstrap-file-earmark-excel-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "excel",
+    "fill"
+  ],
+  "Bootstrap-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-node-minus": [
+    "bootstrap",
+    "node",
+    "minus"
+  ],
+  "Bootstrap-mouse": [
+    "bootstrap",
+    "mouse"
+  ],
+  "Bootstrap-arrow-left-square": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "square"
+  ],
+  "Bootstrap-trash-2": [
+    "bootstrap",
+    "trash"
+  ],
+  "Bootstrap-rss": [
+    "bootstrap",
+    "rss"
+  ],
+  "Bootstrap-house": [
+    "bootstrap",
+    "house"
+  ],
+  "Bootstrap-hospital": [
+    "bootstrap",
+    "hospital"
+  ],
+  "Bootstrap-file-earmark-music-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "music",
+    "fill"
+  ],
+  "Bootstrap-clipboard2-plus": [
+    "bootstrap",
+    "clipboard",
+    "plus"
+  ],
+  "Bootstrap-clouds-fill": [
+    "bootstrap",
+    "clouds",
+    "fill"
+  ],
+  "Bootstrap-toggle2-off": [
+    "bootstrap",
+    "toggle",
+    "off"
+  ],
+  "Bootstrap-chat-square-dots-fill": [
+    "bootstrap",
+    "chat",
+    "square",
+    "dots",
+    "fill"
+  ],
+  "Bootstrap-file-ruled-fill": [
+    "bootstrap",
+    "file",
+    "ruled",
+    "fill"
+  ],
+  "Bootstrap-list-ol": [
+    "bootstrap",
+    "list"
+  ],
+  "Bootstrap-lamp": [
+    "bootstrap",
+    "lamp"
+  ],
+  "Bootstrap-universal-access": [
+    "bootstrap",
+    "universal",
+    "access"
+  ],
+  "Bootstrap-building-fill-add": [
+    "bootstrap",
+    "building",
+    "fill",
+    "add"
+  ],
+  "Bootstrap-cart-check-fill": [
+    "bootstrap",
+    "cart",
+    "check",
+    "fill"
+  ],
+  "Bootstrap-type-underline": [
+    "bootstrap",
+    "type",
+    "underline"
+  ],
+  "Bootstrap-chat-left-fill": [
+    "bootstrap",
+    "chat",
+    "left",
+    "fill"
+  ],
+  "Bootstrap-6-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-file-earmark-person-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "person",
+    "fill"
+  ],
+  "Bootstrap-arrow-down-short": [
+    "bootstrap",
+    "arrow",
+    "down",
+    "short"
+  ],
+  "Bootstrap-building-dash": [
+    "bootstrap",
+    "building",
+    "dash"
+  ],
+  "Bootstrap-patch-plus-fill": [
+    "bootstrap",
+    "patch",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-sign-no-left-turn-fill": [
+    "bootstrap",
+    "sign",
+    "left",
+    "no",
+    "turn"
+  ],
+  "Bootstrap-sign-turn-left": [
+    "bootstrap",
+    "sign",
+    "turn",
+    "left"
+  ],
+  "Bootstrap-record-circle": [
+    "bootstrap",
+    "record",
+    "circle"
+  ],
+  "Bootstrap-file-earmark-post": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "post"
+  ],
+  "Bootstrap-reply": [
+    "bootstrap",
+    "reply"
+  ],
+  "Bootstrap-dash-square-dotted": [
+    "bootstrap",
+    "dash",
+    "square",
+    "dotted"
+  ],
+  "Bootstrap-app-indicator": [
+    "bootstrap",
+    "app",
+    "indicator"
+  ],
+  "Bootstrap-printer": [
+    "bootstrap",
+    "printer"
+  ],
+  "Bootstrap-chat-square-text-fill": [
+    "bootstrap",
+    "chat",
+    "square",
+    "text",
+    "fill"
+  ],
+  "Bootstrap-flower-2": [
+    "bootstrap",
+    "flower"
+  ],
+  "Bootstrap-file-earmark-minus-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-usb-c": [
+    "bootstrap",
+    "usb"
+  ],
+  "Bootstrap-pinterest": [
+    "bootstrap",
+    "pinterest"
+  ],
+  "Bootstrap-lightning": [
+    "bootstrap",
+    "lightning"
+  ],
+  "Bootstrap-sunrise": [
+    "bootstrap",
+    "sunrise"
+  ],
+  "Bootstrap-type-h1": [
+    "bootstrap",
+    "type"
+  ],
+  "Bootstrap-play-circle-fill": [
+    "bootstrap",
+    "play",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-dpad-fill": [
+    "bootstrap",
+    "dpad",
+    "fill"
+  ],
+  "Bootstrap-type-strikethrough": [
+    "bootstrap",
+    "type",
+    "strikethrough"
+  ],
+  "Bootstrap-send-plus": [
+    "bootstrap",
+    "send",
+    "plus"
+  ],
+  "Bootstrap-list-columns-reverse": [
+    "bootstrap",
+    "list",
+    "columns",
+    "reverse"
+  ],
+  "Bootstrap-kanban": [
+    "bootstrap",
+    "kanban"
+  ],
+  "Bootstrap-keyboard-fill": [
+    "bootstrap",
+    "keyboard",
+    "fill"
+  ],
+  "Bootstrap-heptagon-half": [
+    "bootstrap",
+    "heptagon",
+    "half"
+  ],
+  "Bootstrap-c-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-clipboard-fill": [
+    "bootstrap",
+    "clipboard",
+    "fill"
+  ],
+  "Bootstrap-sort-up": [
+    "bootstrap",
+    "sort",
+    "up"
+  ],
+  "Bootstrap-house-lock-fill": [
+    "bootstrap",
+    "house",
+    "lock",
+    "fill"
+  ],
+  "Bootstrap-envelope-dash": [
+    "bootstrap",
+    "envelope",
+    "dash"
+  ],
+  "Bootstrap-pause-circle-fill": [
+    "bootstrap",
+    "pause",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-brightness-alt-high": [
+    "bootstrap",
+    "brightness",
+    "high"
+  ],
+  "Bootstrap-brush": [
+    "bootstrap",
+    "brush"
+  ],
+  "Bootstrap-envelope-x": [
+    "bootstrap",
+    "envelope"
+  ],
+  "Bootstrap-bag-check": [
+    "bootstrap",
+    "bag",
+    "check"
+  ],
+  "Bootstrap-window-split": [
+    "bootstrap",
+    "window",
+    "split"
+  ],
+  "Bootstrap-h-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-magnet": [
+    "bootstrap",
+    "magnet"
+  ],
+  "Bootstrap-9-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-hexagon-half": [
+    "bootstrap",
+    "hexagon",
+    "half"
+  ],
+  "Bootstrap-bar-chart-line-fill": [
+    "bootstrap",
+    "bar",
+    "chart",
+    "line",
+    "fill"
+  ],
+  "Bootstrap-terminal-dash": [
+    "bootstrap",
+    "terminal",
+    "dash"
+  ],
+  "Bootstrap-train-front-fill": [
+    "bootstrap",
+    "train",
+    "front",
+    "fill"
+  ],
+  "Bootstrap-skip-end-circle-fill": [
+    "bootstrap",
+    "skip",
+    "end",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-quote": [
+    "bootstrap",
+    "quote"
+  ],
+  "Bootstrap-diagram-3-fill": [
+    "bootstrap",
+    "diagram",
+    "fill"
+  ],
+  "Bootstrap-person-fill-up": [
+    "bootstrap",
+    "person",
+    "fill",
+    "up"
+  ],
+  "Bootstrap-house-add-fill": [
+    "bootstrap",
+    "house",
+    "add",
+    "fill"
+  ],
+  "Bootstrap-folder-fill": [
+    "bootstrap",
+    "folder",
+    "fill"
+  ],
+  "Bootstrap-file-person-fill": [
+    "bootstrap",
+    "file",
+    "person",
+    "fill"
+  ],
+  "Bootstrap-moisture": [
+    "bootstrap",
+    "moisture"
+  ],
+  "Bootstrap-ubuntu": [
+    "bootstrap",
+    "ubuntu"
+  ],
+  "Bootstrap-basket": [
+    "bootstrap",
+    "basket"
+  ],
+  "Bootstrap-dice-4-fill": [
+    "bootstrap",
+    "dice",
+    "fill"
+  ],
+  "Bootstrap-skip-end": [
+    "bootstrap",
+    "skip",
+    "end"
+  ],
+  "Bootstrap-folder-symlink-fill": [
+    "bootstrap",
+    "folder",
+    "symlink",
+    "fill"
+  ],
+  "Bootstrap-arrow-up-right-circle": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "up",
+    "circle"
+  ],
+  "Bootstrap-cpu": [
+    "bootstrap",
+    "cpu"
+  ],
+  "Bootstrap-x-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-send-plus-fill": [
+    "bootstrap",
+    "send",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-clipboard2-minus": [
+    "bootstrap",
+    "clipboard",
+    "minus"
+  ],
+  "Bootstrap-palette-2": [
+    "bootstrap",
+    "palette"
+  ],
+  "Bootstrap-tv": [
+    "bootstrap",
+    "tv"
+  ],
+  "Bootstrap-star": [
+    "bootstrap",
+    "star"
+  ],
+  "Bootstrap-box-arrow-up": [
+    "bootstrap",
+    "box",
+    "arrow",
+    "up"
+  ],
+  "Bootstrap-patch-minus-fill": [
+    "bootstrap",
+    "patch",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-browser-edge": [
+    "bootstrap",
+    "browser",
+    "edge"
+  ],
+  "Bootstrap-wifi": [
+    "bootstrap",
+    "wifi"
+  ],
+  "Bootstrap-rewind": [
+    "bootstrap",
+    "rewind"
+  ],
+  "Bootstrap-slash-lg": [
+    "bootstrap",
+    "slash"
+  ],
+  "Bootstrap-arrow-up-left-circle": [
+    "bootstrap",
+    "arrow",
+    "left",
+    "up",
+    "circle"
+  ],
+  "Bootstrap-capslock-fill": [
+    "bootstrap",
+    "capslock",
+    "fill"
+  ],
+  "Bootstrap-envelope-plus": [
+    "bootstrap",
+    "envelope",
+    "plus"
+  ],
+  "Bootstrap-file-earmark-ruled": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "ruled"
+  ],
+  "Bootstrap-arrow-90deg-right": [
+    "bootstrap",
+    "arrow",
+    "deg",
+    "right"
+  ],
+  "Bootstrap-dribbble": [
+    "bootstrap",
+    "dribbble"
+  ],
+  "Bootstrap-building-lock": [
+    "bootstrap",
+    "building",
+    "lock"
+  ],
+  "Bootstrap-node-plus-fill": [
+    "bootstrap",
+    "node",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-7-square-fill": [
+    "bootstrap",
+    "square",
+    "fill"
+  ],
+  "Bootstrap-thermometer-low": [
+    "bootstrap",
+    "low",
+    "thermometer"
+  ],
+  "Bootstrap-hand-index": [
+    "bootstrap",
+    "hand",
+    "index"
+  ],
+  "Bootstrap-filetype-tsx": [
+    "bootstrap",
+    "filetype",
+    "tsx"
+  ],
+  "Bootstrap-files": [
+    "bootstrap",
+    "files"
+  ],
+  "Bootstrap-envelope-open-heart": [
+    "bootstrap",
+    "envelope",
+    "open",
+    "heart"
+  ],
+  "Bootstrap-file-earmark-font-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "font",
+    "fill"
+  ],
+  "Bootstrap-airplane-engines-fill": [
+    "bootstrap",
+    "airplane",
+    "engines",
+    "fill"
+  ],
+  "Bootstrap-door-open-fill": [
+    "bootstrap",
+    "door",
+    "open",
+    "fill"
+  ],
+  "Bootstrap-chevron-double-down": [
+    "bootstrap",
+    "chevron",
+    "double",
+    "down"
+  ],
+  "Bootstrap-mortarboard-fill": [
+    "bootstrap",
+    "fill",
+    "mortarboard"
+  ],
+  "Bootstrap-subtract": [
+    "bootstrap",
+    "subtract"
+  ],
+  "Bootstrap-journal-check": [
+    "bootstrap",
+    "journal",
+    "check"
+  ],
+  "Bootstrap-usb-plug-fill": [
+    "bootstrap",
+    "usb",
+    "plug",
+    "fill"
+  ],
+  "Bootstrap-house-dash-fill": [
+    "bootstrap",
+    "house",
+    "dash",
+    "fill"
+  ],
+  "Bootstrap-cone": [
+    "bootstrap",
+    "cone"
+  ],
+  "Bootstrap-grid-1x2-fill": [
+    "bootstrap",
+    "grid",
+    "fill"
+  ],
+  "Bootstrap-cloud-minus-fill": [
+    "bootstrap",
+    "cloud",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-device-ssd": [
+    "bootstrap",
+    "device",
+    "ssd"
+  ],
+  "Bootstrap-house-down": [
+    "bootstrap",
+    "house",
+    "down"
+  ],
+  "Bootstrap-arrow-right-short": [
+    "bootstrap",
+    "arrow",
+    "right",
+    "short"
+  ],
+  "Bootstrap-suit-diamond": [
+    "bootstrap",
+    "suit",
+    "diamond"
+  ],
+  "Bootstrap-diagram-3": [
+    "bootstrap",
+    "diagram"
+  ],
+  "Bootstrap-type-italic": [
+    "bootstrap",
+    "type",
+    "italic"
+  ],
+  "Bootstrap-trello": [
+    "bootstrap",
+    "trello"
+  ],
+  "Bootstrap-file-earmark-pdf-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "pdf",
+    "fill"
+  ],
+  "Bootstrap-lightning-charge": [
+    "bootstrap",
+    "lightning",
+    "charge"
+  ],
+  "Bootstrap-rocket-takeoff-fill": [
+    "bootstrap",
+    "rocket",
+    "takeoff",
+    "fill"
+  ],
+  "Bootstrap-upload": [
+    "bootstrap",
+    "upload"
+  ],
+  "Bootstrap-caret-up": [
+    "bootstrap",
+    "caret",
+    "up"
+  ],
+  "Bootstrap-person-video": [
+    "bootstrap",
+    "person",
+    "video"
+  ],
+  "Bootstrap-file-earmark": [
+    "bootstrap",
+    "file",
+    "earmark"
+  ],
+  "Bootstrap-calendar2-plus": [
+    "bootstrap",
+    "calendar",
+    "plus"
+  ],
+  "Bootstrap-sina-weibo": [
+    "bootstrap",
+    "sina",
+    "weibo"
+  ],
+  "Bootstrap-filetype-gif": [
+    "bootstrap",
+    "filetype",
+    "gif"
+  ],
+  "Bootstrap-person-video-3": [
+    "bootstrap",
+    "person",
+    "video"
+  ],
+  "Bootstrap-droplet-half": [
+    "bootstrap",
+    "droplet",
+    "half"
+  ],
+  "Bootstrap-signpost-2-fill": [
+    "bootstrap",
+    "signpost",
+    "fill"
+  ],
+  "Bootstrap-cursor-fill": [
+    "bootstrap",
+    "cursor",
+    "fill"
+  ],
+  "Bootstrap-thermometer-snow": [
+    "bootstrap",
+    "snow",
+    "thermometer"
+  ],
+  "Bootstrap-file-font-fill": [
+    "bootstrap",
+    "file",
+    "font",
+    "fill"
+  ],
+  "Bootstrap-file-image": [
+    "bootstrap",
+    "file",
+    "image"
+  ],
+  "Bootstrap-robot": [
+    "bootstrap",
+    "robot"
+  ],
+  "Bootstrap-calendar2-day-fill": [
+    "bootstrap",
+    "calendar",
+    "day",
+    "fill"
+  ],
+  "Bootstrap-yin-yang": [
+    "bootstrap",
+    "yin",
+    "yang"
+  ],
+  "Bootstrap-trophy-fill": [
+    "bootstrap",
+    "trophy",
+    "fill"
+  ],
+  "Bootstrap-justify-right": [
+    "bootstrap",
+    "justify",
+    "right"
+  ],
+  "Bootstrap-chevron-compact-right": [
+    "bootstrap",
+    "chevron",
+    "compact",
+    "right"
+  ],
+  "Bootstrap-5-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-displayport": [
+    "bootstrap",
+    "displayport"
+  ],
+  "Bootstrap-hdd-rack-fill": [
+    "bootstrap",
+    "hdd",
+    "rack",
+    "fill"
+  ],
+  "Bootstrap-cc-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-calendar2-fill": [
+    "bootstrap",
+    "calendar",
+    "fill"
+  ],
+  "Bootstrap-stopwatch": [
+    "bootstrap",
+    "stopwatch"
+  ],
+  "Bootstrap-safe-fill": [
+    "bootstrap",
+    "safe",
+    "fill"
+  ],
+  "Bootstrap-lightbulb-off": [
+    "bootstrap",
+    "lightbulb",
+    "off"
+  ],
+  "Bootstrap-vinyl-fill": [
+    "bootstrap",
+    "vinyl",
+    "fill"
+  ],
+  "Bootstrap-paypal": [
+    "bootstrap",
+    "paypal"
+  ],
+  "Bootstrap-hand-index-fill": [
+    "bootstrap",
+    "hand",
+    "index",
+    "fill"
+  ],
+  "Bootstrap-house-x": [
+    "bootstrap",
+    "house"
+  ],
+  "Bootstrap-clipboard2-heart-fill": [
+    "bootstrap",
+    "clipboard",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-fast-forward-btn": [
+    "bootstrap",
+    "fast",
+    "forward",
+    "btn"
+  ],
+  "Bootstrap-arrows-angle-expand": [
+    "bootstrap",
+    "arrows",
+    "angle",
+    "expand"
+  ],
+  "Bootstrap-align-top": [
+    "bootstrap",
+    "align",
+    "top"
+  ],
+  "Bootstrap-emoji-smile-upside-down-fill": [
+    "bootstrap",
+    "emoji",
+    "smile",
+    "upside",
+    "down"
+  ],
+  "Bootstrap-person-up": [
+    "bootstrap",
+    "person",
+    "up"
+  ],
+  "Bootstrap-file-ppt": [
+    "bootstrap",
+    "file",
+    "ppt"
+  ],
+  "Bootstrap-pci-card": [
+    "bootstrap",
+    "pci",
+    "card"
+  ],
+  "Bootstrap-hammer": [
+    "bootstrap",
+    "hammer"
+  ],
+  "Bootstrap-question-octagon-fill": [
+    "bootstrap",
+    "question",
+    "octagon",
+    "fill"
+  ],
+  "Bootstrap-emoji-expressionless-fill": [
+    "bootstrap",
+    "emoji",
+    "expressionless",
+    "fill"
+  ],
+  "Bootstrap-apple": [
+    "bootstrap",
+    "apple"
+  ],
+  "Bootstrap-chevron-bar-up": [
+    "bootstrap",
+    "chevron",
+    "bar",
+    "up"
+  ],
+  "Bootstrap-menu-up": [
+    "bootstrap",
+    "menu",
+    "up"
+  ],
+  "Bootstrap-search-heart": [
+    "bootstrap",
+    "search",
+    "heart"
+  ],
+  "Bootstrap-clipboard2-pulse": [
+    "bootstrap",
+    "clipboard",
+    "pulse"
+  ],
+  "Bootstrap-filetype-md": [
+    "bootstrap",
+    "filetype"
+  ],
+  "Bootstrap-volume-off-fill": [
+    "bootstrap",
+    "volume",
+    "off",
+    "fill"
+  ],
+  "Bootstrap-newspaper": [
+    "bootstrap",
+    "newspaper"
+  ],
+  "Bootstrap-123": [
+    "bootstrap"
+  ],
+  "Bootstrap-window-plus": [
+    "bootstrap",
+    "window",
+    "plus"
+  ],
+  "Bootstrap-forward-fill": [
+    "bootstrap",
+    "forward",
+    "fill"
+  ],
+  "Bootstrap-filetype-csv": [
+    "bootstrap",
+    "filetype",
+    "csv"
+  ],
+  "Bootstrap-person-fill-add": [
+    "bootstrap",
+    "person",
+    "fill",
+    "add"
+  ],
+  "Bootstrap-record2-fill": [
+    "bootstrap",
+    "record",
+    "fill"
+  ],
+  "Bootstrap-strava": [
+    "bootstrap",
+    "strava"
+  ],
+  "Bootstrap-cassette-fill": [
+    "bootstrap",
+    "cassette",
+    "fill"
+  ],
+  "Bootstrap-modem": [
+    "bootstrap",
+    "modem"
+  ],
+  "Bootstrap-arrow-up-short": [
+    "bootstrap",
+    "arrow",
+    "short",
+    "up"
+  ],
+  "Bootstrap-chevron-up": [
+    "bootstrap",
+    "chevron",
+    "up"
+  ],
+  "Bootstrap-grip-horizontal": [
+    "bootstrap",
+    "grip",
+    "horizontal"
+  ],
+  "Bootstrap-map": [
+    "bootstrap",
+    "map"
+  ],
+  "Bootstrap-badge-ad": [
+    "bootstrap",
+    "badge"
+  ],
+  "Bootstrap-hourglass-split": [
+    "bootstrap",
+    "hourglass",
+    "split"
+  ],
+  "Bootstrap-mailbox-2": [
+    "bootstrap",
+    "mailbox"
+  ],
+  "Bootstrap-unity": [
+    "bootstrap",
+    "unity"
+  ],
+  "Bootstrap-circle-half": [
+    "bootstrap",
+    "circle",
+    "half"
+  ],
+  "Bootstrap-6-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-filetype-heic": [
+    "bootstrap",
+    "filetype",
+    "heic"
+  ],
+  "Bootstrap-house-heart": [
+    "bootstrap",
+    "house",
+    "heart"
+  ],
+  "Bootstrap-chat-right-heart": [
+    "bootstrap",
+    "chat",
+    "right",
+    "heart"
+  ],
+  "Bootstrap-alarm": [
+    "bootstrap",
+    "alarm"
+  ],
+  "Bootstrap-gender-male": [
+    "bootstrap",
+    "gender",
+    "male"
+  ],
+  "Bootstrap-text-right": [
+    "bootstrap",
+    "text",
+    "right"
+  ],
+  "Bootstrap-bag-fill": [
+    "bootstrap",
+    "bag",
+    "fill"
+  ],
+  "Bootstrap-cc-circle-fill": [
+    "bootstrap",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-calendar2-month": [
+    "bootstrap",
+    "calendar",
+    "month"
+  ],
+  "Bootstrap-trash2-fill": [
+    "bootstrap",
+    "trash",
+    "fill"
+  ],
+  "Bootstrap-grid-1x2": [
+    "bootstrap",
+    "grid"
+  ],
+  "Bootstrap-signal": [
+    "bootstrap",
+    "signal"
+  ],
+  "Bootstrap-volume-down": [
+    "bootstrap",
+    "volume",
+    "down"
+  ],
+  "Bootstrap": [
+    "bootstrap"
+  ],
+  "Bootstrap-house-slash-fill": [
+    "bootstrap",
+    "house",
+    "slash",
+    "fill"
+  ],
+  "Bootstrap-building-fill-check": [
+    "bootstrap",
+    "building",
+    "fill",
+    "check"
+  ],
+  "Bootstrap-geo-alt-fill": [
+    "bootstrap",
+    "geo",
+    "fill"
+  ],
+  "Bootstrap-calendar2-range-fill": [
+    "bootstrap",
+    "calendar",
+    "range",
+    "fill"
+  ],
+  "Bootstrap-h-square": [
+    "bootstrap",
+    "square"
+  ],
+  "Bootstrap-file-earmark-medical": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "medical"
+  ],
+  "Bootstrap-dash-circle-dotted": [
+    "bootstrap",
+    "dash",
+    "circle",
+    "dotted"
+  ],
+  "Bootstrap-hand-thumbs-down": [
+    "bootstrap",
+    "hand",
+    "thumbs",
+    "down"
+  ],
+  "Bootstrap-emoji-sunglasses": [
+    "bootstrap",
+    "emoji",
+    "sunglasses"
+  ],
+  "Bootstrap-chat-right-fill": [
+    "bootstrap",
+    "chat",
+    "right",
+    "fill"
+  ],
+  "Bootstrap-meta": [
+    "bootstrap",
+    "meta"
+  ],
+  "Bootstrap-funnel": [
+    "bootstrap",
+    "funnel"
+  ],
+  "Bootstrap-dash-circle-fill": [
+    "bootstrap",
+    "dash",
+    "circle",
+    "fill"
+  ],
+  "Bootstrap-motherboard-fill": [
+    "bootstrap",
+    "fill",
+    "motherboard"
+  ],
+  "Bootstrap-box-seam": [
+    "bootstrap",
+    "box",
+    "seam"
+  ],
+  "Bootstrap-layout-sidebar": [
+    "bootstrap",
+    "layout",
+    "sidebar"
+  ],
+  "Bootstrap-building-fill-slash": [
+    "bootstrap",
+    "building",
+    "fill",
+    "slash"
+  ],
+  "Bootstrap-virus-2": [
+    "bootstrap",
+    "virus"
+  ],
+  "Bootstrap-journal-bookmark-fill": [
+    "bootstrap",
+    "journal",
+    "bookmark",
+    "fill"
+  ],
+  "Bootstrap-7-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-book-fill": [
+    "bootstrap",
+    "book",
+    "fill"
+  ],
+  "Bootstrap-cloud-rain": [
+    "bootstrap",
+    "cloud",
+    "rain"
+  ],
+  "Bootstrap-sim-fill": [
+    "bootstrap",
+    "sim",
+    "fill"
+  ],
+  "Bootstrap-stickies-fill": [
+    "bootstrap",
+    "stickies",
+    "fill"
+  ],
+  "Bootstrap-clipboard-heart-fill": [
+    "bootstrap",
+    "clipboard",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-postage-heart": [
+    "bootstrap",
+    "postage",
+    "heart"
+  ],
+  "Bootstrap-telephone-minus": [
+    "bootstrap",
+    "telephone",
+    "minus"
+  ],
+  "Bootstrap-calendar2-heart-fill": [
+    "bootstrap",
+    "calendar",
+    "heart",
+    "fill"
+  ],
+  "Bootstrap-pencil-square": [
+    "bootstrap",
+    "pencil",
+    "square"
+  ],
+  "Bootstrap-clipboard-plus-fill": [
+    "bootstrap",
+    "clipboard",
+    "plus",
+    "fill"
+  ],
+  "Bootstrap-twitch": [
+    "bootstrap",
+    "twitch"
+  ],
+  "Bootstrap-person": [
+    "bootstrap",
+    "person"
+  ],
+  "Bootstrap-building-gear": [
+    "bootstrap",
+    "building",
+    "gear"
+  ],
+  "Bootstrap-send-dash": [
+    "bootstrap",
+    "send",
+    "dash"
+  ],
+  "Bootstrap-bookmark-check": [
+    "bootstrap",
+    "bookmark",
+    "check"
+  ],
+  "Bootstrap-dash-circle": [
+    "bootstrap",
+    "dash",
+    "circle"
+  ],
+  "Bootstrap-node-minus-fill": [
+    "bootstrap",
+    "node",
+    "minus",
+    "fill"
+  ],
+  "Bootstrap-question-diamond-fill": [
+    "bootstrap",
+    "question",
+    "diamond",
+    "fill"
+  ],
+  "Bootstrap-file-binary": [
+    "bootstrap",
+    "file",
+    "binary"
+  ],
+  "Bootstrap-file-earmark-text": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "text"
+  ],
+  "Bootstrap-envelope-x-fill": [
+    "bootstrap",
+    "envelope",
+    "fill"
+  ],
+  "Bootstrap-fast-forward-fill": [
+    "bootstrap",
+    "fast",
+    "forward",
+    "fill"
+  ],
+  "Bootstrap-optical-audio-fill": [
+    "bootstrap",
+    "optical",
+    "audio",
+    "fill"
+  ],
+  "Bootstrap-easel-fill": [
+    "bootstrap",
+    "easel",
+    "fill"
+  ],
+  "Bootstrap-yelp": [
+    "bootstrap",
+    "yelp"
+  ],
+  "Bootstrap-browser-chrome": [
+    "bootstrap",
+    "browser",
+    "chrome"
+  ],
+  "Bootstrap-0-circle": [
+    "bootstrap",
+    "circle"
+  ],
+  "Bootstrap-file-earmark-text-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "text",
+    "fill"
+  ],
+  "Bootstrap-x-lg": [
+    "bootstrap"
+  ],
+  "Bootstrap-flower-3": [
+    "bootstrap",
+    "flower"
+  ],
+  "Bootstrap-calendar-day": [
+    "bootstrap",
+    "calendar",
+    "day"
+  ],
+  "Bootstrap-telephone-forward-fill": [
+    "bootstrap",
+    "telephone",
+    "forward",
+    "fill"
+  ],
+  "Bootstrap-exclamation-triangle-fill": [
+    "bootstrap",
+    "exclamation",
+    "triangle",
+    "fill"
+  ],
+  "Bootstrap-ear": [
+    "bootstrap",
+    "ear"
+  ],
+  "Bootstrap-currency-euro": [
+    "bootstrap",
+    "currency",
+    "euro"
+  ],
+  "Bootstrap-sd-card": [
+    "bootstrap",
+    "card"
+  ],
+  "Bootstrap-database-slash": [
+    "bootstrap",
+    "database",
+    "slash"
+  ],
+  "Bootstrap-device-ssd-fill": [
+    "bootstrap",
+    "device",
+    "ssd",
+    "fill"
+  ],
+  "Bootstrap-trash": [
+    "bootstrap",
+    "trash"
+  ],
+  "Bootstrap-hdd-stack": [
+    "bootstrap",
+    "hdd",
+    "stack"
+  ],
+  "Bootstrap-file-earmark-post-fill": [
+    "bootstrap",
+    "file",
+    "earmark",
+    "post",
+    "fill"
+  ],
+  "Bootstrap-save-2": [
+    "bootstrap",
+    "save"
+  ],
+  "Bootstrap-stop-btn-fill": [
+    "bootstrap",
+    "stop",
+    "btn",
+    "fill"
+  ],
+  "Bootstrap-amd": [
+    "bootstrap",
+    "amd"
+  ],
+  "Bootstrap-person-fill": [
+    "bootstrap",
+    "person",
+    "fill"
+  ],
+  "Bootstrap-airplane": [
+    "bootstrap",
+    "airplane"
+  ]
+}

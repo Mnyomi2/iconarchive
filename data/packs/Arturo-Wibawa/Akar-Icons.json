@@ -1,0 +1,4214 @@
+[
+  {
+    "name": "air.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/air.svg",
+    "tags": [
+      "air",
+      "akar"
+    ]
+  },
+  {
+    "name": "airplay-audio.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/airplay-audio.svg",
+    "tags": [
+      "airplay",
+      "audio",
+      "akar"
+    ]
+  },
+  {
+    "name": "airplay-video.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/airplay-video.svg",
+    "tags": [
+      "airplay",
+      "video",
+      "akar"
+    ]
+  },
+  {
+    "name": "airpods.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/airpods.svg",
+    "tags": [
+      "airpods",
+      "akar"
+    ]
+  },
+  {
+    "name": "alarm.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/alarm.svg",
+    "tags": [
+      "alarm",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-bottom.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-bottom.svg",
+    "tags": [
+      "align",
+      "bottom",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-horizontal-center.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-horizontal-center.svg",
+    "tags": [
+      "align",
+      "center",
+      "horizontal",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-left.svg",
+    "tags": [
+      "align",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-right.svg",
+    "tags": [
+      "align",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-to-bottom.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-to-bottom.svg",
+    "tags": [
+      "align",
+      "bottom",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-to-middle.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-to-middle.svg",
+    "tags": [
+      "align",
+      "middle",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-to-top.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-to-top.svg",
+    "tags": [
+      "align",
+      "top",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-top.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-top.svg",
+    "tags": [
+      "align",
+      "top",
+      "akar"
+    ]
+  },
+  {
+    "name": "align-vertical-center.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/align-vertical-center.svg",
+    "tags": [
+      "align",
+      "vertical",
+      "center",
+      "akar"
+    ]
+  },
+  {
+    "name": "android.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/android.svg",
+    "tags": [
+      "android",
+      "akar"
+    ]
+  },
+  {
+    "name": "angular.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/angular.svg",
+    "tags": [
+      "angular",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-back-thick-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-back-thick-fill.svg",
+    "tags": [
+      "arrow",
+      "back",
+      "thick",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "arrow-back-thick.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-back-thick.svg",
+    "tags": [
+      "arrow",
+      "back",
+      "thick",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-back.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-back.svg",
+    "tags": [
+      "arrow",
+      "back",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-clockwise.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-clockwise.svg",
+    "tags": [
+      "arrow",
+      "clockwise",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-counter-clockwise.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-counter-clockwise.svg",
+    "tags": [
+      "arrow",
+      "counter",
+      "clockwise",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-cycle.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-cycle.svg",
+    "tags": [
+      "arrow",
+      "cycle",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-down-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-down-left.svg",
+    "tags": [
+      "arrow",
+      "down",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-down-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-down-right.svg",
+    "tags": [
+      "arrow",
+      "down",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-down-thick.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-down-thick.svg",
+    "tags": [
+      "arrow",
+      "down",
+      "thick",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-down.svg",
+    "tags": [
+      "arrow",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-forward-thick-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-forward-thick-fill.svg",
+    "tags": [
+      "arrow",
+      "forward",
+      "thick",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "arrow-forward-thick.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-forward-thick.svg",
+    "tags": [
+      "arrow",
+      "forward",
+      "thick",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-forward.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-forward.svg",
+    "tags": [
+      "arrow",
+      "forward",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-left-thick.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-left-thick.svg",
+    "tags": [
+      "arrow",
+      "left",
+      "thick",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-left.svg",
+    "tags": [
+      "arrow",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-repeat.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-repeat.svg",
+    "tags": [
+      "arrow",
+      "repeat",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-right-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-right-left.svg",
+    "tags": [
+      "arrow",
+      "right",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-right-thick.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-right-thick.svg",
+    "tags": [
+      "arrow",
+      "right",
+      "thick",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-right.svg",
+    "tags": [
+      "arrow",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-shuffle.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-shuffle.svg",
+    "tags": [
+      "arrow",
+      "shuffle",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-up-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-up-down.svg",
+    "tags": [
+      "arrow",
+      "down",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-up-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-up-left.svg",
+    "tags": [
+      "arrow",
+      "left",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-up-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-up-right.svg",
+    "tags": [
+      "arrow",
+      "right",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-up-thick.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-up-thick.svg",
+    "tags": [
+      "arrow",
+      "thick",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "arrow-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/arrow-up.svg",
+    "tags": [
+      "arrow",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "ascending.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/ascending.svg",
+    "tags": [
+      "ascending",
+      "akar"
+    ]
+  },
+  {
+    "name": "attach.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/attach.svg",
+    "tags": [
+      "attach",
+      "akar"
+    ]
+  },
+  {
+    "name": "augmented-reality.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/augmented-reality.svg",
+    "tags": [
+      "augmented",
+      "reality",
+      "akar"
+    ]
+  },
+  {
+    "name": "backspace-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/backspace-fill.svg",
+    "tags": [
+      "backspace",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "backspace.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/backspace.svg",
+    "tags": [
+      "backspace",
+      "akar"
+    ]
+  },
+  {
+    "name": "bank.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bank.svg",
+    "tags": [
+      "bank",
+      "akar"
+    ]
+  },
+  {
+    "name": "basket.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/basket.svg",
+    "tags": [
+      "basket",
+      "akar"
+    ]
+  },
+  {
+    "name": "battery-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/battery-charging.svg",
+    "tags": [
+      "battery",
+      "charging",
+      "akar"
+    ]
+  },
+  {
+    "name": "battery-empty.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/battery-empty.svg",
+    "tags": [
+      "battery",
+      "empty",
+      "akar"
+    ]
+  },
+  {
+    "name": "battery-full.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/battery-full.svg",
+    "tags": [
+      "battery",
+      "full",
+      "akar"
+    ]
+  },
+  {
+    "name": "battery-low.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/battery-low.svg",
+    "tags": [
+      "battery",
+      "low",
+      "akar"
+    ]
+  },
+  {
+    "name": "battery-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/battery-medium.svg",
+    "tags": [
+      "battery",
+      "medium",
+      "akar"
+    ]
+  },
+  {
+    "name": "behance.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/behance.svg",
+    "tags": [
+      "behance",
+      "akar"
+    ]
+  },
+  {
+    "name": "bell.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bell.svg",
+    "tags": [
+      "bell",
+      "akar"
+    ]
+  },
+  {
+    "name": "bicycle.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bicycle.svg",
+    "tags": [
+      "bicycle",
+      "akar"
+    ]
+  },
+  {
+    "name": "bitcoin.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bitcoin.svg",
+    "tags": [
+      "bitcoin",
+      "akar"
+    ]
+  },
+  {
+    "name": "block.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/block.svg",
+    "tags": [
+      "block",
+      "akar"
+    ]
+  },
+  {
+    "name": "bluetooth.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bluetooth.svg",
+    "tags": [
+      "bluetooth",
+      "akar"
+    ]
+  },
+  {
+    "name": "boat.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/boat.svg",
+    "tags": [
+      "boat",
+      "akar"
+    ]
+  },
+  {
+    "name": "book-close.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/book-close.svg",
+    "tags": [
+      "book",
+      "close",
+      "akar"
+    ]
+  },
+  {
+    "name": "book-open.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/book-open.svg",
+    "tags": [
+      "book",
+      "open",
+      "akar"
+    ]
+  },
+  {
+    "name": "book.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/book.svg",
+    "tags": [
+      "book",
+      "akar"
+    ]
+  },
+  {
+    "name": "bootstrap.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bootstrap.svg",
+    "tags": [
+      "bootstrap",
+      "akar"
+    ]
+  },
+  {
+    "name": "box.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/box.svg",
+    "tags": [
+      "box",
+      "akar"
+    ]
+  },
+  {
+    "name": "briefcase.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/briefcase.svg",
+    "tags": [
+      "briefcase",
+      "akar"
+    ]
+  },
+  {
+    "name": "bug.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/bug.svg",
+    "tags": [
+      "bug",
+      "akar"
+    ]
+  },
+  {
+    "name": "cake.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cake.svg",
+    "tags": [
+      "cake",
+      "akar"
+    ]
+  },
+  {
+    "name": "calculator.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/calculator.svg",
+    "tags": [
+      "calculator",
+      "akar"
+    ]
+  },
+  {
+    "name": "calendar.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/calendar.svg",
+    "tags": [
+      "calendar",
+      "akar"
+    ]
+  },
+  {
+    "name": "camera.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/camera.svg",
+    "tags": [
+      "camera",
+      "akar"
+    ]
+  },
+  {
+    "name": "cart.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cart.svg",
+    "tags": [
+      "cart",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-add.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-add.svg",
+    "tags": [
+      "chat",
+      "add",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-approve.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-approve.svg",
+    "tags": [
+      "chat",
+      "approve",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-bubble.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-bubble.svg",
+    "tags": [
+      "chat",
+      "bubble",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-dots.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-dots.svg",
+    "tags": [
+      "chat",
+      "dots",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-edit.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-edit.svg",
+    "tags": [
+      "chat",
+      "edit",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-error.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-error.svg",
+    "tags": [
+      "chat",
+      "error",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-question.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-question.svg",
+    "tags": [
+      "chat",
+      "question",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-reject.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-reject.svg",
+    "tags": [
+      "chat",
+      "reject",
+      "akar"
+    ]
+  },
+  {
+    "name": "chat-remove.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chat-remove.svg",
+    "tags": [
+      "chat",
+      "remove",
+      "akar"
+    ]
+  },
+  {
+    "name": "check-box-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/check-box-fill.svg",
+    "tags": [
+      "check",
+      "box",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "check-box.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/check-box.svg",
+    "tags": [
+      "check",
+      "box",
+      "akar"
+    ]
+  },
+  {
+    "name": "check-in.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/check-in.svg",
+    "tags": [
+      "check",
+      "akar"
+    ]
+  },
+  {
+    "name": "check.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/check.svg",
+    "tags": [
+      "check",
+      "akar"
+    ]
+  },
+  {
+    "name": "chess.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chess.svg",
+    "tags": [
+      "chess",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-down-small.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-down-small.svg",
+    "tags": [
+      "chevron",
+      "down",
+      "small",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-down.svg",
+    "tags": [
+      "chevron",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-horizontal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-horizontal.svg",
+    "tags": [
+      "chevron",
+      "horizontal",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-left-small.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-left-small.svg",
+    "tags": [
+      "chevron",
+      "left",
+      "small",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-left.svg",
+    "tags": [
+      "chevron",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-right-small.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-right-small.svg",
+    "tags": [
+      "chevron",
+      "right",
+      "small",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-right.svg",
+    "tags": [
+      "chevron",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-up-small.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-up-small.svg",
+    "tags": [
+      "chevron",
+      "small",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-up.svg",
+    "tags": [
+      "chevron",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "chevron-vertical.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/chevron-vertical.svg",
+    "tags": [
+      "chevron",
+      "vertical",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-alert-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-alert-fill.svg",
+    "tags": [
+      "circle",
+      "alert",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-alert.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-alert.svg",
+    "tags": [
+      "circle",
+      "alert",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-check-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-check-fill.svg",
+    "tags": [
+      "circle",
+      "check",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-check.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-check.svg",
+    "tags": [
+      "circle",
+      "check",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-chevron-down-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-down-fill.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "down",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "circle-chevron-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-down.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-chevron-left-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-left-fill.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "left",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "circle-chevron-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-left.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-chevron-right-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-right-fill.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "right",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "circle-chevron-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-right.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-chevron-up-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-up-fill.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "akar",
+      "fill",
+      "up"
+    ]
+  },
+  {
+    "name": "circle-chevron-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-chevron-up.svg",
+    "tags": [
+      "circle",
+      "chevron",
+      "akar",
+      "up"
+    ]
+  },
+  {
+    "name": "circle-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-fill.svg",
+    "tags": [
+      "circle",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-minus-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-minus-fill.svg",
+    "tags": [
+      "circle",
+      "minus",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-minus.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-minus.svg",
+    "tags": [
+      "circle",
+      "minus",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-plus-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-plus-fill.svg",
+    "tags": [
+      "circle",
+      "plus",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-plus.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-plus.svg",
+    "tags": [
+      "circle",
+      "plus",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-triangle-down-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-down-fill.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "down",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "circle-triangle-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-down.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-triangle-left-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-left-fill.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "left",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "circle-triangle-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-left.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-triangle-right-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-right-fill.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "right",
+      "akar",
+      "fill"
+    ]
+  },
+  {
+    "name": "circle-triangle-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-right.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-triangle-up-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-up-fill.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "akar",
+      "fill",
+      "up"
+    ]
+  },
+  {
+    "name": "circle-triangle-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-triangle-up.svg",
+    "tags": [
+      "circle",
+      "triangle",
+      "akar",
+      "up"
+    ]
+  },
+  {
+    "name": "circle-x-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-x-fill.svg",
+    "tags": [
+      "circle",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle-x.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle-x.svg",
+    "tags": [
+      "circle",
+      "akar"
+    ]
+  },
+  {
+    "name": "circle.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/circle.svg",
+    "tags": [
+      "circle",
+      "akar"
+    ]
+  },
+  {
+    "name": "clipboard.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/clipboard.svg",
+    "tags": [
+      "clipboard",
+      "akar"
+    ]
+  },
+  {
+    "name": "clock.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/clock.svg",
+    "tags": [
+      "clock",
+      "akar"
+    ]
+  },
+  {
+    "name": "cloud-download.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cloud-download.svg",
+    "tags": [
+      "cloud",
+      "download",
+      "akar"
+    ]
+  },
+  {
+    "name": "cloud-upload.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cloud-upload.svg",
+    "tags": [
+      "cloud",
+      "upload",
+      "akar"
+    ]
+  },
+  {
+    "name": "cloud.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cloud.svg",
+    "tags": [
+      "cloud",
+      "akar"
+    ]
+  },
+  {
+    "name": "codepen.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/codepen.svg",
+    "tags": [
+      "codepen",
+      "akar"
+    ]
+  },
+  {
+    "name": "coffee.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/coffee.svg",
+    "tags": [
+      "coffee",
+      "akar"
+    ]
+  },
+  {
+    "name": "coin.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/coin.svg",
+    "tags": [
+      "coin",
+      "akar"
+    ]
+  },
+  {
+    "name": "command.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/command.svg",
+    "tags": [
+      "command",
+      "akar"
+    ]
+  },
+  {
+    "name": "computing.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/computing.svg",
+    "tags": [
+      "computing",
+      "akar"
+    ]
+  },
+  {
+    "name": "copy.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/copy.svg",
+    "tags": [
+      "copy",
+      "akar"
+    ]
+  },
+  {
+    "name": "credit-card-alt-1.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/credit-card-alt-1.svg",
+    "tags": [
+      "credit",
+      "card",
+      "akar"
+    ]
+  },
+  {
+    "name": "credit-card.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/credit-card.svg",
+    "tags": [
+      "credit",
+      "card",
+      "akar"
+    ]
+  },
+  {
+    "name": "cross.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cross.svg",
+    "tags": [
+      "cross",
+      "akar"
+    ]
+  },
+  {
+    "name": "crown.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/crown.svg",
+    "tags": [
+      "crown",
+      "akar"
+    ]
+  },
+  {
+    "name": "css.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/css.svg",
+    "tags": [
+      "css",
+      "akar"
+    ]
+  },
+  {
+    "name": "cursor.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cursor.svg",
+    "tags": [
+      "cursor",
+      "akar"
+    ]
+  },
+  {
+    "name": "cut.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/cut.svg",
+    "tags": [
+      "cut",
+      "akar"
+    ]
+  },
+  {
+    "name": "dashboard.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dashboard.svg",
+    "tags": [
+      "dashboard",
+      "akar"
+    ]
+  },
+  {
+    "name": "data.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/data.svg",
+    "tags": [
+      "data",
+      "akar"
+    ]
+  },
+  {
+    "name": "dental.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dental.svg",
+    "tags": [
+      "dental",
+      "akar"
+    ]
+  },
+  {
+    "name": "descending.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/descending.svg",
+    "tags": [
+      "descending",
+      "akar"
+    ]
+  },
+  {
+    "name": "desktop-device.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/desktop-device.svg",
+    "tags": [
+      "desktop",
+      "device",
+      "akar"
+    ]
+  },
+  {
+    "name": "devices.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/devices.svg",
+    "tags": [
+      "devices",
+      "akar"
+    ]
+  },
+  {
+    "name": "diamond.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/diamond.svg",
+    "tags": [
+      "diamond",
+      "akar"
+    ]
+  },
+  {
+    "name": "dice-1.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dice-1.svg",
+    "tags": [
+      "dice",
+      "akar"
+    ]
+  },
+  {
+    "name": "dice-2.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dice-2.svg",
+    "tags": [
+      "dice",
+      "akar"
+    ]
+  },
+  {
+    "name": "dice-3.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dice-3.svg",
+    "tags": [
+      "dice",
+      "akar"
+    ]
+  },
+  {
+    "name": "dice-4.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dice-4.svg",
+    "tags": [
+      "dice",
+      "akar"
+    ]
+  },
+  {
+    "name": "dice-5.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dice-5.svg",
+    "tags": [
+      "dice",
+      "akar"
+    ]
+  },
+  {
+    "name": "dice-6.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dice-6.svg",
+    "tags": [
+      "dice",
+      "akar"
+    ]
+  },
+  {
+    "name": "discord.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/discord.svg",
+    "tags": [
+      "discord",
+      "akar"
+    ]
+  },
+  {
+    "name": "django.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/django.svg",
+    "tags": [
+      "django",
+      "akar"
+    ]
+  },
+  {
+    "name": "door.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/door.svg",
+    "tags": [
+      "door",
+      "akar"
+    ]
+  },
+  {
+    "name": "dot-grid-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dot-grid-fill.svg",
+    "tags": [
+      "dot",
+      "grid",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "dot-grid.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dot-grid.svg",
+    "tags": [
+      "dot",
+      "grid",
+      "akar"
+    ]
+  },
+  {
+    "name": "double-check.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/double-check.svg",
+    "tags": [
+      "double",
+      "check",
+      "akar"
+    ]
+  },
+  {
+    "name": "double-sword.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/double-sword.svg",
+    "tags": [
+      "double",
+      "sword",
+      "akar"
+    ]
+  },
+  {
+    "name": "download.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/download.svg",
+    "tags": [
+      "download",
+      "akar"
+    ]
+  },
+  {
+    "name": "draft.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/draft.svg",
+    "tags": [
+      "draft",
+      "akar"
+    ]
+  },
+  {
+    "name": "drag-horizontal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/drag-horizontal.svg",
+    "tags": [
+      "drag",
+      "horizontal",
+      "akar"
+    ]
+  },
+  {
+    "name": "drag-vertical.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/drag-vertical.svg",
+    "tags": [
+      "drag",
+      "vertical",
+      "akar"
+    ]
+  },
+  {
+    "name": "dribbble.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dribbble.svg",
+    "tags": [
+      "dribbble",
+      "akar"
+    ]
+  },
+  {
+    "name": "dropbox.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/dropbox.svg",
+    "tags": [
+      "dropbox",
+      "akar"
+    ]
+  },
+  {
+    "name": "edit.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/edit.svg",
+    "tags": [
+      "edit",
+      "akar"
+    ]
+  },
+  {
+    "name": "enlarge.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/enlarge.svg",
+    "tags": [
+      "enlarge",
+      "akar"
+    ]
+  },
+  {
+    "name": "envelope.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/envelope.svg",
+    "tags": [
+      "envelope",
+      "akar"
+    ]
+  },
+  {
+    "name": "equal-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/equal-fill.svg",
+    "tags": [
+      "equal",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "equal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/equal.svg",
+    "tags": [
+      "equal",
+      "akar"
+    ]
+  },
+  {
+    "name": "eye-closed.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/eye-closed.svg",
+    "tags": [
+      "eye",
+      "closed",
+      "akar"
+    ]
+  },
+  {
+    "name": "eye-open.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/eye-open.svg",
+    "tags": [
+      "eye",
+      "open",
+      "akar"
+    ]
+  },
+  {
+    "name": "eye-slashed.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/eye-slashed.svg",
+    "tags": [
+      "eye",
+      "slashed",
+      "akar"
+    ]
+  },
+  {
+    "name": "face-happy.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/face-happy.svg",
+    "tags": [
+      "face",
+      "happy",
+      "akar"
+    ]
+  },
+  {
+    "name": "face-neutral.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/face-neutral.svg",
+    "tags": [
+      "face",
+      "neutral",
+      "akar"
+    ]
+  },
+  {
+    "name": "face-sad.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/face-sad.svg",
+    "tags": [
+      "face",
+      "sad",
+      "akar"
+    ]
+  },
+  {
+    "name": "face-very-happy.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/face-very-happy.svg",
+    "tags": [
+      "face",
+      "very",
+      "happy",
+      "akar"
+    ]
+  },
+  {
+    "name": "face-very-sad.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/face-very-sad.svg",
+    "tags": [
+      "face",
+      "very",
+      "sad",
+      "akar"
+    ]
+  },
+  {
+    "name": "face-wink.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/face-wink.svg",
+    "tags": [
+      "face",
+      "wink",
+      "akar"
+    ]
+  },
+  {
+    "name": "facebook.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/facebook.svg",
+    "tags": [
+      "facebook",
+      "akar"
+    ]
+  },
+  {
+    "name": "figma.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/figma.svg",
+    "tags": [
+      "figma",
+      "akar"
+    ]
+  },
+  {
+    "name": "file.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/file.svg",
+    "tags": [
+      "file",
+      "akar"
+    ]
+  },
+  {
+    "name": "filter.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/filter.svg",
+    "tags": [
+      "filter",
+      "akar"
+    ]
+  },
+  {
+    "name": "fire.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/fire.svg",
+    "tags": [
+      "fire",
+      "akar"
+    ]
+  },
+  {
+    "name": "flag.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/flag.svg",
+    "tags": [
+      "flag",
+      "akar"
+    ]
+  },
+  {
+    "name": "flashlight.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/flashlight.svg",
+    "tags": [
+      "flashlight",
+      "akar"
+    ]
+  },
+  {
+    "name": "folder-add.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/folder-add.svg",
+    "tags": [
+      "folder",
+      "add",
+      "akar"
+    ]
+  },
+  {
+    "name": "folder.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/folder.svg",
+    "tags": [
+      "folder",
+      "akar"
+    ]
+  },
+  {
+    "name": "fork-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/fork-left.svg",
+    "tags": [
+      "fork",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "fork-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/fork-right.svg",
+    "tags": [
+      "fork",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "frame.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/frame.svg",
+    "tags": [
+      "frame",
+      "akar"
+    ]
+  },
+  {
+    "name": "full-screen.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/full-screen.svg",
+    "tags": [
+      "full",
+      "screen",
+      "akar"
+    ]
+  },
+  {
+    "name": "game-controller.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/game-controller.svg",
+    "tags": [
+      "game",
+      "controller",
+      "akar"
+    ]
+  },
+  {
+    "name": "gatsby.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/gatsby.svg",
+    "tags": [
+      "gatsby",
+      "akar"
+    ]
+  },
+  {
+    "name": "gear.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/gear.svg",
+    "tags": [
+      "gear",
+      "akar"
+    ]
+  },
+  {
+    "name": "gift.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/gift.svg",
+    "tags": [
+      "gift",
+      "akar"
+    ]
+  },
+  {
+    "name": "github.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/github.svg",
+    "tags": [
+      "github",
+      "akar"
+    ]
+  },
+  {
+    "name": "glasses.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/glasses.svg",
+    "tags": [
+      "glasses",
+      "akar"
+    ]
+  },
+  {
+    "name": "globe.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/globe.svg",
+    "tags": [
+      "globe",
+      "akar"
+    ]
+  },
+  {
+    "name": "google-contained.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/google-contained.svg",
+    "tags": [
+      "google",
+      "contained",
+      "akar"
+    ]
+  },
+  {
+    "name": "google.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/google.svg",
+    "tags": [
+      "google",
+      "akar"
+    ]
+  },
+  {
+    "name": "graphql.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/graphql.svg",
+    "tags": [
+      "graphql",
+      "akar"
+    ]
+  },
+  {
+    "name": "grid.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/grid.svg",
+    "tags": [
+      "grid",
+      "akar"
+    ]
+  },
+  {
+    "name": "hammer.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/hammer.svg",
+    "tags": [
+      "hammer",
+      "akar"
+    ]
+  },
+  {
+    "name": "hand.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/hand.svg",
+    "tags": [
+      "hand",
+      "akar"
+    ]
+  },
+  {
+    "name": "hashtag.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/hashtag.svg",
+    "tags": [
+      "hashtag",
+      "akar"
+    ]
+  },
+  {
+    "name": "headphone.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/headphone.svg",
+    "tags": [
+      "headphone",
+      "akar"
+    ]
+  },
+  {
+    "name": "health.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/health.svg",
+    "tags": [
+      "health",
+      "akar"
+    ]
+  },
+  {
+    "name": "heart.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/heart.svg",
+    "tags": [
+      "heart",
+      "akar"
+    ]
+  },
+  {
+    "name": "height.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/height.svg",
+    "tags": [
+      "height",
+      "akar"
+    ]
+  },
+  {
+    "name": "heptagon-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/heptagon-fill.svg",
+    "tags": [
+      "heptagon",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "heptagon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/heptagon.svg",
+    "tags": [
+      "heptagon",
+      "akar"
+    ]
+  },
+  {
+    "name": "hexagon-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/hexagon-fill.svg",
+    "tags": [
+      "hexagon",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "hexagon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/hexagon.svg",
+    "tags": [
+      "hexagon",
+      "akar"
+    ]
+  },
+  {
+    "name": "history.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/history.svg",
+    "tags": [
+      "history",
+      "akar"
+    ]
+  },
+  {
+    "name": "home-alt-1.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/home-alt-1.svg",
+    "tags": [
+      "home",
+      "akar"
+    ]
+  },
+  {
+    "name": "home.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/home.svg",
+    "tags": [
+      "home",
+      "akar"
+    ]
+  },
+  {
+    "name": "html.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/html.svg",
+    "tags": [
+      "html",
+      "akar"
+    ]
+  },
+  {
+    "name": "icon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/icon.svg",
+    "tags": [
+      "icon",
+      "akar"
+    ]
+  },
+  {
+    "name": "image.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/image.svg",
+    "tags": [
+      "image",
+      "akar"
+    ]
+  },
+  {
+    "name": "inbox.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/inbox.svg",
+    "tags": [
+      "inbox",
+      "akar"
+    ]
+  },
+  {
+    "name": "infinite.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/infinite.svg",
+    "tags": [
+      "infinite",
+      "akar"
+    ]
+  },
+  {
+    "name": "infinity.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/infinity.svg",
+    "tags": [
+      "infinity",
+      "akar"
+    ]
+  },
+  {
+    "name": "info-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/info-fill.svg",
+    "tags": [
+      "info",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "info.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/info.svg",
+    "tags": [
+      "info",
+      "akar"
+    ]
+  },
+  {
+    "name": "instagram.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/instagram.svg",
+    "tags": [
+      "instagram",
+      "akar"
+    ]
+  },
+  {
+    "name": "jar.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/jar.svg",
+    "tags": [
+      "jar",
+      "akar"
+    ]
+  },
+  {
+    "name": "javascript.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/javascript.svg",
+    "tags": [
+      "javascript",
+      "akar"
+    ]
+  },
+  {
+    "name": "jquery.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/jquery.svg",
+    "tags": [
+      "jquery",
+      "akar"
+    ]
+  },
+  {
+    "name": "key-cap.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/key-cap.svg",
+    "tags": [
+      "key",
+      "cap",
+      "akar"
+    ]
+  },
+  {
+    "name": "key.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/key.svg",
+    "tags": [
+      "key",
+      "akar"
+    ]
+  },
+  {
+    "name": "language.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/language.svg",
+    "tags": [
+      "language",
+      "akar"
+    ]
+  },
+  {
+    "name": "laptop-device.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/laptop-device.svg",
+    "tags": [
+      "laptop",
+      "device",
+      "akar"
+    ]
+  },
+  {
+    "name": "leaf.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/leaf.svg",
+    "tags": [
+      "leaf",
+      "akar"
+    ]
+  },
+  {
+    "name": "lifesaver.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/lifesaver.svg",
+    "tags": [
+      "lifesaver",
+      "akar"
+    ]
+  },
+  {
+    "name": "light-bulb.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/light-bulb.svg",
+    "tags": [
+      "light",
+      "bulb",
+      "akar"
+    ]
+  },
+  {
+    "name": "link-chain.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/link-chain.svg",
+    "tags": [
+      "link",
+      "chain",
+      "akar"
+    ]
+  },
+  {
+    "name": "link-off.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/link-off.svg",
+    "tags": [
+      "link",
+      "off",
+      "akar"
+    ]
+  },
+  {
+    "name": "link-on.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/link-on.svg",
+    "tags": [
+      "link",
+      "akar"
+    ]
+  },
+  {
+    "name": "link-out.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/link-out.svg",
+    "tags": [
+      "link",
+      "out",
+      "akar"
+    ]
+  },
+  {
+    "name": "linkedin-box.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/linkedin-box.svg",
+    "tags": [
+      "linkedin",
+      "box",
+      "akar"
+    ]
+  },
+  {
+    "name": "location.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/location.svg",
+    "tags": [
+      "location",
+      "akar"
+    ]
+  },
+  {
+    "name": "lock-off.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/lock-off.svg",
+    "tags": [
+      "lock",
+      "off",
+      "akar"
+    ]
+  },
+  {
+    "name": "lock-on.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/lock-on.svg",
+    "tags": [
+      "lock",
+      "akar"
+    ]
+  },
+  {
+    "name": "map.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/map.svg",
+    "tags": [
+      "map",
+      "akar"
+    ]
+  },
+  {
+    "name": "mastodon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/mastodon.svg",
+    "tags": [
+      "mastodon",
+      "akar"
+    ]
+  },
+  {
+    "name": "medium.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/medium.svg",
+    "tags": [
+      "medium",
+      "akar"
+    ]
+  },
+  {
+    "name": "mention.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/mention.svg",
+    "tags": [
+      "mention",
+      "akar"
+    ]
+  },
+  {
+    "name": "microphone.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/microphone.svg",
+    "tags": [
+      "microphone",
+      "akar"
+    ]
+  },
+  {
+    "name": "miniplayer.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/miniplayer.svg",
+    "tags": [
+      "miniplayer",
+      "akar"
+    ]
+  },
+  {
+    "name": "minus.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/minus.svg",
+    "tags": [
+      "minus",
+      "akar"
+    ]
+  },
+  {
+    "name": "mobile-device.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/mobile-device.svg",
+    "tags": [
+      "mobile",
+      "device",
+      "akar"
+    ]
+  },
+  {
+    "name": "money.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/money.svg",
+    "tags": [
+      "money",
+      "akar"
+    ]
+  },
+  {
+    "name": "moon-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/moon-fill.svg",
+    "tags": [
+      "moon",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "moon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/moon.svg",
+    "tags": [
+      "moon",
+      "akar"
+    ]
+  },
+  {
+    "name": "more-horizontal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/more-horizontal.svg",
+    "tags": [
+      "more",
+      "horizontal",
+      "akar"
+    ]
+  },
+  {
+    "name": "more-vertical.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/more-vertical.svg",
+    "tags": [
+      "more",
+      "vertical",
+      "akar"
+    ]
+  },
+  {
+    "name": "music-album-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/music-album-fill.svg",
+    "tags": [
+      "music",
+      "album",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "music-album.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/music-album.svg",
+    "tags": [
+      "music",
+      "album",
+      "akar"
+    ]
+  },
+  {
+    "name": "music-note.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/music-note.svg",
+    "tags": [
+      "music",
+      "note",
+      "akar"
+    ]
+  },
+  {
+    "name": "music.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/music.svg",
+    "tags": [
+      "music",
+      "akar"
+    ]
+  },
+  {
+    "name": "network.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/network.svg",
+    "tags": [
+      "network",
+      "akar"
+    ]
+  },
+  {
+    "name": "newspaper.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/newspaper.svg",
+    "tags": [
+      "newspaper",
+      "akar"
+    ]
+  },
+  {
+    "name": "nextjs.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/nextjs.svg",
+    "tags": [
+      "nextjs",
+      "akar"
+    ]
+  },
+  {
+    "name": "node.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/node.svg",
+    "tags": [
+      "node",
+      "akar"
+    ]
+  },
+  {
+    "name": "normal-screen.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/normal-screen.svg",
+    "tags": [
+      "normal",
+      "screen",
+      "akar"
+    ]
+  },
+  {
+    "name": "npm.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/npm.svg",
+    "tags": [
+      "npm",
+      "akar"
+    ]
+  },
+  {
+    "name": "octagon-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/octagon-fill.svg",
+    "tags": [
+      "octagon",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "octagon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/octagon.svg",
+    "tags": [
+      "octagon",
+      "akar"
+    ]
+  },
+  {
+    "name": "octocat.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/octocat.svg",
+    "tags": [
+      "octocat",
+      "akar"
+    ]
+  },
+  {
+    "name": "open-envelope.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/open-envelope.svg",
+    "tags": [
+      "open",
+      "envelope",
+      "akar"
+    ]
+  },
+  {
+    "name": "oval.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/oval.svg",
+    "tags": [
+      "oval",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-bottom.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-bottom.svg",
+    "tags": [
+      "panel",
+      "bottom",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-left.svg",
+    "tags": [
+      "panel",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-right.svg",
+    "tags": [
+      "panel",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-split-column.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-split-column.svg",
+    "tags": [
+      "panel",
+      "split",
+      "column",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-split-row.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-split-row.svg",
+    "tags": [
+      "panel",
+      "split",
+      "row",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-split.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-split.svg",
+    "tags": [
+      "panel",
+      "split",
+      "akar"
+    ]
+  },
+  {
+    "name": "panel-top.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/panel-top.svg",
+    "tags": [
+      "panel",
+      "top",
+      "akar"
+    ]
+  },
+  {
+    "name": "paper-airplane.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/paper-airplane.svg",
+    "tags": [
+      "paper",
+      "airplane",
+      "akar"
+    ]
+  },
+  {
+    "name": "paper.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/paper.svg",
+    "tags": [
+      "paper",
+      "akar"
+    ]
+  },
+  {
+    "name": "parallelogram.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/parallelogram.svg",
+    "tags": [
+      "parallelogram",
+      "akar"
+    ]
+  },
+  {
+    "name": "pause.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pause.svg",
+    "tags": [
+      "pause",
+      "akar"
+    ]
+  },
+  {
+    "name": "pencil.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pencil.svg",
+    "tags": [
+      "pencil",
+      "akar"
+    ]
+  },
+  {
+    "name": "pentagon-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pentagon-fill.svg",
+    "tags": [
+      "pentagon",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "pentagon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pentagon.svg",
+    "tags": [
+      "pentagon",
+      "akar"
+    ]
+  },
+  {
+    "name": "people-group.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/people-group.svg",
+    "tags": [
+      "people",
+      "group",
+      "akar"
+    ]
+  },
+  {
+    "name": "people-multiple.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/people-multiple.svg",
+    "tags": [
+      "people",
+      "multiple",
+      "akar"
+    ]
+  },
+  {
+    "name": "percentage.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/percentage.svg",
+    "tags": [
+      "percentage",
+      "akar"
+    ]
+  },
+  {
+    "name": "person-add.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/person-add.svg",
+    "tags": [
+      "person",
+      "add",
+      "akar"
+    ]
+  },
+  {
+    "name": "person-check.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/person-check.svg",
+    "tags": [
+      "person",
+      "check",
+      "akar"
+    ]
+  },
+  {
+    "name": "person-cross.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/person-cross.svg",
+    "tags": [
+      "person",
+      "cross",
+      "akar"
+    ]
+  },
+  {
+    "name": "person.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/person.svg",
+    "tags": [
+      "person",
+      "akar"
+    ]
+  },
+  {
+    "name": "phone.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/phone.svg",
+    "tags": [
+      "phone",
+      "akar"
+    ]
+  },
+  {
+    "name": "php.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/php.svg",
+    "tags": [
+      "php",
+      "akar"
+    ]
+  },
+  {
+    "name": "pin.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pin.svg",
+    "tags": [
+      "pin",
+      "akar"
+    ]
+  },
+  {
+    "name": "pinterest.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pinterest.svg",
+    "tags": [
+      "pinterest",
+      "akar"
+    ]
+  },
+  {
+    "name": "plane-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/plane-fill.svg",
+    "tags": [
+      "plane",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "plane.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/plane.svg",
+    "tags": [
+      "plane",
+      "akar"
+    ]
+  },
+  {
+    "name": "planet.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/planet.svg",
+    "tags": [
+      "planet",
+      "akar"
+    ]
+  },
+  {
+    "name": "plant.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/plant.svg",
+    "tags": [
+      "plant",
+      "akar"
+    ]
+  },
+  {
+    "name": "play.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/play.svg",
+    "tags": [
+      "play",
+      "akar"
+    ]
+  },
+  {
+    "name": "plus.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/plus.svg",
+    "tags": [
+      "plus",
+      "akar"
+    ]
+  },
+  {
+    "name": "pointer-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pointer-down.svg",
+    "tags": [
+      "pointer",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "pointer-hand.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pointer-hand.svg",
+    "tags": [
+      "pointer",
+      "hand",
+      "akar"
+    ]
+  },
+  {
+    "name": "pointer-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pointer-left.svg",
+    "tags": [
+      "pointer",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "pointer-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pointer-right.svg",
+    "tags": [
+      "pointer",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "pointer-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pointer-up.svg",
+    "tags": [
+      "pointer",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "pointing-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/pointing-up.svg",
+    "tags": [
+      "pointing",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "postgresql.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/postgresql.svg",
+    "tags": [
+      "postgresql",
+      "akar"
+    ]
+  },
+  {
+    "name": "price-cut.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/price-cut.svg",
+    "tags": [
+      "price",
+      "cut",
+      "akar"
+    ]
+  },
+  {
+    "name": "product-hunt.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/product-hunt.svg",
+    "tags": [
+      "product",
+      "hunt",
+      "akar"
+    ]
+  },
+  {
+    "name": "python.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/python.svg",
+    "tags": [
+      "python",
+      "akar"
+    ]
+  },
+  {
+    "name": "question-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/question-fill.svg",
+    "tags": [
+      "question",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "question.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/question.svg",
+    "tags": [
+      "question",
+      "akar"
+    ]
+  },
+  {
+    "name": "radio-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/radio-fill.svg",
+    "tags": [
+      "radio",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "radio.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/radio.svg",
+    "tags": [
+      "radio",
+      "akar"
+    ]
+  },
+  {
+    "name": "radish.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/radish.svg",
+    "tags": [
+      "radish",
+      "akar"
+    ]
+  },
+  {
+    "name": "react.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/react.svg",
+    "tags": [
+      "react",
+      "akar"
+    ]
+  },
+  {
+    "name": "reciept.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/reciept.svg",
+    "tags": [
+      "reciept",
+      "akar"
+    ]
+  },
+  {
+    "name": "reddit.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/reddit.svg",
+    "tags": [
+      "reddit",
+      "akar"
+    ]
+  },
+  {
+    "name": "reduce.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/reduce.svg",
+    "tags": [
+      "reduce",
+      "akar"
+    ]
+  },
+  {
+    "name": "redux.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/redux.svg",
+    "tags": [
+      "redux",
+      "akar"
+    ]
+  },
+  {
+    "name": "ribbon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/ribbon.svg",
+    "tags": [
+      "ribbon",
+      "akar"
+    ]
+  },
+  {
+    "name": "rock-on.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/rock-on.svg",
+    "tags": [
+      "rock",
+      "akar"
+    ]
+  },
+  {
+    "name": "rss.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/rss.svg",
+    "tags": [
+      "rss",
+      "akar"
+    ]
+  },
+  {
+    "name": "sass.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sass.svg",
+    "tags": [
+      "sass",
+      "akar"
+    ]
+  },
+  {
+    "name": "save.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/save.svg",
+    "tags": [
+      "save",
+      "akar"
+    ]
+  },
+  {
+    "name": "schedule.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/schedule.svg",
+    "tags": [
+      "schedule",
+      "akar"
+    ]
+  },
+  {
+    "name": "scissor.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/scissor.svg",
+    "tags": [
+      "scissor",
+      "akar"
+    ]
+  },
+  {
+    "name": "search.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/search.svg",
+    "tags": [
+      "search",
+      "akar"
+    ]
+  },
+  {
+    "name": "send.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/send.svg",
+    "tags": [
+      "send",
+      "akar"
+    ]
+  },
+  {
+    "name": "settings-horizontal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/settings-horizontal.svg",
+    "tags": [
+      "settings",
+      "horizontal",
+      "akar"
+    ]
+  },
+  {
+    "name": "settings-vertical.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/settings-vertical.svg",
+    "tags": [
+      "settings",
+      "vertical",
+      "akar"
+    ]
+  },
+  {
+    "name": "share-box.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/share-box.svg",
+    "tags": [
+      "share",
+      "box",
+      "akar"
+    ]
+  },
+  {
+    "name": "shield.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/shield.svg",
+    "tags": [
+      "shield",
+      "akar"
+    ]
+  },
+  {
+    "name": "shipping-box-v1.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/shipping-box-v1.svg",
+    "tags": [
+      "shipping",
+      "box",
+      "akar"
+    ]
+  },
+  {
+    "name": "shipping-box-v2.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/shipping-box-v2.svg",
+    "tags": [
+      "shipping",
+      "box",
+      "akar"
+    ]
+  },
+  {
+    "name": "shopping-bag.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/shopping-bag.svg",
+    "tags": [
+      "shopping",
+      "bag",
+      "akar"
+    ]
+  },
+  {
+    "name": "sidebar-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sidebar-left.svg",
+    "tags": [
+      "sidebar",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "sidebar-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sidebar-right.svg",
+    "tags": [
+      "sidebar",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "sign-out.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sign-out.svg",
+    "tags": [
+      "sign",
+      "out",
+      "akar"
+    ]
+  },
+  {
+    "name": "slack.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/slack.svg",
+    "tags": [
+      "slack",
+      "akar"
+    ]
+  },
+  {
+    "name": "slice.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/slice.svg",
+    "tags": [
+      "slice",
+      "akar"
+    ]
+  },
+  {
+    "name": "snapchat.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/snapchat.svg",
+    "tags": [
+      "snapchat",
+      "akar"
+    ]
+  },
+  {
+    "name": "sort.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sort.svg",
+    "tags": [
+      "sort",
+      "akar"
+    ]
+  },
+  {
+    "name": "sound-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sound-down.svg",
+    "tags": [
+      "sound",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "sound-off.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sound-off.svg",
+    "tags": [
+      "sound",
+      "off",
+      "akar"
+    ]
+  },
+  {
+    "name": "sound-on.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sound-on.svg",
+    "tags": [
+      "sound",
+      "akar"
+    ]
+  },
+  {
+    "name": "sound-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sound-up.svg",
+    "tags": [
+      "sound",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "soundcloud.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/soundcloud.svg",
+    "tags": [
+      "soundcloud",
+      "akar"
+    ]
+  },
+  {
+    "name": "sparkles.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sparkles.svg",
+    "tags": [
+      "sparkles",
+      "akar"
+    ]
+  },
+  {
+    "name": "spotify.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/spotify.svg",
+    "tags": [
+      "spotify",
+      "akar"
+    ]
+  },
+  {
+    "name": "square-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/square-fill.svg",
+    "tags": [
+      "square",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "square.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/square.svg",
+    "tags": [
+      "square",
+      "akar"
+    ]
+  },
+  {
+    "name": "stack-overflow.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/stack-overflow.svg",
+    "tags": [
+      "stack",
+      "overflow",
+      "akar"
+    ]
+  },
+  {
+    "name": "star.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/star.svg",
+    "tags": [
+      "star",
+      "akar"
+    ]
+  },
+  {
+    "name": "statistic-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/statistic-down.svg",
+    "tags": [
+      "statistic",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "statistic-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/statistic-up.svg",
+    "tags": [
+      "statistic",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "stop-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/stop-fill.svg",
+    "tags": [
+      "stop",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "stop.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/stop.svg",
+    "tags": [
+      "stop",
+      "akar"
+    ]
+  },
+  {
+    "name": "sun-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sun-fill.svg",
+    "tags": [
+      "sun",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "sun.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sun.svg",
+    "tags": [
+      "sun",
+      "akar"
+    ]
+  },
+  {
+    "name": "sword.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/sword.svg",
+    "tags": [
+      "sword",
+      "akar"
+    ]
+  },
+  {
+    "name": "tablet-device.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/tablet-device.svg",
+    "tags": [
+      "tablet",
+      "device",
+      "akar"
+    ]
+  },
+  {
+    "name": "tag.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/tag.svg",
+    "tags": [
+      "tag",
+      "akar"
+    ]
+  },
+  {
+    "name": "telegram.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/telegram.svg",
+    "tags": [
+      "telegram",
+      "akar"
+    ]
+  },
+  {
+    "name": "telescope.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/telescope.svg",
+    "tags": [
+      "telescope",
+      "akar"
+    ]
+  },
+  {
+    "name": "tetragon-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/tetragon-fill.svg",
+    "tags": [
+      "tetragon",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "tetragon.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/tetragon.svg",
+    "tags": [
+      "tetragon",
+      "akar"
+    ]
+  },
+  {
+    "name": "text-align-center.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/text-align-center.svg",
+    "tags": [
+      "text",
+      "align",
+      "center",
+      "akar"
+    ]
+  },
+  {
+    "name": "text-align-justified.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/text-align-justified.svg",
+    "tags": [
+      "text",
+      "align",
+      "justified",
+      "akar"
+    ]
+  },
+  {
+    "name": "text-align-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/text-align-left.svg",
+    "tags": [
+      "text",
+      "align",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "text-align-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/text-align-right.svg",
+    "tags": [
+      "text",
+      "align",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "three-line-horizontal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/three-line-horizontal.svg",
+    "tags": [
+      "three",
+      "line",
+      "akar",
+      "horizontal"
+    ]
+  },
+  {
+    "name": "three-line-vertical.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/three-line-vertical.svg",
+    "tags": [
+      "three",
+      "line",
+      "vertical",
+      "akar"
+    ]
+  },
+  {
+    "name": "thumbs-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/thumbs-down.svg",
+    "tags": [
+      "thumbs",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "thumbs-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/thumbs-up.svg",
+    "tags": [
+      "thumbs",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "thunder.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/thunder.svg",
+    "tags": [
+      "thunder",
+      "akar"
+    ]
+  },
+  {
+    "name": "ticket.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/ticket.svg",
+    "tags": [
+      "ticket",
+      "akar"
+    ]
+  },
+  {
+    "name": "tiktok.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/tiktok.svg",
+    "tags": [
+      "tiktok",
+      "akar"
+    ]
+  },
+  {
+    "name": "toggle-off-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/toggle-off-fill.svg",
+    "tags": [
+      "toggle",
+      "off",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "toggle-off.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/toggle-off.svg",
+    "tags": [
+      "toggle",
+      "off",
+      "akar"
+    ]
+  },
+  {
+    "name": "toggle-on-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/toggle-on-fill.svg",
+    "tags": [
+      "toggle",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "toggle-on.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/toggle-on.svg",
+    "tags": [
+      "toggle",
+      "akar"
+    ]
+  },
+  {
+    "name": "togo-cup.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/togo-cup.svg",
+    "tags": [
+      "togo",
+      "cup",
+      "akar"
+    ]
+  },
+  {
+    "name": "trash-bin.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/trash-bin.svg",
+    "tags": [
+      "trash",
+      "bin",
+      "akar"
+    ]
+  },
+  {
+    "name": "trash-can.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/trash-can.svg",
+    "tags": [
+      "trash",
+      "can",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-alert-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-alert-fill.svg",
+    "tags": [
+      "triangle",
+      "alert",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-alert.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-alert.svg",
+    "tags": [
+      "triangle",
+      "alert",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-down-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-down-fill.svg",
+    "tags": [
+      "triangle",
+      "down",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-down.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-down.svg",
+    "tags": [
+      "triangle",
+      "down",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-fill.svg",
+    "tags": [
+      "triangle",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-left-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-left-fill.svg",
+    "tags": [
+      "triangle",
+      "left",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-left.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-left.svg",
+    "tags": [
+      "triangle",
+      "left",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-right-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-right-fill.svg",
+    "tags": [
+      "triangle",
+      "right",
+      "fill",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-right.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-right.svg",
+    "tags": [
+      "triangle",
+      "right",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-up-fill.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-up-fill.svg",
+    "tags": [
+      "triangle",
+      "fill",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle-up.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle-up.svg",
+    "tags": [
+      "triangle",
+      "up",
+      "akar"
+    ]
+  },
+  {
+    "name": "triangle.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/triangle.svg",
+    "tags": [
+      "triangle",
+      "akar"
+    ]
+  },
+  {
+    "name": "trophy.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/trophy.svg",
+    "tags": [
+      "trophy",
+      "akar"
+    ]
+  },
+  {
+    "name": "truck.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/truck.svg",
+    "tags": [
+      "truck",
+      "akar"
+    ]
+  },
+  {
+    "name": "tumblr.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/tumblr.svg",
+    "tags": [
+      "tumblr",
+      "akar"
+    ]
+  },
+  {
+    "name": "twitch.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/twitch.svg",
+    "tags": [
+      "twitch",
+      "akar"
+    ]
+  },
+  {
+    "name": "twitter.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/twitter.svg",
+    "tags": [
+      "twitter",
+      "akar"
+    ]
+  },
+  {
+    "name": "two-line-horizontal.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/two-line-horizontal.svg",
+    "tags": [
+      "two",
+      "line",
+      "akar",
+      "horizontal"
+    ]
+  },
+  {
+    "name": "two-line-vertical.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/two-line-vertical.svg",
+    "tags": [
+      "two",
+      "line",
+      "vertical",
+      "akar"
+    ]
+  },
+  {
+    "name": "typescript.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/typescript.svg",
+    "tags": [
+      "typescript",
+      "akar"
+    ]
+  },
+  {
+    "name": "umbrella.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/umbrella.svg",
+    "tags": [
+      "umbrella",
+      "akar"
+    ]
+  },
+  {
+    "name": "unsplash.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/unsplash.svg",
+    "tags": [
+      "unsplash",
+      "akar"
+    ]
+  },
+  {
+    "name": "utensils.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/utensils.svg",
+    "tags": [
+      "utensils",
+      "akar"
+    ]
+  },
+  {
+    "name": "vape-kit.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vape-kit.svg",
+    "tags": [
+      "vape",
+      "kit",
+      "akar"
+    ]
+  },
+  {
+    "name": "vercel.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vercel.svg",
+    "tags": [
+      "vercel",
+      "akar"
+    ]
+  },
+  {
+    "name": "victory-hand.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/victory-hand.svg",
+    "tags": [
+      "victory",
+      "hand",
+      "akar"
+    ]
+  },
+  {
+    "name": "video.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/video.svg",
+    "tags": [
+      "video",
+      "akar"
+    ]
+  },
+  {
+    "name": "vimeo.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vimeo.svg",
+    "tags": [
+      "vimeo",
+      "akar"
+    ]
+  },
+  {
+    "name": "vk.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vk.svg",
+    "tags": [
+      "vk",
+      "akar"
+    ]
+  },
+  {
+    "name": "vr-ar.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vr-ar.svg",
+    "tags": [
+      "akar"
+    ]
+  },
+  {
+    "name": "vscode.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vscode.svg",
+    "tags": [
+      "vscode",
+      "akar"
+    ]
+  },
+  {
+    "name": "vue.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/vue.svg",
+    "tags": [
+      "vue",
+      "akar"
+    ]
+  },
+  {
+    "name": "wallet.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/wallet.svg",
+    "tags": [
+      "wallet",
+      "akar"
+    ]
+  },
+  {
+    "name": "watch-device.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/watch-device.svg",
+    "tags": [
+      "watch",
+      "device",
+      "akar"
+    ]
+  },
+  {
+    "name": "water.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/water.svg",
+    "tags": [
+      "water",
+      "akar"
+    ]
+  },
+  {
+    "name": "whatsapp.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/whatsapp.svg",
+    "tags": [
+      "whatsapp",
+      "akar"
+    ]
+  },
+  {
+    "name": "width.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/width.svg",
+    "tags": [
+      "width",
+      "akar"
+    ]
+  },
+  {
+    "name": "wifi.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/wifi.svg",
+    "tags": [
+      "wifi",
+      "akar"
+    ]
+  },
+  {
+    "name": "wine-glass.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/wine-glass.svg",
+    "tags": [
+      "wine",
+      "glass",
+      "akar"
+    ]
+  },
+  {
+    "name": "x-small.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/x-small.svg",
+    "tags": [
+      "small",
+      "akar"
+    ]
+  },
+  {
+    "name": "yarn.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/yarn.svg",
+    "tags": [
+      "yarn",
+      "akar"
+    ]
+  },
+  {
+    "name": "youtube.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/youtube.svg",
+    "tags": [
+      "youtube",
+      "akar"
+    ]
+  },
+  {
+    "name": "zoom-in.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/zoom-in.svg",
+    "tags": [
+      "zoom",
+      "akar"
+    ]
+  },
+  {
+    "name": "zoom-out.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/zoom-out.svg",
+    "tags": [
+      "zoom",
+      "out",
+      "akar"
+    ]
+  },
+  {
+    "name": "zoom.svg",
+    "format": "Vector",
+    "path": "Designer/Arturo-Wibawa/Akar-Icons/Vector/zoom.svg",
+    "tags": [
+      "zoom",
+      "akar"
+    ]
+  }
+]

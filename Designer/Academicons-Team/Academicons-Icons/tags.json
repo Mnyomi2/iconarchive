@@ -1,0 +1,639 @@
+{
+  "ciencia-vitae": [
+    "ciencia",
+    "vitae",
+    "academicons"
+  ],
+  "ciencia-vitae-square": [
+    "ciencia",
+    "vitae",
+    "square",
+    "academicons"
+  ],
+  "conversation-square": [
+    "square",
+    "conversation",
+    "academicons"
+  ],
+  "crossref": [
+    "crossref",
+    "academicons"
+  ],
+  "hal-square": [
+    "hal",
+    "square",
+    "academicons"
+  ],
+  "figshare-square": [
+    "figshare",
+    "square",
+    "academicons"
+  ],
+  "pubpeer": [
+    "pubpeer",
+    "academicons"
+  ],
+  "open-data-square": [
+    "open",
+    "data",
+    "square",
+    "academicons"
+  ],
+  "psyarxiv-square": [
+    "psyarxiv",
+    "square",
+    "academicons"
+  ],
+  "ror": [
+    "ror",
+    "academicons"
+  ],
+  "springer": [
+    "springer",
+    "academicons"
+  ],
+  "protocols-square": [
+    "protocols",
+    "square",
+    "academicons"
+  ],
+  "inspire-square": [
+    "inspire",
+    "square",
+    "academicons"
+  ],
+  "arxiv-square": [
+    "arxiv",
+    "square",
+    "academicons"
+  ],
+  "acm": [
+    "acm",
+    "academicons"
+  ],
+  "open-materials": [
+    "open",
+    "materials",
+    "academicons"
+  ],
+  "archive-square": [
+    "archive",
+    "square",
+    "academicons"
+  ],
+  "figshare": [
+    "figshare",
+    "academicons"
+  ],
+  "protocols": [
+    "protocols",
+    "academicons"
+  ],
+  "mathoverflow-square": [
+    "square",
+    "mathoverflow",
+    "academicons"
+  ],
+  "hypothesis-square": [
+    "square",
+    "hypothesis",
+    "academicons"
+  ],
+  "zotero-square": [
+    "zotero",
+    "square",
+    "academicons"
+  ],
+  "academia-square": [
+    "academia",
+    "square",
+    "academicons"
+  ],
+  "open-access-square": [
+    "open",
+    "access",
+    "square",
+    "academicons"
+  ],
+  "ideas-repec-square": [
+    "ideas",
+    "repec",
+    "square",
+    "academicons"
+  ],
+  "osf": [
+    "osf",
+    "academicons"
+  ],
+  "lattes": [
+    "lattes",
+    "academicons"
+  ],
+  "piazza-square": [
+    "piazza",
+    "square",
+    "academicons"
+  ],
+  "overleaf": [
+    "overleaf",
+    "academicons"
+  ],
+  "orcid-square": [
+    "orcid",
+    "square",
+    "academicons"
+  ],
+  "mtmt-square": [
+    "mtmt",
+    "square",
+    "academicons"
+  ],
+  "hal": [
+    "hal",
+    "academicons"
+  ],
+  "nakala": [
+    "nakala",
+    "academicons"
+  ],
+  "datacite-square": [
+    "datacite",
+    "square",
+    "academicons"
+  ],
+  "datacite": [
+    "datacite",
+    "academicons"
+  ],
+  "dryad-square": [
+    "dryad",
+    "square",
+    "academicons"
+  ],
+  "clarivate": [
+    "clarivate",
+    "academicons"
+  ],
+  "sci-hub-square": [
+    "sci",
+    "hub",
+    "square",
+    "academicons"
+  ],
+  "scirate": [
+    "scirate",
+    "academicons"
+  ],
+  "scopus": [
+    "scopus",
+    "academicons"
+  ],
+  "nakala-square": [
+    "nakala",
+    "square",
+    "academicons"
+  ],
+  "pubmed": [
+    "pubmed",
+    "academicons"
+  ],
+  "acmdl": [
+    "acmdl",
+    "academicons"
+  ],
+  "africarxiv-square": [
+    "square",
+    "africarxiv",
+    "academicons"
+  ],
+  "ieee": [
+    "ieee",
+    "academicons"
+  ],
+  "inpn": [
+    "inpn",
+    "academicons"
+  ],
+  "academia": [
+    "academia",
+    "academicons"
+  ],
+  "ieee-square": [
+    "ieee",
+    "square",
+    "academicons"
+  ],
+  "ssrn-square": [
+    "ssrn",
+    "square",
+    "academicons"
+  ],
+  "inaturalist": [
+    "inaturalist",
+    "academicons"
+  ],
+  "google-scholar": [
+    "google",
+    "scholar",
+    "academicons"
+  ],
+  "researchgate-square": [
+    "square",
+    "researchgate",
+    "academicons"
+  ],
+  "mathoverflow": [
+    "mathoverflow",
+    "academicons"
+  ],
+  "archive": [
+    "archive",
+    "academicons"
+  ],
+  "ideas-repec": [
+    "ideas",
+    "repec",
+    "academicons"
+  ],
+  "ceur": [
+    "ceur",
+    "academicons"
+  ],
+  "moodle-square": [
+    "moodle",
+    "square",
+    "academicons"
+  ],
+  "zenodo": [
+    "zenodo",
+    "academicons"
+  ],
+  "depsy-square": [
+    "depsy",
+    "square",
+    "academicons"
+  ],
+  "moodle": [
+    "moodle",
+    "academicons"
+  ],
+  "clarivate-square": [
+    "clarivate",
+    "square",
+    "academicons"
+  ],
+  "doi-square": [
+    "doi",
+    "square",
+    "academicons"
+  ],
+  "ssrn": [
+    "ssrn",
+    "academicons"
+  ],
+  "ads": [
+    "ads",
+    "academicons"
+  ],
+  "elsevier-square": [
+    "elsevier",
+    "square",
+    "academicons"
+  ],
+  "coursera": [
+    "coursera",
+    "academicons"
+  ],
+  "semantic-scholar-square": [
+    "semantic",
+    "scholar",
+    "square",
+    "academicons"
+  ],
+  "pubmed-square": [
+    "pubmed",
+    "square",
+    "academicons"
+  ],
+  "acm-square": [
+    "acm",
+    "square",
+    "academicons"
+  ],
+  "arxiv": [
+    "arxiv",
+    "academicons"
+  ],
+  "obp-square": [
+    "obp",
+    "square",
+    "academicons"
+  ],
+  "biorxiv": [
+    "biorxiv",
+    "academicons"
+  ],
+  "open-access": [
+    "open",
+    "access",
+    "academicons"
+  ],
+  "biorxiv-square": [
+    "biorxiv",
+    "square",
+    "academicons"
+  ],
+  "obp": [
+    "obp",
+    "academicons"
+  ],
+  "google-scholar-square": [
+    "google",
+    "scholar",
+    "square",
+    "academicons"
+  ],
+  "dataverse": [
+    "dataverse",
+    "academicons"
+  ],
+  "psyarxiv": [
+    "psyarxiv",
+    "academicons"
+  ],
+  "ceur-square": [
+    "ceur",
+    "square",
+    "academicons"
+  ],
+  "open-data": [
+    "open",
+    "data",
+    "academicons"
+  ],
+  "lattes-square": [
+    "lattes",
+    "square",
+    "academicons"
+  ],
+  "conversation": [
+    "conversation",
+    "academicons"
+  ],
+  "acmdl-square": [
+    "acmdl",
+    "square",
+    "academicons"
+  ],
+  "closed-access-square": [
+    "closed",
+    "access",
+    "square",
+    "academicons"
+  ],
+  "researcherid": [
+    "researcherid",
+    "academicons"
+  ],
+  "dblp": [
+    "dblp",
+    "academicons"
+  ],
+  "dblp-square": [
+    "dblp",
+    "square",
+    "academicons"
+  ],
+  "inaturalist-square": [
+    "square",
+    "inaturalist",
+    "academicons"
+  ],
+  "isidore-square": [
+    "isidore",
+    "square",
+    "academicons"
+  ],
+  "publons-square": [
+    "publons",
+    "square",
+    "academicons"
+  ],
+  "doi": [
+    "doi",
+    "academicons"
+  ],
+  "jstor-square": [
+    "jstor",
+    "square",
+    "academicons"
+  ],
+  "closed-access": [
+    "closed",
+    "access",
+    "academicons"
+  ],
+  "stackoverflow": [
+    "stackoverflow",
+    "academicons"
+  ],
+  "mendeley": [
+    "mendeley",
+    "academicons"
+  ],
+  "ads-square": [
+    "ads",
+    "square",
+    "academicons"
+  ],
+  "scopus-square": [
+    "scopus",
+    "square",
+    "academicons"
+  ],
+  "isidore": [
+    "isidore",
+    "academicons"
+  ],
+  "scirate-square": [
+    "scirate",
+    "square",
+    "academicons"
+  ],
+  "researcherid-square": [
+    "square",
+    "researcherid",
+    "academicons"
+  ],
+  "openedition": [
+    "openedition",
+    "academicons"
+  ],
+  "elsevier": [
+    "elsevier",
+    "academicons"
+  ],
+  "springer-square": [
+    "springer",
+    "square",
+    "academicons"
+  ],
+  "hypothesis": [
+    "hypothesis",
+    "academicons"
+  ],
+  "coursera-square": [
+    "coursera",
+    "square",
+    "academicons"
+  ],
+  "orcid": [
+    "orcid",
+    "academicons"
+  ],
+  "ror-square": [
+    "ror",
+    "square",
+    "academicons"
+  ],
+  "mendeley-square": [
+    "mendeley",
+    "square",
+    "academicons"
+  ],
+  "africarxiv": [
+    "africarxiv",
+    "academicons"
+  ],
+  "inpn-square": [
+    "inpn",
+    "square",
+    "academicons"
+  ],
+  "zotero": [
+    "zotero",
+    "academicons"
+  ],
+  "sci-hub": [
+    "sci",
+    "hub",
+    "academicons"
+  ],
+  "philpapers-square": [
+    "square",
+    "philpapers",
+    "academicons"
+  ],
+  "acclaim-square": [
+    "acclaim",
+    "square",
+    "academicons"
+  ],
+  "dryad": [
+    "dryad",
+    "academicons"
+  ],
+  "dataverse-square": [
+    "dataverse",
+    "square",
+    "academicons"
+  ],
+  "stackoverflow-square": [
+    "stackoverflow",
+    "square",
+    "academicons"
+  ],
+  "semantic-scholar": [
+    "semantic",
+    "scholar",
+    "academicons"
+  ],
+  "publons": [
+    "publons",
+    "academicons"
+  ],
+  "impactstory-square": [
+    "square",
+    "impactstory",
+    "academicons"
+  ],
+  "impactstory": [
+    "impactstory",
+    "academicons"
+  ],
+  "mtmt": [
+    "mtmt",
+    "academicons"
+  ],
+  "piazza": [
+    "piazza",
+    "academicons"
+  ],
+  "openedition-square": [
+    "square",
+    "openedition",
+    "academicons"
+  ],
+  "pubpeer-square": [
+    "pubpeer",
+    "square",
+    "academicons"
+  ],
+  "preregistered": [
+    "preregistered",
+    "academicons"
+  ],
+  "cv": [
+    "cv",
+    "academicons"
+  ],
+  "philpapers": [
+    "philpapers",
+    "academicons"
+  ],
+  "overleaf-square": [
+    "overleaf",
+    "square",
+    "academicons"
+  ],
+  "researchgate": [
+    "researchgate",
+    "academicons"
+  ],
+  "crossref-square": [
+    "crossref",
+    "square",
+    "academicons"
+  ],
+  "open-materials-square": [
+    "open",
+    "materials",
+    "square",
+    "academicons"
+  ],
+  "acclaim": [
+    "acclaim",
+    "academicons"
+  ],
+  "inspire": [
+    "inspire",
+    "academicons"
+  ],
+  "depsy": [
+    "depsy",
+    "academicons"
+  ],
+  "cv-square": [
+    "square",
+    "academicons"
+  ],
+  "jstor": [
+    "jstor",
+    "academicons"
+  ],
+  "osf-square": [
+    "osf",
+    "square",
+    "academicons"
+  ]
+}

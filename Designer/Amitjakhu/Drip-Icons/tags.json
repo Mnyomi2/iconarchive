@@ -1,0 +1,869 @@
+{
+  "camcorder": [
+    "camcorder",
+    "dripicons"
+  ],
+  "gear": [
+    "gear",
+    "dripicons"
+  ],
+  "download": [
+    "download",
+    "dripicons"
+  ],
+  "list": [
+    "list",
+    "dripicons"
+  ],
+  "view-apps": [
+    "view",
+    "apps",
+    "dripicons"
+  ],
+  "folder-open": [
+    "folder",
+    "open",
+    "dripicons"
+  ],
+  "basket": [
+    "basket",
+    "dripicons"
+  ],
+  "checkmark": [
+    "checkmark",
+    "dripicons"
+  ],
+  "view-thumb": [
+    "view",
+    "thumb",
+    "dripicons"
+  ],
+  "ticket": [
+    "ticket",
+    "dripicons"
+  ],
+  "reply": [
+    "reply",
+    "dripicons"
+  ],
+  "archive": [
+    "archive",
+    "dripicons"
+  ],
+  "article": [
+    "article",
+    "dripicons"
+  ],
+  "exit": [
+    "exit",
+    "dripicons"
+  ],
+  "bold": [
+    "bold",
+    "dripicons"
+  ],
+  "information": [
+    "information",
+    "dripicons"
+  ],
+  "location": [
+    "location",
+    "dripicons"
+  ],
+  "search": [
+    "search",
+    "dripicons"
+  ],
+  "pencil": [
+    "pencil",
+    "dripicons"
+  ],
+  "message": [
+    "message",
+    "dripicons"
+  ],
+  "clockwise": [
+    "clockwise",
+    "dripicons"
+  ],
+  "view-list-large": [
+    "view",
+    "list",
+    "large",
+    "dripicons"
+  ],
+  "medical": [
+    "medical",
+    "dripicons"
+  ],
+  "crop": [
+    "crop",
+    "dripicons"
+  ],
+  "media-shuffle": [
+    "media",
+    "shuffle",
+    "dripicons"
+  ],
+  "skip": [
+    "skip",
+    "dripicons"
+  ],
+  "arrow-right": [
+    "arrow",
+    "right",
+    "dripicons"
+  ],
+  "cart": [
+    "cart",
+    "dripicons"
+  ],
+  "home": [
+    "home",
+    "dripicons"
+  ],
+  "battery-low": [
+    "battery",
+    "low",
+    "dripicons"
+  ],
+  "media-pause": [
+    "media",
+    "pause",
+    "dripicons"
+  ],
+  "clipboard": [
+    "clipboard",
+    "dripicons"
+  ],
+  "conversation": [
+    "conversation",
+    "dripicons"
+  ],
+  "browser-upload": [
+    "browser",
+    "upload",
+    "dripicons"
+  ],
+  "basketball": [
+    "basketball",
+    "dripicons"
+  ],
+  "arrow-up": [
+    "arrow",
+    "up",
+    "dripicons"
+  ],
+  "device-desktop": [
+    "device",
+    "desktop",
+    "dripicons"
+  ],
+  "feed": [
+    "feed",
+    "dripicons"
+  ],
+  "brightness-medium": [
+    "brightness",
+    "medium",
+    "dripicons"
+  ],
+  "help": [
+    "help",
+    "dripicons"
+  ],
+  "battery-empty": [
+    "battery",
+    "empty",
+    "dripicons"
+  ],
+  "pill": [
+    "pill",
+    "dripicons"
+  ],
+  "heart": [
+    "heart",
+    "dripicons"
+  ],
+  "link": [
+    "link",
+    "dripicons"
+  ],
+  "lock-open": [
+    "lock",
+    "open",
+    "dripicons"
+  ],
+  "menu": [
+    "menu",
+    "dripicons"
+  ],
+  "anchor": [
+    "anchor",
+    "dripicons"
+  ],
+  "tag-delete": [
+    "tag",
+    "delete",
+    "dripicons"
+  ],
+  "copy": [
+    "copy",
+    "dripicons"
+  ],
+  "return": [
+    "return",
+    "dripicons"
+  ],
+  "reply-all": [
+    "reply",
+    "dripicons"
+  ],
+  "loading": [
+    "loading",
+    "dripicons"
+  ],
+  "headset": [
+    "headset",
+    "dripicons"
+  ],
+  "camera": [
+    "camera",
+    "dripicons"
+  ],
+  "media-next": [
+    "media",
+    "next",
+    "dripicons"
+  ],
+  "bluetooth": [
+    "bluetooth",
+    "dripicons"
+  ],
+  "media-stop": [
+    "media",
+    "stop",
+    "dripicons"
+  ],
+  "shopping-bag": [
+    "shopping",
+    "bag",
+    "dripicons"
+  ],
+  "calendar": [
+    "calendar",
+    "dripicons"
+  ],
+  "user-group": [
+    "user",
+    "group",
+    "dripicons"
+  ],
+  "wrong": [
+    "wrong",
+    "dripicons"
+  ],
+  "preview": [
+    "preview",
+    "dripicons"
+  ],
+  "device-mobile": [
+    "device",
+    "mobile",
+    "dripicons"
+  ],
+  "italic": [
+    "italic",
+    "dripicons"
+  ],
+  "chevron-down": [
+    "chevron",
+    "down",
+    "dripicons"
+  ],
+  "network-5": [
+    "network",
+    "dripicons"
+  ],
+  "toggles": [
+    "toggles",
+    "dripicons"
+  ],
+  "inbox": [
+    "inbox",
+    "dripicons"
+  ],
+  "media-play": [
+    "media",
+    "play",
+    "dripicons"
+  ],
+  "microphone": [
+    "microphone",
+    "dripicons"
+  ],
+  "hourglass": [
+    "hourglass",
+    "dripicons"
+  ],
+  "dots-3": [
+    "dots",
+    "dripicons"
+  ],
+  "upload": [
+    "upload",
+    "dripicons"
+  ],
+  "lifting": [
+    "lifting",
+    "dripicons"
+  ],
+  "folder": [
+    "folder",
+    "dripicons"
+  ],
+  "briefcase": [
+    "briefcase",
+    "dripicons"
+  ],
+  "align-justify": [
+    "align",
+    "justify",
+    "dripicons"
+  ],
+  "time-reverse": [
+    "time",
+    "reverse",
+    "dripicons"
+  ],
+  "to-do": [
+    "dripicons"
+  ],
+  "media-loop": [
+    "media",
+    "loop",
+    "dripicons"
+  ],
+  "swap": [
+    "swap",
+    "dripicons"
+  ],
+  "brush": [
+    "brush",
+    "dripicons"
+  ],
+  "cross": [
+    "cross",
+    "dripicons"
+  ],
+  "music": [
+    "music",
+    "dripicons"
+  ],
+  "expand-2": [
+    "expand",
+    "dripicons"
+  ],
+  "plus": [
+    "plus",
+    "dripicons"
+  ],
+  "rocket": [
+    "rocket",
+    "dripicons"
+  ],
+  "star": [
+    "star",
+    "dripicons"
+  ],
+  "brightness-low": [
+    "brightness",
+    "low",
+    "dripicons"
+  ],
+  "bookmark": [
+    "bookmark",
+    "dripicons"
+  ],
+  "suitcase": [
+    "suitcase",
+    "dripicons"
+  ],
+  "battery-medium": [
+    "battery",
+    "medium",
+    "dripicons"
+  ],
+  "clock": [
+    "clock",
+    "dripicons"
+  ],
+  "dot": [
+    "dot",
+    "dripicons"
+  ],
+  "map": [
+    "map",
+    "dripicons"
+  ],
+  "arrow-thin-down": [
+    "arrow",
+    "thin",
+    "down",
+    "dripicons"
+  ],
+  "volume-medium": [
+    "volume",
+    "medium",
+    "dripicons"
+  ],
+  "stack": [
+    "stack",
+    "dripicons"
+  ],
+  "network-3": [
+    "network",
+    "dripicons"
+  ],
+  "contract": [
+    "contract",
+    "dripicons"
+  ],
+  "graph-pie": [
+    "graph",
+    "pie",
+    "dripicons"
+  ],
+  "checklist": [
+    "checklist",
+    "dripicons"
+  ],
+  "dots-2": [
+    "dots",
+    "dripicons"
+  ],
+  "media-previous": [
+    "media",
+    "previous",
+    "dripicons"
+  ],
+  "arrow-thin-up": [
+    "arrow",
+    "thin",
+    "dripicons",
+    "up"
+  ],
+  "web": [
+    "web",
+    "dripicons"
+  ],
+  "pin": [
+    "pin",
+    "dripicons"
+  ],
+  "power": [
+    "power",
+    "dripicons"
+  ],
+  "browser": [
+    "browser",
+    "dripicons"
+  ],
+  "cutlery": [
+    "cutlery",
+    "dripicons"
+  ],
+  "photo": [
+    "photo",
+    "dripicons"
+  ],
+  "weight": [
+    "weight",
+    "dripicons"
+  ],
+  "thumbs-up": [
+    "thumbs",
+    "up",
+    "dripicons"
+  ],
+  "jewel": [
+    "jewel",
+    "dripicons"
+  ],
+  "lock": [
+    "lock",
+    "dripicons"
+  ],
+  "user-id": [
+    "user",
+    "dripicons"
+  ],
+  "cloud-download": [
+    "cloud",
+    "download",
+    "dripicons"
+  ],
+  "bookmarks": [
+    "bookmarks",
+    "dripicons"
+  ],
+  "warning": [
+    "warning",
+    "dripicons"
+  ],
+  "cloud-upload": [
+    "cloud",
+    "upload",
+    "dripicons"
+  ],
+  "box": [
+    "box",
+    "dripicons"
+  ],
+  "chevron-up": [
+    "chevron",
+    "up",
+    "dripicons"
+  ],
+  "print": [
+    "print",
+    "dripicons"
+  ],
+  "arrow-down": [
+    "arrow",
+    "down",
+    "dripicons"
+  ],
+  "disc": [
+    "disc",
+    "dripicons"
+  ],
+  "meter": [
+    "meter",
+    "dripicons"
+  ],
+  "chevron-right": [
+    "chevron",
+    "right",
+    "dripicons"
+  ],
+  "network-1": [
+    "network",
+    "dripicons"
+  ],
+  "volume-off": [
+    "volume",
+    "off",
+    "dripicons"
+  ],
+  "document-new": [
+    "document",
+    "new",
+    "dripicons"
+  ],
+  "wallet": [
+    "wallet",
+    "dripicons"
+  ],
+  "view-list": [
+    "view",
+    "list",
+    "dripicons"
+  ],
+  "graph-bar": [
+    "graph",
+    "bar",
+    "dripicons"
+  ],
+  "media-record": [
+    "media",
+    "record",
+    "dripicons"
+  ],
+  "minus": [
+    "minus",
+    "dripicons"
+  ],
+  "user": [
+    "user",
+    "dripicons"
+  ],
+  "battery-full": [
+    "battery",
+    "full",
+    "dripicons"
+  ],
+  "tags": [
+    "tags",
+    "dripicons"
+  ],
+  "tag": [
+    "tag",
+    "dripicons"
+  ],
+  "duplicate": [
+    "duplicate",
+    "dripicons"
+  ],
+  "thumbs-down": [
+    "thumbs",
+    "down",
+    "dripicons"
+  ],
+  "code": [
+    "code",
+    "dripicons"
+  ],
+  "crosshair": [
+    "crosshair",
+    "dripicons"
+  ],
+  "document-edit": [
+    "document",
+    "edit",
+    "dripicons"
+  ],
+  "stopwatch": [
+    "stopwatch",
+    "dripicons"
+  ],
+  "chevron-left": [
+    "chevron",
+    "left",
+    "dripicons"
+  ],
+  "arrow-thin-right": [
+    "arrow",
+    "thin",
+    "right",
+    "dripicons"
+  ],
+  "retweet": [
+    "retweet",
+    "dripicons"
+  ],
+  "wifi": [
+    "wifi",
+    "dripicons"
+  ],
+  "bell": [
+    "bell",
+    "dripicons"
+  ],
+  "blog": [
+    "blog",
+    "dripicons"
+  ],
+  "flashlight": [
+    "flashlight",
+    "dripicons"
+  ],
+  "experiment": [
+    "experiment",
+    "dripicons"
+  ],
+  "arrow-left": [
+    "arrow",
+    "left",
+    "dripicons"
+  ],
+  "gaming": [
+    "gaming",
+    "dripicons"
+  ],
+  "trophy": [
+    "trophy",
+    "dripicons"
+  ],
+  "store": [
+    "store",
+    "dripicons"
+  ],
+  "monitor": [
+    "monitor",
+    "dripicons"
+  ],
+  "cloud": [
+    "cloud",
+    "dripicons"
+  ],
+  "volume-low": [
+    "volume",
+    "low",
+    "dripicons"
+  ],
+  "direction": [
+    "direction",
+    "dripicons"
+  ],
+  "pamphlet": [
+    "pamphlet",
+    "dripicons"
+  ],
+  "zoom-in": [
+    "zoom",
+    "dripicons"
+  ],
+  "scale": [
+    "scale",
+    "dripicons"
+  ],
+  "flag": [
+    "flag",
+    "dripicons"
+  ],
+  "forward": [
+    "forward",
+    "dripicons"
+  ],
+  "vibrate": [
+    "vibrate",
+    "dripicons"
+  ],
+  "align-left": [
+    "align",
+    "left",
+    "dripicons"
+  ],
+  "export": [
+    "export",
+    "dripicons"
+  ],
+  "document": [
+    "document",
+    "dripicons"
+  ],
+  "trash": [
+    "trash",
+    "dripicons"
+  ],
+  "mail": [
+    "mail",
+    "dripicons"
+  ],
+  "align-center": [
+    "align",
+    "center",
+    "dripicons"
+  ],
+  "backspace": [
+    "backspace",
+    "dripicons"
+  ],
+  "network-4": [
+    "network",
+    "dripicons"
+  ],
+  "network-2": [
+    "network",
+    "dripicons"
+  ],
+  "card": [
+    "card",
+    "dripicons"
+  ],
+  "brightness-max": [
+    "brightness",
+    "max",
+    "dripicons"
+  ],
+  "paperclip": [
+    "paperclip",
+    "dripicons"
+  ],
+  "pulse": [
+    "pulse",
+    "dripicons"
+  ],
+  "question": [
+    "question",
+    "dripicons"
+  ],
+  "arrow-thin-left": [
+    "arrow",
+    "thin",
+    "left",
+    "dripicons"
+  ],
+  "move": [
+    "move",
+    "dripicons"
+  ],
+  "alarm": [
+    "alarm",
+    "dripicons"
+  ],
+  "enter": [
+    "enter",
+    "dripicons"
+  ],
+  "document-delete": [
+    "document",
+    "delete",
+    "dripicons"
+  ],
+  "device-tablet": [
+    "device",
+    "tablet",
+    "dripicons"
+  ],
+  "phone": [
+    "phone",
+    "dripicons"
+  ],
+  "graph-line": [
+    "graph",
+    "line",
+    "dripicons"
+  ],
+  "align-right": [
+    "align",
+    "right",
+    "dripicons"
+  ],
+  "zoom-out": [
+    "zoom",
+    "out",
+    "dripicons"
+  ],
+  "broadcast": [
+    "broadcast",
+    "dripicons"
+  ],
+  "lightbulb": [
+    "lightbulb",
+    "dripicons"
+  ],
+  "document-remove": [
+    "document",
+    "remove",
+    "dripicons"
+  ],
+  "photo-group": [
+    "photo",
+    "group",
+    "dripicons"
+  ],
+  "contract-2": [
+    "contract",
+    "dripicons"
+  ],
+  "link-broken": [
+    "link",
+    "broken",
+    "dripicons"
+  ],
+  "graduation": [
+    "graduation",
+    "dripicons"
+  ],
+  "volume-full": [
+    "volume",
+    "full",
+    "dripicons"
+  ],
+  "expand": [
+    "expand",
+    "dripicons"
+  ]
+}
