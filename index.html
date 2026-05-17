@@ -420,7 +420,15 @@
                 }
 
                 loading.classList.add('hidden');
-                navigate('all'); 
+                
+                // Try to restore the last view from refresh
+                const savedNav = localStorage.getItem('iconGallery_nav');
+                if (savedNav) {
+                    const { view, artist, pack } = JSON.parse(savedNav);
+                    navigate(view, artist, pack);
+                } else {
+                    navigate('all');
+                }
             } catch (err) {
                 loading.innerHTML = `<p class="text-red-500 font-bold text-xl">Failed to load API.</p>`;
                 console.error(err);
@@ -482,6 +490,9 @@
             currentView = view;
             navState = { artist, pack };
             
+            // Save current state to remember after refresh
+            localStorage.setItem('iconGallery_nav', JSON.stringify({ view, artist, pack }));
+
             if (!skipTagReset) {
                 activeTag = null;
                 searchInput.value = '';
