@@ -2,506 +2,1391 @@
   {
     "name": "app-dxf.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-dxf.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-dxf.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "dxf",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-json.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-json.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-json.svg",
+    "tags": [
+      "json",
+      "app",
+      "application",
+      "software",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-pdf.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pdf.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pdf.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "pdf",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-pgp-encrypted.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pgp-encrypted.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pgp-encrypted.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "pgp",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-pgp-keys.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pgp-keys.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pgp-keys.svg",
+    "tags": [
+      "application",
+      "software",
+      "app",
+      "opener",
+      "pgp",
+      "key",
+      "keys",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "access",
+      "private",
+      "padlock",
+      "lock",
+      "encrypted",
+      "encrypt",
+      "decrypted",
+      "decrypt",
+      "unlock"
+    ]
   },
   {
     "name": "app-pkix-cert.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pkix-cert.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pkix-cert.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "cert",
+      "pkix",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.android.package-archive.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.android.package-archive.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.android.package-archive.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.comicbook-plus-zip.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.comicbook-plus-zip.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.comicbook-plus-zip.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.flatpak.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.flatpak.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.flatpak.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.insync.link.drive.draw.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.draw.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.draw.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.insync.link.drive.form.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.form.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.form.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.insync.link.drive.script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.script.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.insync.link.drive.table.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.table.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.table.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.oasis.opendocument.database.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.database.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.database.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.oasis.opendocument.formula.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.formula.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.formula.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-vnd.oasis.opendocument.graphics.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.graphics.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.graphics.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vnd.insync.link.drive.draw",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-bittorrent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-bittorrent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-bittorrent.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "bittorrent",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-blender.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-blender.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-blender.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "blender",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-compress.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-compress.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-compress.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "compress",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-designer.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-designer.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-designer.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "designer",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-dwg.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-dwg.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-dwg.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "dwg",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-fictionbook.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-fictionbook.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-fictionbook.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "fictionbook",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-font-ttf.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-font-ttf.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-font-ttf.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "font",
+      "ttf",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-gettext-translation.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-gettext-translation.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-gettext-translation.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "gettext",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "translation"
+    ]
   },
   {
     "name": "app-x-iso.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-iso.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-iso.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "iso",
+      "mimetypes",
+      "mime",
+      "mimetype"
+    ]
   },
   {
     "name": "app-x-iso9660-appimage.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-iso9660-appimage.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-iso9660-appimage.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "iso",
+      "appimage",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-javascript.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-javascript.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-javascript.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "javascript",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-kmymoney.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-kmymoney.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-kmymoney.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "kmymoney",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-msdos-program.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-msdos-program.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-msdos-program.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "msdos",
+      "program",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-mswinurl.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-mswinurl.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-mswinurl.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "mswinurl",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-musescore.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-musescore.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-musescore.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "musescore",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-php.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-php.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-php.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "php",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-plasma.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-plasma.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-plasma.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "plasma",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-sharedlib.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-sharedlib.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-sharedlib.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "sharedlib",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-shockwave-flash.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-shockwave-flash.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-shockwave-flash.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "shockwave",
+      "flash",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-sqlite-2.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-sqlite-2.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-sqlite-2.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "sqlite",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-srt.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-srt.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-srt.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "srt",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-tiled.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-tiled.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-tiled.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "tiled",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-trash.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-trash.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-trash.svg",
+    "tags": [
+      "app",
+      "application",
+      "recycle",
+      "software",
+      "bin",
+      "garbage",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-virtualbox-hdd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-hdd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-hdd.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "virtualbox",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "disc",
+      "disk",
+      "hardware"
+    ]
   },
   {
     "name": "app-x-virtualbox-ova.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-ova.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-ova.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "ova",
+      "virtualbox",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-virtualbox-ovf.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-ovf.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-ovf.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "ovf",
+      "virtualbox",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-virtualbox-vbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vbox.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vbox",
+      "virtualbox",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-virtualbox-vdi.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vdi.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vdi.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vdi",
+      "virtualbox",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-virtualbox-vhd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vhd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vhd.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "vhd",
+      "virtualbox",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-virtualbox-vmdk.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vmdk.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vmdk.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "virtualbox",
+      "vmdk",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-yaml.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-yaml.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-yaml.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "yaml",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-x-zerosize.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-zerosize.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-zerosize.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "zerosize",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "app-xml.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-xml.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-xml.svg",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "xml",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "audio-x-flac.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/audio-x-flac.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/audio-x-flac.svg",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "flac",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "audio-x-generic.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/audio-x-generic.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/audio-x-generic.svg",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "generic",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "gnome-mime-app-x-referencer.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/gnome-mime-app-x-referencer.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/gnome-mime-app-x-referencer.svg",
+    "tags": [
+      "gnome",
+      "mime",
+      "app",
+      "application",
+      "software",
+      "mimetype",
+      "mimetypes",
+      "referencer"
+    ]
   },
   {
     "name": "image-svg-plus-xml-compressed.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-svg-plus-xml-compressed.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-svg-plus-xml-compressed.svg",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "svg",
+      "plus",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "xml",
+      "compressed"
+    ]
   },
   {
     "name": "image-x-generic.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-generic.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-generic.svg",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "generic",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "image-x-svg-plus-xml.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-svg-plus-xml.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-svg-plus-xml.svg",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "svg",
+      "plus",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "xml"
+    ]
   },
   {
     "name": "image-x-xcf.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-xcf.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-xcf.svg",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "xcf",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "playlist.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/playlist.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/playlist.svg",
+    "tags": [
+      "playlist",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "qgis-qgs.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/qgis-qgs.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/qgis-qgs.svg",
+    "tags": [
+      "qgis",
+      "qgs",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "qgis-qpt.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/qgis-qpt.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/qgis-qpt.svg",
+    "tags": [
+      "qgis",
+      "qpt",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "rpm.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/rpm.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/rpm.svg",
+    "tags": [
+      "rpm",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-css.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-css.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-css.svg",
+    "tags": [
+      "text",
+      "css",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-r.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-r.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-r.svg",
+    "tags": [
+      "text",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-authors.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-authors.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-authors.svg",
+    "tags": [
+      "text",
+      "authors",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-c-plus-plus-src.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-c-plus-plus-src.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-c-plus-plus-src.svg",
+    "tags": [
+      "text",
+      "plus",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "src"
+    ]
   },
   {
     "name": "text-x-changelog.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-changelog.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-changelog.svg",
+    "tags": [
+      "text",
+      "changelog",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-chdr.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-chdr.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-chdr.svg",
+    "tags": [
+      "text",
+      "chdr",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-copying.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-copying.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-copying.svg",
+    "tags": [
+      "text",
+      "copying",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-csharp.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-csharp.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-csharp.svg",
+    "tags": [
+      "text",
+      "csharp",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-csrc.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-csrc.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-csrc.svg",
+    "tags": [
+      "text",
+      "csrc",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-diff.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-diff.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-diff.svg",
+    "tags": [
+      "text",
+      "diff",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-generic-template.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-generic-template.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-generic-template.svg",
+    "tags": [
+      "text",
+      "generic",
+      "template",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-generic.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-generic.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-generic.svg",
+    "tags": [
+      "text",
+      "generic",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-go.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-go.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-go.svg",
+    "tags": [
+      "text",
+      "go",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-haskell.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-haskell.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-haskell.svg",
+    "tags": [
+      "text",
+      "haskell",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-hex.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-hex.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-hex.svg",
+    "tags": [
+      "text",
+      "hex",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-install.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-install.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-install.svg",
+    "tags": [
+      "text",
+      "install",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-java.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-java.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-java.svg",
+    "tags": [
+      "text",
+      "coffee",
+      "java",
+      "drink",
+      "mime",
+      "mimetype",
+      "mimetypes",
+      "food",
+      "meal"
+    ]
   },
   {
     "name": "text-x-log.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-log.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-log.svg",
+    "tags": [
+      "text",
+      "log",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-lua.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-lua.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-lua.svg",
+    "tags": [
+      "text",
+      "lua",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-makefile.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-makefile.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-makefile.svg",
+    "tags": [
+      "text",
+      "makefile",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-markdown.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-markdown.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-markdown.svg",
+    "tags": [
+      "text",
+      "markdown",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-mo.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-mo.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-mo.svg",
+    "tags": [
+      "text",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-octave.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-octave.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-octave.svg",
+    "tags": [
+      "text",
+      "octave",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-patch.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-patch.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-patch.svg",
+    "tags": [
+      "text",
+      "patch",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-po.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-po.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-po.svg",
+    "tags": [
+      "text",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-python.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-python.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-python.svg",
+    "tags": [
+      "text",
+      "python",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-qml.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-qml.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-qml.svg",
+    "tags": [
+      "text",
+      "qml",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-readme.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-readme.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-readme.svg",
+    "tags": [
+      "text",
+      "readme",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-ruby.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-ruby.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-ruby.svg",
+    "tags": [
+      "text",
+      "ruby",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-rust.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-rust.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-rust.svg",
+    "tags": [
+      "text",
+      "rust",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-scala.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-scala.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-scala.svg",
+    "tags": [
+      "text",
+      "scala",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-script.svg",
+    "tags": [
+      "text",
+      "script",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-tex.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-tex.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-tex.svg",
+    "tags": [
+      "text",
+      "tex",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "text-x-wxmathml.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-wxmathml.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-wxmathml.svg",
+    "tags": [
+      "text",
+      "wxmathml",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "unknown.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/unknown.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/unknown.svg",
+    "tags": [
+      "unknown",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "video-x-generic.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/video-x-generic.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/video-x-generic.svg",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "generic",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "x-office-calendar.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-calendar.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-calendar.svg",
+    "tags": [
+      "office",
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "microsoft",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "x-office-document.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-document.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-document.svg",
+    "tags": [
+      "doc",
+      "document",
+      "file",
+      "mimetype",
+      "office",
+      "microsoft",
+      "mimetypes",
+      "mime",
+      "paper"
+    ]
   },
   {
     "name": "x-office-presentation.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-presentation.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-presentation.svg",
+    "tags": [
+      "office",
+      "presentation",
+      "microsoft",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "x-office-spreadsheet.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-spreadsheet.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-spreadsheet.svg",
+    "tags": [
+      "office",
+      "spreadsheet",
+      "microsoft",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   },
   {
     "name": "xoj.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/xoj.svg"
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/xoj.svg",
+    "tags": [
+      "xoj",
+      "mime",
+      "mimetype",
+      "mimetypes"
+    ]
   }
 ]

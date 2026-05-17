@@ -2,1276 +2,3014 @@
   {
     "name": "bookmark-missing.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/bookmark-missing.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/bookmark-missing.svg",
+    "tags": [
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "missing"
+    ]
   },
   {
     "name": "bookmarks.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/bookmarks.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/bookmarks.svg",
+    "tags": [
+      "bookmarks"
+    ]
   },
   {
     "name": "folder-blue-activities.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-activities.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-activities.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "activities"
+    ]
   },
   {
     "name": "folder-blue-apple.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-apple.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-apple.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "apple"
+    ]
   },
   {
     "name": "folder-blue-cd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-cd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-cd.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "cd",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-blue-copy-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-copy-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-copy-cloud.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "copy",
+      "cloud",
+      "cloudy",
+      "weather"
+    ]
   },
   {
     "name": "folder-blue-development.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-development.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-development.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "conf",
+      "config",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "setting",
+      "developer",
+      "development",
+      "settings"
+    ]
   },
   {
     "name": "folder-blue-documents.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-documents.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-documents.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "doc",
+      "document",
+      "file",
+      "documents",
+      "paper"
+    ]
   },
   {
     "name": "folder-blue-download.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-download.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-download.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "download",
+      "decrease",
+      "down",
+      "arrow"
+    ]
   },
   {
     "name": "folder-blue-drag-accept.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-drag-accept.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-drag-accept.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "drag",
+      "accept",
+      "check",
+      "ok",
+      "tick",
+      "yes"
+    ]
   },
   {
     "name": "folder-blue-dropbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-dropbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-dropbox.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "dropbox"
+    ]
   },
   {
     "name": "folder-blue-favorites.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-favorites.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-favorites.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "favorites"
+    ]
   },
   {
     "name": "folder-blue-games.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-games.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-games.svg",
+    "tags": [
+      "folder",
+      "game",
+      "games",
+      "blue"
+    ]
   },
   {
     "name": "folder-blue-git.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-git.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-git.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "git"
+    ]
   },
   {
     "name": "folder-blue-gnome.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-gnome.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-gnome.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "gnome"
+    ]
   },
   {
     "name": "folder-blue-google-drive.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-google-drive.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-google-drive.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "google",
+      "drive",
+      "browser"
+    ]
   },
   {
     "name": "folder-blue-image-people.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-image-people.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-image-people.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "photo",
+      "image",
+      "photography",
+      "picture",
+      "people"
+    ]
   },
   {
     "name": "folder-blue-important.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-important.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-important.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "important"
+    ]
   },
   {
     "name": "folder-blue-java.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-java.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-java.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "coffee",
+      "java",
+      "drink",
+      "food",
+      "meal"
+    ]
   },
   {
     "name": "folder-blue-linux.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-linux.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-linux.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "linux",
+      "os"
+    ]
   },
   {
     "name": "folder-blue-locked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-locked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-locked.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "locked"
+    ]
   },
   {
     "name": "folder-blue-mail-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-mail-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-mail-cloud.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "email",
+      "mail",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
   },
   {
     "name": "folder-blue-mail.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-mail.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-mail.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "email",
+      "mail",
+      "contact"
+    ]
   },
   {
     "name": "folder-blue-mega.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-mega.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-mega.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "mega"
+    ]
   },
   {
     "name": "folder-blue-meocloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-meocloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-meocloud.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "meocloud"
+    ]
   },
   {
     "name": "folder-blue-music.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-music.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-music.svg",
+    "tags": [
+      "music",
+      "blue",
+      "sound",
+      "audio",
+      "folder"
+    ]
   },
   {
     "name": "folder-blue-network.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-network.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-network.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "network"
+    ]
   },
   {
     "name": "folder-blue-open.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-open.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-open.svg",
+    "tags": [
+      "blue",
+      "folder",
+      "open"
+    ]
   },
   {
     "name": "folder-blue-owncloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-owncloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-owncloud.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "owncloud"
+    ]
   },
   {
     "name": "folder-blue-photo.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-photo.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-photo.svg",
+    "tags": [
+      "folder",
+      "photo",
+      "blue",
+      "image",
+      "photography",
+      "picture"
+    ]
   },
   {
     "name": "folder-blue-pictures.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-pictures.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-pictures.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "pictures"
+    ]
   },
   {
     "name": "folder-blue-print.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-print.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-print.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "print",
+      "printer",
+      "hardware"
+    ]
   },
   {
     "name": "folder-blue-private.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-private.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-private.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "unlock",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private"
+    ]
   },
   {
     "name": "folder-blue-recent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-recent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-recent.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "recent"
+    ]
   },
   {
     "name": "folder-blue-remote.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-remote.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-remote.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "remote"
+    ]
   },
   {
     "name": "folder-blue-script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-script.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "script"
+    ]
   },
   {
     "name": "folder-blue-steam.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-steam.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-steam.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "steam"
+    ]
   },
   {
     "name": "folder-blue-tar.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-tar.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-tar.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "tar"
+    ]
   },
   {
     "name": "folder-blue-templates.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-templates.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-templates.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "templates"
+    ]
   },
   {
     "name": "folder-blue-torrent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-torrent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-torrent.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "torrent",
+      "social",
+      "logo"
+    ]
   },
   {
     "name": "folder-blue-unlocked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-unlocked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-unlocked.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "unlocked"
+    ]
   },
   {
     "name": "folder-blue-vbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-vbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-vbox.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "vbox"
+    ]
   },
   {
     "name": "folder-blue-video.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-video.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-video.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "film",
+      "video",
+      "movie"
+    ]
   },
   {
     "name": "folder-blue-visiting.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-visiting.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-visiting.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "visiting"
+    ]
   },
   {
     "name": "folder-blue-wifi.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-wifi.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-wifi.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "wifi"
+    ]
   },
   {
     "name": "folder-blue-wine.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-wine.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-wine.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "wine"
+    ]
   },
   {
     "name": "folder-blue-yandex-disk.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-yandex-disk.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-yandex-disk.svg",
+    "tags": [
+      "folder",
+      "blue",
+      "disc",
+      "disk",
+      "yandex"
+    ]
   },
   {
     "name": "folder-blue.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue.svg",
+    "tags": [
+      "folder",
+      "blue"
+    ]
   },
   {
     "name": "folder-green-activities.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-activities.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-activities.svg",
+    "tags": [
+      "folder",
+      "green",
+      "activities"
+    ]
   },
   {
     "name": "folder-green-apple.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-apple.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-apple.svg",
+    "tags": [
+      "folder",
+      "apple",
+      "green"
+    ]
   },
   {
     "name": "folder-green-cd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-cd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-cd.svg",
+    "tags": [
+      "folder",
+      "green",
+      "cd",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-green-copy-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-copy-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-copy-cloud.svg",
+    "tags": [
+      "folder",
+      "green",
+      "copy",
+      "cloud",
+      "cloudy",
+      "weather"
+    ]
   },
   {
     "name": "folder-green-development.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-development.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-development.svg",
+    "tags": [
+      "folder",
+      "green",
+      "conf",
+      "config",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "setting",
+      "developer",
+      "development",
+      "settings"
+    ]
   },
   {
     "name": "folder-green-documents.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-documents.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-documents.svg",
+    "tags": [
+      "folder",
+      "doc",
+      "document",
+      "file",
+      "green",
+      "documents",
+      "paper"
+    ]
   },
   {
     "name": "folder-green-download.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-download.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-download.svg",
+    "tags": [
+      "folder",
+      "green",
+      "decrease",
+      "down",
+      "download",
+      "arrow"
+    ]
   },
   {
     "name": "folder-green-drag-accept.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-drag-accept.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-drag-accept.svg",
+    "tags": [
+      "green",
+      "folder",
+      "drag",
+      "accept",
+      "check",
+      "ok",
+      "tick",
+      "yes"
+    ]
   },
   {
     "name": "folder-green-dropbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-dropbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-dropbox.svg",
+    "tags": [
+      "folder",
+      "green",
+      "dropbox"
+    ]
   },
   {
     "name": "folder-green-favorites.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-favorites.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-favorites.svg",
+    "tags": [
+      "folder",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "green",
+      "favorites"
+    ]
   },
   {
     "name": "folder-green-games.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-games.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-games.svg",
+    "tags": [
+      "folder",
+      "green",
+      "game",
+      "games"
+    ]
   },
   {
     "name": "folder-green-git.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-git.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-git.svg",
+    "tags": [
+      "folder",
+      "green",
+      "git"
+    ]
   },
   {
     "name": "folder-green-gnome.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-gnome.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-gnome.svg",
+    "tags": [
+      "folder",
+      "green",
+      "gnome"
+    ]
   },
   {
     "name": "folder-green-google-drive.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-google-drive.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-google-drive.svg",
+    "tags": [
+      "folder",
+      "green",
+      "google",
+      "drive",
+      "browser"
+    ]
   },
   {
     "name": "folder-green-image-people.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-image-people.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-image-people.svg",
+    "tags": [
+      "folder",
+      "green",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "people"
+    ]
   },
   {
     "name": "folder-green-important.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-important.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-important.svg",
+    "tags": [
+      "folder",
+      "green",
+      "important"
+    ]
   },
   {
     "name": "folder-green-java.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-java.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-java.svg",
+    "tags": [
+      "folder",
+      "green",
+      "coffee",
+      "java",
+      "drink",
+      "food",
+      "meal"
+    ]
   },
   {
     "name": "folder-green-linux.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-linux.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-linux.svg",
+    "tags": [
+      "folder",
+      "green",
+      "linux",
+      "os"
+    ]
   },
   {
     "name": "folder-green-locked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-locked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-locked.svg",
+    "tags": [
+      "folder",
+      "green",
+      "locked"
+    ]
   },
   {
     "name": "folder-green-mail-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-mail-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-mail-cloud.svg",
+    "tags": [
+      "folder",
+      "green",
+      "email",
+      "mail",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
   },
   {
     "name": "folder-green-mail.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-mail.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-mail.svg",
+    "tags": [
+      "folder",
+      "green",
+      "email",
+      "mail",
+      "contact"
+    ]
   },
   {
     "name": "folder-green-mega.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-mega.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-mega.svg",
+    "tags": [
+      "folder",
+      "green",
+      "mega"
+    ]
   },
   {
     "name": "folder-green-meocloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-meocloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-meocloud.svg",
+    "tags": [
+      "folder",
+      "green",
+      "meocloud"
+    ]
   },
   {
     "name": "folder-green-music.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-music.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-music.svg",
+    "tags": [
+      "folder",
+      "green",
+      "audio",
+      "music",
+      "sound"
+    ]
   },
   {
     "name": "folder-green-network.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-network.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-network.svg",
+    "tags": [
+      "folder",
+      "green",
+      "network"
+    ]
   },
   {
     "name": "folder-green-open.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-open.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-open.svg",
+    "tags": [
+      "folder",
+      "green",
+      "open"
+    ]
   },
   {
     "name": "folder-green-owncloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-owncloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-owncloud.svg",
+    "tags": [
+      "folder",
+      "green",
+      "owncloud"
+    ]
   },
   {
     "name": "folder-green-photo.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-photo.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-photo.svg",
+    "tags": [
+      "folder",
+      "green",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
   },
   {
     "name": "folder-green-pictures.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-pictures.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-pictures.svg",
+    "tags": [
+      "folder",
+      "green",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "pictures"
+    ]
   },
   {
     "name": "folder-green-print.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-print.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-print.svg",
+    "tags": [
+      "folder",
+      "green",
+      "print",
+      "printer",
+      "hardware"
+    ]
   },
   {
     "name": "folder-green-private.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-private.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-private.svg",
+    "tags": [
+      "folder",
+      "green",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
   },
   {
     "name": "folder-green-recent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-recent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-recent.svg",
+    "tags": [
+      "folder",
+      "green",
+      "recent"
+    ]
   },
   {
     "name": "folder-green-remote.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-remote.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-remote.svg",
+    "tags": [
+      "folder",
+      "green",
+      "remote"
+    ]
   },
   {
     "name": "folder-green-script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-script.svg",
+    "tags": [
+      "folder",
+      "green",
+      "script"
+    ]
   },
   {
     "name": "folder-green-steam.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-steam.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-steam.svg",
+    "tags": [
+      "folder",
+      "green",
+      "steam"
+    ]
   },
   {
     "name": "folder-green-tar.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-tar.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-tar.svg",
+    "tags": [
+      "folder",
+      "green",
+      "tar"
+    ]
   },
   {
     "name": "folder-green-templates.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-templates.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-templates.svg",
+    "tags": [
+      "folder",
+      "green",
+      "templates"
+    ]
   },
   {
     "name": "folder-green-torrent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-torrent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-torrent.svg",
+    "tags": [
+      "folder",
+      "green",
+      "torrent",
+      "social",
+      "logo"
+    ]
   },
   {
     "name": "folder-green-unlocked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-unlocked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-unlocked.svg",
+    "tags": [
+      "folder",
+      "green",
+      "unlocked"
+    ]
   },
   {
     "name": "folder-green-vbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-vbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-vbox.svg",
+    "tags": [
+      "folder",
+      "green",
+      "vbox"
+    ]
   },
   {
     "name": "folder-green-video.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-video.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-video.svg",
+    "tags": [
+      "folder",
+      "green",
+      "film",
+      "movie",
+      "video"
+    ]
   },
   {
     "name": "folder-green-visiting.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-visiting.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-visiting.svg",
+    "tags": [
+      "folder",
+      "green",
+      "visiting"
+    ]
   },
   {
     "name": "folder-green-wifi.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-wifi.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-wifi.svg",
+    "tags": [
+      "folder",
+      "green",
+      "wifi"
+    ]
   },
   {
     "name": "folder-green-wine.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-wine.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-wine.svg",
+    "tags": [
+      "folder",
+      "green",
+      "wine"
+    ]
   },
   {
     "name": "folder-green-yandex-disk.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-yandex-disk.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green-yandex-disk.svg",
+    "tags": [
+      "folder",
+      "green",
+      "yandex",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-green.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-green.svg",
+    "tags": [
+      "green",
+      "folder"
+    ]
   },
   {
     "name": "folder-red-activities.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-activities.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-activities.svg",
+    "tags": [
+      "folder",
+      "red",
+      "activities"
+    ]
   },
   {
     "name": "folder-red-apple.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-apple.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-apple.svg",
+    "tags": [
+      "folder",
+      "apple",
+      "red"
+    ]
   },
   {
     "name": "folder-red-cd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-cd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-cd.svg",
+    "tags": [
+      "folder",
+      "red",
+      "cd",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-red-copy-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-copy-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-copy-cloud.svg",
+    "tags": [
+      "folder",
+      "red",
+      "copy",
+      "cloud",
+      "cloudy",
+      "weather"
+    ]
   },
   {
     "name": "folder-red-development.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-development.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-development.svg",
+    "tags": [
+      "folder",
+      "red",
+      "conf",
+      "config",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "setting",
+      "developer",
+      "development",
+      "settings"
+    ]
   },
   {
     "name": "folder-red-documents.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-documents.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-documents.svg",
+    "tags": [
+      "doc",
+      "folder",
+      "document",
+      "file",
+      "red",
+      "documents",
+      "paper"
+    ]
   },
   {
     "name": "folder-red-download.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-download.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-download.svg",
+    "tags": [
+      "folder",
+      "down",
+      "download",
+      "decrease",
+      "red",
+      "arrow"
+    ]
   },
   {
     "name": "folder-red-drag-accept.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-drag-accept.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-drag-accept.svg",
+    "tags": [
+      "folder",
+      "red",
+      "check",
+      "drag",
+      "accept",
+      "ok",
+      "tick",
+      "yes"
+    ]
   },
   {
     "name": "folder-red-dropbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-dropbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-dropbox.svg",
+    "tags": [
+      "folder",
+      "red",
+      "dropbox"
+    ]
   },
   {
     "name": "folder-red-favorites.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-favorites.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-favorites.svg",
+    "tags": [
+      "red",
+      "folder",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favorites",
+      "favourite"
+    ]
   },
   {
     "name": "folder-red-games.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-games.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-games.svg",
+    "tags": [
+      "game",
+      "folder",
+      "red",
+      "games"
+    ]
   },
   {
     "name": "folder-red-git.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-git.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-git.svg",
+    "tags": [
+      "folder",
+      "git",
+      "red"
+    ]
   },
   {
     "name": "folder-red-gnome.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-gnome.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-gnome.svg",
+    "tags": [
+      "folder",
+      "red",
+      "gnome"
+    ]
   },
   {
     "name": "folder-red-google-drive.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-google-drive.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-google-drive.svg",
+    "tags": [
+      "folder",
+      "google",
+      "red",
+      "drive",
+      "browser"
+    ]
   },
   {
     "name": "folder-red-image-people.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-image-people.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-image-people.svg",
+    "tags": [
+      "folder",
+      "red",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "people"
+    ]
   },
   {
     "name": "folder-red-important.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-important.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-important.svg",
+    "tags": [
+      "folder",
+      "red",
+      "important"
+    ]
   },
   {
     "name": "folder-red-java.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-java.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-java.svg",
+    "tags": [
+      "folder",
+      "red",
+      "coffee",
+      "java",
+      "drink",
+      "food",
+      "meal"
+    ]
   },
   {
     "name": "folder-red-linux.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-linux.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-linux.svg",
+    "tags": [
+      "folder",
+      "red",
+      "linux",
+      "os"
+    ]
   },
   {
     "name": "folder-red-locked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-locked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-locked.svg",
+    "tags": [
+      "folder",
+      "locked",
+      "red"
+    ]
   },
   {
     "name": "folder-red-mail-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-mail-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-mail-cloud.svg",
+    "tags": [
+      "folder",
+      "red",
+      "email",
+      "mail",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
   },
   {
     "name": "folder-red-mail.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-mail.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-mail.svg",
+    "tags": [
+      "folder",
+      "red",
+      "email",
+      "mail",
+      "contact"
+    ]
   },
   {
     "name": "folder-red-mega.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-mega.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-mega.svg",
+    "tags": [
+      "folder",
+      "mega",
+      "red"
+    ]
   },
   {
     "name": "folder-red-meocloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-meocloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-meocloud.svg",
+    "tags": [
+      "folder",
+      "red",
+      "meocloud"
+    ]
   },
   {
     "name": "folder-red-music.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-music.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-music.svg",
+    "tags": [
+      "folder",
+      "red",
+      "audio",
+      "music",
+      "sound"
+    ]
   },
   {
     "name": "folder-red-network.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-network.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-network.svg",
+    "tags": [
+      "folder",
+      "red",
+      "network"
+    ]
   },
   {
     "name": "folder-red-open.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-open.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-open.svg",
+    "tags": [
+      "folder",
+      "open",
+      "red"
+    ]
   },
   {
     "name": "folder-red-owncloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-owncloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-owncloud.svg",
+    "tags": [
+      "folder",
+      "owncloud",
+      "red"
+    ]
   },
   {
     "name": "folder-red-photo.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-photo.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-photo.svg",
+    "tags": [
+      "folder",
+      "red",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
   },
   {
     "name": "folder-red-pictures.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-pictures.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-pictures.svg",
+    "tags": [
+      "folder",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "red",
+      "pictures"
+    ]
   },
   {
     "name": "folder-red-print.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-print.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-print.svg",
+    "tags": [
+      "folder",
+      "red",
+      "print",
+      "printer",
+      "hardware"
+    ]
   },
   {
     "name": "folder-red-private.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-private.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-private.svg",
+    "tags": [
+      "folder",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "red",
+      "unlock"
+    ]
   },
   {
     "name": "folder-red-recent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-recent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-recent.svg",
+    "tags": [
+      "folder",
+      "red",
+      "recent"
+    ]
   },
   {
     "name": "folder-red-remote.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-remote.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-remote.svg",
+    "tags": [
+      "folder",
+      "red",
+      "remote"
+    ]
   },
   {
     "name": "folder-red-script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-script.svg",
+    "tags": [
+      "folder",
+      "red",
+      "script"
+    ]
   },
   {
     "name": "folder-red-steam.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-steam.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-steam.svg",
+    "tags": [
+      "folder",
+      "red",
+      "steam"
+    ]
   },
   {
     "name": "folder-red-tar.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-tar.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-tar.svg",
+    "tags": [
+      "folder",
+      "red",
+      "tar"
+    ]
   },
   {
     "name": "folder-red-templates.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-templates.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-templates.svg",
+    "tags": [
+      "folder",
+      "red",
+      "templates"
+    ]
   },
   {
     "name": "folder-red-torrent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-torrent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-torrent.svg",
+    "tags": [
+      "folder",
+      "red",
+      "torrent",
+      "social",
+      "logo"
+    ]
   },
   {
     "name": "folder-red-unlocked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-unlocked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-unlocked.svg",
+    "tags": [
+      "folder",
+      "red",
+      "unlocked"
+    ]
   },
   {
     "name": "folder-red-vbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-vbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-vbox.svg",
+    "tags": [
+      "folder",
+      "red",
+      "vbox"
+    ]
   },
   {
     "name": "folder-red-video.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-video.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-video.svg",
+    "tags": [
+      "folder",
+      "red",
+      "video",
+      "film",
+      "movie"
+    ]
   },
   {
     "name": "folder-red-visiting.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-visiting.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-visiting.svg",
+    "tags": [
+      "folder",
+      "red",
+      "visiting"
+    ]
   },
   {
     "name": "folder-red-wifi.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-wifi.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-wifi.svg",
+    "tags": [
+      "folder",
+      "red",
+      "wifi"
+    ]
   },
   {
     "name": "folder-red-wine.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-wine.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-wine.svg",
+    "tags": [
+      "folder",
+      "red",
+      "wine"
+    ]
   },
   {
     "name": "folder-red-yandex-disk.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-yandex-disk.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-yandex-disk.svg",
+    "tags": [
+      "folder",
+      "red",
+      "yandex",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-red.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red.svg",
+    "tags": [
+      "folder",
+      "red"
+    ]
   },
   {
     "name": "folder-teal-activities.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-activities.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-activities.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "activities"
+    ]
   },
   {
     "name": "folder-teal-apple.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-apple.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-apple.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "apple"
+    ]
   },
   {
     "name": "folder-teal-cd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-cd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-cd.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "cd",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-teal-copy-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-copy-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-copy-cloud.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "copy",
+      "cloud",
+      "cloudy",
+      "weather"
+    ]
   },
   {
     "name": "folder-teal-development.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-development.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-development.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "conf",
+      "config",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "setting",
+      "developer",
+      "development",
+      "settings"
+    ]
   },
   {
     "name": "folder-teal-documents.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-documents.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-documents.svg",
+    "tags": [
+      "doc",
+      "document",
+      "file",
+      "folder",
+      "teal",
+      "documents",
+      "paper"
+    ]
   },
   {
     "name": "folder-teal-download.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-download.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-download.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "decrease",
+      "down",
+      "download",
+      "arrow"
+    ]
   },
   {
     "name": "folder-teal-drag-accept.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-drag-accept.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-drag-accept.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "drag",
+      "accept",
+      "check",
+      "ok",
+      "tick",
+      "yes"
+    ]
   },
   {
     "name": "folder-teal-dropbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-dropbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-dropbox.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "dropbox"
+    ]
   },
   {
     "name": "folder-teal-favorites.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-favorites.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-favorites.svg",
+    "tags": [
+      "folder",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "teal",
+      "favorites"
+    ]
   },
   {
     "name": "folder-teal-games.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-games.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-games.svg",
+    "tags": [
+      "folder",
+      "game",
+      "teal",
+      "games"
+    ]
   },
   {
     "name": "folder-teal-git.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-git.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-git.svg",
+    "tags": [
+      "folder",
+      "git",
+      "teal"
+    ]
   },
   {
     "name": "folder-teal-gnome.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-gnome.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-gnome.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "gnome"
+    ]
   },
   {
     "name": "folder-teal-google-drive.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-google-drive.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-google-drive.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "google",
+      "drive",
+      "browser"
+    ]
   },
   {
     "name": "folder-teal-image-people.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-image-people.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-image-people.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "people"
+    ]
   },
   {
     "name": "folder-teal-important.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-important.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-important.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "important"
+    ]
   },
   {
     "name": "folder-teal-java.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-java.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-java.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "coffee",
+      "java",
+      "drink",
+      "food",
+      "meal"
+    ]
   },
   {
     "name": "folder-teal-linux.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-linux.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-linux.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "linux",
+      "os"
+    ]
   },
   {
     "name": "folder-teal-locked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-locked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-locked.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "locked"
+    ]
   },
   {
     "name": "folder-teal-mail-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-mail-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-mail-cloud.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "email",
+      "mail",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
   },
   {
     "name": "folder-teal-mail.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-mail.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-mail.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "email",
+      "mail",
+      "contact"
+    ]
   },
   {
     "name": "folder-teal-mega.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-mega.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-mega.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "mega"
+    ]
   },
   {
     "name": "folder-teal-meocloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-meocloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-meocloud.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "meocloud"
+    ]
   },
   {
     "name": "folder-teal-music.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-music.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-music.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "audio",
+      "music",
+      "sound"
+    ]
   },
   {
     "name": "folder-teal-network.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-network.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-network.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "network"
+    ]
   },
   {
     "name": "folder-teal-open.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-open.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-open.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "open"
+    ]
   },
   {
     "name": "folder-teal-owncloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-owncloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-owncloud.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "owncloud"
+    ]
   },
   {
     "name": "folder-teal-photo.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-photo.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-photo.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
   },
   {
     "name": "folder-teal-pictures.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-pictures.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-pictures.svg",
+    "tags": [
+      "folder",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "teal",
+      "pictures"
+    ]
   },
   {
     "name": "folder-teal-print.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-print.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-print.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "print",
+      "printer",
+      "hardware"
+    ]
   },
   {
     "name": "folder-teal-private.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-private.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-private.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
   },
   {
     "name": "folder-teal-recent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-recent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-recent.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "recent"
+    ]
   },
   {
     "name": "folder-teal-remote.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-remote.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-remote.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "remote"
+    ]
   },
   {
     "name": "folder-teal-script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-script.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "script"
+    ]
   },
   {
     "name": "folder-teal-steam.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-steam.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-steam.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "steam"
+    ]
   },
   {
     "name": "folder-teal-tar.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-tar.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-tar.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "tar"
+    ]
   },
   {
     "name": "folder-teal-templates.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-templates.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-templates.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "templates"
+    ]
   },
   {
     "name": "folder-teal-torrent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-torrent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-torrent.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "torrent",
+      "social",
+      "logo"
+    ]
   },
   {
     "name": "folder-teal-unlocked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-unlocked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-unlocked.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "unlocked"
+    ]
   },
   {
     "name": "folder-teal-vbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-vbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-vbox.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "vbox"
+    ]
   },
   {
     "name": "folder-teal-video.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-video.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-video.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "film",
+      "movie",
+      "video"
+    ]
   },
   {
     "name": "folder-teal-visiting.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-visiting.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-visiting.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "visiting"
+    ]
   },
   {
     "name": "folder-teal-wifi.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-wifi.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-wifi.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "wifi"
+    ]
   },
   {
     "name": "folder-teal-wine.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-wine.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-wine.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "wine"
+    ]
   },
   {
     "name": "folder-teal-yandex-disk.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-yandex-disk.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal-yandex-disk.svg",
+    "tags": [
+      "folder",
+      "teal",
+      "yandex",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-teal.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-teal.svg",
+    "tags": [
+      "folder",
+      "teal"
+    ]
   },
   {
     "name": "folder-yellow-activities.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-activities.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-activities.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "activities"
+    ]
   },
   {
     "name": "folder-yellow-apple.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-apple.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-apple.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "apple"
+    ]
   },
   {
     "name": "folder-yellow-cd.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-cd.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-cd.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "cd",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-yellow-copy-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-copy-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-copy-cloud.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "copy",
+      "cloud",
+      "cloudy",
+      "weather"
+    ]
   },
   {
     "name": "folder-yellow-development.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-development.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-development.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "conf",
+      "config",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "setting",
+      "developer",
+      "development",
+      "settings"
+    ]
   },
   {
     "name": "folder-yellow-documents.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-documents.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-documents.svg",
+    "tags": [
+      "folder",
+      "doc",
+      "document",
+      "file",
+      "yellow",
+      "documents",
+      "paper"
+    ]
   },
   {
     "name": "folder-yellow-download.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-download.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-download.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "decrease",
+      "down",
+      "download",
+      "arrow"
+    ]
   },
   {
     "name": "folder-yellow-drag-accept.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-drag-accept.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-drag-accept.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "drag",
+      "accept",
+      "check",
+      "ok",
+      "tick",
+      "yes"
+    ]
   },
   {
     "name": "folder-yellow-dropbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-dropbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-dropbox.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "dropbox"
+    ]
   },
   {
     "name": "folder-yellow-favorites.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-favorites.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-favorites.svg",
+    "tags": [
+      "folder",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "yellow",
+      "favorites"
+    ]
   },
   {
     "name": "folder-yellow-games.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-games.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-games.svg",
+    "tags": [
+      "folder",
+      "game",
+      "games",
+      "yellow"
+    ]
   },
   {
     "name": "folder-yellow-git.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-git.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-git.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "git"
+    ]
   },
   {
     "name": "folder-yellow-gnome.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-gnome.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-gnome.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "gnome"
+    ]
   },
   {
     "name": "folder-yellow-google-drive.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-google-drive.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-google-drive.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "google",
+      "drive",
+      "browser"
+    ]
   },
   {
     "name": "folder-yellow-image-people.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-image-people.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-image-people.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "people"
+    ]
   },
   {
     "name": "folder-yellow-important.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-important.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-important.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "important"
+    ]
   },
   {
     "name": "folder-yellow-java.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-java.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-java.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "coffee",
+      "java",
+      "drink",
+      "food",
+      "meal"
+    ]
   },
   {
     "name": "folder-yellow-linux.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-linux.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-linux.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "linux",
+      "os"
+    ]
   },
   {
     "name": "folder-yellow-locked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-locked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-locked.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "locked"
+    ]
   },
   {
     "name": "folder-yellow-mail-cloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-mail-cloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-mail-cloud.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "email",
+      "mail",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
   },
   {
     "name": "folder-yellow-mail.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-mail.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-mail.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "email",
+      "mail",
+      "contact"
+    ]
   },
   {
     "name": "folder-yellow-mega.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-mega.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-mega.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "mega"
+    ]
   },
   {
     "name": "folder-yellow-meocloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-meocloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-meocloud.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "meocloud"
+    ]
   },
   {
     "name": "folder-yellow-music.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-music.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-music.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "audio",
+      "music",
+      "sound"
+    ]
   },
   {
     "name": "folder-yellow-network.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-network.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-network.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "network"
+    ]
   },
   {
     "name": "folder-yellow-open.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-open.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-open.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "open"
+    ]
   },
   {
     "name": "folder-yellow-owncloud.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-owncloud.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-owncloud.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "owncloud"
+    ]
   },
   {
     "name": "folder-yellow-photo.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-photo.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-photo.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
   },
   {
     "name": "folder-yellow-pictures.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-pictures.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-pictures.svg",
+    "tags": [
+      "folder",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "yellow",
+      "pictures"
+    ]
   },
   {
     "name": "folder-yellow-print.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-print.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-print.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "print",
+      "printer",
+      "hardware"
+    ]
   },
   {
     "name": "folder-yellow-private.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-private.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-private.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
   },
   {
     "name": "folder-yellow-recent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-recent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-recent.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "recent"
+    ]
   },
   {
     "name": "folder-yellow-remote.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-remote.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-remote.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "remote"
+    ]
   },
   {
     "name": "folder-yellow-script.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-script.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-script.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "script"
+    ]
   },
   {
     "name": "folder-yellow-steam.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-steam.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-steam.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "steam"
+    ]
   },
   {
     "name": "folder-yellow-tar.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-tar.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-tar.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "tar"
+    ]
   },
   {
     "name": "folder-yellow-templates.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-templates.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-templates.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "templates"
+    ]
   },
   {
     "name": "folder-yellow-torrent.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-torrent.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-torrent.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "torrent",
+      "social",
+      "logo"
+    ]
   },
   {
     "name": "folder-yellow-unlocked.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-unlocked.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-unlocked.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "unlocked"
+    ]
   },
   {
     "name": "folder-yellow-vbox.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-vbox.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-vbox.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "vbox"
+    ]
   },
   {
     "name": "folder-yellow-video.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-video.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-video.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "film",
+      "movie",
+      "video"
+    ]
   },
   {
     "name": "folder-yellow-visiting.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-visiting.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-visiting.svg",
+    "tags": [
+      "folder",
+      "visiting",
+      "yellow"
+    ]
   },
   {
     "name": "folder-yellow-wifi.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-wifi.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-wifi.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "wifi"
+    ]
   },
   {
     "name": "folder-yellow-wine.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-wine.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-wine.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "wine"
+    ]
   },
   {
     "name": "folder-yellow-yandex-disk.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-yandex-disk.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow-yandex-disk.svg",
+    "tags": [
+      "folder",
+      "yellow",
+      "yandex",
+      "disc",
+      "disk"
+    ]
   },
   {
     "name": "folder-yellow.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-yellow.svg",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
   },
   {
     "name": "network-workgroup.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/network-workgroup.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/network-workgroup.svg",
+    "tags": [
+      "network",
+      "workgroup"
+    ]
   },
   {
     "name": "user-black-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-black-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-black-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "black",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-black-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-black-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-black-home.svg",
+    "tags": [
+      "black",
+      "customer",
+      "person",
+      "user",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-blue-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-blue-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-blue-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "blue",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-blue-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-blue-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-blue-home.svg",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "blue",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-cyan-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-cyan-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-cyan-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "cyan",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-cyan-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-cyan-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-cyan-home.svg",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "cyan",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-green-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-green-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-green-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "green",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-green-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-green-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-green-home.svg",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "green",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-grey-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-grey-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-grey-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "grey",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-grey-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-grey-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-grey-home.svg",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "grey",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-magenta-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-magenta-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-magenta-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "magenta",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-magenta-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-magenta-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-magenta-home.svg",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "magenta",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-orange-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-orange-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-orange-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "orange",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-orange-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-orange-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-orange-home.svg",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "orange",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-red-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-red-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-red-desktop.svg",
+    "tags": [
+      "user",
+      "customer",
+      "person",
+      "red",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-red-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-red-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-red-home.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "red",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-teal-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-teal-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-teal-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "teal",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-teal-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-teal-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-teal-home.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "teal",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-violet-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-violet-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-violet-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "violet",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-violet-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-violet-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-violet-home.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "violet",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   },
   {
     "name": "user-yellow-desktop.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-yellow-desktop.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-yellow-desktop.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "yellow",
+      "desk",
+      "desktop",
+      "face"
+    ]
   },
   {
     "name": "user-yellow-home.svg",
     "format": "Vector",
-    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-yellow-home.svg"
+    "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-yellow-home.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "yellow",
+      "home",
+      "house",
+      "face",
+      "building"
+    ]
   }
 ]

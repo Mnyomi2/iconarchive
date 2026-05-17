@@ -1,0 +1,806 @@
+{
+  "app-vnd": [
+    "app",
+    "application",
+    "software",
+    "vnd.insync.link.drive.draw",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-virtualbox-vhd": [
+    "app",
+    "application",
+    "software",
+    "vhd",
+    "virtualbox",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-po": [
+    "text",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-zerosize": [
+    "app",
+    "application",
+    "software",
+    "zerosize",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-log": [
+    "text",
+    "log",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-virtualbox-hdd": [
+    "app",
+    "application",
+    "software",
+    "harddisk",
+    "harddrive",
+    "hd",
+    "hdd",
+    "virtualbox",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "disc",
+    "disk",
+    "hardware"
+  ],
+  "text-x-qml": [
+    "text",
+    "qml",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-hex": [
+    "text",
+    "hex",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-scala": [
+    "text",
+    "scala",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-authors": [
+    "text",
+    "authors",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-tiled": [
+    "app",
+    "application",
+    "software",
+    "tiled",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-copying": [
+    "text",
+    "copying",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-bittorrent": [
+    "app",
+    "application",
+    "software",
+    "bittorrent",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "image-svg-plus-xml-compressed": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "svg",
+    "plus",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "xml",
+    "compressed"
+  ],
+  "rpm": [
+    "rpm",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "image-x-generic": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "generic",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-virtualbox-vmdk": [
+    "app",
+    "application",
+    "software",
+    "virtualbox",
+    "vmdk",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "x-office-calendar": [
+    "office",
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "microsoft",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "qgis-qpt": [
+    "qgis",
+    "qpt",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-wxmathml": [
+    "text",
+    "wxmathml",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-font-ttf": [
+    "app",
+    "application",
+    "software",
+    "font",
+    "ttf",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-iso9660-appimage": [
+    "app",
+    "application",
+    "software",
+    "iso",
+    "appimage",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-designer": [
+    "app",
+    "application",
+    "software",
+    "designer",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-fictionbook": [
+    "app",
+    "application",
+    "software",
+    "fictionbook",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-yaml": [
+    "app",
+    "application",
+    "software",
+    "yaml",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-plasma": [
+    "app",
+    "application",
+    "software",
+    "plasma",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-virtualbox-ovf": [
+    "app",
+    "application",
+    "software",
+    "ovf",
+    "virtualbox",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-ruby": [
+    "text",
+    "ruby",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "image-x-svg-plus-xml": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "svg",
+    "plus",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "xml"
+  ],
+  "unknown": [
+    "unknown",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-dxf": [
+    "app",
+    "application",
+    "software",
+    "dxf",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-octave": [
+    "text",
+    "octave",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-diff": [
+    "text",
+    "diff",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-sqlite-2": [
+    "app",
+    "application",
+    "software",
+    "sqlite",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "gnome-mime-app-x-referencer": [
+    "gnome",
+    "mime",
+    "app",
+    "application",
+    "software",
+    "mimetype",
+    "mimetypes",
+    "referencer"
+  ],
+  "app-x-virtualbox-vdi": [
+    "app",
+    "application",
+    "software",
+    "vdi",
+    "virtualbox",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-trash": [
+    "app",
+    "application",
+    "recycle",
+    "software",
+    "bin",
+    "garbage",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-virtualbox-vbox": [
+    "app",
+    "application",
+    "software",
+    "vbox",
+    "virtualbox",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-markdown": [
+    "text",
+    "markdown",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-patch": [
+    "text",
+    "patch",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-pdf": [
+    "app",
+    "application",
+    "software",
+    "pdf",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "audio-x-flac": [
+    "audio",
+    "music",
+    "sound",
+    "flac",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "image-x-xcf": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "xcf",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-rust": [
+    "text",
+    "rust",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-python": [
+    "text",
+    "python",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-xml": [
+    "app",
+    "application",
+    "software",
+    "xml",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-shockwave-flash": [
+    "app",
+    "application",
+    "software",
+    "shockwave",
+    "flash",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-pkix-cert": [
+    "app",
+    "application",
+    "software",
+    "cert",
+    "pkix",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-c-plus-plus-src": [
+    "text",
+    "plus",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "src"
+  ],
+  "app-x-sharedlib": [
+    "app",
+    "application",
+    "software",
+    "sharedlib",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-makefile": [
+    "text",
+    "makefile",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-tex": [
+    "text",
+    "tex",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-iso": [
+    "app",
+    "application",
+    "software",
+    "iso",
+    "mimetypes",
+    "mime",
+    "mimetype"
+  ],
+  "app-x-msdos-program": [
+    "app",
+    "application",
+    "software",
+    "msdos",
+    "program",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-php": [
+    "app",
+    "application",
+    "software",
+    "php",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-generic": [
+    "text",
+    "generic",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-javascript": [
+    "app",
+    "application",
+    "software",
+    "javascript",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "qgis-qgs": [
+    "qgis",
+    "qgs",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-chdr": [
+    "text",
+    "chdr",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-script": [
+    "text",
+    "script",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "playlist": [
+    "playlist",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "x-office-document": [
+    "doc",
+    "document",
+    "file",
+    "mimetype",
+    "office",
+    "microsoft",
+    "mimetypes",
+    "mime",
+    "paper"
+  ],
+  "app-x-compress": [
+    "app",
+    "application",
+    "software",
+    "compress",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-css": [
+    "text",
+    "css",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-pgp-keys": [
+    "application",
+    "software",
+    "app",
+    "opener",
+    "pgp",
+    "key",
+    "keys",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "access",
+    "private",
+    "padlock",
+    "lock",
+    "encrypted",
+    "encrypt",
+    "decrypted",
+    "decrypt",
+    "unlock"
+  ],
+  "text-x-changelog": [
+    "text",
+    "changelog",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-csrc": [
+    "text",
+    "csrc",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-mswinurl": [
+    "app",
+    "application",
+    "software",
+    "mswinurl",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-kmymoney": [
+    "app",
+    "application",
+    "software",
+    "kmymoney",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-lua": [
+    "text",
+    "lua",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-generic-template": [
+    "text",
+    "generic",
+    "template",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-java": [
+    "text",
+    "coffee",
+    "java",
+    "drink",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "food",
+    "meal"
+  ],
+  "text-x-readme": [
+    "text",
+    "readme",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-musescore": [
+    "app",
+    "application",
+    "software",
+    "musescore",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-install": [
+    "text",
+    "install",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-gettext-translation": [
+    "app",
+    "application",
+    "software",
+    "gettext",
+    "mime",
+    "mimetype",
+    "mimetypes",
+    "translation"
+  ],
+  "xoj": [
+    "xoj",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-csharp": [
+    "text",
+    "csharp",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "video-x-generic": [
+    "film",
+    "movie",
+    "video",
+    "generic",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "x-office-spreadsheet": [
+    "office",
+    "spreadsheet",
+    "microsoft",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-r": [
+    "text",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "x-office-presentation": [
+    "office",
+    "presentation",
+    "microsoft",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-json": [
+    "json",
+    "app",
+    "application",
+    "software",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-srt": [
+    "app",
+    "application",
+    "software",
+    "srt",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-dwg": [
+    "app",
+    "application",
+    "software",
+    "dwg",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-go": [
+    "text",
+    "go",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-mo": [
+    "text",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-blender": [
+    "app",
+    "application",
+    "software",
+    "blender",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-pgp-encrypted": [
+    "app",
+    "application",
+    "software",
+    "pgp",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "audio-x-generic": [
+    "audio",
+    "music",
+    "sound",
+    "generic",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "app-x-virtualbox-ova": [
+    "app",
+    "application",
+    "software",
+    "ova",
+    "virtualbox",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ],
+  "text-x-haskell": [
+    "text",
+    "haskell",
+    "mime",
+    "mimetype",
+    "mimetypes"
+  ]
+}
