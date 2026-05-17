@@ -1,4 +1,4 @@
-name: Update Vector Icons
+name: test.yml
 
 on:
   workflow_dispatch:
