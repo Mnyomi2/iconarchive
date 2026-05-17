@@ -28,7 +28,7 @@ jobs:
 
       - name: 🚀 Run Scraper (Mac + Update)
         run: |
-          python3 iconarchive_perfect_selective.py mac update
+          python3 iconarchive_perfect_selective.py vector mac update
 
       - name: 📤 Auto Commit and Push back to GitHub
         run: |
