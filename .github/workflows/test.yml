@@ -37,7 +37,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Stage the downloaded files and manifest
-          git add Designer/ master_index.json Designer.txt
+          git add .
           
           if git diff --staged --quiet; then
             echo "✅ No new vector icons were downloaded. Everything is up to date."
