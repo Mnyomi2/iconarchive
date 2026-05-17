@@ -51,4 +51,4 @@ jobs:
         run: |
           echo "⏳ Waiting 5 seconds before purge..."
           sleep 5
-          curl -s "https://purge.jsdelivr.net/gh/Mnyomi2/iconarchive@main/master_index.json"
+          curl -s "https://purge.jsdelivr.net/gh/Mnyomi2/iconarchive@main"
