@@ -37,7 +37,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Stage the downloaded files and manifest
-          git add Designer/ master_index.json Designer.txt
+          git add .
           
           if git diff --staged --quiet; then
             echo "✅ No new vector icons were downloaded. Everything is up to date."
@@ -46,3 +46,9 @@ jobs:
             git commit -m "🤖 Auto-downloaded missing vector icons & updated index"
             git push origin HEAD:${GITHUB_REF}
           fi
+
+      - name: 🧹 Purge jsDelivr Cache
+        run: |
+          echo "⏳ Waiting 5 seconds before purge..."
+          sleep 5
+          curl -s "https://purge.jsdelivr.net/gh/Mnyomi2/iconarchive@main"
