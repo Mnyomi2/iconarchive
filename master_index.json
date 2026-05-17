@@ -1,1 +1,132 @@
-{}
+{
+  "Papirus Team": {
+    "total_icons": 1865,
+    "packs": {
+      "Papirus Devices Icons": {
+        "icon_count": 42,
+        "previews": [
+          {
+            "format": "Vector",
+            "name": "audio-card.svg",
+            "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-card.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "input-keyboard.svg",
+            "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-keyboard.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "input-tablet.svg",
+            "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-tablet.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "camera-web.svg",
+            "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/camera-web.svg"
+          }
+        ]
+      },
+      "Papirus Places Icons": {
+        "icon_count": 255,
+        "previews": [
+          {
+            "format": "Vector",
+            "name": "user-teal-desktop.svg",
+            "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-teal-desktop.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "folder-red-tar.svg",
+            "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-red-tar.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "folder-blue-wine.svg",
+            "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/folder-blue-wine.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "user-red-home.svg",
+            "path": "Designer/Papirus-Team/Papirus-Places-Icons/Vector/user-red-home.svg"
+          }
+        ]
+      },
+      "Papirus Status Icons": {
+        "icon_count": 62,
+        "previews": [
+          {
+            "format": "Vector",
+            "name": "battery-low.svg",
+            "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-low.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "battery-good.svg",
+            "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-good.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "nm-signal-25.svg",
+            "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-25.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "notification-microphone-sensitivity-medium.svg",
+            "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-medium.svg"
+          }
+        ]
+      },
+      "Papirus Apps Icons": {
+        "icon_count": 1414,
+        "previews": [
+          {
+            "format": "Vector",
+            "name": "ms-word.svg",
+            "path": "Designer/Papirus-Team/Papirus-Apps-Icons/Vector/ms-word.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "cutecom.svg",
+            "path": "Designer/Papirus-Team/Papirus-Apps-Icons/Vector/cutecom.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "ppsspp.svg",
+            "path": "Designer/Papirus-Team/Papirus-Apps-Icons/Vector/ppsspp.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "signal-desktop.svg",
+            "path": "Designer/Papirus-Team/Papirus-Apps-Icons/Vector/signal-desktop.svg"
+          }
+        ]
+      },
+      "Papirus Mimetypes Icons": {
+        "icon_count": 92,
+        "previews": [
+          {
+            "format": "Vector",
+            "name": "app-dxf.svg",
+            "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-dxf.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "text-x-authors.svg",
+            "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-authors.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "app-vnd.oasis.opendocument.graphics.svg",
+            "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.graphics.svg"
+          },
+          {
+            "format": "Vector",
+            "name": "app-x-gettext-translation.svg",
+            "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-gettext-translation.svg"
+          }
+        ]
+      }
+    }
+  }
+}
