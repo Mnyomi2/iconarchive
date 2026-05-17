@@ -28,7 +28,7 @@ jobs:
 
       - name: 🚀 Run Scraper (Windows + Update)
         run: |
-          python3 iconarchive_perfect_selective.py windows update
+          python3 iconarchive_perfect_selective.py vector windows update
 
       - name: 📤 Auto Commit and Push back to GitHub
         run: |
