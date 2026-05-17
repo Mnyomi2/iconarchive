@@ -46,3 +46,9 @@ jobs:
             git commit -m "🤖 Auto-downloaded missing vector icons & updated index"
             git push origin HEAD:${GITHUB_REF}
           fi
+
+      - name: 🧹 Purge jsDelivr Cache
+        run: |
+          echo "⏳ Waiting 5 seconds before purge..."
+          sleep 5
+          curl -s "https://purge.jsdelivr.net/gh/Mnyomi2/iconarchive@main/master_index.json"
