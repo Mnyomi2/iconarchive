@@ -28,7 +28,7 @@ jobs:
 
       - name: 🚀 Run Scraper (PNG + Update)
         run: |
-          python3 iconarchive_perfect_selective.py png update
+          python3 iconarchive_perfect_selective.py vector png update
 
       - name: 📤 Auto Commit and Push back to GitHub
         run: |
