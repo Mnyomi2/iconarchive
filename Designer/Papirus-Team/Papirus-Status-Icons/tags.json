@@ -1,0 +1,499 @@
+{
+  "nm-signal-75": [
+    "signal",
+    "status"
+  ],
+  "dialog-question": [
+    "dialog",
+    "faq",
+    "help",
+    "question",
+    "support",
+    "status"
+  ],
+  "battery-empty-charging": [
+    "battery",
+    "empty",
+    "erase",
+    "charging",
+    "power",
+    "status"
+  ],
+  "airplane-mode": [
+    "aircraft",
+    "airplane",
+    "plane",
+    "mode",
+    "status",
+    "transport"
+  ],
+  "network-offline": [
+    "network",
+    "disconnected",
+    "offline",
+    "status"
+  ],
+  "battery-caution": [
+    "battery",
+    "caution",
+    "power",
+    "status"
+  ],
+  "battery-empty": [
+    "battery",
+    "empty",
+    "erase",
+    "power",
+    "status"
+  ],
+  "notification-network-wireless": [
+    "network",
+    "notification",
+    "wireless",
+    "status"
+  ],
+  "dialog-error": [
+    "dialog",
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate",
+    "status"
+  ],
+  "bluetooth-active": [
+    "bluetooth",
+    "active",
+    "status"
+  ],
+  "notification-touchpad-disabled-symbolic": [
+    "notification",
+    "touchpad",
+    "disabled",
+    "status",
+    "symbolic"
+  ],
+  "notification-display-brightness-off": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "notification",
+    "screen",
+    "terminal",
+    "workstation",
+    "brightness",
+    "off",
+    "status",
+    "control",
+    "hardware"
+  ],
+  "network-error": [
+    "network",
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate",
+    "status"
+  ],
+  "user-trash-full": [
+    "person",
+    "recyclebin",
+    "user",
+    "customer",
+    "garbage",
+    "recycle",
+    "recycled",
+    "trash",
+    "bin",
+    "full",
+    "face",
+    "status"
+  ],
+  "notification-audio-volume-low": [
+    "audio",
+    "music",
+    "notification",
+    "sound",
+    "volume",
+    "low",
+    "status"
+  ],
+  "battery-low": [
+    "battery",
+    "low",
+    "power",
+    "status"
+  ],
+  "battery-full": [
+    "battery",
+    "full",
+    "power",
+    "status"
+  ],
+  "notification-disabled": [
+    "disabled",
+    "notification",
+    "status"
+  ],
+  "battery-missing": [
+    "battery",
+    "missing",
+    "power",
+    "status"
+  ],
+  "battery-full-charged": [
+    "battery",
+    "full",
+    "charged",
+    "power",
+    "status"
+  ],
+  "bluetooth": [
+    "bluetooth",
+    "status"
+  ],
+  "notification-input-touchpad-symbolic": [
+    "input",
+    "notification",
+    "touchpad",
+    "status",
+    "symbolic"
+  ],
+  "notification-network-ethernet-connected": [
+    "network",
+    "notification",
+    "ethernet",
+    "connected",
+    "online",
+    "status"
+  ],
+  "camera-on": [
+    "cam",
+    "camera",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "status"
+  ],
+  "notification-gsm-connected": [
+    "notification",
+    "gsm",
+    "connected",
+    "online",
+    "status"
+  ],
+  "notification-gsm-disconnected": [
+    "notification",
+    "gsm",
+    "disconnected",
+    "offline",
+    "status"
+  ],
+  "notification-keyboard-brightness": [
+    "keyboard",
+    "notification",
+    "brightness",
+    "status",
+    "hardware"
+  ],
+  "avatar-default": [
+    "avatar",
+    "default",
+    "status"
+  ],
+  "notification-microphone-sensitivity-low": [
+    "notification",
+    "microphone",
+    "low",
+    "sensitivity",
+    "status"
+  ],
+  "printer-error": [
+    "printer",
+    "print",
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate",
+    "hardware",
+    "status"
+  ],
+  "battery-caution-charging": [
+    "battery",
+    "caution",
+    "charging",
+    "power",
+    "status"
+  ],
+  "notification-network-wireless-disconnected": [
+    "network",
+    "notification",
+    "disconnected",
+    "offline",
+    "status",
+    "wireless"
+  ],
+  "notification-microphone-sensitivity-high": [
+    "notification",
+    "microphone",
+    "high",
+    "sensitivity",
+    "status"
+  ],
+  "battery-ac-adapter": [
+    "adapter",
+    "battery",
+    "plug",
+    "power",
+    "status"
+  ],
+  "nm-signal-50": [
+    "signal",
+    "status"
+  ],
+  "notification-battery-low": [
+    "battery",
+    "notification",
+    "low",
+    "status",
+    "power"
+  ],
+  "notification-audio-volume-high": [
+    "audio",
+    "music",
+    "notification",
+    "sound",
+    "volume",
+    "high",
+    "status"
+  ],
+  "notification-display-brightness-low": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "notification",
+    "screen",
+    "terminal",
+    "workstation",
+    "brightness",
+    "low",
+    "status",
+    "control",
+    "hardware"
+  ],
+  "notification-printer-symbolic": [
+    "notification",
+    "print",
+    "printer",
+    "symbolic",
+    "status",
+    "hardware"
+  ],
+  "battery-full-charging": [
+    "battery",
+    "charging",
+    "full",
+    "power",
+    "status"
+  ],
+  "view-private": [
+    "view",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock",
+    "status"
+  ],
+  "notification-display-brightness-full": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "notification",
+    "screen",
+    "terminal",
+    "workstation",
+    "brightness",
+    "full",
+    "status",
+    "control",
+    "hardware"
+  ],
+  "image-missing": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "missing",
+    "status"
+  ],
+  "notification-microphone-sensitivity-medium": [
+    "notification",
+    "microphone",
+    "medium",
+    "sensitivity",
+    "status"
+  ],
+  "dialog-warning": [
+    "dialog",
+    "warning",
+    "status"
+  ],
+  "camera-off": [
+    "cam",
+    "camera",
+    "off",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "status"
+  ],
+  "notification-display-brightness-medium": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "notification",
+    "screen",
+    "terminal",
+    "workstation",
+    "brightness",
+    "medium",
+    "status",
+    "control",
+    "hardware"
+  ],
+  "battery-good-charging": [
+    "battery",
+    "good",
+    "charging",
+    "power",
+    "status"
+  ],
+  "bluetooth-disabled": [
+    "bluetooth",
+    "disabled",
+    "status"
+  ],
+  "notification-display-brightness-high": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "notification",
+    "screen",
+    "terminal",
+    "workstation",
+    "brightness",
+    "high",
+    "status",
+    "control",
+    "hardware"
+  ],
+  "user-trash": [
+    "customer",
+    "person",
+    "user",
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "face",
+    "status"
+  ],
+  "dialog-information": [
+    "dialog",
+    "info",
+    "information",
+    "status"
+  ],
+  "changes-prevent": [
+    "changes",
+    "prevent",
+    "status"
+  ],
+  "notification-microphone-sensitivity-muted": [
+    "notification",
+    "microphone",
+    "status",
+    "muted",
+    "sensitivity"
+  ],
+  "notification-audio-volume-muted": [
+    "audio",
+    "music",
+    "notification",
+    "sound",
+    "status",
+    "volume",
+    "muted"
+  ],
+  "nm-signal-100": [
+    "signal",
+    "status"
+  ],
+  "notification-device-eject": [
+    "device",
+    "notification",
+    "eject",
+    "status"
+  ],
+  "input-keyboard-virtual-off": [
+    "input",
+    "keyboard",
+    "virtual",
+    "off",
+    "status",
+    "hardware"
+  ],
+  "battery-good": [
+    "battery",
+    "good",
+    "power",
+    "status"
+  ],
+  "notification-audio-volume-medium": [
+    "audio",
+    "music",
+    "notification",
+    "sound",
+    "volume",
+    "medium",
+    "status"
+  ],
+  "battery-low-charging": [
+    "battery",
+    "low",
+    "charging",
+    "power",
+    "status"
+  ],
+  "nm-signal-25": [
+    "signal",
+    "status"
+  ]
+}

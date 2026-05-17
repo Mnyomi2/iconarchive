@@ -1,0 +1,1740 @@
+{
+  "folder-yellow-tar": [
+    "folder",
+    "yellow",
+    "tar"
+  ],
+  "folder-blue-templates": [
+    "folder",
+    "blue",
+    "templates"
+  ],
+  "user-black-home": [
+    "black",
+    "customer",
+    "person",
+    "user",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-teal-tar": [
+    "folder",
+    "teal",
+    "tar"
+  ],
+  "folder-blue-important": [
+    "folder",
+    "blue",
+    "important"
+  ],
+  "folder-yellow-private": [
+    "folder",
+    "yellow",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "folder-red-wine": [
+    "folder",
+    "red",
+    "wine"
+  ],
+  "folder-teal-mail": [
+    "folder",
+    "teal",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "folder-red-dropbox": [
+    "folder",
+    "red",
+    "dropbox"
+  ],
+  "folder-yellow-mega": [
+    "folder",
+    "yellow",
+    "mega"
+  ],
+  "folder-red-gnome": [
+    "folder",
+    "red",
+    "gnome"
+  ],
+  "folder-teal-photo": [
+    "folder",
+    "teal",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "folder-red-apple": [
+    "folder",
+    "apple",
+    "red"
+  ],
+  "user-orange-home": [
+    "person",
+    "customer",
+    "user",
+    "orange",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-teal-templates": [
+    "folder",
+    "teal",
+    "templates"
+  ],
+  "folder-teal-download": [
+    "folder",
+    "teal",
+    "decrease",
+    "down",
+    "download",
+    "arrow"
+  ],
+  "folder-yellow-meocloud": [
+    "folder",
+    "yellow",
+    "meocloud"
+  ],
+  "folder-yellow-google-drive": [
+    "folder",
+    "yellow",
+    "google",
+    "drive",
+    "browser"
+  ],
+  "folder-teal-print": [
+    "folder",
+    "teal",
+    "print",
+    "printer",
+    "hardware"
+  ],
+  "folder-red-script": [
+    "folder",
+    "red",
+    "script"
+  ],
+  "bookmarks": [
+    "bookmarks"
+  ],
+  "folder-green-music": [
+    "folder",
+    "green",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "folder-blue-yandex-disk": [
+    "folder",
+    "blue",
+    "disc",
+    "disk",
+    "yandex"
+  ],
+  "folder-yellow-wine": [
+    "folder",
+    "yellow",
+    "wine"
+  ],
+  "folder-teal-recent": [
+    "folder",
+    "teal",
+    "recent"
+  ],
+  "user-magenta-desktop": [
+    "customer",
+    "person",
+    "user",
+    "magenta",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "user-yellow-desktop": [
+    "customer",
+    "person",
+    "user",
+    "yellow",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-yellow-yandex-disk": [
+    "folder",
+    "yellow",
+    "yandex",
+    "disc",
+    "disk"
+  ],
+  "folder-red-copy-cloud": [
+    "folder",
+    "red",
+    "copy",
+    "cloud",
+    "cloudy",
+    "weather"
+  ],
+  "folder-yellow-apple": [
+    "folder",
+    "yellow",
+    "apple"
+  ],
+  "folder-yellow-steam": [
+    "folder",
+    "yellow",
+    "steam"
+  ],
+  "folder-blue-torrent": [
+    "folder",
+    "blue",
+    "torrent",
+    "social",
+    "logo"
+  ],
+  "folder-teal-gnome": [
+    "folder",
+    "teal",
+    "gnome"
+  ],
+  "folder-teal-network": [
+    "folder",
+    "teal",
+    "network"
+  ],
+  "folder-blue-development": [
+    "folder",
+    "blue",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "folder-teal": [
+    "folder",
+    "teal"
+  ],
+  "folder-green-mail-cloud": [
+    "folder",
+    "green",
+    "email",
+    "mail",
+    "cloud",
+    "cloudy",
+    "contact",
+    "weather"
+  ],
+  "folder-green-wine": [
+    "folder",
+    "green",
+    "wine"
+  ],
+  "folder-teal-documents": [
+    "doc",
+    "document",
+    "file",
+    "folder",
+    "teal",
+    "documents",
+    "paper"
+  ],
+  "folder-green-development": [
+    "folder",
+    "green",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "folder-yellow-documents": [
+    "folder",
+    "doc",
+    "document",
+    "file",
+    "yellow",
+    "documents",
+    "paper"
+  ],
+  "folder-yellow-locked": [
+    "folder",
+    "yellow",
+    "locked"
+  ],
+  "folder-teal-mega": [
+    "folder",
+    "teal",
+    "mega"
+  ],
+  "folder-teal-copy-cloud": [
+    "folder",
+    "teal",
+    "copy",
+    "cloud",
+    "cloudy",
+    "weather"
+  ],
+  "folder-teal-yandex-disk": [
+    "folder",
+    "teal",
+    "yandex",
+    "disc",
+    "disk"
+  ],
+  "network-workgroup": [
+    "network",
+    "workgroup"
+  ],
+  "folder-green-video": [
+    "folder",
+    "green",
+    "film",
+    "movie",
+    "video"
+  ],
+  "folder-blue-music": [
+    "music",
+    "blue",
+    "sound",
+    "audio",
+    "folder"
+  ],
+  "folder-green-games": [
+    "folder",
+    "green",
+    "game",
+    "games"
+  ],
+  "folder-yellow-script": [
+    "folder",
+    "yellow",
+    "script"
+  ],
+  "folder-blue-print": [
+    "folder",
+    "blue",
+    "print",
+    "printer",
+    "hardware"
+  ],
+  "folder-red-activities": [
+    "folder",
+    "red",
+    "activities"
+  ],
+  "folder-blue-mail-cloud": [
+    "folder",
+    "blue",
+    "email",
+    "mail",
+    "cloud",
+    "cloudy",
+    "contact",
+    "weather"
+  ],
+  "user-teal-home": [
+    "customer",
+    "person",
+    "user",
+    "teal",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-teal-wine": [
+    "folder",
+    "teal",
+    "wine"
+  ],
+  "folder-green-templates": [
+    "folder",
+    "green",
+    "templates"
+  ],
+  "folder-green-image-people": [
+    "folder",
+    "green",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "people"
+  ],
+  "folder-yellow-wifi": [
+    "folder",
+    "yellow",
+    "wifi"
+  ],
+  "folder-green-activities": [
+    "folder",
+    "green",
+    "activities"
+  ],
+  "folder-red-linux": [
+    "folder",
+    "red",
+    "linux",
+    "os"
+  ],
+  "folder-red-important": [
+    "folder",
+    "red",
+    "important"
+  ],
+  "folder-red-pictures": [
+    "folder",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "red",
+    "pictures"
+  ],
+  "folder-red-music": [
+    "folder",
+    "red",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "folder-red-games": [
+    "game",
+    "folder",
+    "red",
+    "games"
+  ],
+  "folder-yellow-mail-cloud": [
+    "folder",
+    "yellow",
+    "email",
+    "mail",
+    "cloud",
+    "cloudy",
+    "contact",
+    "weather"
+  ],
+  "folder-red-network": [
+    "folder",
+    "red",
+    "network"
+  ],
+  "folder-blue-vbox": [
+    "folder",
+    "blue",
+    "vbox"
+  ],
+  "folder-green-apple": [
+    "folder",
+    "apple",
+    "green"
+  ],
+  "folder-red-drag-accept": [
+    "folder",
+    "red",
+    "check",
+    "drag",
+    "accept",
+    "ok",
+    "tick",
+    "yes"
+  ],
+  "folder-teal-unlocked": [
+    "folder",
+    "teal",
+    "unlocked"
+  ],
+  "folder-blue-activities": [
+    "folder",
+    "blue",
+    "activities"
+  ],
+  "folder-red-vbox": [
+    "folder",
+    "red",
+    "vbox"
+  ],
+  "folder-red-mega": [
+    "folder",
+    "mega",
+    "red"
+  ],
+  "folder-yellow-image-people": [
+    "folder",
+    "yellow",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "people"
+  ],
+  "folder-red-open": [
+    "folder",
+    "open",
+    "red"
+  ],
+  "folder-red-private": [
+    "folder",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "red",
+    "unlock"
+  ],
+  "folder-blue-apple": [
+    "folder",
+    "blue",
+    "apple"
+  ],
+  "folder-yellow-unlocked": [
+    "folder",
+    "yellow",
+    "unlocked"
+  ],
+  "folder-red-recent": [
+    "folder",
+    "red",
+    "recent"
+  ],
+  "folder-teal-video": [
+    "folder",
+    "teal",
+    "film",
+    "movie",
+    "video"
+  ],
+  "folder-yellow-remote": [
+    "folder",
+    "yellow",
+    "remote"
+  ],
+  "folder-green-locked": [
+    "folder",
+    "green",
+    "locked"
+  ],
+  "folder-green-recent": [
+    "folder",
+    "green",
+    "recent"
+  ],
+  "folder-blue-mail": [
+    "folder",
+    "blue",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "folder-red-owncloud": [
+    "folder",
+    "owncloud",
+    "red"
+  ],
+  "folder-red-java": [
+    "folder",
+    "red",
+    "coffee",
+    "java",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "folder-yellow-favorites": [
+    "folder",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "yellow",
+    "favorites"
+  ],
+  "folder-green-important": [
+    "folder",
+    "green",
+    "important"
+  ],
+  "folder-teal-mail-cloud": [
+    "folder",
+    "teal",
+    "email",
+    "mail",
+    "cloud",
+    "cloudy",
+    "contact",
+    "weather"
+  ],
+  "folder-blue-git": [
+    "folder",
+    "blue",
+    "git"
+  ],
+  "folder-red-remote": [
+    "folder",
+    "red",
+    "remote"
+  ],
+  "folder-green-torrent": [
+    "folder",
+    "green",
+    "torrent",
+    "social",
+    "logo"
+  ],
+  "user-cyan-home": [
+    "person",
+    "customer",
+    "user",
+    "cyan",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-red-yandex-disk": [
+    "folder",
+    "red",
+    "yandex",
+    "disc",
+    "disk"
+  ],
+  "folder-blue-mega": [
+    "folder",
+    "blue",
+    "mega"
+  ],
+  "folder-green-cd": [
+    "folder",
+    "green",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "folder-blue-linux": [
+    "folder",
+    "blue",
+    "linux",
+    "os"
+  ],
+  "folder-yellow-vbox": [
+    "folder",
+    "yellow",
+    "vbox"
+  ],
+  "folder-red-git": [
+    "folder",
+    "git",
+    "red"
+  ],
+  "folder-green-gnome": [
+    "folder",
+    "green",
+    "gnome"
+  ],
+  "folder-blue-remote": [
+    "folder",
+    "blue",
+    "remote"
+  ],
+  "folder-green-unlocked": [
+    "folder",
+    "green",
+    "unlocked"
+  ],
+  "folder-green-steam": [
+    "folder",
+    "green",
+    "steam"
+  ],
+  "user-red-home": [
+    "customer",
+    "person",
+    "user",
+    "red",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-teal-dropbox": [
+    "folder",
+    "teal",
+    "dropbox"
+  ],
+  "folder-blue-google-drive": [
+    "folder",
+    "blue",
+    "google",
+    "drive",
+    "browser"
+  ],
+  "user-blue-home": [
+    "person",
+    "customer",
+    "user",
+    "blue",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-blue-image-people": [
+    "folder",
+    "blue",
+    "photo",
+    "image",
+    "photography",
+    "picture",
+    "people"
+  ],
+  "folder-yellow-recent": [
+    "folder",
+    "yellow",
+    "recent"
+  ],
+  "folder-yellow-development": [
+    "folder",
+    "yellow",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "folder-yellow-gnome": [
+    "folder",
+    "yellow",
+    "gnome"
+  ],
+  "user-green-home": [
+    "person",
+    "customer",
+    "user",
+    "green",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "user-grey-home": [
+    "person",
+    "customer",
+    "user",
+    "grey",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-red-wifi": [
+    "folder",
+    "red",
+    "wifi"
+  ],
+  "folder-red-favorites": [
+    "red",
+    "folder",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favorites",
+    "favourite"
+  ],
+  "folder-green-pictures": [
+    "folder",
+    "green",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "folder-red-image-people": [
+    "folder",
+    "red",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "people"
+  ],
+  "folder-yellow-owncloud": [
+    "folder",
+    "yellow",
+    "owncloud"
+  ],
+  "folder-red-cd": [
+    "folder",
+    "red",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "folder-yellow-important": [
+    "folder",
+    "yellow",
+    "important"
+  ],
+  "folder-yellow-visiting": [
+    "folder",
+    "visiting",
+    "yellow"
+  ],
+  "folder-blue-drag-accept": [
+    "folder",
+    "blue",
+    "drag",
+    "accept",
+    "check",
+    "ok",
+    "tick",
+    "yes"
+  ],
+  "folder-yellow-java": [
+    "folder",
+    "yellow",
+    "coffee",
+    "java",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "folder-blue-locked": [
+    "folder",
+    "blue",
+    "locked"
+  ],
+  "folder-yellow-linux": [
+    "folder",
+    "yellow",
+    "linux",
+    "os"
+  ],
+  "folder-blue-gnome": [
+    "folder",
+    "blue",
+    "gnome"
+  ],
+  "folder-green-drag-accept": [
+    "green",
+    "folder",
+    "drag",
+    "accept",
+    "check",
+    "ok",
+    "tick",
+    "yes"
+  ],
+  "user-violet-desktop": [
+    "customer",
+    "person",
+    "user",
+    "violet",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "user-magenta-home": [
+    "person",
+    "customer",
+    "user",
+    "magenta",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-blue-network": [
+    "folder",
+    "blue",
+    "network"
+  ],
+  "folder-teal-owncloud": [
+    "folder",
+    "teal",
+    "owncloud"
+  ],
+  "folder-green-documents": [
+    "folder",
+    "doc",
+    "document",
+    "file",
+    "green",
+    "documents",
+    "paper"
+  ],
+  "folder-teal-git": [
+    "folder",
+    "git",
+    "teal"
+  ],
+  "folder-red-documents": [
+    "doc",
+    "folder",
+    "document",
+    "file",
+    "red",
+    "documents",
+    "paper"
+  ],
+  "folder-red-locked": [
+    "folder",
+    "locked",
+    "red"
+  ],
+  "folder-teal-favorites": [
+    "folder",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "teal",
+    "favorites"
+  ],
+  "folder-green-network": [
+    "folder",
+    "green",
+    "network"
+  ],
+  "folder-teal-private": [
+    "folder",
+    "teal",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "folder-green-print": [
+    "folder",
+    "green",
+    "print",
+    "printer",
+    "hardware"
+  ],
+  "folder-yellow-drag-accept": [
+    "folder",
+    "yellow",
+    "drag",
+    "accept",
+    "check",
+    "ok",
+    "tick",
+    "yes"
+  ],
+  "bookmark-missing": [
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "missing"
+  ],
+  "folder-yellow-open": [
+    "folder",
+    "yellow",
+    "open"
+  ],
+  "folder-yellow-download": [
+    "folder",
+    "yellow",
+    "decrease",
+    "down",
+    "download",
+    "arrow"
+  ],
+  "folder-red": [
+    "folder",
+    "red"
+  ],
+  "folder-red-tar": [
+    "folder",
+    "red",
+    "tar"
+  ],
+  "folder-teal-cd": [
+    "folder",
+    "teal",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "folder-green-copy-cloud": [
+    "folder",
+    "green",
+    "copy",
+    "cloud",
+    "cloudy",
+    "weather"
+  ],
+  "folder-green-dropbox": [
+    "folder",
+    "green",
+    "dropbox"
+  ],
+  "folder-red-unlocked": [
+    "folder",
+    "red",
+    "unlocked"
+  ],
+  "folder-yellow-photo": [
+    "folder",
+    "yellow",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "folder-blue-download": [
+    "folder",
+    "blue",
+    "download",
+    "decrease",
+    "down",
+    "arrow"
+  ],
+  "folder-green-download": [
+    "folder",
+    "green",
+    "decrease",
+    "down",
+    "download",
+    "arrow"
+  ],
+  "folder-green-favorites": [
+    "folder",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "green",
+    "favorites"
+  ],
+  "folder-yellow-mail": [
+    "folder",
+    "yellow",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "folder-teal-music": [
+    "folder",
+    "teal",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "folder-teal-torrent": [
+    "folder",
+    "teal",
+    "torrent",
+    "social",
+    "logo"
+  ],
+  "folder-green-meocloud": [
+    "folder",
+    "green",
+    "meocloud"
+  ],
+  "folder-teal-remote": [
+    "folder",
+    "teal",
+    "remote"
+  ],
+  "folder-blue-photo": [
+    "folder",
+    "photo",
+    "blue",
+    "image",
+    "photography",
+    "picture"
+  ],
+  "folder-green-vbox": [
+    "folder",
+    "green",
+    "vbox"
+  ],
+  "folder-yellow-torrent": [
+    "folder",
+    "yellow",
+    "torrent",
+    "social",
+    "logo"
+  ],
+  "folder-blue-recent": [
+    "folder",
+    "blue",
+    "recent"
+  ],
+  "user-grey-desktop": [
+    "customer",
+    "person",
+    "user",
+    "grey",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-yellow-music": [
+    "folder",
+    "yellow",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "folder-blue-games": [
+    "folder",
+    "game",
+    "games",
+    "blue"
+  ],
+  "folder-blue-copy-cloud": [
+    "folder",
+    "blue",
+    "copy",
+    "cloud",
+    "cloudy",
+    "weather"
+  ],
+  "folder-red-mail-cloud": [
+    "folder",
+    "red",
+    "email",
+    "mail",
+    "cloud",
+    "cloudy",
+    "contact",
+    "weather"
+  ],
+  "folder-red-download": [
+    "folder",
+    "down",
+    "download",
+    "decrease",
+    "red",
+    "arrow"
+  ],
+  "user-teal-desktop": [
+    "customer",
+    "person",
+    "user",
+    "teal",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-blue-owncloud": [
+    "folder",
+    "blue",
+    "owncloud"
+  ],
+  "folder-red-meocloud": [
+    "folder",
+    "red",
+    "meocloud"
+  ],
+  "folder-teal-drag-accept": [
+    "folder",
+    "teal",
+    "drag",
+    "accept",
+    "check",
+    "ok",
+    "tick",
+    "yes"
+  ],
+  "folder-teal-important": [
+    "folder",
+    "teal",
+    "important"
+  ],
+  "folder-teal-java": [
+    "folder",
+    "teal",
+    "coffee",
+    "java",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "folder-teal-vbox": [
+    "folder",
+    "teal",
+    "vbox"
+  ],
+  "folder-green-open": [
+    "folder",
+    "green",
+    "open"
+  ],
+  "folder-red-print": [
+    "folder",
+    "red",
+    "print",
+    "printer",
+    "hardware"
+  ],
+  "folder-teal-development": [
+    "folder",
+    "teal",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "folder-teal-open": [
+    "folder",
+    "teal",
+    "open"
+  ],
+  "folder-yellow-network": [
+    "folder",
+    "yellow",
+    "network"
+  ],
+  "folder-yellow-cd": [
+    "folder",
+    "yellow",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "folder-yellow-git": [
+    "folder",
+    "yellow",
+    "git"
+  ],
+  "folder-green": [
+    "green",
+    "folder"
+  ],
+  "folder-green-private": [
+    "folder",
+    "green",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "folder-red-mail": [
+    "folder",
+    "red",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "folder-blue-favorites": [
+    "folder",
+    "blue",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "favorites"
+  ],
+  "folder-green-wifi": [
+    "folder",
+    "green",
+    "wifi"
+  ],
+  "folder-red-torrent": [
+    "folder",
+    "red",
+    "torrent",
+    "social",
+    "logo"
+  ],
+  "folder-red-steam": [
+    "folder",
+    "red",
+    "steam"
+  ],
+  "folder-teal-activities": [
+    "folder",
+    "teal",
+    "activities"
+  ],
+  "folder-red-video": [
+    "folder",
+    "red",
+    "video",
+    "film",
+    "movie"
+  ],
+  "folder-teal-google-drive": [
+    "folder",
+    "teal",
+    "google",
+    "drive",
+    "browser"
+  ],
+  "folder-green-mail": [
+    "folder",
+    "green",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "folder-blue-wine": [
+    "folder",
+    "blue",
+    "wine"
+  ],
+  "user-blue-desktop": [
+    "customer",
+    "person",
+    "user",
+    "blue",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-teal-image-people": [
+    "folder",
+    "teal",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "people"
+  ],
+  "folder-blue": [
+    "folder",
+    "blue"
+  ],
+  "folder-yellow-dropbox": [
+    "folder",
+    "yellow",
+    "dropbox"
+  ],
+  "folder-teal-wifi": [
+    "folder",
+    "teal",
+    "wifi"
+  ],
+  "folder-green-photo": [
+    "folder",
+    "green",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "user-violet-home": [
+    "customer",
+    "person",
+    "user",
+    "violet",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-green-git": [
+    "folder",
+    "green",
+    "git"
+  ],
+  "folder-blue-wifi": [
+    "folder",
+    "blue",
+    "wifi"
+  ],
+  "folder-green-linux": [
+    "folder",
+    "green",
+    "linux",
+    "os"
+  ],
+  "folder-teal-games": [
+    "folder",
+    "game",
+    "teal",
+    "games"
+  ],
+  "folder-yellow-copy-cloud": [
+    "folder",
+    "yellow",
+    "copy",
+    "cloud",
+    "cloudy",
+    "weather"
+  ],
+  "folder-green-yandex-disk": [
+    "folder",
+    "green",
+    "yandex",
+    "disc",
+    "disk"
+  ],
+  "user-black-desktop": [
+    "customer",
+    "person",
+    "user",
+    "black",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-teal-meocloud": [
+    "folder",
+    "teal",
+    "meocloud"
+  ],
+  "folder-green-java": [
+    "folder",
+    "green",
+    "coffee",
+    "java",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "folder-blue-visiting": [
+    "folder",
+    "blue",
+    "visiting"
+  ],
+  "folder-red-templates": [
+    "folder",
+    "red",
+    "templates"
+  ],
+  "folder-red-visiting": [
+    "folder",
+    "red",
+    "visiting"
+  ],
+  "folder-blue-private": [
+    "folder",
+    "blue",
+    "unlock",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private"
+  ],
+  "folder-yellow-games": [
+    "folder",
+    "game",
+    "games",
+    "yellow"
+  ],
+  "folder-yellow": [
+    "folder",
+    "yellow"
+  ],
+  "folder-red-google-drive": [
+    "folder",
+    "google",
+    "red",
+    "drive",
+    "browser"
+  ],
+  "user-green-desktop": [
+    "customer",
+    "person",
+    "user",
+    "green",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-teal-script": [
+    "folder",
+    "teal",
+    "script"
+  ],
+  "folder-blue-pictures": [
+    "folder",
+    "blue",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "folder-blue-video": [
+    "folder",
+    "blue",
+    "film",
+    "video",
+    "movie"
+  ],
+  "folder-green-mega": [
+    "folder",
+    "green",
+    "mega"
+  ],
+  "user-orange-desktop": [
+    "customer",
+    "person",
+    "user",
+    "orange",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-green-google-drive": [
+    "folder",
+    "green",
+    "google",
+    "drive",
+    "browser"
+  ],
+  "folder-blue-meocloud": [
+    "folder",
+    "blue",
+    "meocloud"
+  ],
+  "folder-yellow-activities": [
+    "folder",
+    "yellow",
+    "activities"
+  ],
+  "folder-red-development": [
+    "folder",
+    "red",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "folder-green-remote": [
+    "folder",
+    "green",
+    "remote"
+  ],
+  "folder-blue-dropbox": [
+    "folder",
+    "blue",
+    "dropbox"
+  ],
+  "user-cyan-desktop": [
+    "customer",
+    "person",
+    "user",
+    "cyan",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-green-tar": [
+    "folder",
+    "green",
+    "tar"
+  ],
+  "folder-red-photo": [
+    "folder",
+    "red",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "user-red-desktop": [
+    "user",
+    "customer",
+    "person",
+    "red",
+    "desk",
+    "desktop",
+    "face"
+  ],
+  "folder-teal-apple": [
+    "folder",
+    "teal",
+    "apple"
+  ],
+  "folder-yellow-pictures": [
+    "folder",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "yellow",
+    "pictures"
+  ],
+  "folder-blue-java": [
+    "folder",
+    "blue",
+    "coffee",
+    "java",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "folder-green-visiting": [
+    "folder",
+    "green",
+    "visiting"
+  ],
+  "folder-green-owncloud": [
+    "folder",
+    "green",
+    "owncloud"
+  ],
+  "folder-teal-locked": [
+    "folder",
+    "teal",
+    "locked"
+  ],
+  "user-yellow-home": [
+    "customer",
+    "person",
+    "user",
+    "yellow",
+    "home",
+    "house",
+    "face",
+    "building"
+  ],
+  "folder-yellow-print": [
+    "folder",
+    "yellow",
+    "print",
+    "printer",
+    "hardware"
+  ],
+  "folder-blue-cd": [
+    "folder",
+    "blue",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "folder-blue-documents": [
+    "folder",
+    "blue",
+    "doc",
+    "document",
+    "file",
+    "documents",
+    "paper"
+  ],
+  "folder-yellow-video": [
+    "folder",
+    "yellow",
+    "film",
+    "movie",
+    "video"
+  ],
+  "folder-teal-visiting": [
+    "folder",
+    "teal",
+    "visiting"
+  ],
+  "folder-blue-unlocked": [
+    "folder",
+    "blue",
+    "unlocked"
+  ],
+  "folder-blue-open": [
+    "blue",
+    "folder",
+    "open"
+  ],
+  "folder-blue-script": [
+    "folder",
+    "blue",
+    "script"
+  ],
+  "folder-green-script": [
+    "folder",
+    "green",
+    "script"
+  ],
+  "folder-teal-linux": [
+    "folder",
+    "teal",
+    "linux",
+    "os"
+  ],
+  "folder-blue-steam": [
+    "folder",
+    "blue",
+    "steam"
+  ],
+  "folder-teal-pictures": [
+    "folder",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "teal",
+    "pictures"
+  ],
+  "folder-teal-steam": [
+    "folder",
+    "teal",
+    "steam"
+  ],
+  "folder-blue-tar": [
+    "folder",
+    "blue",
+    "tar"
+  ],
+  "folder-yellow-templates": [
+    "folder",
+    "yellow",
+    "templates"
+  ]
+}
