@@ -1,0 +1,5571 @@
+{
+  "marsshooter": [
+    "marsshooter"
+  ],
+  "scinotes": [
+    "scinotes"
+  ],
+  "org": [
+    "org.gnome.dfeet"
+  ],
+  "freeplane": [
+    "freeplane"
+  ],
+  "abiword": [
+    "abiword"
+  ],
+  "httrack": [
+    "httrack"
+  ],
+  "dbeaver": [
+    "dbeaver",
+    "beaver"
+  ],
+  "applications-education": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "education"
+  ],
+  "disk-utility": [
+    "disc",
+    "disk",
+    "utility"
+  ],
+  "libreoffice-base": [
+    "base",
+    "libreoffice"
+  ],
+  "checkbox": [
+    "checkbox"
+  ],
+  "gnome-mplayer": [
+    "gnome",
+    "mplayer"
+  ],
+  "referencer": [
+    "referencer"
+  ],
+  "badland": [
+    "badland"
+  ],
+  "tresorit": [
+    "tresorit"
+  ],
+  "variety": [
+    "variety"
+  ],
+  "kalgebra": [
+    "kalgebra"
+  ],
+  "minitube": [
+    "minitube"
+  ],
+  "ibus": [
+    "ibus"
+  ],
+  "staruml": [
+    "staruml"
+  ],
+  "gargoyle-house": [
+    "gargoyle",
+    "home",
+    "house",
+    "building"
+  ],
+  "firefox-trunk": [
+    "firefox",
+    "trunk",
+    "browser"
+  ],
+  "soundkonverter": [
+    "soundkonverter"
+  ],
+  "plexhometheater": [
+    "plexhometheater"
+  ],
+  "pycharm": [
+    "pycharm"
+  ],
+  "rakarrack": [
+    "rakarrack"
+  ],
+  "musicbrainz": [
+    "musicbrainz"
+  ],
+  "devdocs": [
+    "devdocs"
+  ],
+  "life-is-strange": [
+    "life",
+    "strange"
+  ],
+  "distributor-logo-freebsd": [
+    "distributor",
+    "logo",
+    "freebsd"
+  ],
+  "kvantum": [
+    "kvantum"
+  ],
+  "xorg": [
+    "xorg"
+  ],
+  "nylas": [
+    "nylas"
+  ],
+  "github-artemanufrij-metronome": [
+    "github",
+    "artemanufrij",
+    "metronome"
+  ],
+  "kgeography": [
+    "kgeography"
+  ],
+  "krusader-root": [
+    "krusader",
+    "root"
+  ],
+  "system-software-update": [
+    "system",
+    "app",
+    "application",
+    "software",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "gtk3-demo": [
+    "gtk",
+    "demo"
+  ],
+  "owncloud": [
+    "owncloud"
+  ],
+  "khangman": [
+    "khangman"
+  ],
+  "openspades": [
+    "openspades"
+  ],
+  "soapui": [
+    "soapui"
+  ],
+  "jamovi": [
+    "jamovi"
+  ],
+  "chocolate-doom-setup": [
+    "chocolate",
+    "doom",
+    "setup",
+    "food",
+    "meal"
+  ],
+  "github-mirkobrombin-bottles": [
+    "github",
+    "bottles",
+    "mirkobrombin"
+  ],
+  "cisco-anyconnect": [
+    "cisco",
+    "anyconnect"
+  ],
+  "warzone-2100": [
+    "warzone"
+  ],
+  "selene": [
+    "selene"
+  ],
+  "granule": [
+    "granule"
+  ],
+  "charles-proxy": [
+    "charles",
+    "proxy"
+  ],
+  "nasc": [
+    "nasc"
+  ],
+  "ease": [
+    "ease"
+  ],
+  "desmume": [
+    "desmume"
+  ],
+  "teamviewer": [
+    "teamviewer"
+  ],
+  "airvpn": [
+    "airvpn"
+  ],
+  "qgis": [
+    "qgis"
+  ],
+  "github-bcedu-shutdownscheduler": [
+    "github",
+    "bcedu",
+    "shutdownscheduler"
+  ],
+  "google-photos": [
+    "google",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "photos",
+    "browser"
+  ],
+  "sirikali": [
+    "sirikali"
+  ],
+  "popcorn-time": [
+    "popcorn",
+    "time"
+  ],
+  "puddletag": [
+    "puddletag"
+  ],
+  "google-docs": [
+    "google",
+    "docs",
+    "browser"
+  ],
+  "mate-panel-drawer": [
+    "mate",
+    "panel",
+    "drawer"
+  ],
+  "libreoffice-math": [
+    "libreoffice",
+    "math"
+  ],
+  "calibre-ebook-edit": [
+    "calibre",
+    "ebook",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "password-manager": [
+    "password",
+    "manager"
+  ],
+  "gpodder": [
+    "gpodder"
+  ],
+  "xchat": [
+    "xchat"
+  ],
+  "gitkraken": [
+    "gitkraken"
+  ],
+  "pcbcalculator": [
+    "pcbcalculator"
+  ],
+  "opera-developer": [
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "opera",
+    "setting",
+    "developer",
+    "development",
+    "settings",
+    "browser"
+  ],
+  "kontact-import-wizard": [
+    "kontact",
+    "import",
+    "wizard"
+  ],
+  "lyx": [
+    "lyx"
+  ],
+  "choqok": [
+    "choqok"
+  ],
+  "krename": [
+    "krename"
+  ],
+  "cutemarked": [
+    "cutemarked"
+  ],
+  "gummi": [
+    "gummi"
+  ],
+  "github-donadigo-eddy": [
+    "github",
+    "donadigo",
+    "eddy"
+  ],
+  "terminus": [
+    "terminus"
+  ],
+  "museeq": [
+    "museeq"
+  ],
+  "radiotray": [
+    "radiotray"
+  ],
+  "luminance-hdr": [
+    "luminance",
+    "hdr"
+  ],
+  "feedindicator": [
+    "feedindicator"
+  ],
+  "payday-2": [
+    "payday"
+  ],
+  "jitsi": [
+    "jitsi"
+  ],
+  "github-philip-scott-wallpaperize": [
+    "github",
+    "philip",
+    "scott",
+    "wallpaperize"
+  ],
+  "subsurface-icon": [
+    "icon",
+    "subsurface"
+  ],
+  "insync": [
+    "insync"
+  ],
+  "tux": [
+    "tux"
+  ],
+  "kget": [
+    "kget"
+  ],
+  "wingpanel": [
+    "wingpanel"
+  ],
+  "compton": [
+    "compton"
+  ],
+  "l4d": [
+    "ld"
+  ],
+  "qsampler": [
+    "qsampler"
+  ],
+  "kturtle": [
+    "kturtle"
+  ],
+  "4kslideshowmaker": [
+    "kslideshowmaker"
+  ],
+  "netbeans": [
+    "netbeans"
+  ],
+  "pac": [
+    "pac"
+  ],
+  "chess": [
+    "chess",
+    "game"
+  ],
+  "xnoise": [
+    "xnoise"
+  ],
+  "football": [
+    "football",
+    "ball",
+    "game",
+    "sport"
+  ],
+  "preferences-system-privacy": [
+    "preferences",
+    "prefs",
+    "system",
+    "privacy"
+  ],
+  "fern-wifi-cracker": [
+    "fern",
+    "wifi",
+    "cracker"
+  ],
+  "qt4logo": [
+    "qtlogo"
+  ],
+  "arduino": [
+    "arduino"
+  ],
+  "navalbattle": [
+    "navalbattle"
+  ],
+  "colorhug-refresh": [
+    "colorhug",
+    "refresh",
+    "reload"
+  ],
+  "adventure-capitalist": [
+    "adventure",
+    "capitalist"
+  ],
+  "vkaudiosaver": [
+    "vkaudiosaver"
+  ],
+  "victor-vran": [
+    "victor",
+    "vran"
+  ],
+  "synapse": [
+    "synapse"
+  ],
+  "nitroshare": [
+    "nitroshare"
+  ],
+  "ocenaudio": [
+    "ocenaudio"
+  ],
+  "anbox": [
+    "anbox"
+  ],
+  "system-switch-user": [
+    "system",
+    "switch",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "ksame": [
+    "ksame"
+  ],
+  "konquest": [
+    "konquest"
+  ],
+  "eiskaltdcpp": [
+    "eiskaltdcpp"
+  ],
+  "realtimesync": [
+    "realtimesync"
+  ],
+  "preferences-system-search": [
+    "preferences",
+    "prefs",
+    "system",
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "security-high": [
+    "security",
+    "high"
+  ],
+  "dragon-ball-online-global": [
+    "ball",
+    "dragon",
+    "connected",
+    "online",
+    "animal",
+    "global",
+    "sport"
+  ],
+  "flickr": [
+    "flickr",
+    "social",
+    "logo"
+  ],
+  "accessories-text-editor": [
+    "accessories",
+    "text",
+    "editor",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "ibus-bopomofo": [
+    "ibus",
+    "bopomofo"
+  ],
+  "visual-studio-code": [
+    "visual",
+    "code",
+    "studio"
+  ],
+  "KoboDeluxe": [
+    "kobodeluxe"
+  ],
+  "swatchbooker": [
+    "swatchbooker"
+  ],
+  "peerunity": [
+    "peerunity"
+  ],
+  "psi": [
+    "psi"
+  ],
+  "cs-login": [
+    "cs",
+    "login",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "kronometer": [
+    "kronometer"
+  ],
+  "yad": [
+    "yad"
+  ],
+  "mutt": [
+    "mutt"
+  ],
+  "qbrowser": [
+    "qbrowser"
+  ],
+  "hub": [
+    "hub"
+  ],
+  "seamonkey": [
+    "seamonkey"
+  ],
+  "insurgency": [
+    "insurgency"
+  ],
+  "kmplot": [
+    "kmplot"
+  ],
+  "heroesofnewerth": [
+    "heroesofnewerth"
+  ],
+  "applications-science": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "science"
+  ],
+  "cheese": [
+    "cheese"
+  ],
+  "goterminal": [
+    "goterminal"
+  ],
+  "itch": [
+    "itch"
+  ],
+  "stack": [
+    "stack"
+  ],
+  "manaplus": [
+    "manaplus"
+  ],
+  "github-artemanufrij-showmypictures": [
+    "github",
+    "artemanufrij",
+    "showmypictures"
+  ],
+  "jazzradio": [
+    "jazzradio"
+  ],
+  "xt7-player-mpv": [
+    "player",
+    "mpv"
+  ],
+  "accerciser": [
+    "accerciser"
+  ],
+  "boswars": [
+    "boswars"
+  ],
+  "mega": [
+    "mega"
+  ],
+  "mathematica": [
+    "mathematica"
+  ],
+  "kipi-logo": [
+    "kipi",
+    "logo"
+  ],
+  "hedgewars": [
+    "hedgewars"
+  ],
+  "Sci48M": [
+    "scim"
+  ],
+  "livewallpaper": [
+    "livewallpaper"
+  ],
+  "vivaldi": [
+    "vivaldi"
+  ],
+  "driconf": [
+    "driconf"
+  ],
+  "vmware-player": [
+    "vmware",
+    "player"
+  ],
+  "goobox": [
+    "goobox"
+  ],
+  "eclipse": [
+    "eclipse"
+  ],
+  "ulauncher": [
+    "ulauncher"
+  ],
+  "github-thejambi-dayjournal": [
+    "github",
+    "thejambi",
+    "dayjournal"
+  ],
+  "phoronix-test-suite": [
+    "phoronix",
+    "test",
+    "suite"
+  ],
+  "cdbaby": [
+    "cdbaby"
+  ],
+  "astromenace": [
+    "astromenace"
+  ],
+  "chrome-okdgofnjkaimfebepijgaoimfphblkpd-Default": [
+    "chrome",
+    "default",
+    "google",
+    "okdgofnjkaimfebepijgaoimfphblkpd",
+    "browser"
+  ],
+  "radeon-profile": [
+    "radeon",
+    "profile"
+  ],
+  "system-suspend-hibernate": [
+    "system",
+    "suspend",
+    "hibernate"
+  ],
+  "lskat": [
+    "lskat"
+  ],
+  "minecraft": [
+    "minecraft"
+  ],
+  "baka-mplayer": [
+    "baka",
+    "mplayer"
+  ],
+  "radiotunes": [
+    "radiotunes"
+  ],
+  "clion": [
+    "clion"
+  ],
+  "tuxguitar": [
+    "tuxguitar"
+  ],
+  "d-feet": [
+    "feet"
+  ],
+  "rocs": [
+    "rocs"
+  ],
+  "albert": [
+    "albert"
+  ],
+  "security-medium": [
+    "security",
+    "medium"
+  ],
+  "github-mirkobrombin-football": [
+    "github",
+    "football",
+    "mirkobrombin",
+    "ball",
+    "game",
+    "sport"
+  ],
+  "github-jeremypw-gnonograms": [
+    "github",
+    "jeremypw",
+    "gnonograms"
+  ],
+  "grim-fandango-remastered": [
+    "grim",
+    "fandango",
+    "remastered"
+  ],
+  "github-davidmhewitt-torrential": [
+    "github",
+    "davidmhewitt",
+    "torrential"
+  ],
+  "yacreader": [
+    "yacreader"
+  ],
+  "postr": [
+    "postr"
+  ],
+  "trojita": [
+    "trojita"
+  ],
+  "gambas-3": [
+    "gambas"
+  ],
+  "lightsoff": [
+    "lightsoff"
+  ],
+  "dragon-ball-xenoverse": [
+    "dragon",
+    "ball",
+    "xenoverse",
+    "animal",
+    "sport"
+  ],
+  "retroarch": [
+    "retroarch"
+  ],
+  "octave": [
+    "octave"
+  ],
+  "thimbleweed-park": [
+    "park",
+    "thimbleweed"
+  ],
+  "knemo": [
+    "knemo"
+  ],
+  "vectr": [
+    "vectr"
+  ],
+  "armagetronad": [
+    "armagetronad"
+  ],
+  "pyrenamer": [
+    "pyrenamer"
+  ],
+  "vmware-workstation": [
+    "vmware",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "firefox-alt": [
+    "firefox",
+    "browser"
+  ],
+  "ibus-pinyin": [
+    "ibus",
+    "pinyin"
+  ],
+  "evnc": [
+    "evnc"
+  ],
+  "wine-uninstaller": [
+    "wine",
+    "uninstaller"
+  ],
+  "ignuit": [
+    "ignuit"
+  ],
+  "freeciv-server": [
+    "freeciv",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "mono": [
+    "mono"
+  ],
+  "mixxx": [
+    "mixxx"
+  ],
+  "irc-chat": [
+    "irc",
+    "chat",
+    "messenger",
+    "social",
+    "contact",
+    "logo"
+  ],
+  "juk": [
+    "juk"
+  ],
+  "blinken": [
+    "blinken"
+  ],
+  "kaffeine": [
+    "kaffeine"
+  ],
+  "insomnia": [
+    "insomnia"
+  ],
+  "dia": [
+    "dia"
+  ],
+  "chrome-fljalecfjciodhpcledpamjachpmelml-Default": [
+    "chrome",
+    "default",
+    "fljalecfjciodhpcledpamjachpmelml",
+    "google",
+    "browser"
+  ],
+  "cherrytree": [
+    "cherrytree"
+  ],
+  "utilities-terminal-su": [
+    "tool",
+    "display",
+    "utilities",
+    "utils",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "qtqr": [
+    "qtqr"
+  ],
+  "mellowplayer": [
+    "mellowplayer"
+  ],
+  "github-robertsanseries-karim": [
+    "github",
+    "karim",
+    "robertsanseries"
+  ],
+  "system-reboot": [
+    "system",
+    "reboot"
+  ],
+  "tiled": [
+    "tiled"
+  ],
+  "scummvm": [
+    "scummvm"
+  ],
+  "unity-editor-icon": [
+    "unity",
+    "editor",
+    "icon",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "python": [
+    "python"
+  ],
+  "preferences-desktop-display": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "xdman": [
+    "xdman"
+  ],
+  "kfoldersync": [
+    "kfoldersync"
+  ],
+  "epiphany": [
+    "epiphany"
+  ],
+  "kmenuedit": [
+    "kmenuedit"
+  ],
+  "deja-dup": [
+    "deja",
+    "dup"
+  ],
+  "nicotine-plus": [
+    "nicotine",
+    "plus"
+  ],
+  "distributor-logo-korora": [
+    "distributor",
+    "logo",
+    "korora"
+  ],
+  "pdfsam-basic": [
+    "pdfsam",
+    "basic"
+  ],
+  "everdo": [
+    "everdo"
+  ],
+  "applications-haskell": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "haskell"
+  ],
+  "picard": [
+    "picard"
+  ],
+  "zanshin": [
+    "zanshin"
+  ],
+  "falkon": [
+    "falkon"
+  ],
+  "reddit": [
+    "reddit",
+    "social",
+    "logo"
+  ],
+  "wire": [
+    "wire"
+  ],
+  "resharper": [
+    "resharper"
+  ],
+  "electron": [
+    "electron"
+  ],
+  "electrum-ltc": [
+    "electrum",
+    "ltc"
+  ],
+  "blockout": [
+    "blockout"
+  ],
+  "yast-snapper": [
+    "yast",
+    "snapper"
+  ],
+  "youtube-dl": [
+    "youtube",
+    "social",
+    "logo"
+  ],
+  "cutegram": [
+    "cutegram"
+  ],
+  "alc": [
+    "alc"
+  ],
+  "github-basjam-valacompiler": [
+    "github",
+    "basjam",
+    "valacompiler"
+  ],
+  "money-manager-ex": [
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "manager",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "preferences-desktop-locale": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "locale"
+  ],
+  "rlogo-icon": [
+    "icon",
+    "rlogo"
+  ],
+  "kipi-panorama": [
+    "kipi",
+    "panorama"
+  ],
+  "standard-notes": [
+    "note",
+    "standard",
+    "notes"
+  ],
+  "texstudio": [
+    "texstudio"
+  ],
+  "pdfchain": [
+    "pdfchain"
+  ],
+  "aptana": [
+    "aptana"
+  ],
+  "atunes": [
+    "atunes"
+  ],
+  "outlast": [
+    "outlast"
+  ],
+  "kubeplayer": [
+    "kubeplayer"
+  ],
+  "gcstar": [
+    "gcstar"
+  ],
+  "grid-autosport": [
+    "grid",
+    "autosport"
+  ],
+  "netsurf": [
+    "netsurf"
+  ],
+  "trine-2": [
+    "trine"
+  ],
+  "digikam": [
+    "digikam"
+  ],
+  "synergy": [
+    "synergy"
+  ],
+  "fluxgui": [
+    "fluxgui"
+  ],
+  "xampp": [
+    "xampp"
+  ],
+  "preferences-desktop-user-password": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "customer",
+    "user",
+    "password",
+    "person",
+    "face"
+  ],
+  "stacer": [
+    "stacer"
+  ],
+  "applets-screenshooter": [
+    "applets",
+    "screenshooter"
+  ],
+  "github-lainsce-quilter": [
+    "github",
+    "lainsce",
+    "quilter"
+  ],
+  "ms-word": [
+    "word",
+    "office",
+    "microsoft"
+  ],
+  "moserial": [
+    "moserial"
+  ],
+  "sound-juicer": [
+    "audio",
+    "music",
+    "sound",
+    "juicer"
+  ],
+  "github-jmoerman-go-for-it": [
+    "github",
+    "jmoerman",
+    "go"
+  ],
+  "albion-online": [
+    "albion",
+    "connected",
+    "online"
+  ],
+  "ktorrent": [
+    "ktorrent"
+  ],
+  "preferences-desktop-default-applications": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "default",
+    "app",
+    "application",
+    "software",
+    "applications"
+  ],
+  "terraria": [
+    "terraria"
+  ],
+  "chrome-jjphmlaoffndcnecccgemfdaaoighkel-Default": [
+    "chrome",
+    "default",
+    "google",
+    "jjphmlaoffndcnecccgemfdaaoighkel",
+    "browser"
+  ],
+  "sqldeveloper": [
+    "sqldeveloper"
+  ],
+  "tor": [
+    "tor"
+  ],
+  "peruse": [
+    "peruse"
+  ],
+  "asc-de": [
+    "asc"
+  ],
+  "crashplan": [
+    "crashplan"
+  ],
+  "vocal": [
+    "vocal"
+  ],
+  "upsource": [
+    "upsource"
+  ],
+  "ukuu": [
+    "ukuu"
+  ],
+  "GP6-icon": [
+    "icon"
+  ],
+  "vym": [
+    "vym"
+  ],
+  "geogebra": [
+    "geogebra"
+  ],
+  "com": [
+    "com.frac",
+    "tion.teleport"
+  ],
+  "garrysmod": [
+    "garrysmod"
+  ],
+  "day-of-the-tentacle-remastered": [
+    "day",
+    "tentacle",
+    "remastered"
+  ],
+  "openshot": [
+    "openshot"
+  ],
+  "bomber": [
+    "bomber"
+  ],
+  "dash-qt": [
+    "dash"
+  ],
+  "cerebro": [
+    "cerebro"
+  ],
+  "pgadmin": [
+    "pgadmin"
+  ],
+  "zegrapher": [
+    "zegrapher"
+  ],
+  "pumpa": [
+    "pumpa"
+  ],
+  "yacreader-library": [
+    "yacreader",
+    "library"
+  ],
+  "distributor-logo-opensuse": [
+    "distributor",
+    "logo",
+    "opensuse"
+  ],
+  "dassault-systemes": [
+    "dassault",
+    "systemes.draftsight"
+  ],
+  "gnome-todo": [
+    "gnome",
+    "todo"
+  ],
+  "manjaro-welcome": [
+    "manjaro",
+    "welcome"
+  ],
+  "mediawriter": [
+    "mediawriter"
+  ],
+  "wiznote": [
+    "wiznote"
+  ],
+  "dottrace": [
+    "dottrace"
+  ],
+  "mat": [
+    "mat"
+  ],
+  "utilities-log-viewer": [
+    "utilities",
+    "tool",
+    "utils",
+    "log",
+    "viewer"
+  ],
+  "jabref": [
+    "jabref"
+  ],
+  "pingus-icon": [
+    "pingus",
+    "icon"
+  ],
+  "contact-editor": [
+    "contact",
+    "editor",
+    "pencil",
+    "edit",
+    "update"
+  ],
+  "killbots": [
+    "killbots"
+  ],
+  "google-earth": [
+    "google",
+    "earth",
+    "globe",
+    "world",
+    "hosting",
+    "browser",
+    "internet",
+    "nature",
+    "network"
+  ],
+  "disk-burner": [
+    "disk",
+    "disc",
+    "burner"
+  ],
+  "kmouth": [
+    "kmouth"
+  ],
+  "indicator-cpufreq": [
+    "indicator",
+    "cpufreq"
+  ],
+  "datagrip": [
+    "datagrip"
+  ],
+  "mupen64plus-qt": [
+    "mupenplus"
+  ],
+  "playonlinux": [
+    "playonlinux"
+  ],
+  "kblocks": [
+    "kblocks"
+  ],
+  "boomaga": [
+    "boomaga"
+  ],
+  "zuluMount": [
+    "zulumount"
+  ],
+  "github-alonsoenrique-quotes": [
+    "github",
+    "alonsoenrique",
+    "quotes"
+  ],
+  "mendeley-desktop": [
+    "mendeley",
+    "desk",
+    "desktop"
+  ],
+  "kompare": [
+    "kompare"
+  ],
+  "wordpress": [
+    "wordpress",
+    "social",
+    "logo"
+  ],
+  "aegisub": [
+    "aegisub"
+  ],
+  "github-artemanufrij-playmymusic": [
+    "github",
+    "artemanufrij",
+    "playmymusic"
+  ],
+  "preferences-desktop-color": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "color",
+    "colour"
+  ],
+  "psi-plus": [
+    "psi",
+    "plus"
+  ],
+  "linuxdcpp": [
+    "linuxdcpp"
+  ],
+  "rust": [
+    "rust"
+  ],
+  "kiriki": [
+    "kiriki"
+  ],
+  "preferences-desktop-screensaver": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "screensaver"
+  ],
+  "flameshot": [
+    "flameshot"
+  ],
+  "stride": [
+    "stride"
+  ],
+  "the-cave": [
+    "cave"
+  ],
+  "thermal-monitor": [
+    "thermal",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "kmix": [
+    "kmix"
+  ],
+  "xmind": [
+    "xmind"
+  ],
+  "brackets": [
+    "brackets"
+  ],
+  "amazon-store": [
+    "amazon",
+    "store"
+  ],
+  "help-browser": [
+    "help",
+    "faq",
+    "question",
+    "support",
+    "browser"
+  ],
+  "portal-2": [
+    "portal"
+  ],
+  "trillian": [
+    "trillian"
+  ],
+  "fontforge": [
+    "fontforge"
+  ],
+  "mintnanny": [
+    "mintnanny"
+  ],
+  "babe": [
+    "babe"
+  ],
+  "syspeek": [
+    "syspeek"
+  ],
+  "bitwig-studio": [
+    "bitwig",
+    "studio"
+  ],
+  "scantailor": [
+    "scantailor"
+  ],
+  "github-bartzaalberg-snaptastic": [
+    "github",
+    "bartzaalberg",
+    "snaptastic"
+  ],
+  "qbittorrent": [
+    "qbittorrent"
+  ],
+  "wicd": [
+    "wicd"
+  ],
+  "github-philip-scott-notes-up": [
+    "github",
+    "philip",
+    "note",
+    "scott",
+    "notes",
+    "arrow",
+    "increase",
+    "up",
+    "upload"
+  ],
+  "easy-ebook-viewer": [
+    "easy",
+    "ebook",
+    "viewer"
+  ],
+  "komodo": [
+    "komodo"
+  ],
+  "doublecmd": [
+    "doublecmd"
+  ],
+  "gemini": [
+    "gemini"
+  ],
+  "github-alecaddd-sequeler": [
+    "github",
+    "alecaddd",
+    "sequeler"
+  ],
+  "ndm": [
+    "ndm"
+  ],
+  "yast-sound": [
+    "yast",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "devassistant": [
+    "devassistant"
+  ],
+  "kdiff-3": [
+    "kdiff"
+  ],
+  "qtractor": [
+    "qtractor"
+  ],
+  "applications-office": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "office",
+    "microsoft"
+  ],
+  "stellarium": [
+    "stellarium"
+  ],
+  "regedit": [
+    "regedit"
+  ],
+  "stock-xfburn-burn-cd": [
+    "stock",
+    "xfburn",
+    "burn",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "qmmp": [
+    "qmmp"
+  ],
+  "spacefm": [
+    "spacefm"
+  ],
+  "keepass": [
+    "keepass"
+  ],
+  "recoll": [
+    "recoll"
+  ],
+  "goodvibes": [
+    "goodvibes"
+  ],
+  "groove": [
+    "groove"
+  ],
+  "QOwnNotes": [
+    "qownnotes"
+  ],
+  "kteatime": [
+    "kteatime"
+  ],
+  "wunderlist": [
+    "wunderlist"
+  ],
+  "mpv": [
+    "mpv"
+  ],
+  "lftp": [
+    "lftp"
+  ],
+  "dosbox": [
+    "dosbox"
+  ],
+  "bbc": [
+    "bbc"
+  ],
+  "performous": [
+    "performous"
+  ],
+  "gbrainy": [
+    "gbrainy"
+  ],
+  "color-picker": [
+    "color",
+    "colour",
+    "picker"
+  ],
+  "drweb-gui": [
+    "drweb",
+    "gui"
+  ],
+  "pidgin": [
+    "pidgin"
+  ],
+  "runescape": [
+    "runescape"
+  ],
+  "tigervnc": [
+    "tigervnc"
+  ],
+  "yubioath": [
+    "yubioath"
+  ],
+  "ocrfeeder": [
+    "ocrfeeder"
+  ],
+  "boinc": [
+    "boinc"
+  ],
+  "somafm": [
+    "somafm"
+  ],
+  "yubikey-piv-manager": [
+    "yubikey",
+    "piv",
+    "manager"
+  ],
+  "kadu": [
+    "kadu"
+  ],
+  "distributor-logo-linux-mint": [
+    "distributor",
+    "linux",
+    "logo",
+    "mint",
+    "os"
+  ],
+  "spideroak": [
+    "spideroak"
+  ],
+  "kexi": [
+    "kexi"
+  ],
+  "teamcity": [
+    "teamcity"
+  ],
+  "xnretro": [
+    "xnretro"
+  ],
+  "mist": [
+    "mist"
+  ],
+  "genymotion": [
+    "genymotion"
+  ],
+  "chrome-remote-desktop": [
+    "chrome",
+    "remote",
+    "desk",
+    "desktop",
+    "google",
+    "browser"
+  ],
+  "razercommander": [
+    "razercommander"
+  ],
+  "lastfm": [
+    "lastfm"
+  ],
+  "onboard": [
+    "onboard"
+  ],
+  "distributor-logo-archlinux": [
+    "logo",
+    "distributor",
+    "archlinux"
+  ],
+  "harmony": [
+    "harmony",
+    "sync",
+    "synchronization"
+  ],
+  "diffuse": [
+    "diffuse"
+  ],
+  "google-drive": [
+    "google",
+    "drive",
+    "browser"
+  ],
+  "freecad": [
+    "freecad"
+  ],
+  "security-low": [
+    "security",
+    "low"
+  ],
+  "pillars-of-eternity": [
+    "pillars",
+    "eternity"
+  ],
+  "dolphin-emu": [
+    "dolphin",
+    "emu",
+    "animal"
+  ],
+  "computerjanitor": [
+    "computerjanitor"
+  ],
+  "hb-icon": [
+    "icon"
+  ],
+  "cvpcb": [
+    "cvpcb"
+  ],
+  "firefox-trunk-alt": [
+    "firefox",
+    "trunk",
+    "browser"
+  ],
+  "numptyphysics": [
+    "numptyphysics"
+  ],
+  "scilab": [
+    "scilab"
+  ],
+  "anjuta": [
+    "anjuta"
+  ],
+  "myrulib": [
+    "myrulib"
+  ],
+  "rclone-browser": [
+    "rclone",
+    "browser"
+  ],
+  "makemkv": [
+    "makemkv"
+  ],
+  "github-djaler-formatter": [
+    "github",
+    "djaler",
+    "formatter"
+  ],
+  "markpado": [
+    "markpado"
+  ],
+  "ark-game": [
+    "ark",
+    "game"
+  ],
+  "rhythmbox": [
+    "rhythmbox"
+  ],
+  "civilization-5": [
+    "civilization"
+  ],
+  "skype": [
+    "skype",
+    "social",
+    "logo"
+  ],
+  "caffeine": [
+    "caffeine"
+  ],
+  "instagram": [
+    "instagram"
+  ],
+  "plasma-search": [
+    "plasma",
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "octopi": [
+    "octopi"
+  ],
+  "openttd": [
+    "openttd"
+  ],
+  "preferences-system-bluetooth": [
+    "prefs",
+    "preferences",
+    "system",
+    "bluetooth"
+  ],
+  "hitori": [
+    "hitori"
+  ],
+  "kblackbox": [
+    "kblackbox"
+  ],
+  "soundwire": [
+    "soundwire"
+  ],
+  "net": [
+    "net.bartkessels.getit"
+  ],
+  "dotmemory": [
+    "dotmemory"
+  ],
+  "pdfeditor": [
+    "pdfeditor"
+  ],
+  "serviio": [
+    "serviio"
+  ],
+  "shutter": [
+    "shutter"
+  ],
+  "jamendo": [
+    "jamendo"
+  ],
+  "minuet": [
+    "minuet"
+  ],
+  "estmob-sendanywhere": [
+    "estmob",
+    "sendanywhere"
+  ],
+  "hyper": [
+    "hyper"
+  ],
+  "foursquare": [
+    "foursquare"
+  ],
+  "fritzing": [
+    "fritzing"
+  ],
+  "klines": [
+    "klines"
+  ],
+  "rto-proxy": [
+    "rto",
+    "proxy"
+  ],
+  "ldview": [
+    "ldview"
+  ],
+  "utox": [
+    "utox"
+  ],
+  "the-witcher-2": [
+    "witcher"
+  ],
+  "twinkle": [
+    "twinkle"
+  ],
+  "lollypop": [
+    "lollypop"
+  ],
+  "nextcloud": [
+    "nextcloud"
+  ],
+  "matlab": [
+    "matlab"
+  ],
+  "etherwall": [
+    "etherwall"
+  ],
+  "applications-accessories": [
+    "application",
+    "app",
+    "software",
+    "applications",
+    "accessories"
+  ],
+  "bum": [
+    "bum"
+  ],
+  "github-aleksandar-stefanovic-urmsimulator": [
+    "github",
+    "aleksandar",
+    "stefanovic",
+    "urmsimulator"
+  ],
+  "2048-qt": [
+    "qt"
+  ],
+  "plank": [
+    "plank"
+  ],
+  "preferences-desktop-plasma": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "plasma"
+  ],
+  "gajim": [
+    "gajim"
+  ],
+  "lokalize": [
+    "lokalize"
+  ],
+  "bitmap2component": [
+    "bitmapcomponent"
+  ],
+  "webby": [
+    "webby"
+  ],
+  "cs-overview": [
+    "cs",
+    "overview"
+  ],
+  "desktop-environment-kde": [
+    "desk",
+    "desktop",
+    "environment",
+    "kde"
+  ],
+  "qv4l2": [
+    "qvl"
+  ],
+  "kbruch": [
+    "kbruch"
+  ],
+  "museeks": [
+    "museeks"
+  ],
+  "upwork": [
+    "upwork"
+  ],
+  "microsoft": [
+    "microsoft"
+  ],
+  "gnome-nibbles": [
+    "gnome",
+    "nibbles"
+  ],
+  "chocolate-doom": [
+    "chocolate",
+    "doom",
+    "food",
+    "meal"
+  ],
+  "github-rickybas-date-countdown": [
+    "github",
+    "rickybas",
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "countdown"
+  ],
+  "fcitx-sogoupinyin": [
+    "fcitx",
+    "sogoupinyin"
+  ],
+  "ms-powerpoint": [
+    "powerpoint",
+    "office",
+    "microsoft"
+  ],
+  "pitivi": [
+    "pitivi"
+  ],
+  "emule": [
+    "emule"
+  ],
+  "preferences-desktop-notification-bell": [
+    "desktop",
+    "desk",
+    "preferences",
+    "prefs",
+    "notification",
+    "bell"
+  ],
+  "stepmania-ssc": [
+    "stepmania",
+    "ssc"
+  ],
+  "sayonara": [
+    "sayonara"
+  ],
+  "persepolis": [
+    "persepolis"
+  ],
+  "winemine": [
+    "winemine"
+  ],
+  "easystroke": [
+    "easystroke"
+  ],
+  "freefilesync": [
+    "freefilesync"
+  ],
+  "converseen": [
+    "converseen"
+  ],
+  "kdenlive": [
+    "kdenlive"
+  ],
+  "lighttable": [
+    "lighttable"
+  ],
+  "gramps": [
+    "gramps"
+  ],
+  "livewallpaper-config": [
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "livewallpaper",
+    "setting"
+  ],
+  "sqlitebrowser": [
+    "sqlitebrowser"
+  ],
+  "virtualbox": [
+    "virtualbox"
+  ],
+  "protonmail-desktop": [
+    "protonmail",
+    "desk",
+    "desktop"
+  ],
+  "soulseek": [
+    "soulseek"
+  ],
+  "peek": [
+    "peek"
+  ],
+  "WickrMe": [
+    "wickrme"
+  ],
+  "xonotic": [
+    "xonotic"
+  ],
+  "ms-excel": [
+    "excel",
+    "office",
+    "microsoft"
+  ],
+  "trackma": [
+    "trackma"
+  ],
+  "to-the-moon": [
+    "moon"
+  ],
+  "rocketchat": [
+    "rocketchat"
+  ],
+  "gpxviewer": [
+    "gpxviewer"
+  ],
+  "kolf": [
+    "kolf"
+  ],
+  "office-address-book": [
+    "office",
+    "address",
+    "addressbook",
+    "phonebook",
+    "book",
+    "contact",
+    "microsoft"
+  ],
+  "idjc": [
+    "idjc"
+  ],
+  "kolourpaint": [
+    "kolourpaint"
+  ],
+  "feh": [
+    "feh"
+  ],
+  "firefox-aurora": [
+    "firefox",
+    "aurora",
+    "browser"
+  ],
+  "gpk-log": [
+    "gpk",
+    "log"
+  ],
+  "qpdfview": [
+    "qpdfview"
+  ],
+  "kanagram": [
+    "kanagram"
+  ],
+  "wallpapoz": [
+    "wallpapoz"
+  ],
+  "gpk-prefs": [
+    "gpk",
+    "preferences",
+    "prefs"
+  ],
+  "github-bartzaalberg-bookmark-manager": [
+    "github",
+    "bartzaalberg",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "manager"
+  ],
+  "dmd-doc": [
+    "dmd",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "gnome-boxes": [
+    "box",
+    "gnome",
+    "boxes"
+  ],
+  "steam": [
+    "steam"
+  ],
+  "journey-of-a-roach": [
+    "journey",
+    "roach"
+  ],
+  "github-bharatkalluri-easypass": [
+    "github",
+    "bharatkalluri",
+    "easypass"
+  ],
+  "netflix": [
+    "netflix"
+  ],
+  "synology-cloud-station-drive": [
+    "synology",
+    "cloud",
+    "cloudy",
+    "station",
+    "drive",
+    "weather"
+  ],
+  "roccat": [
+    "roccat"
+  ],
+  "evolution": [
+    "evolution"
+  ],
+  "urbanterror": [
+    "urbanterror"
+  ],
+  "trine": [
+    "trine"
+  ],
+  "ksudoku": [
+    "ksudoku"
+  ],
+  "half-life-2": [
+    "half",
+    "life"
+  ],
+  "supermeatboy": [
+    "supermeatboy"
+  ],
+  "gpdftext": [
+    "gpdftext"
+  ],
+  "echonest": [
+    "echonest"
+  ],
+  "firefox": [
+    "firefox",
+    "browser"
+  ],
+  "preferences-activities": [
+    "prefs",
+    "preferences",
+    "activities"
+  ],
+  "klystrack": [
+    "klystrack"
+  ],
+  "rdm": [
+    "rdm"
+  ],
+  "jdownloader": [
+    "jdownloader"
+  ],
+  "haguichi": [
+    "haguichi"
+  ],
+  "applications-education-mathematics": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "education",
+    "mathematics"
+  ],
+  "seafile": [
+    "seafile"
+  ],
+  "github-davidmhewitt-clipped": [
+    "github",
+    "clipped",
+    "davidmhewitt"
+  ],
+  "trelby": [
+    "trelby"
+  ],
+  "ghostwriter": [
+    "ghostwriter"
+  ],
+  "scribus": [
+    "scribus"
+  ],
+  "kreversi": [
+    "kreversi"
+  ],
+  "navit": [
+    "navit"
+  ],
+  "xmoto": [
+    "xmoto"
+  ],
+  "SpiderOakONE": [
+    "spideroakone"
+  ],
+  "muon": [
+    "muon"
+  ],
+  "fuse": [
+    "fuse"
+  ],
+  "gtkpod": [
+    "gtkpod"
+  ],
+  "dirt-rally": [
+    "dirt",
+    "rally"
+  ],
+  "empathy": [
+    "empathy"
+  ],
+  "github-lainsce-yishu": [
+    "github",
+    "lainsce",
+    "yishu"
+  ],
+  "openbve": [
+    "openbve"
+  ],
+  "accessories-character-map": [
+    "accessories",
+    "character",
+    "map",
+    "plan",
+    "contact",
+    "navigation"
+  ],
+  "system-log-out": [
+    "system",
+    "log",
+    "out"
+  ],
+  "pokerth": [
+    "pokerth"
+  ],
+  "manjaro-architect": [
+    "manjaro",
+    "architect"
+  ],
+  "searchmonkey": [
+    "searchmonkey"
+  ],
+  "poedit": [
+    "poedit"
+  ],
+  "multimedia-photo-manager": [
+    "photography",
+    "image",
+    "multimedia",
+    "photo",
+    "picture",
+    "manager"
+  ],
+  "tweetdeck": [
+    "tweetdeck"
+  ],
+  "gerbview": [
+    "gerbview"
+  ],
+  "qjackctl": [
+    "qjackctl"
+  ],
+  "multimedia-audio-player": [
+    "audio",
+    "multimedia",
+    "music",
+    "player",
+    "sound"
+  ],
+  "unturned": [
+    "unturned"
+  ],
+  "protege": [
+    "protege"
+  ],
+  "epiphany-game": [
+    "epiphany",
+    "game"
+  ],
+  "slimjet": [
+    "slimjet"
+  ],
+  "ktuberling": [
+    "ktuberling"
+  ],
+  "ardour": [
+    "ardour"
+  ],
+  "crack-attack": [
+    "crack",
+    "attack"
+  ],
+  "deluge": [
+    "deluge"
+  ],
+  "gtkterm": [
+    "gtkterm"
+  ],
+  "gns-3": [
+    "gns"
+  ],
+  "preferences-system-power": [
+    "preferences",
+    "power",
+    "prefs",
+    "system"
+  ],
+  "quadrapassel": [
+    "quadrapassel"
+  ],
+  "preferences-system-parental-controls": [
+    "preferences",
+    "prefs",
+    "system",
+    "parental",
+    "controls"
+  ],
+  "transmageddon": [
+    "transmageddon"
+  ],
+  "the-talos-principle": [
+    "talos",
+    "principle"
+  ],
+  "kube": [
+    "kube"
+  ],
+  "colorhug-backlight": [
+    "colorhug",
+    "backlight"
+  ],
+  "mattermost": [
+    "mattermost"
+  ],
+  "selinux": [
+    "selinux"
+  ],
+  "katomic": [
+    "katomic"
+  ],
+  "ubiquity-kde": [
+    "ubiquity",
+    "kde"
+  ],
+  "audacious": [
+    "audacious"
+  ],
+  "gnome-tetravex": [
+    "gnome",
+    "tetravex"
+  ],
+  "system-config-samba": [
+    "system",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "samba"
+  ],
+  "mullvad": [
+    "mullvad"
+  ],
+  "audience": [
+    "audience"
+  ],
+  "wpscrackgui": [
+    "wpscrackgui"
+  ],
+  "ksnakeduel": [
+    "ksnakeduel"
+  ],
+  "navicat": [
+    "navicat"
+  ],
+  "lucidchart": [
+    "lucidchart"
+  ],
+  "sigil": [
+    "sigil"
+  ],
+  "document-print-preview": [
+    "doc",
+    "document",
+    "file",
+    "print",
+    "preview",
+    "printer",
+    "paper",
+    "hardware"
+  ],
+  "colorhug": [
+    "colorhug"
+  ],
+  "NoMachine-icon": [
+    "icon",
+    "nomachine"
+  ],
+  "github-artemanufrij-playmyvideos": [
+    "github",
+    "artemanufrij",
+    "playmyvideos"
+  ],
+  "applications-interfacedesign": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "interfacedesign"
+  ],
+  "green-recorder": [
+    "green",
+    "recorder"
+  ],
+  "zuluCrypt": [
+    "zulucrypt"
+  ],
+  "euro-truck-simulator-2": [
+    "euro",
+    "lorry",
+    "simulator",
+    "truck",
+    "van",
+    "transport"
+  ],
+  "zynaddsubfx": [
+    "zynaddsubfx"
+  ],
+  "sgt-launcher": [
+    "sgt",
+    "launcher"
+  ],
+  "github-stsdc-monitor": [
+    "github",
+    "stsdc",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "xcas": [
+    "xcas"
+  ],
+  "desktop-environment-gnome": [
+    "desk",
+    "desktop",
+    "environment",
+    "gnome"
+  ],
+  "wesnoth": [
+    "wesnoth"
+  ],
+  "giggle": [
+    "giggle"
+  ],
+  "cutecom": [
+    "cutecom"
+  ],
+  "hamster": [
+    "hamster"
+  ],
+  "hashit": [
+    "hashit"
+  ],
+  "fluid": [
+    "fluid"
+  ],
+  "clementine": [
+    "clementine"
+  ],
+  "gnome-taquin": [
+    "gnome",
+    "taquin"
+  ],
+  "rider": [
+    "rider"
+  ],
+  "dota-2": [
+    "dota"
+  ],
+  "solaar": [
+    "solaar"
+  ],
+  "vmpk": [
+    "vmpk"
+  ],
+  "residualvm": [
+    "residualvm"
+  ],
+  "wps-office-wpsmain": [
+    "wps",
+    "office",
+    "wpsmain",
+    "microsoft"
+  ],
+  "kicad": [
+    "kicad"
+  ],
+  "kdesvn": [
+    "kdesvn"
+  ],
+  "kaddressbook": [
+    "kaddressbook"
+  ],
+  "vbam": [
+    "vbam"
+  ],
+  "libreoffice-calc": [
+    "calc",
+    "calculator",
+    "libreoffice"
+  ],
+  "davmail": [
+    "davmail"
+  ],
+  "exmplayer": [
+    "exmplayer"
+  ],
+  "nsight": [
+    "nsight"
+  ],
+  "keymon": [
+    "keymon"
+  ],
+  "dont-starve-together": [
+    "dont",
+    "starve",
+    "together"
+  ],
+  "audacity": [
+    "audacity"
+  ],
+  "facebook": [
+    "facebook"
+  ],
+  "distributor-logo-ubuntu": [
+    "distributor",
+    "logo",
+    "ubuntu"
+  ],
+  "kfontview": [
+    "kfontview"
+  ],
+  "amnesia-the-dark-descent": [
+    "amnesia",
+    "dark",
+    "descent"
+  ],
+  "fbreader": [
+    "fbreader"
+  ],
+  "office-calendar": [
+    "office",
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "microsoft"
+  ],
+  "librecad": [
+    "librecad"
+  ],
+  "workspace-switcher-left-bottom": [
+    "workspace",
+    "switcher",
+    "backward",
+    "left",
+    "previous",
+    "bottom",
+    "arrow"
+  ],
+  "pycharmedu": [
+    "pycharmedu"
+  ],
+  "google-chrome": [
+    "google",
+    "chrome",
+    "browser"
+  ],
+  "applications-featured": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "featured"
+  ],
+  "lyricfier": [
+    "lyricfier"
+  ],
+  "mame": [
+    "mame"
+  ],
+  "github-allen-b1-news": [
+    "github",
+    "allen",
+    "news"
+  ],
+  "pragha": [
+    "pragha"
+  ],
+  "groovy": [
+    "groovy"
+  ],
+  "github-cassidyjames-dippi": [
+    "github",
+    "cassidyjames",
+    "dippi"
+  ],
+  "crossover": [
+    "crossover"
+  ],
+  "github-bartzaalberg-lottery": [
+    "github",
+    "lottery",
+    "bartzaalberg"
+  ],
+  "VVVVVV": [
+    "vvvvvv"
+  ],
+  "teslagrad": [
+    "teslagrad"
+  ],
+  "colorhug-flash": [
+    "colorhug",
+    "flash"
+  ],
+  "simplescreenrecorder": [
+    "simplescreenrecorder"
+  ],
+  "authy": [
+    "authy"
+  ],
+  "sportstracker": [
+    "sportstracker"
+  ],
+  "copyq": [
+    "copyq"
+  ],
+  "kmymoney": [
+    "kmymoney"
+  ],
+  "plasma": [
+    "plasma"
+  ],
+  "milkytracker": [
+    "milkytracker"
+  ],
+  "gnome-2048": [
+    "gnome"
+  ],
+  "jetbrains-toolbox": [
+    "jetbrains",
+    "toolbox"
+  ],
+  "dods": [
+    "dods"
+  ],
+  "FAHControl": [
+    "fahcontrol"
+  ],
+  "transmission": [
+    "transmission"
+  ],
+  "juci": [
+    "juci"
+  ],
+  "freeciv-client": [
+    "freeciv",
+    "client"
+  ],
+  "downloader-arrow": [
+    "arrow",
+    "downloader"
+  ],
+  "redshift": [
+    "redshift"
+  ],
+  "stargus": [
+    "stargus"
+  ],
+  "lazarus": [
+    "lazarus"
+  ],
+  "quassel": [
+    "quassel"
+  ],
+  "pencil": [
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "mixcloud": [
+    "mixcloud"
+  ],
+  "github-peteruithoven-resizer": [
+    "github",
+    "peteruithoven",
+    "resizer"
+  ],
+  "bovo": [
+    "bovo"
+  ],
+  "github-keyilan-swatches": [
+    "github",
+    "keyilan",
+    "swatches"
+  ],
+  "gnome-power-statistics": [
+    "gnome",
+    "power",
+    "statistics"
+  ],
+  "alexandra": [
+    "alexandra"
+  ],
+  "xine": [
+    "xine"
+  ],
+  "ltris": [
+    "ltris"
+  ],
+  "teamspeak-3": [
+    "teamspeak"
+  ],
+  "flowblade": [
+    "flowblade"
+  ],
+  "timeshift": [
+    "timeshift"
+  ],
+  "birdie": [
+    "birdie"
+  ],
+  "google-agenda": [
+    "google",
+    "agenda",
+    "browser"
+  ],
+  "league-of-legends": [
+    "league",
+    "legends"
+  ],
+  "cuttlefish": [
+    "cuttlefish"
+  ],
+  "nutstore": [
+    "nutstore"
+  ],
+  "magnatune": [
+    "magnatune"
+  ],
+  "github-mubitosh-qrshare": [
+    "github",
+    "mubitosh",
+    "qrshare"
+  ],
+  "system-file-manager": [
+    "system",
+    "doc",
+    "document",
+    "file",
+    "manager",
+    "paper"
+  ],
+  "avidemux": [
+    "avidemux"
+  ],
+  "goa-account-todoist": [
+    "goa",
+    "account",
+    "todoist"
+  ],
+  "gzdoom": [
+    "gzdoom"
+  ],
+  "min": [
+    "min"
+  ],
+  "fbmessenger": [
+    "fbmessenger"
+  ],
+  "preferences-plugin": [
+    "prefs",
+    "preferences",
+    "plugin"
+  ],
+  "cs-panel": [
+    "cs",
+    "panel"
+  ],
+  "terminology": [
+    "terminology"
+  ],
+  "Xfwm4CompositeEditor": [
+    "xfwmcompositeeditor"
+  ],
+  "github-artemanufrij-translit": [
+    "github",
+    "artemanufrij",
+    "translit"
+  ],
+  "opera-beta": [
+    "opera",
+    "beta",
+    "browser"
+  ],
+  "eric": [
+    "eric"
+  ],
+  "wikipedia": [
+    "wikipedia"
+  ],
+  "rubymine": [
+    "rubymine"
+  ],
+  "trimage": [
+    "trimage"
+  ],
+  "mkvinfo": [
+    "mkvinfo"
+  ],
+  "mc": [
+    "mc"
+  ],
+  "dockbarx": [
+    "dockbarx"
+  ],
+  "box": [
+    "box"
+  ],
+  "github": [
+    "github"
+  ],
+  "mailspring": [
+    "mailspring"
+  ],
+  "workspace-switcher-right-bottom": [
+    "workspace",
+    "switcher",
+    "forward",
+    "next",
+    "right",
+    "bottom",
+    "arrow",
+    "go"
+  ],
+  "swell-foop": [
+    "swell",
+    "foop"
+  ],
+  "kwordquiz": [
+    "kwordquiz"
+  ],
+  "kmahjongg": [
+    "kmahjongg"
+  ],
+  "multimedia-video-player": [
+    "film",
+    "movie",
+    "multimedia",
+    "video",
+    "player"
+  ],
+  "tortoisehg": [
+    "tortoisehg"
+  ],
+  "rosegarden": [
+    "rosegarden"
+  ],
+  "cmyktool": [
+    "cmyktool"
+  ],
+  "gnumeric": [
+    "gnumeric"
+  ],
+  "qutebrowser": [
+    "qutebrowser"
+  ],
+  "koala": [
+    "koala"
+  ],
+  "atom-rpg": [
+    "atom",
+    "rpg"
+  ],
+  "cutter": [
+    "cutter"
+  ],
+  "audiobook": [
+    "audiobook"
+  ],
+  "system-suspend": [
+    "system",
+    "suspend"
+  ],
+  "github-harisvsulaiman-pushy": [
+    "github",
+    "harisvsulaiman",
+    "pushy"
+  ],
+  "postman": [
+    "postman"
+  ],
+  "dotcover": [
+    "dotcover"
+  ],
+  "yandex-disk": [
+    "yandex",
+    "disc",
+    "disk"
+  ],
+  "superkaramba": [
+    "superkaramba"
+  ],
+  "ericWeb": [
+    "ericweb"
+  ],
+  "pdfshuffler": [
+    "pdfshuffler"
+  ],
+  "xneur": [
+    "xneur"
+  ],
+  "vim": [
+    "vim"
+  ],
+  "bisq": [
+    "bisq"
+  ],
+  "utilities-tweak-tool": [
+    "utilities",
+    "tweak",
+    "tool",
+    "utils"
+  ],
+  "starbound": [
+    "starbound"
+  ],
+  "urserver": [
+    "urserver"
+  ],
+  "sheets": [
+    "sheets"
+  ],
+  "etherape": [
+    "etherape"
+  ],
+  "zim": [
+    "zim"
+  ],
+  "libreoffice-impress": [
+    "impress",
+    "libreoffice"
+  ],
+  "yast": [
+    "yast"
+  ],
+  "QMPlay-2": [
+    "qmplay"
+  ],
+  "guitarix": [
+    "guitarix"
+  ],
+  "codeblocks": [
+    "codeblocks"
+  ],
+  "gnome-break-timer": [
+    "gnome",
+    "break",
+    "clock",
+    "timer"
+  ],
+  "tuxpuck": [
+    "tuxpuck"
+  ],
+  "sanctum-2": [
+    "sanctum"
+  ],
+  "gnome-klotski": [
+    "gnome",
+    "klotski"
+  ],
+  "steamvr": [
+    "steamvr"
+  ],
+  "firewall-config": [
+    "firewall",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting"
+  ],
+  "smplayer": [
+    "smplayer"
+  ],
+  "bomi": [
+    "bomi"
+  ],
+  "monodevelop": [
+    "monodevelop"
+  ],
+  "github-thejambi-psnotes": [
+    "github",
+    "thejambi",
+    "psnotes"
+  ],
+  "godot": [
+    "godot"
+  ],
+  "bluej": [
+    "bluej"
+  ],
+  "github-nick92-tranqil": [
+    "github",
+    "nick",
+    "tranqil"
+  ],
+  "blobby": [
+    "blobby"
+  ],
+  "preferences-ubuntu-panel": [
+    "prefs",
+    "preferences",
+    "ubuntu",
+    "panel"
+  ],
+  "akregator": [
+    "akregator"
+  ],
+  "pspp": [
+    "pspp"
+  ],
+  "gmail-offline": [
+    "gmail",
+    "disconnected",
+    "offline"
+  ],
+  "whatsapp": [
+    "whatsapp"
+  ],
+  "nvvp": [
+    "nvvp"
+  ],
+  "atom-beta": [
+    "atom",
+    "beta"
+  ],
+  "evernote": [
+    "evernote"
+  ],
+  "sabnzbdplus": [
+    "sabnzbdplus"
+  ],
+  "skanlite": [
+    "skanlite"
+  ],
+  "braindump": [
+    "braindump"
+  ],
+  "dropbox": [
+    "dropbox"
+  ],
+  "meld": [
+    "meld"
+  ],
+  "quimup": [
+    "quimup"
+  ],
+  "flareget": [
+    "flareget"
+  ],
+  "trello": [
+    "trello"
+  ],
+  "github-lainsce-coin": [
+    "github",
+    "lainsce",
+    "coin"
+  ],
+  "github-artemanufrij-hashit": [
+    "github",
+    "artemanufrij",
+    "hashit"
+  ],
+  "transmission-remote-gtk": [
+    "transmission",
+    "remote",
+    "gtk"
+  ],
+  "grsync": [
+    "grsync"
+  ],
+  "btsync-gui": [
+    "btsync",
+    "gui"
+  ],
+  "gifup": [
+    "gifup"
+  ],
+  "preferences-desktop-gaming": [
+    "desktop",
+    "desk",
+    "preferences",
+    "prefs",
+    "gaming"
+  ],
+  "keep": [
+    "keep"
+  ],
+  "iridium-browser": [
+    "iridium",
+    "browser"
+  ],
+  "enpass": [
+    "enpass"
+  ],
+  "yakuake": [
+    "yakuake"
+  ],
+  "phpmyadmin": [
+    "phpmyadmin"
+  ],
+  "ubuntu-tweak": [
+    "ubuntu",
+    "tweak"
+  ],
+  "quake-2": [
+    "quake"
+  ],
+  "abricotine": [
+    "abricotine"
+  ],
+  "citra": [
+    "citra"
+  ],
+  "internet-web-browser": [
+    "internet",
+    "web",
+    "browser",
+    "network"
+  ],
+  "digitallyimported": [
+    "digitallyimported"
+  ],
+  "workspace-switcher-right-top": [
+    "workspace",
+    "switcher",
+    "forward",
+    "next",
+    "right",
+    "top",
+    "arrow",
+    "go"
+  ],
+  "cinelerra": [
+    "cinelerra"
+  ],
+  "litecoin-qt": [
+    "litecoin"
+  ],
+  "metronome": [
+    "metronome"
+  ],
+  "logisim-icon": [
+    "logisim",
+    "icon"
+  ],
+  "corebird": [
+    "corebird"
+  ],
+  "xiphos": [
+    "xiphos"
+  ],
+  "marknoto": [
+    "marknoto"
+  ],
+  "display": [
+    "display.im"
+  ],
+  "qsynth": [
+    "qsynth"
+  ],
+  "l4d2": [
+    "ld"
+  ],
+  "xournal": [
+    "xournal"
+  ],
+  "input-tablet": [
+    "input",
+    "tablet",
+    "computer",
+    "hardware"
+  ],
+  "sakura-dungeon": [
+    "sakura",
+    "dungeon"
+  ],
+  "conky-manager": [
+    "conky",
+    "manager"
+  ],
+  "qupzilla": [
+    "qupzilla"
+  ],
+  "hubstaff": [
+    "hubstaff"
+  ],
+  "kig": [
+    "kig"
+  ],
+  "telegram": [
+    "telegram"
+  ],
+  "preferences-desktop-emoticons": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "emoticons"
+  ],
+  "system-users": [
+    "customer",
+    "person",
+    "system",
+    "user",
+    "users",
+    "face"
+  ],
+  "gnome-robots": [
+    "gnome",
+    "robot",
+    "robots"
+  ],
+  "preferences-desktop-accessibility": [
+    "desktop",
+    "desk",
+    "preferences",
+    "prefs",
+    "accessibility"
+  ],
+  "stremio": [
+    "stremio"
+  ],
+  "safeeyes": [
+    "safeeyes"
+  ],
+  "preferences-system-windows-move": [
+    "preferences",
+    "prefs",
+    "system",
+    "windows",
+    "move",
+    "os"
+  ],
+  "compiz": [
+    "compiz"
+  ],
+  "androidstudio": [
+    "androidstudio"
+  ],
+  "kmines": [
+    "kmines"
+  ],
+  "full-throttle-remastered": [
+    "full",
+    "throttle",
+    "remastered"
+  ],
+  "emerald-theme-manager-icon": [
+    "emerald",
+    "theme",
+    "manager",
+    "icon"
+  ],
+  "electrum": [
+    "electrum"
+  ],
+  "rstudio": [
+    "rstudio"
+  ],
+  "mumble": [
+    "mumble"
+  ],
+  "coypu": [
+    "coypu"
+  ],
+  "tixati": [
+    "tixati"
+  ],
+  "github-mdh34-quickdocs": [
+    "github",
+    "mdh",
+    "quickdocs"
+  ],
+  "entangle": [
+    "entangle"
+  ],
+  "openage": [
+    "openage"
+  ],
+  "webstorm": [
+    "webstorm"
+  ],
+  "anki": [
+    "anki"
+  ],
+  "subdownloader": [
+    "subdownloader"
+  ],
+  "credentials-preferences": [
+    "credentials",
+    "preferences",
+    "prefs"
+  ],
+  "diablo-2": [
+    "diablo"
+  ],
+  "itmages": [
+    "itmages"
+  ],
+  "kphotoalbum": [
+    "kphotoalbum"
+  ],
+  "Temps": [
+    "temps"
+  ],
+  "spaceview": [
+    "spaceview"
+  ],
+  "bandcamp": [
+    "bandcamp"
+  ],
+  "blender": [
+    "blender"
+  ],
+  "usb-creator": [
+    "usb",
+    "creator"
+  ],
+  "xfce4-session": [
+    "xfce",
+    "session"
+  ],
+  "yast-hwinfo": [
+    "yast",
+    "hwinfo"
+  ],
+  "google-chrome-unstable": [
+    "google",
+    "chrome",
+    "unstable",
+    "browser"
+  ],
+  "fslint-icon": [
+    "fslint",
+    "icon"
+  ],
+  "photolayoutseditor": [
+    "photolayoutseditor"
+  ],
+  "gretl": [
+    "gretl"
+  ],
+  "xfce4-taskbar": [
+    "xfce",
+    "taskbar"
+  ],
+  "recipes": [
+    "recipes"
+  ],
+  "kupfer": [
+    "kupfer"
+  ],
+  "TeighaViewer": [
+    "teighaviewer"
+  ],
+  "libreoffice-main": [
+    "libreoffice",
+    "main"
+  ],
+  "torcs": [
+    "torcs"
+  ],
+  "gnome-lockscreen": [
+    "gnome",
+    "lockscreen"
+  ],
+  "widelands": [
+    "widelands"
+  ],
+  "keepassxc": [
+    "keepassxc"
+  ],
+  "otter-browser": [
+    "otter",
+    "browser"
+  ],
+  "nuvolaplayer": [
+    "nuvolaplayer"
+  ],
+  "glade": [
+    "glade"
+  ],
+  "bluefish": [
+    "bluefish"
+  ],
+  "git": [
+    "git"
+  ],
+  "chrome-app-list": [
+    "chrome",
+    "app",
+    "application",
+    "software",
+    "google",
+    "list",
+    "browser"
+  ],
+  "fmit": [
+    "fmit"
+  ],
+  "gnome-twofactorauth": [
+    "gnome",
+    "twofactorauth"
+  ],
+  "preferences-desktop-peripherals": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "peripherals"
+  ],
+  "gnome-do": [
+    "gnome"
+  ],
+  "7kaa": [
+    "kaa"
+  ],
+  "vacuum": [
+    "vacuum"
+  ],
+  "applications-multimedia": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "multimedia"
+  ],
+  "uget": [
+    "uget"
+  ],
+  "bitcoin": [
+    "bitcoin"
+  ],
+  "kgoldrunner": [
+    "kgoldrunner"
+  ],
+  "thunderbird": [
+    "thunderbird"
+  ],
+  "pia-manager": [
+    "pia",
+    "manager"
+  ],
+  "krita": [
+    "krita"
+  ],
+  "smilla": [
+    "smilla"
+  ],
+  "kdiamond": [
+    "kdiamond"
+  ],
+  "foxit-reader": [
+    "foxit",
+    "reader"
+  ],
+  "trine-3": [
+    "trine"
+  ],
+  "bridge-constructor-portal": [
+    "bridge",
+    "constructor",
+    "portal"
+  ],
+  "gitter": [
+    "gitter"
+  ],
+  "viber": [
+    "viber"
+  ],
+  "subsonic": [
+    "subsonic"
+  ],
+  "rescuetime": [
+    "rescuetime"
+  ],
+  "gnome-tweak-tool": [
+    "gnome",
+    "tweak",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "icq": [
+    "icq"
+  ],
+  "stardew-valley": [
+    "stardew",
+    "valley"
+  ],
+  "workrave": [
+    "workrave",
+    "sheep"
+  ],
+  "winetricks": [
+    "winetricks"
+  ],
+  "vstudio": [
+    "vstudio"
+  ],
+  "opera": [
+    "opera",
+    "browser"
+  ],
+  "firewatch": [
+    "firewatch"
+  ],
+  "waterfox": [
+    "waterfox"
+  ],
+  "microscope": [
+    "microscope"
+  ],
+  "curlew": [
+    "curlew"
+  ],
+  "cs-applets": [
+    "applets",
+    "cs"
+  ],
+  "Encryptr": [
+    "encryptr"
+  ],
+  "grub-customizer": [
+    "grub",
+    "customizer"
+  ],
+  "ppsspp": [
+    "ppsspp"
+  ],
+  "yarock": [
+    "yarock"
+  ],
+  "latte-dock": [
+    "latte",
+    "dock"
+  ],
+  "kruler": [
+    "kruler"
+  ],
+  "preferences-system-windows": [
+    "prefs",
+    "preferences",
+    "system",
+    "windows",
+    "os"
+  ],
+  "k9-copy": [
+    "copy"
+  ],
+  "pushbullet-indicator": [
+    "indicator",
+    "pushbullet"
+  ],
+  "kodi": [
+    "kodi"
+  ],
+  "banshee": [
+    "banshee"
+  ],
+  "preferences-desktop-wallpaper": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "wallpaper"
+  ],
+  "github-rkoesters-xkcd-gtk": [
+    "github",
+    "rkoesters",
+    "xkcd",
+    "gtk"
+  ],
+  "workspace-switcher-top-left": [
+    "workspace",
+    "switcher",
+    "top",
+    "backward",
+    "left",
+    "previous",
+    "arrow"
+  ],
+  "sound-recorder": [
+    "audio",
+    "music",
+    "sound",
+    "recorder"
+  ],
+  "accessories-calculator": [
+    "accessories",
+    "calc",
+    "calculator"
+  ],
+  "netease-cloud-music": [
+    "netease",
+    "cloud",
+    "cloudy",
+    "audio",
+    "music",
+    "sound",
+    "weather"
+  ],
+  "chrome-macmgoeeggnlnmpiojbcniblabkdjphe-Default": [
+    "chrome",
+    "default",
+    "google",
+    "macmgoeeggnlnmpiojbcniblabkdjphe",
+    "browser"
+  ],
+  "github-donadigo-appeditor": [
+    "github",
+    "donadigo",
+    "appeditor"
+  ],
+  "kbreakout": [
+    "kbreakout"
+  ],
+  "solfege": [
+    "solfege"
+  ],
+  "hipchat": [
+    "hipchat"
+  ],
+  "y-ppa-manager": [
+    "ppa",
+    "manager"
+  ],
+  "multimedia-photo-viewer": [
+    "image",
+    "multimedia",
+    "photo",
+    "photography",
+    "picture",
+    "viewer"
+  ],
+  "musique": [
+    "musique"
+  ],
+  "mcomix": [
+    "mcomix"
+  ],
+  "blogilo": [
+    "blogilo"
+  ],
+  "visual-studio-code-insiders": [
+    "visual",
+    "studio",
+    "code",
+    "insiders"
+  ],
+  "CMakeSetup": [
+    "cmakesetup"
+  ],
+  "shadowsocks-qt-5": [
+    "shadowsocks"
+  ],
+  "latexila": [
+    "latexila"
+  ],
+  "hwinfo": [
+    "hwinfo"
+  ],
+  "libreoffice-writer": [
+    "libreoffice",
+    "writer"
+  ],
+  "colorhug-ccmx": [
+    "colorhug",
+    "ccmx"
+  ],
+  "preferences-desktop-icons": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "icons"
+  ],
+  "ethereumwallet": [
+    "ethereumwallet"
+  ],
+  "glabels-3": [
+    "glabels"
+  ],
+  "yandex-browser-beta": [
+    "yandex",
+    "browser",
+    "beta"
+  ],
+  "virt-manager": [
+    "virt",
+    "manager"
+  ],
+  "software-properties": [
+    "app",
+    "application",
+    "software",
+    "properties"
+  ],
+  "spotify-client": [
+    "spotify",
+    "client"
+  ],
+  "frozen-bubble": [
+    "comment",
+    "frozen",
+    "bubble",
+    "comments"
+  ],
+  "korganizer": [
+    "korganizer"
+  ],
+  "dotpeek": [
+    "dotpeek"
+  ],
+  "riot-web": [
+    "riot",
+    "web"
+  ],
+  "gelemental": [
+    "gelemental"
+  ],
+  "bibletime": [
+    "bibletime"
+  ],
+  "yaourtgui": [
+    "yaourtgui"
+  ],
+  "podcast": [
+    "podcast"
+  ],
+  "amarok": [
+    "amarok"
+  ],
+  "caja-actions": [
+    "caja",
+    "actions"
+  ],
+  "preferences-management-service": [
+    "prefs",
+    "preferences",
+    "management",
+    "service"
+  ],
+  "emacs": [
+    "emacs"
+  ],
+  "acroread": [
+    "acroread"
+  ],
+  "palapeli": [
+    "palapeli"
+  ],
+  "artikulate": [
+    "artikulate"
+  ],
+  "rockradio": [
+    "rockradio"
+  ],
+  "preferences-system-notifications": [
+    "prefs",
+    "preferences",
+    "system",
+    "notifications"
+  ],
+  "texmaker": [
+    "texmaker"
+  ],
+  "desura": [
+    "desura"
+  ],
+  "goland": [
+    "goland"
+  ],
+  "airwave-manager": [
+    "airwave",
+    "manager"
+  ],
+  "filezilla": [
+    "filezilla"
+  ],
+  "system-help": [
+    "system",
+    "faq",
+    "help",
+    "question",
+    "support"
+  ],
+  "github-danrabbit-harvey": [
+    "github",
+    "danrabbit",
+    "harvey"
+  ],
+  "kfourinline": [
+    "kfourinline"
+  ],
+  "bookworm": [
+    "bookworm"
+  ],
+  "team-fortress-2": [
+    "team",
+    "fortress"
+  ],
+  "mtpaint": [
+    "mtpaint"
+  ],
+  "cantata": [
+    "cantata"
+  ],
+  "vivaldi-beta": [
+    "vivaldi",
+    "beta"
+  ],
+  "securecrt": [
+    "securecrt"
+  ],
+  "keeweb": [
+    "keeweb"
+  ],
+  "github-philip-scott-spice-up": [
+    "github",
+    "philip",
+    "scott",
+    "spice",
+    "arrow",
+    "increase",
+    "up",
+    "upload"
+  ],
+  "zandronum": [
+    "zandronum"
+  ],
+  "preferences-desktop-remote-desktop": [
+    "desk",
+    "preferences",
+    "prefs",
+    "desktop",
+    "remote"
+  ],
+  "photofilmstrip": [
+    "photofilmstrip"
+  ],
+  "elisa": [
+    "elisa"
+  ],
+  "csgo": [
+    "csgo"
+  ],
+  "flacon": [
+    "flacon"
+  ],
+  "builder": [
+    "builder"
+  ],
+  "kshisen": [
+    "kshisen"
+  ],
+  "vlc": [
+    "vlc"
+  ],
+  "gda-browser-5": [
+    "gda",
+    "browser"
+  ],
+  "mgba": [
+    "mgba"
+  ],
+  "chrome-store": [
+    "chrome",
+    "store",
+    "google",
+    "browser"
+  ],
+  "maxthon-browser": [
+    "maxthon",
+    "browser"
+  ],
+  "qutim": [
+    "qutim"
+  ],
+  "frogr": [
+    "frogr"
+  ],
+  "JavaFXSceneBuilder2": [
+    "javafxscenebuilder."
+  ],
+  "firefox-developer-icon": [
+    "customization",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "firefox",
+    "setting",
+    "developer",
+    "development",
+    "settings",
+    "icon",
+    "browser"
+  ],
+  "gksu": [
+    "gksu"
+  ],
+  "xhydra": [
+    "xhydra"
+  ],
+  "tracktion": [
+    "tracktion",
+    "auto",
+    "transport",
+    "vehicle"
+  ],
+  "tipp-10": [
+    "tipp"
+  ],
+  "klavaro": [
+    "klavaro"
+  ],
+  "typora": [
+    "typora"
+  ],
+  "openrct-2": [
+    "openrct"
+  ],
+  "github-mirkobrombin-ppaextender": [
+    "github",
+    "mirkobrombin",
+    "ppaextender"
+  ],
+  "quake-3": [
+    "quake"
+  ],
+  "alienarena": [
+    "alienarena"
+  ],
+  "crossstudio": [
+    "crossstudio"
+  ],
+  "maps": [
+    "map",
+    "plan",
+    "maps",
+    "contact",
+    "navigation"
+  ],
+  "nvidia": [
+    "nvidia"
+  ],
+  "wayland": [
+    "wayland"
+  ],
+  "typecatcher": [
+    "typecatcher"
+  ],
+  "xmlcopyeditor": [
+    "xmlcopyeditor"
+  ],
+  "github-artemanufrij-regextester": [
+    "github",
+    "artemanufrij",
+    "regextester"
+  ],
+  "angrysearch": [
+    "angrysearch"
+  ],
+  "appcode": [
+    "appcode"
+  ],
+  "gpa": [
+    "gpa"
+  ],
+  "partitionmanager": [
+    "partitionmanager"
+  ],
+  "cs": [
+    "cs"
+  ],
+  "discord": [
+    "discord"
+  ],
+  "sublime-text": [
+    "sublime",
+    "text"
+  ],
+  "quake": [
+    "quake"
+  ],
+  "gps": [
+    "location",
+    "gps",
+    "contact"
+  ],
+  "phatch-inspector": [
+    "phatch",
+    "inspector"
+  ],
+  "nootka": [
+    "nootka"
+  ],
+  "kwave": [
+    "kwave"
+  ],
+  "lutris": [
+    "lutris"
+  ],
+  "mtvmusic": [
+    "mtvmusic"
+  ],
+  "software-store": [
+    "app",
+    "application",
+    "software",
+    "store"
+  ],
+  "singular": [
+    "singular"
+  ],
+  "brackets-electron": [
+    "brackets",
+    "electron"
+  ],
+  "gdm-xnest": [
+    "gdm",
+    "xnest"
+  ],
+  "cryptomator": [
+    "cryptomator"
+  ],
+  "document-viewer": [
+    "doc",
+    "document",
+    "file",
+    "viewer",
+    "paper"
+  ],
+  "midori": [
+    "midori"
+  ],
+  "zotero": [
+    "zotero"
+  ],
+  "openbox": [
+    "openbox"
+  ],
+  "iron-product-logo": [
+    "iron",
+    "product",
+    "logo"
+  ],
+  "google-play-music-desktop-player": [
+    "google",
+    "music",
+    "play",
+    "audio",
+    "sound",
+    "browser",
+    "desk",
+    "desktop",
+    "player"
+  ],
+  "kollision": [
+    "kollision"
+  ],
+  "linconnect": [
+    "linconnect"
+  ],
+  "byobu": [
+    "byobu"
+  ],
+  "kanatest": [
+    "kanatest"
+  ],
+  "java": [
+    "coffee",
+    "java",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "kigo": [
+    "kigo"
+  ],
+  "plasma-media-center": [
+    "plasma",
+    "media",
+    "center"
+  ],
+  "github-spheras-desktopfolder": [
+    "github",
+    "spheras",
+    "desktopfolder"
+  ],
+  "taxi": [
+    "taxi"
+  ],
+  "yubikey-personalization-gui": [
+    "yubikey",
+    "gui",
+    "personalization"
+  ],
+  "half-life": [
+    "half",
+    "life"
+  ],
+  "wallch": [
+    "wallch"
+  ],
+  "unknown-horizons": [
+    "unknown",
+    "horizons"
+  ],
+  "io": [
+    "io.elementary.code"
+  ],
+  "hydrogen": [
+    "hydrogen"
+  ],
+  "element4l": [
+    "elementl"
+  ],
+  "iceweasel": [
+    "iceweasel"
+  ],
+  "war-thunder": [
+    "war",
+    "thunder"
+  ],
+  "rygel": [
+    "rygel"
+  ],
+  "rtt-rstudio": [
+    "rtt",
+    "rstudio"
+  ],
+  "obs": [
+    "obs"
+  ],
+  "ffmulticonverter": [
+    "ffmulticonverter"
+  ],
+  "dconf-editor": [
+    "dconf",
+    "editor",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "github-cjfloss-envelope": [
+    "github",
+    "cjfloss",
+    "envelope",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "komorebi": [
+    "komorebi"
+  ],
+  "clipgrab": [
+    "clipgrab"
+  ],
+  "intellij": [
+    "intellij"
+  ],
+  "8tracks": [
+    "tracks"
+  ],
+  "flightgear": [
+    "flightgear"
+  ],
+  "neverball": [
+    "neverball"
+  ],
+  "woeusbgui-icon": [
+    "woeusbgui",
+    "icon"
+  ],
+  "icon-requests": [
+    "icon",
+    "requests"
+  ],
+  "quake-4": [
+    "quake"
+  ],
+  "ksirk": [
+    "ksirk"
+  ],
+  "gnome-schedule": [
+    "gnome",
+    "schedule"
+  ],
+  "calibre-viewer": [
+    "calibre",
+    "viewer"
+  ],
+  "applications-development": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "settings",
+    "developer",
+    "development"
+  ],
+  "revolt": [
+    "revolt"
+  ],
+  "kdevelop": [
+    "kdevelop"
+  ],
+  "PomoDoneApp": [
+    "pomodoneapp"
+  ],
+  "unity-tweak-tool": [
+    "unity",
+    "tweak",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "okteta": [
+    "okteta"
+  ],
+  "reditr": [
+    "reditr"
+  ],
+  "lookit": [
+    "lookit"
+  ],
+  "sparkleshare": [
+    "sparkleshare"
+  ],
+  "rocket-league": [
+    "rocket",
+    "league"
+  ],
+  "openbazaar-2": [
+    "openbazaar"
+  ],
+  "internet-chat": [
+    "internet",
+    "chat",
+    "messenger",
+    "network",
+    "social",
+    "contact",
+    "logo"
+  ],
+  "mintupload": [
+    "mintupload"
+  ],
+  "cervisia": [
+    "cervisia"
+  ],
+  "dukto": [
+    "dukto"
+  ],
+  "applications-utilities": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "krdc": [
+    "krdc"
+  ],
+  "subtitleeditor": [
+    "subtitleeditor"
+  ],
+  "kontact": [
+    "kontact"
+  ],
+  "enjoy-music-player": [
+    "enjoy",
+    "audio",
+    "music",
+    "sound",
+    "player"
+  ],
+  "keurocalc": [
+    "keurocalc"
+  ],
+  "franz": [
+    "franz"
+  ],
+  "appimagekit-gravit-designer": [
+    "appimagekit",
+    "gravit",
+    "designer"
+  ],
+  "neverputt": [
+    "neverputt"
+  ],
+  "company-of-heroes-2": [
+    "company",
+    "heroes",
+    "building"
+  ],
+  "zeal": [
+    "zeal"
+  ],
+  "keepassx": [
+    "keepassx"
+  ],
+  "ring": [
+    "ring"
+  ],
+  "sr-editor": [
+    "editor",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "qreator": [
+    "qreator"
+  ],
+  "gcompris-edit": [
+    "gcompris",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "kpatience": [
+    "kpatience"
+  ],
+  "ffado": [
+    "ffado"
+  ],
+  "distributor-logo-fedora": [
+    "distributor",
+    "logo",
+    "fedora"
+  ],
+  "preferences-system-network": [
+    "prefs",
+    "preferences",
+    "system",
+    "network"
+  ],
+  "acetoneiso": [
+    "acetoneiso"
+  ],
+  "amd": [
+    "amd"
+  ],
+  "gmail": [
+    "gmail"
+  ],
+  "github-arshubham-cipher": [
+    "github",
+    "arshubham",
+    "cipher"
+  ],
+  "evelauncher": [
+    "evelauncher"
+  ],
+  "lynx": [
+    "lynx"
+  ],
+  "github-danrabbit-nimbus": [
+    "github",
+    "danrabbit",
+    "nimbus"
+  ],
+  "accessories-camera": [
+    "accessories",
+    "cam",
+    "camera",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "haroopad": [
+    "haroopad"
+  ],
+  "AdobePhotoshop": [
+    "adobephotoshop"
+  ],
+  "mail": [
+    "mail.ru",
+    "cloud",
+    "cloudy",
+    "weather"
+  ],
+  "total-war": [
+    "total",
+    "war"
+  ],
+  "github-artemanufrij-webpin": [
+    "github",
+    "artemanufrij",
+    "webpin"
+  ],
+  "yubikey-neo-manager": [
+    "yubikey",
+    "neo",
+    "manager"
+  ],
+  "system-shutdown": [
+    "system",
+    "shutdown"
+  ],
+  "keybase": [
+    "keybase"
+  ],
+  "0ad": [
+    "ad"
+  ],
+  "qalculate": [
+    "qalculate"
+  ],
+  "sepolicy": [
+    "sepolicy"
+  ],
+  "applications-development-web": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings",
+    "web"
+  ],
+  "syncthing-gtk": [
+    "syncthing",
+    "gtk"
+  ],
+  "eid-viewer": [
+    "eid",
+    "viewer"
+  ],
+  "youtube": [
+    "youtube",
+    "logo",
+    "social"
+  ],
+  "gftp": [
+    "gftp"
+  ],
+  "hp-logo": [
+    "logo"
+  ],
+  "openarena": [
+    "openarena"
+  ],
+  "pairs": [
+    "pairs"
+  ],
+  "focuswriter": [
+    "focuswriter"
+  ],
+  "lmms": [
+    "lmms"
+  ],
+  "slack": [
+    "slack"
+  ],
+  "tvtime": [
+    "tvtime"
+  ],
+  "type-rider": [
+    "type",
+    "rider"
+  ],
+  "retext": [
+    "retext"
+  ],
+  "weather": [
+    "weather"
+  ],
+  "agave": [
+    "agave"
+  ],
+  "dse": [
+    "dse"
+  ],
+  "cs-desktop": [
+    "cs",
+    "desk",
+    "desktop"
+  ],
+  "qtpass-icon": [
+    "qtpass",
+    "icon"
+  ],
+  "sw4stm-32": [
+    "swstm"
+  ],
+  "krfb": [
+    "krfb"
+  ],
+  "semaphor": [
+    "semaphor"
+  ],
+  "preferences-system-time": [
+    "preferences",
+    "prefs",
+    "system",
+    "time"
+  ],
+  "rednotebook": [
+    "rednotebook"
+  ],
+  "xcos": [
+    "xcos"
+  ],
+  "akonaditray": [
+    "akonaditray"
+  ],
+  "slingscold": [
+    "slingscold"
+  ],
+  "warmux": [
+    "warmux"
+  ],
+  "github-fabiocolacio-marker": [
+    "github",
+    "fabiocolacio",
+    "marker"
+  ],
+  "retropie": [
+    "retropie"
+  ],
+  "upload-pictures": [
+    "upload",
+    "image",
+    "increase",
+    "photo",
+    "photography",
+    "picture",
+    "up",
+    "pictures",
+    "arrow"
+  ],
+  "citrix-receiver": [
+    "citrix",
+    "receiver"
+  ],
+  "wine": [
+    "wine"
+  ],
+  "utilities-x-terminal": [
+    "tool",
+    "utilities",
+    "utils",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "cups": [
+    "cups"
+  ],
+  "gnome-commander": [
+    "gnome",
+    "commander"
+  ],
+  "mstdn": [
+    "mstdn"
+  ],
+  "libreoffice-draw": [
+    "draw",
+    "libreoffice"
+  ],
+  "libinput-gestures": [
+    "libinput",
+    "gestures"
+  ],
+  "christmas-tree": [
+    "christmas",
+    "xmas",
+    "tree"
+  ],
+  "gda-control-center": [
+    "gda",
+    "control",
+    "center"
+  ],
+  "trashindicator": [
+    "trashindicator"
+  ],
+  "bpython": [
+    "bpython"
+  ],
+  "tusk-app": [
+    "tusk",
+    "app",
+    "application",
+    "software"
+  ],
+  "worms": [
+    "worms"
+  ],
+  "soundnode": [
+    "soundnode"
+  ],
+  "nutty": [
+    "nutty"
+  ],
+  "deadbeef": [
+    "deadbeef"
+  ],
+  "gcompris": [
+    "gcompris"
+  ],
+  "kipi-expoblending": [
+    "kipi",
+    "expoblending"
+  ],
+  "wordview": [
+    "wordview"
+  ],
+  "pocket": [
+    "pocket"
+  ],
+  "webtorrent-desktop": [
+    "desk",
+    "desktop",
+    "webtorrent"
+  ],
+  "qelectrotech": [
+    "qelectrotech"
+  ],
+  "argouml": [
+    "argouml"
+  ],
+  "android-sdk": [
+    "android",
+    "sdk"
+  ],
+  "bareftp": [
+    "bareftp"
+  ],
+  "flash": [
+    "flash"
+  ],
+  "torchlight-2": [
+    "torchlight"
+  ],
+  "preferences-desktop-keyboard": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "keyboard",
+    "hardware"
+  ],
+  "exaile": [
+    "exaile"
+  ],
+  "nexuiz": [
+    "nexuiz"
+  ],
+  "synfig-icon": [
+    "synfig",
+    "icon"
+  ],
+  "gnome-mpv": [
+    "gnome",
+    "mpv"
+  ],
+  "gdevilspie": [
+    "gdevilspie"
+  ],
+  "vmware-netcfg": [
+    "vmware",
+    "netcfg"
+  ],
+  "github-gijsgoudzwaard-image-optimizer": [
+    "github",
+    "gijsgoudzwaard",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "optimizer"
+  ],
+  "ark": [
+    "ark"
+  ],
+  "showtime": [
+    "showtime"
+  ],
+  "kerbal-space-program": [
+    "kerbal",
+    "space",
+    "program"
+  ],
+  "gnome-twitch": [
+    "gnome",
+    "twitch"
+  ],
+  "PosteRazor": [
+    "posterazor"
+  ],
+  "quake3-team-arena": [
+    "quake",
+    "team",
+    "arena"
+  ],
+  "fontypython": [
+    "fontypython"
+  ],
+  "chromium-browser": [
+    "chromium",
+    "browser"
+  ],
+  "xfce4-systray": [
+    "xfce",
+    "systray"
+  ],
+  "k4dirstat": [
+    "kdirstat"
+  ],
+  "enter-the-gungeon": [
+    "enter",
+    "gungeon"
+  ],
+  "skydrive": [
+    "skydrive"
+  ],
+  "distributor-logo-lubuntu": [
+    "distributor",
+    "logo",
+    "lubuntu"
+  ],
+  "resharpercpp": [
+    "resharpercpp"
+  ],
+  "homebank": [
+    "homebank"
+  ],
+  "tomahawk": [
+    "tomahawk"
+  ],
+  "pcbnew": [
+    "pcbnew"
+  ],
+  "accessories-dictionary": [
+    "accessories",
+    "dictionary"
+  ],
+  "mysql-workbench": [
+    "mysql",
+    "workbench"
+  ],
+  "wxcas": [
+    "wxcas"
+  ],
+  "icecat": [
+    "icecat"
+  ],
+  "fceux": [
+    "fceux"
+  ],
+  "distributor-logo-ubuntu-mate": [
+    "distributor",
+    "logo",
+    "ubuntu",
+    "mate"
+  ],
+  "css": [
+    "css"
+  ],
+  "kiten": [
+    "kiten"
+  ],
+  "musescore": [
+    "musescore"
+  ],
+  "nmap": [
+    "nmap"
+  ],
+  "simplenote": [
+    "simplenote"
+  ],
+  "chrome-knipolnnllmklapflnccelgolnpehhpl-Default": [
+    "chrome",
+    "default",
+    "google",
+    "knipolnnllmklapflnccelgolnpehhpl",
+    "browser"
+  ],
+  "android-file-transfer": [
+    "android",
+    "doc",
+    "document",
+    "file",
+    "transfer",
+    "paper"
+  ],
+  "tilix": [
+    "tilix"
+  ],
+  "touchpad-indicator": [
+    "touchpad",
+    "indicator"
+  ],
+  "system-error": [
+    "terminate",
+    "system",
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit"
+  ],
+  "geany": [
+    "geany"
+  ],
+  "wesnoth-editor": [
+    "wesnoth",
+    "editor",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "lightworks": [
+    "lightworks"
+  ],
+  "chromium-app-list": [
+    "chromium",
+    "app",
+    "application",
+    "software",
+    "list"
+  ],
+  "ciano": [
+    "ciano"
+  ],
+  "limbo": [
+    "limbo"
+  ],
+  "inkscape": [
+    "inkscape"
+  ],
+  "github-parnold-x-timer": [
+    "github",
+    "parnold",
+    "clock",
+    "timer"
+  ],
+  "fusion-icon": [
+    "fusion",
+    "icon"
+  ],
+  "mkvmergeGUI": [
+    "mkvmergegui"
+  ],
+  "teeworlds": [
+    "teeworlds"
+  ],
+  "pulseeffects": [
+    "pulseeffects"
+  ],
+  "kdeconnect": [
+    "kdeconnect"
+  ],
+  "reactotron": [
+    "reactotron"
+  ],
+  "julia": [
+    "julia"
+  ],
+  "moneydance": [
+    "moneydance"
+  ],
+  "github-bcedu-museic": [
+    "github",
+    "bcedu",
+    "museic"
+  ],
+  "wireshark": [
+    "wireshark"
+  ],
+  "gufw": [
+    "gufw"
+  ],
+  "brave": [
+    "brave"
+  ],
+  "nip-2": [
+    "nip"
+  ],
+  "lugaru": [
+    "lugaru"
+  ],
+  "step": [
+    "step"
+  ],
+  "kbounce": [
+    "kbounce"
+  ],
+  "wps-office-wppmain": [
+    "wps",
+    "office",
+    "wppmain",
+    "microsoft"
+  ],
+  "internet-mail": [
+    "internet",
+    "email",
+    "mail",
+    "network",
+    "contact"
+  ],
+  "foobnix": [
+    "foobnix"
+  ],
+  "modem-manager-gui": [
+    "modem",
+    "manager",
+    "gui"
+  ],
+  "discord-canary": [
+    "discord",
+    "canary"
+  ],
+  "comix": [
+    "comix"
+  ],
+  "marble": [
+    "marble"
+  ],
+  "planetary-annihilation-titans": [
+    "planetary",
+    "annihilation",
+    "titans"
+  ],
+  "preferences-system-brightness-lock": [
+    "preferences",
+    "prefs",
+    "system",
+    "access",
+    "brightness",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "minetest": [
+    "minetest"
+  ],
+  "preferences-web-browser-cookies": [
+    "preferences",
+    "prefs",
+    "web",
+    "browser",
+    "cookie",
+    "cookies"
+  ],
+  "winecfg": [
+    "winecfg"
+  ],
+  "youtrack": [
+    "youtrack"
+  ],
+  "preferences-desktop-online-accounts": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "connected",
+    "online",
+    "accounts"
+  ],
+  "resolve": [
+    "resolve"
+  ],
+  "diodon": [
+    "diodon"
+  ],
+  "superproductivity": [
+    "superproductivity"
+  ],
+  "winefile": [
+    "winefile"
+  ],
+  "anatine": [
+    "anatine"
+  ],
+  "meow": [
+    "meow"
+  ],
+  "vidcutter": [
+    "vidcutter"
+  ],
+  "ksquares": [
+    "ksquares"
+  ],
+  "distributor-logo-debian": [
+    "logo",
+    "distributor",
+    "debian"
+  ],
+  "github-kmal-kenneth-monilet": [
+    "github",
+    "kmal",
+    "kenneth",
+    "monilet"
+  ],
+  "eeschema": [
+    "eeschema"
+  ],
+  "photocollage": [
+    "photocollage"
+  ],
+  "speed-dreams": [
+    "speed",
+    "dreams"
+  ],
+  "signal-desktop": [
+    "signal",
+    "desk",
+    "desktop"
+  ],
+  "auryo": [
+    "auryo"
+  ],
+  "copy-com": [
+    "copy",
+    "com"
+  ],
+  "rapidsvn": [
+    "rapidsvn"
+  ],
+  "supertuxkart": [
+    "supertuxkart"
+  ],
+  "accessories-notes": [
+    "note",
+    "accessories",
+    "notes"
+  ],
+  "rambox": [
+    "rambox"
+  ],
+  "disk-usage-analyzer": [
+    "disk",
+    "disc",
+    "usage",
+    "analyzer"
+  ],
+  "qwinff": [
+    "qwinff"
+  ],
+  "kfloppy": [
+    "kfloppy"
+  ],
+  "vk": [
+    "vk"
+  ],
+  "scout-app": [
+    "scout",
+    "app",
+    "application",
+    "software"
+  ],
+  "applications-development-translation": [
+    "app",
+    "application",
+    "software",
+    "applications",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings",
+    "translation"
+  ],
+  "stuntrally": [
+    "stuntrally"
+  ],
+  "system-lock-screen": [
+    "system",
+    "access",
+    "padlock",
+    "decrypt",
+    "decrypted",
+    "unlock",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "private",
+    "terminal",
+    "screen",
+    "lcd",
+    "monitor",
+    "konsole",
+    "display",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "mp3splt-gtk": [
+    "mp3splt",
+    "gtk"
+  ],
+  "qomp": [
+    "qomp"
+  ],
+  "darktable": [
+    "darktable"
+  ],
+  "nvim": [
+    "nvim"
+  ],
+  "linphone": [
+    "linphone"
+  ],
+  "putty": [
+    "putty"
+  ],
+  "accessories-ebook-reader": [
+    "accessories",
+    "ebook",
+    "reader"
+  ],
+  "karbon": [
+    "karbon"
+  ],
+  "supertux": [
+    "supertux"
+  ],
+  "application-community": [
+    "app",
+    "application",
+    "community",
+    "software"
+  ],
+  "kapman": [
+    "kapman"
+  ],
+  "1cestart": [
+    "cestart"
+  ],
+  "tellico": [
+    "tellico"
+  ],
+  "terminator": [
+    "terminator"
+  ],
+  "skrooge": [
+    "skrooge"
+  ],
+  "atom": [
+    "atom"
+  ],
+  "navicat-postgresql": [
+    "navicat",
+    "postgresql"
+  ],
+  "gogland": [
+    "gogland"
+  ],
+  "google": [
+    "google",
+    "browser"
+  ],
+  "kubrick": [
+    "kubrick"
+  ],
+  "etr": [
+    "etr"
+  ],
+  "kwalletmanager": [
+    "kwalletmanager"
+  ],
+  "quodlibet": [
+    "quodlibet"
+  ],
+  "screencloud": [
+    "screencloud"
+  ],
+  "smartgit": [
+    "smartgit"
+  ],
+  "factorio": [
+    "factorio"
+  ],
+  "portal": [
+    "portal"
+  ],
+  "fofix": [
+    "fofix"
+  ],
+  "gnome-subtitles": [
+    "gnome",
+    "subtitles"
+  ],
+  "genymotion-player": [
+    "genymotion",
+    "player"
+  ],
+  "jango": [
+    "jango"
+  ],
+  "deezer": [
+    "deezer"
+  ],
+  "stage": [
+    "stage"
+  ],
+  "wine-help": [
+    "wine",
+    "faq",
+    "help",
+    "question",
+    "support"
+  ],
+  "gtkhash": [
+    "gtkhash"
+  ],
+  "kid-3": [
+    "kid",
+    "family"
+  ],
+  "nitrogen": [
+    "nitrogen"
+  ],
+  "fiji": [
+    "fiji"
+  ],
+  "flow": [
+    "flow"
+  ],
+  "kalzium": [
+    "kalzium"
+  ],
+  "phpstorm": [
+    "phpstorm"
+  ],
+  "boostnote": [
+    "boostnote"
+  ],
+  "rochard": [
+    "rochard"
+  ],
+  "toby-the-secret-mine": [
+    "toby",
+    "secret",
+    "mine"
+  ],
+  "wargus": [
+    "wargus"
+  ],
+  "whatsie": [
+    "whatsie"
+  ],
+  "gshutdown": [
+    "gshutdown"
+  ],
+  "anoise": [
+    "anoise"
+  ],
+  "bluegriffon": [
+    "bluegriffon"
+  ],
+  "words": [
+    "word",
+    "words",
+    "office",
+    "microsoft"
+  ],
+  "Zoom": [
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "gnome-pie": [
+    "gnome",
+    "pie"
+  ],
+  "wps-office-etmain": [
+    "wps",
+    "office",
+    "etmain",
+    "microsoft"
+  ],
+  "qgo": [
+    "qgo"
+  ],
+  "peazip": [
+    "peazip"
+  ],
+  "soundcloud": [
+    "soundcloud"
+  ],
+  "tegaki-recognize": [
+    "tegaki",
+    "recognize"
+  ],
+  "easymp3gain": [
+    "easymp3gain"
+  ],
+  "veracrypt": [
+    "veracrypt"
+  ],
+  "gnome-sound-recorder": [
+    "gnome",
+    "audio",
+    "music",
+    "sound",
+    "recorder"
+  ],
+  "kspaceduel": [
+    "kspaceduel"
+  ],
+  "vdrift": [
+    "vdrift"
+  ],
+  "megaglest": [
+    "megaglest"
+  ],
+  "kipi-dngconverter": [
+    "kipi",
+    "dngconverter"
+  ],
+  "dont-starve": [
+    "dont",
+    "starve"
+  ],
+  "ue4editor": [
+    "ueeditor"
+  ],
+  "steadyflow": [
+    "steadyflow"
+  ],
+  "plasmagik": [
+    "plasmagik"
+  ],
+  "sunflower": [
+    "sunflower",
+    "flower"
+  ],
+  "miro": [
+    "miro"
+  ],
+  "streamtuner": [
+    "streamtuner"
+  ],
+  "clamav": [
+    "clamav"
+  ],
+  "rawtherapee": [
+    "rawtherapee"
+  ],
+  "tormessenger": [
+    "tormessenger"
+  ],
+  "mps": [
+    "mps"
+  ],
+  "desktop-environment-unity": [
+    "desk",
+    "desktop",
+    "environment",
+    "unity"
+  ],
+  "amnesia-a-machine-for-pigs": [
+    "amnesia",
+    "machine",
+    "pigs"
+  ],
+  "mate-inhibit-applet": [
+    "mate",
+    "inhibit",
+    "applet"
+  ],
+  "guvcview": [
+    "guvcview"
+  ],
+  "phatch": [
+    "phatch"
+  ],
+  "preferences-system-login": [
+    "preferences",
+    "login",
+    "prefs",
+    "system",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "kopete": [
+    "kopete"
+  ],
+  "utilities-terminal": [
+    "tool",
+    "utilities",
+    "utils",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "preferences-desktop-theme": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "theme"
+  ],
+  "gnome-appfolders-manager": [
+    "gnome",
+    "appfolders",
+    "manager"
+  ],
+  "kalarm": [
+    "kalarm"
+  ],
+  "maxima": [
+    "maxima"
+  ],
+  "dino": [
+    "dino"
+  ],
+  "kile": [
+    "kile"
+  ],
+  "guake": [
+    "guake"
+  ],
+  "songkick": [
+    "songkick"
+  ],
+  "kjumpingcube": [
+    "kjumpingcube"
+  ],
+  "xnview": [
+    "xnview"
+  ],
+  "ocsstore": [
+    "ocsstore"
+  ],
+  "gimp": [
+    "gimp"
+  ],
+  "tomato": [
+    "tomato"
+  ],
+  "mog": [
+    "mog"
+  ],
+  "lifeograph": [
+    "lifeograph"
+  ],
+  "guake-prefs": [
+    "guake",
+    "preferences",
+    "prefs"
+  ],
+  "twitter": [
+    "twitter",
+    "social",
+    "logo"
+  ],
+  "wechat": [
+    "wechat"
+  ],
+  "devhelp": [
+    "devhelp"
+  ],
+  "myspace": [
+    "myspace",
+    "social",
+    "logo"
+  ],
+  "gconf-editor": [
+    "gconf",
+    "editor",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "preferences-desktop-keyboard-shortcuts": [
+    "desk",
+    "desktop",
+    "preferences",
+    "prefs",
+    "keyboard",
+    "shortcuts",
+    "hardware"
+  ],
+  "spacemacs": [
+    "spacemacs"
+  ],
+  "granatier": [
+    "granatier"
+  ],
+  "krusader-user": [
+    "krusader",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "palemoon": [
+    "palemoon"
+  ],
+  "github-bartzaalberg-php-tester": [
+    "github",
+    "bartzaalberg",
+    "php",
+    "tester"
+  ]
+}

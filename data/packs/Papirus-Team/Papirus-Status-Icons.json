@@ -1,0 +1,809 @@
+[
+  {
+    "name": "airplane-mode.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/airplane-mode.svg",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "plane",
+      "mode",
+      "status",
+      "transport"
+    ]
+  },
+  {
+    "name": "avatar-default.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/avatar-default.svg",
+    "tags": [
+      "avatar",
+      "default",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-ac-adapter.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-ac-adapter.svg",
+    "tags": [
+      "adapter",
+      "battery",
+      "plug",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-caution-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-caution-charging.svg",
+    "tags": [
+      "battery",
+      "caution",
+      "charging",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-caution.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-caution.svg",
+    "tags": [
+      "battery",
+      "caution",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-empty-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-empty-charging.svg",
+    "tags": [
+      "battery",
+      "empty",
+      "erase",
+      "charging",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-empty.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-empty.svg",
+    "tags": [
+      "battery",
+      "empty",
+      "erase",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-full-charged.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-full-charged.svg",
+    "tags": [
+      "battery",
+      "full",
+      "charged",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-full-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-full-charging.svg",
+    "tags": [
+      "battery",
+      "charging",
+      "full",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-full.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-full.svg",
+    "tags": [
+      "battery",
+      "full",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-good-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-good-charging.svg",
+    "tags": [
+      "battery",
+      "good",
+      "charging",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-good.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-good.svg",
+    "tags": [
+      "battery",
+      "good",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-low-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-low-charging.svg",
+    "tags": [
+      "battery",
+      "low",
+      "charging",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-low.svg",
+    "tags": [
+      "battery",
+      "low",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "battery-missing.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-missing.svg",
+    "tags": [
+      "battery",
+      "missing",
+      "power",
+      "status"
+    ]
+  },
+  {
+    "name": "bluetooth-active.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/bluetooth-active.svg",
+    "tags": [
+      "bluetooth",
+      "active",
+      "status"
+    ]
+  },
+  {
+    "name": "bluetooth-disabled.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/bluetooth-disabled.svg",
+    "tags": [
+      "bluetooth",
+      "disabled",
+      "status"
+    ]
+  },
+  {
+    "name": "bluetooth.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/bluetooth.svg",
+    "tags": [
+      "bluetooth",
+      "status"
+    ]
+  },
+  {
+    "name": "camera-off.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/camera-off.svg",
+    "tags": [
+      "cam",
+      "camera",
+      "off",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "status"
+    ]
+  },
+  {
+    "name": "camera-on.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/camera-on.svg",
+    "tags": [
+      "cam",
+      "camera",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "status"
+    ]
+  },
+  {
+    "name": "changes-prevent.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/changes-prevent.svg",
+    "tags": [
+      "changes",
+      "prevent",
+      "status"
+    ]
+  },
+  {
+    "name": "dialog-error.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-error.svg",
+    "tags": [
+      "dialog",
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate",
+      "status"
+    ]
+  },
+  {
+    "name": "dialog-information.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-information.svg",
+    "tags": [
+      "dialog",
+      "info",
+      "information",
+      "status"
+    ]
+  },
+  {
+    "name": "dialog-question.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-question.svg",
+    "tags": [
+      "dialog",
+      "faq",
+      "help",
+      "question",
+      "support",
+      "status"
+    ]
+  },
+  {
+    "name": "dialog-warning.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-warning.svg",
+    "tags": [
+      "dialog",
+      "warning",
+      "status"
+    ]
+  },
+  {
+    "name": "image-missing.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/image-missing.svg",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "missing",
+      "status"
+    ]
+  },
+  {
+    "name": "input-keyboard-virtual-off.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/input-keyboard-virtual-off.svg",
+    "tags": [
+      "input",
+      "keyboard",
+      "virtual",
+      "off",
+      "status",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-error.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/network-error.svg",
+    "tags": [
+      "network",
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate",
+      "status"
+    ]
+  },
+  {
+    "name": "network-offline.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/network-offline.svg",
+    "tags": [
+      "network",
+      "disconnected",
+      "offline",
+      "status"
+    ]
+  },
+  {
+    "name": "nm-signal-100.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-100.svg",
+    "tags": [
+      "signal",
+      "status"
+    ]
+  },
+  {
+    "name": "nm-signal-25.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-25.svg",
+    "tags": [
+      "signal",
+      "status"
+    ]
+  },
+  {
+    "name": "nm-signal-50.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-50.svg",
+    "tags": [
+      "signal",
+      "status"
+    ]
+  },
+  {
+    "name": "nm-signal-75.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-75.svg",
+    "tags": [
+      "signal",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-audio-volume-high.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-high.svg",
+    "tags": [
+      "audio",
+      "music",
+      "notification",
+      "sound",
+      "volume",
+      "high",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-audio-volume-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-low.svg",
+    "tags": [
+      "audio",
+      "music",
+      "notification",
+      "sound",
+      "volume",
+      "low",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-audio-volume-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-medium.svg",
+    "tags": [
+      "audio",
+      "music",
+      "notification",
+      "sound",
+      "volume",
+      "medium",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-audio-volume-muted.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-muted.svg",
+    "tags": [
+      "audio",
+      "music",
+      "notification",
+      "sound",
+      "status",
+      "volume",
+      "muted"
+    ]
+  },
+  {
+    "name": "notification-battery-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-battery-low.svg",
+    "tags": [
+      "battery",
+      "notification",
+      "low",
+      "status",
+      "power"
+    ]
+  },
+  {
+    "name": "notification-device-eject.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-device-eject.svg",
+    "tags": [
+      "device",
+      "notification",
+      "eject",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-disabled.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-disabled.svg",
+    "tags": [
+      "disabled",
+      "notification",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-display-brightness-full.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-full.svg",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "notification",
+      "screen",
+      "terminal",
+      "workstation",
+      "brightness",
+      "full",
+      "status",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-display-brightness-high.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-high.svg",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "notification",
+      "screen",
+      "terminal",
+      "workstation",
+      "brightness",
+      "high",
+      "status",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-display-brightness-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-low.svg",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "notification",
+      "screen",
+      "terminal",
+      "workstation",
+      "brightness",
+      "low",
+      "status",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-display-brightness-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-medium.svg",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "notification",
+      "screen",
+      "terminal",
+      "workstation",
+      "brightness",
+      "medium",
+      "status",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-display-brightness-off.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-off.svg",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "notification",
+      "screen",
+      "terminal",
+      "workstation",
+      "brightness",
+      "off",
+      "status",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-gsm-connected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-gsm-connected.svg",
+    "tags": [
+      "notification",
+      "gsm",
+      "connected",
+      "online",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-gsm-disconnected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-gsm-disconnected.svg",
+    "tags": [
+      "notification",
+      "gsm",
+      "disconnected",
+      "offline",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-input-touchpad-symbolic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-input-touchpad-symbolic.svg",
+    "tags": [
+      "input",
+      "notification",
+      "touchpad",
+      "status",
+      "symbolic"
+    ]
+  },
+  {
+    "name": "notification-keyboard-brightness.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-keyboard-brightness.svg",
+    "tags": [
+      "keyboard",
+      "notification",
+      "brightness",
+      "status",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-microphone-sensitivity-high.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-high.svg",
+    "tags": [
+      "notification",
+      "microphone",
+      "high",
+      "sensitivity",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-microphone-sensitivity-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-low.svg",
+    "tags": [
+      "notification",
+      "microphone",
+      "low",
+      "sensitivity",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-microphone-sensitivity-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-medium.svg",
+    "tags": [
+      "notification",
+      "microphone",
+      "medium",
+      "sensitivity",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-microphone-sensitivity-muted.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-muted.svg",
+    "tags": [
+      "notification",
+      "microphone",
+      "status",
+      "muted",
+      "sensitivity"
+    ]
+  },
+  {
+    "name": "notification-network-ethernet-connected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-network-ethernet-connected.svg",
+    "tags": [
+      "network",
+      "notification",
+      "ethernet",
+      "connected",
+      "online",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-network-wireless-disconnected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-network-wireless-disconnected.svg",
+    "tags": [
+      "network",
+      "notification",
+      "disconnected",
+      "offline",
+      "status",
+      "wireless"
+    ]
+  },
+  {
+    "name": "notification-network-wireless.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-network-wireless.svg",
+    "tags": [
+      "network",
+      "notification",
+      "wireless",
+      "status"
+    ]
+  },
+  {
+    "name": "notification-printer-symbolic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-printer-symbolic.svg",
+    "tags": [
+      "notification",
+      "print",
+      "printer",
+      "symbolic",
+      "status",
+      "hardware"
+    ]
+  },
+  {
+    "name": "notification-touchpad-disabled-symbolic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-touchpad-disabled-symbolic.svg",
+    "tags": [
+      "notification",
+      "touchpad",
+      "disabled",
+      "status",
+      "symbolic"
+    ]
+  },
+  {
+    "name": "printer-error.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/printer-error.svg",
+    "tags": [
+      "printer",
+      "print",
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate",
+      "hardware",
+      "status"
+    ]
+  },
+  {
+    "name": "user-trash-full.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/user-trash-full.svg",
+    "tags": [
+      "person",
+      "recyclebin",
+      "user",
+      "customer",
+      "garbage",
+      "recycle",
+      "recycled",
+      "trash",
+      "bin",
+      "full",
+      "face",
+      "status"
+    ]
+  },
+  {
+    "name": "user-trash.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/user-trash.svg",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "face",
+      "status"
+    ]
+  },
+  {
+    "name": "view-private.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/view-private.svg",
+    "tags": [
+      "view",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "status"
+    ]
+  }
+]
