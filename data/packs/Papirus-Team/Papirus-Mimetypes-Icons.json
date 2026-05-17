@@ -1,0 +1,507 @@
+[
+  {
+    "name": "app-dxf.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-dxf.svg"
+  },
+  {
+    "name": "app-json.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-json.svg"
+  },
+  {
+    "name": "app-pdf.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pdf.svg"
+  },
+  {
+    "name": "app-pgp-encrypted.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pgp-encrypted.svg"
+  },
+  {
+    "name": "app-pgp-keys.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pgp-keys.svg"
+  },
+  {
+    "name": "app-pkix-cert.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-pkix-cert.svg"
+  },
+  {
+    "name": "app-vnd.android.package-archive.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.android.package-archive.svg"
+  },
+  {
+    "name": "app-vnd.comicbook-plus-zip.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.comicbook-plus-zip.svg"
+  },
+  {
+    "name": "app-vnd.flatpak.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.flatpak.svg"
+  },
+  {
+    "name": "app-vnd.insync.link.drive.draw.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.draw.svg"
+  },
+  {
+    "name": "app-vnd.insync.link.drive.form.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.form.svg"
+  },
+  {
+    "name": "app-vnd.insync.link.drive.script.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.script.svg"
+  },
+  {
+    "name": "app-vnd.insync.link.drive.table.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.insync.link.drive.table.svg"
+  },
+  {
+    "name": "app-vnd.oasis.opendocument.database.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.database.svg"
+  },
+  {
+    "name": "app-vnd.oasis.opendocument.formula.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.formula.svg"
+  },
+  {
+    "name": "app-vnd.oasis.opendocument.graphics.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-vnd.oasis.opendocument.graphics.svg"
+  },
+  {
+    "name": "app-x-bittorrent.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-bittorrent.svg"
+  },
+  {
+    "name": "app-x-blender.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-blender.svg"
+  },
+  {
+    "name": "app-x-compress.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-compress.svg"
+  },
+  {
+    "name": "app-x-designer.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-designer.svg"
+  },
+  {
+    "name": "app-x-dwg.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-dwg.svg"
+  },
+  {
+    "name": "app-x-fictionbook.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-fictionbook.svg"
+  },
+  {
+    "name": "app-x-font-ttf.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-font-ttf.svg"
+  },
+  {
+    "name": "app-x-gettext-translation.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-gettext-translation.svg"
+  },
+  {
+    "name": "app-x-iso.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-iso.svg"
+  },
+  {
+    "name": "app-x-iso9660-appimage.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-iso9660-appimage.svg"
+  },
+  {
+    "name": "app-x-javascript.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-javascript.svg"
+  },
+  {
+    "name": "app-x-kmymoney.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-kmymoney.svg"
+  },
+  {
+    "name": "app-x-msdos-program.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-msdos-program.svg"
+  },
+  {
+    "name": "app-x-mswinurl.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-mswinurl.svg"
+  },
+  {
+    "name": "app-x-musescore.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-musescore.svg"
+  },
+  {
+    "name": "app-x-php.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-php.svg"
+  },
+  {
+    "name": "app-x-plasma.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-plasma.svg"
+  },
+  {
+    "name": "app-x-sharedlib.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-sharedlib.svg"
+  },
+  {
+    "name": "app-x-shockwave-flash.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-shockwave-flash.svg"
+  },
+  {
+    "name": "app-x-sqlite-2.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-sqlite-2.svg"
+  },
+  {
+    "name": "app-x-srt.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-srt.svg"
+  },
+  {
+    "name": "app-x-tiled.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-tiled.svg"
+  },
+  {
+    "name": "app-x-trash.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-trash.svg"
+  },
+  {
+    "name": "app-x-virtualbox-hdd.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-hdd.svg"
+  },
+  {
+    "name": "app-x-virtualbox-ova.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-ova.svg"
+  },
+  {
+    "name": "app-x-virtualbox-ovf.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-ovf.svg"
+  },
+  {
+    "name": "app-x-virtualbox-vbox.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vbox.svg"
+  },
+  {
+    "name": "app-x-virtualbox-vdi.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vdi.svg"
+  },
+  {
+    "name": "app-x-virtualbox-vhd.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vhd.svg"
+  },
+  {
+    "name": "app-x-virtualbox-vmdk.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-virtualbox-vmdk.svg"
+  },
+  {
+    "name": "app-x-yaml.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-yaml.svg"
+  },
+  {
+    "name": "app-x-zerosize.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-x-zerosize.svg"
+  },
+  {
+    "name": "app-xml.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/app-xml.svg"
+  },
+  {
+    "name": "audio-x-flac.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/audio-x-flac.svg"
+  },
+  {
+    "name": "audio-x-generic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/audio-x-generic.svg"
+  },
+  {
+    "name": "gnome-mime-app-x-referencer.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/gnome-mime-app-x-referencer.svg"
+  },
+  {
+    "name": "image-svg-plus-xml-compressed.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-svg-plus-xml-compressed.svg"
+  },
+  {
+    "name": "image-x-generic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-generic.svg"
+  },
+  {
+    "name": "image-x-svg-plus-xml.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-svg-plus-xml.svg"
+  },
+  {
+    "name": "image-x-xcf.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/image-x-xcf.svg"
+  },
+  {
+    "name": "playlist.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/playlist.svg"
+  },
+  {
+    "name": "qgis-qgs.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/qgis-qgs.svg"
+  },
+  {
+    "name": "qgis-qpt.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/qgis-qpt.svg"
+  },
+  {
+    "name": "rpm.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/rpm.svg"
+  },
+  {
+    "name": "text-css.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-css.svg"
+  },
+  {
+    "name": "text-r.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-r.svg"
+  },
+  {
+    "name": "text-x-authors.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-authors.svg"
+  },
+  {
+    "name": "text-x-c-plus-plus-src.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-c-plus-plus-src.svg"
+  },
+  {
+    "name": "text-x-changelog.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-changelog.svg"
+  },
+  {
+    "name": "text-x-chdr.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-chdr.svg"
+  },
+  {
+    "name": "text-x-copying.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-copying.svg"
+  },
+  {
+    "name": "text-x-csharp.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-csharp.svg"
+  },
+  {
+    "name": "text-x-csrc.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-csrc.svg"
+  },
+  {
+    "name": "text-x-diff.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-diff.svg"
+  },
+  {
+    "name": "text-x-generic-template.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-generic-template.svg"
+  },
+  {
+    "name": "text-x-generic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-generic.svg"
+  },
+  {
+    "name": "text-x-go.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-go.svg"
+  },
+  {
+    "name": "text-x-haskell.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-haskell.svg"
+  },
+  {
+    "name": "text-x-hex.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-hex.svg"
+  },
+  {
+    "name": "text-x-install.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-install.svg"
+  },
+  {
+    "name": "text-x-java.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-java.svg"
+  },
+  {
+    "name": "text-x-log.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-log.svg"
+  },
+  {
+    "name": "text-x-lua.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-lua.svg"
+  },
+  {
+    "name": "text-x-makefile.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-makefile.svg"
+  },
+  {
+    "name": "text-x-markdown.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-markdown.svg"
+  },
+  {
+    "name": "text-x-mo.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-mo.svg"
+  },
+  {
+    "name": "text-x-octave.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-octave.svg"
+  },
+  {
+    "name": "text-x-patch.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-patch.svg"
+  },
+  {
+    "name": "text-x-po.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-po.svg"
+  },
+  {
+    "name": "text-x-python.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-python.svg"
+  },
+  {
+    "name": "text-x-qml.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-qml.svg"
+  },
+  {
+    "name": "text-x-readme.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-readme.svg"
+  },
+  {
+    "name": "text-x-ruby.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-ruby.svg"
+  },
+  {
+    "name": "text-x-rust.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-rust.svg"
+  },
+  {
+    "name": "text-x-scala.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-scala.svg"
+  },
+  {
+    "name": "text-x-script.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-script.svg"
+  },
+  {
+    "name": "text-x-tex.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-tex.svg"
+  },
+  {
+    "name": "text-x-wxmathml.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/text-x-wxmathml.svg"
+  },
+  {
+    "name": "unknown.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/unknown.svg"
+  },
+  {
+    "name": "video-x-generic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/video-x-generic.svg"
+  },
+  {
+    "name": "x-office-calendar.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-calendar.svg"
+  },
+  {
+    "name": "x-office-document.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-document.svg"
+  },
+  {
+    "name": "x-office-presentation.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-presentation.svg"
+  },
+  {
+    "name": "x-office-spreadsheet.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/x-office-spreadsheet.svg"
+  },
+  {
+    "name": "xoj.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Mimetypes-Icons/Vector/xoj.svg"
+  }
+]

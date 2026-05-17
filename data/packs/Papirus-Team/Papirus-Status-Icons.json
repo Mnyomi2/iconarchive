@@ -1,0 +1,312 @@
+[
+  {
+    "name": "airplane-mode.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/airplane-mode.svg"
+  },
+  {
+    "name": "avatar-default.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/avatar-default.svg"
+  },
+  {
+    "name": "battery-ac-adapter.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-ac-adapter.svg"
+  },
+  {
+    "name": "battery-caution-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-caution-charging.svg"
+  },
+  {
+    "name": "battery-caution.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-caution.svg"
+  },
+  {
+    "name": "battery-empty-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-empty-charging.svg"
+  },
+  {
+    "name": "battery-empty.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-empty.svg"
+  },
+  {
+    "name": "battery-full-charged.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-full-charged.svg"
+  },
+  {
+    "name": "battery-full-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-full-charging.svg"
+  },
+  {
+    "name": "battery-full.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-full.svg"
+  },
+  {
+    "name": "battery-good-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-good-charging.svg"
+  },
+  {
+    "name": "battery-good.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-good.svg"
+  },
+  {
+    "name": "battery-low-charging.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-low-charging.svg"
+  },
+  {
+    "name": "battery-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-low.svg"
+  },
+  {
+    "name": "battery-missing.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/battery-missing.svg"
+  },
+  {
+    "name": "bluetooth-active.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/bluetooth-active.svg"
+  },
+  {
+    "name": "bluetooth-disabled.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/bluetooth-disabled.svg"
+  },
+  {
+    "name": "bluetooth.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/bluetooth.svg"
+  },
+  {
+    "name": "camera-off.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/camera-off.svg"
+  },
+  {
+    "name": "camera-on.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/camera-on.svg"
+  },
+  {
+    "name": "changes-prevent.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/changes-prevent.svg"
+  },
+  {
+    "name": "dialog-error.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-error.svg"
+  },
+  {
+    "name": "dialog-information.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-information.svg"
+  },
+  {
+    "name": "dialog-question.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-question.svg"
+  },
+  {
+    "name": "dialog-warning.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/dialog-warning.svg"
+  },
+  {
+    "name": "image-missing.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/image-missing.svg"
+  },
+  {
+    "name": "input-keyboard-virtual-off.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/input-keyboard-virtual-off.svg"
+  },
+  {
+    "name": "network-error.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/network-error.svg"
+  },
+  {
+    "name": "network-offline.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/network-offline.svg"
+  },
+  {
+    "name": "nm-signal-100.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-100.svg"
+  },
+  {
+    "name": "nm-signal-25.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-25.svg"
+  },
+  {
+    "name": "nm-signal-50.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-50.svg"
+  },
+  {
+    "name": "nm-signal-75.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/nm-signal-75.svg"
+  },
+  {
+    "name": "notification-audio-volume-high.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-high.svg"
+  },
+  {
+    "name": "notification-audio-volume-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-low.svg"
+  },
+  {
+    "name": "notification-audio-volume-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-medium.svg"
+  },
+  {
+    "name": "notification-audio-volume-muted.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-audio-volume-muted.svg"
+  },
+  {
+    "name": "notification-battery-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-battery-low.svg"
+  },
+  {
+    "name": "notification-device-eject.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-device-eject.svg"
+  },
+  {
+    "name": "notification-disabled.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-disabled.svg"
+  },
+  {
+    "name": "notification-display-brightness-full.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-full.svg"
+  },
+  {
+    "name": "notification-display-brightness-high.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-high.svg"
+  },
+  {
+    "name": "notification-display-brightness-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-low.svg"
+  },
+  {
+    "name": "notification-display-brightness-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-medium.svg"
+  },
+  {
+    "name": "notification-display-brightness-off.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-display-brightness-off.svg"
+  },
+  {
+    "name": "notification-gsm-connected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-gsm-connected.svg"
+  },
+  {
+    "name": "notification-gsm-disconnected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-gsm-disconnected.svg"
+  },
+  {
+    "name": "notification-input-touchpad-symbolic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-input-touchpad-symbolic.svg"
+  },
+  {
+    "name": "notification-keyboard-brightness.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-keyboard-brightness.svg"
+  },
+  {
+    "name": "notification-microphone-sensitivity-high.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-high.svg"
+  },
+  {
+    "name": "notification-microphone-sensitivity-low.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-low.svg"
+  },
+  {
+    "name": "notification-microphone-sensitivity-medium.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-medium.svg"
+  },
+  {
+    "name": "notification-microphone-sensitivity-muted.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-microphone-sensitivity-muted.svg"
+  },
+  {
+    "name": "notification-network-ethernet-connected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-network-ethernet-connected.svg"
+  },
+  {
+    "name": "notification-network-wireless-disconnected.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-network-wireless-disconnected.svg"
+  },
+  {
+    "name": "notification-network-wireless.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-network-wireless.svg"
+  },
+  {
+    "name": "notification-printer-symbolic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-printer-symbolic.svg"
+  },
+  {
+    "name": "notification-touchpad-disabled-symbolic.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/notification-touchpad-disabled-symbolic.svg"
+  },
+  {
+    "name": "printer-error.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/printer-error.svg"
+  },
+  {
+    "name": "user-trash-full.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/user-trash-full.svg"
+  },
+  {
+    "name": "user-trash.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/user-trash.svg"
+  },
+  {
+    "name": "view-private.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Status-Icons/Vector/view-private.svg"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "name": "audio-card.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-card.svg"
+  },
+  {
+    "name": "audio-headphones.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-headphones.svg"
+  },
+  {
+    "name": "audio-input-microphone.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-input-microphone.svg"
+  },
+  {
+    "name": "audio-speakers.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-speakers.svg"
+  },
+  {
+    "name": "battery.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/battery.svg"
+  },
+  {
+    "name": "camera-photo.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/camera-photo.svg"
+  },
+  {
+    "name": "camera-web.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/camera-web.svg"
+  },
+  {
+    "name": "computer-laptop.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/computer-laptop.svg"
+  },
+  {
+    "name": "computer.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/computer.svg"
+  },
+  {
+    "name": "cpu.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/cpu.svg"
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-harddisk-ieee-1394.svg"
+  },
+  {
+    "name": "drive-harddisk.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-harddisk.svg"
+  },
+  {
+    "name": "drive-multidisk.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-multidisk.svg"
+  },
+  {
+    "name": "drive-optical.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-optical.svg"
+  },
+  {
+    "name": "drive-removable-media.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-removable-media.svg"
+  },
+  {
+    "name": "gnome-dev-printer-new.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/gnome-dev-printer-new.svg"
+  },
+  {
+    "name": "input-gaming.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-gaming.svg"
+  },
+  {
+    "name": "input-keyboard.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-keyboard.svg"
+  },
+  {
+    "name": "input-mouse.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-mouse.svg"
+  },
+  {
+    "name": "input-tablet.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-tablet.svg"
+  },
+  {
+    "name": "input-touchpad.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-touchpad.svg"
+  },
+  {
+    "name": "media-flash-memory-stick.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-flash-memory-stick.svg"
+  },
+  {
+    "name": "media-flash.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-flash.svg"
+  },
+  {
+    "name": "media-floppy.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-floppy.svg"
+  },
+  {
+    "name": "media-memory.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-memory.svg"
+  },
+  {
+    "name": "media-optical.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-optical.svg"
+  },
+  {
+    "name": "multimedia-player.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/multimedia-player.svg"
+  },
+  {
+    "name": "network-card.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-card.svg"
+  },
+  {
+    "name": "network-modem.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-modem.svg"
+  },
+  {
+    "name": "network-server.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-server.svg"
+  },
+  {
+    "name": "network-vpn.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-vpn.svg"
+  },
+  {
+    "name": "network-wired.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-wired.svg"
+  },
+  {
+    "name": "network-wireless-hotspot.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-wireless-hotspot.svg"
+  },
+  {
+    "name": "network-wireless.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-wireless.svg"
+  },
+  {
+    "name": "pda.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/pda.svg"
+  },
+  {
+    "name": "phone.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/phone.svg"
+  },
+  {
+    "name": "printer.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/printer.svg"
+  },
+  {
+    "name": "scanner.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/scanner.svg"
+  },
+  {
+    "name": "smartphone.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/smartphone.svg"
+  },
+  {
+    "name": "tablet.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/tablet.svg"
+  },
+  {
+    "name": "video-television.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/video-television.svg"
+  },
+  {
+    "name": "wiimotedev.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/wiimotedev.svg"
+  }
+]
