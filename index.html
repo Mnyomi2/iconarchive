@@ -326,14 +326,16 @@
 
         // --- SMART FETCHER (Handles errors and caches flawlessly) ---
         async function fetchJSON(path, ignoreError = false) {
+            // Attempt 1: jsDelivr CDN (Ultra-fast, globally distributed)
+            try {
+                const resCdn = await fetch(`${CDN_BASE}${path}`);
+                if (resCdn.ok) return await resCdn.json();
+            } catch (err) {}
+
+            // Attempt 2: GitHub Raw as a safe fallback (In case CDN hasn't synced the latest commit)
             try {
                 const res = await fetch(`https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/${BRANCH}/${path}`);
                 if (res.ok) return await res.json();
-            } catch (err) {}
-            
-            try {
-                const resCdn = await fetch(`${CDN_BASE}${path}?t=${Date.now()}`);
-                if (resCdn.ok) return await resCdn.json();
             } catch (err) {}
             
             if (ignoreError) return null;
@@ -447,10 +449,13 @@
             const cacheKey = `${artistId}/${packId}`;
             if (cachedIcons[cacheKey]) return cachedIcons[cacheKey];
             
-            let icons = await fetchJSON(`data/packs/${artistId}/${packId}.json`);
+            const [iconsData, externalTagsData] = await Promise.all([
+                fetchJSON(`data/packs/${artistId}/${packId}.json`),
+                fetchJSON(`Designer/${artistId}/${packId}/tags.json`, true)
+            ]);
             
-            // MAGIC TAG FINDER: If tags are missing in the Pack JSON, safely fetch tags.json
-            let externalTags = await fetchJSON(`Designer/${artistId}/${packId}/tags.json`, true) || {};
+            let icons = iconsData || [];
+            let externalTags = externalTagsData || {};
             
             icons = icons.map(icon => {
                 // Improved size detection: only matches numeric dots at the end before extension
@@ -586,13 +591,12 @@
             } 
             else if (currentView === 'iconpacks') {
                 displayList = [];
-                for (const d of designersList) {
+                const packPromises = designersList.map(async d => {
                     const packs = await fetchDesignerPacks(d.id);
-                    packs.forEach(p => {
-                        if (p.name.toLowerCase().includes(query)) displayList.push({ artist: d.id, pack: p.id, name: p.name, iconCount: p.iconCount });
-                    });
-                }
-                displayList.sort((a, b) => a.name.localeCompare(b.name));
+                    return packs.map(p => ({ artist: d.id, pack: p.id, name: p.name, iconCount: p.iconCount }));
+                });
+                const allPacksArr = await Promise.all(packPromises);
+                displayList = allPacksArr.flat().filter(p => p.name.toLowerCase().includes(query)).sort((a, b) => a.name.localeCompare(b.name));
             }
             else if (currentView === 'packs') {
                 const packs = await fetchDesignerPacks(navState.artist);
@@ -625,17 +629,23 @@
                 displayList = [];
                 let allGroupedVariants = {};
                 
-                for (const d of designersList) {
+                const allPacksData = await Promise.all(designersList.map(async d => {
                     const packs = await fetchDesignerPacks(d.id);
-                    for (const p of packs) {
-                        const icons = await fetchPackIcons(d.id, p.id);
+                    return packs.map(p => ({ artist: d.id, pack: p.id }));
+                }));
+                const flatPacks = allPacksData.flat();
+                
+                const chunkSize = 25;
+                for (let i = 0; i < flatPacks.length; i += chunkSize) {
+                    const chunk = flatPacks.slice(i, i + chunkSize);
+                    await Promise.all(chunk.map(async ({ artist, pack }) => {
+                        const icons = await fetchPackIcons(artist, pack);
                         icons.forEach(i => {
-                            // Unique key: designer + pack + groupKey
-                            let fullKey = `${d.id}-${p.id}-${i.groupKey}`; 
+                            let fullKey = `${artist}-${pack}-${i.groupKey}`; 
                             if(!allGroupedVariants[fullKey]) allGroupedVariants[fullKey] = [];
                             allGroupedVariants[fullKey].push(i);
                         });
-                    }
+                    }));
                 }
 
                 Object.values(allGroupedVariants).forEach(variants => {
@@ -679,20 +689,24 @@
                 
                 let tagsSet = new Set();
                 
-                for (const d of designersList) {
+                const allPacksData = await Promise.all(designersList.map(async d => {
                     const packs = await fetchDesignerPacks(d.id);
-                    for (const p of packs) {
-                        const icons = await fetchPackIcons(d.id, p.id);
+                    return packs.map(p => ({ artist: d.id, pack: p.id }));
+                }));
+                const flatPacks = allPacksData.flat();
+                
+                const chunkSize = 25;
+                for (let i = 0; i < flatPacks.length; i += chunkSize) {
+                    const chunk = flatPacks.slice(i, i + chunkSize);
+                    await Promise.all(chunk.map(async ({ artist, pack }) => {
+                        const icons = await fetchPackIcons(artist, pack);
                         icons.forEach(i => {
                             if (i.tags) {
-                                if (Array.isArray(i.tags)) {
-                                    i.tags.forEach(t => tagsSet.add(t));
-                                } else if (typeof i.tags === 'string') {
-                                    i.tags.split(',').forEach(t => tagsSet.add(t.trim()));
-                                }
+                                if (Array.isArray(i.tags)) i.tags.forEach(t => tagsSet.add(t));
+                                else if (typeof i.tags === 'string') i.tags.split(',').forEach(t => tagsSet.add(t.trim()));
                             }
                         });
-                    }
+                    }));
                 }
                 
                 allExtractedTags = Array.from(tagsSet).sort((a,b) => a.toLowerCase().localeCompare(b.toLowerCase()));
@@ -1069,20 +1083,34 @@
 
             // Generate Perfect Transparent Wrapping Tags UI
             if (uniqueTags.length > 0) {
-                // Sleek glass tags that wrap to multiple lines
-                let tagsHtml = uniqueTags.map(t => `<button onclick="searchByTag('${t.replace(/'/g, "\\'")}')" class="px-3 py-1 bg-white/10 dark:bg-white/5 hover:bg-blue-600/90 text-gray-800 dark:text-gray-100 hover:text-white text-[11px] font-bold rounded-lg transition-all border border-gray-900/10 dark:border-white/10 backdrop-blur-md shadow-sm active:scale-90">${t}</button>`).join('');
+                let tagsHtml = uniqueTags.map(t => `
+                    <button onclick="searchByTag('${t.replace(/'/g, "\\'")}'); closeModal();" class="grow px-3 py-1.5 bg-white dark:bg-dark-800 hover:bg-blue-600 dark:hover:bg-blue-600 text-gray-700 dark:text-gray-200 hover:text-white text-xs font-semibold rounded-xl transition-all border border-gray-200 dark:border-dark-600 shadow-sm hover:shadow-blue-500/20 active:scale-95 text-center truncate">
+                        ${t}
+                    </button>
+                `).join('');
+
+                let containerWidthClass = 'w-max pr-4'; // Hug tightly if 3 or fewer tags
+
+                // If there are many tags, set a fixed width to make a nice perfect grid edge-to-edge
+                if (uniqueTags.length > 3) {
+                    containerWidthClass = 'w-[260px] sm:w-[320px]';
+                    // Invisible spacers to prevent the last row from stretching one tag massively
+                    for(let i=0; i<6; i++) {
+                        tagsHtml += `<div class="grow-[10] h-0"></div>`;
+                    }
+                }
                 
                 tagsBtnHtml = `
-                    <div class="absolute bottom-6 left-6 right-6 z-[60] flex items-end gap-3 pointer-events-none">
+                    <div class="absolute bottom-4 left-4 z-[60] flex items-end gap-3 pointer-events-none max-w-[calc(100%-2rem)]">
                         
                         <!-- Minimal Transparent Toggle Button -->
-                        <button onclick="toggleModalTags(event)" class="pointer-events-auto relative flex items-center justify-center h-12 w-12 bg-white/20 dark:bg-black/20 backdrop-blur-xl border border-white/30 dark:border-white/10 rounded-2xl hover:bg-white/30 dark:hover:bg-white/10 transition-all shrink-0 shadow-lg">
-                            <i class="fa-solid fa-tags text-blue-500 text-xl"></i>
+                        <button onclick="toggleModalTags(event)" class="pointer-events-auto relative flex items-center justify-center h-11 w-11 bg-white/60 dark:bg-dark-900/60 backdrop-blur-xl border border-gray-200 dark:border-dark-600 rounded-2xl hover:bg-white dark:hover:bg-dark-800 transition-all shrink-0 shadow-lg">
+                            <i class="fa-solid fa-tags text-blue-500 text-lg"></i>
                             <span class="absolute -top-1.5 -right-1.5 bg-blue-600 text-white text-[9px] font-black w-5 h-5 flex items-center justify-center rounded-lg shadow-xl border-2 border-white dark:border-dark-900">${uniqueTags.length}</span>
                         </button>
                         
-                        <!-- Wrapping Glass Tags Container -->
-                        <div id="iconTagsList" class="pointer-events-auto opacity-0 translate-y-2 hidden flex-wrap items-center gap-2 max-h-32 overflow-y-auto no-scrollbar p-1 transition-all duration-300">
+                        <!-- Perfect Rectangular Glass Tags Container -->
+                        <div id="iconTagsList" class="pointer-events-auto opacity-0 translate-y-2 hidden flex-wrap content-start gap-2 max-h-40 overflow-y-auto no-scrollbar p-3 transition-all duration-300 bg-white/90 dark:bg-dark-900/90 backdrop-blur-xl border border-gray-200/50 dark:border-dark-700/50 rounded-2xl shadow-2xl ${containerWidthClass}">
                             ${tagsHtml}
                         </div>
                         
@@ -1090,8 +1118,8 @@
                 `;
             } else {
                 tagsBtnHtml = `
-                    <div class="absolute bottom-6 left-6 z-[60]">
-                        <div class="flex items-center justify-center h-12 w-12 border-2 border-dashed border-gray-300 dark:border-white/10 rounded-2xl opacity-20">
+                    <div class="absolute bottom-4 left-4 z-[60]">
+                        <div class="flex items-center justify-center h-11 w-11 border-2 border-dashed border-gray-300 dark:border-white/10 rounded-2xl opacity-20">
                             <i class="fa-solid fa-tags text-gray-400 text-lg"></i>
                         </div>
                     </div>
