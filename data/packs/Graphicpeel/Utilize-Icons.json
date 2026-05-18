@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Activity-Monitor.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Utilize-Icons/Windows/Activity-Monitor.ico",
+    "tags": [
+      "activity",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "AirPort.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Utilize-Icons/Windows/AirPort.ico",
+    "tags": [
+      "airport"
+    ]
+  },
+  {
+    "name": "Audio-MIDI.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Utilize-Icons/Windows/Audio-MIDI.ico",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "midi"
+    ]
+  },
+  {
+    "name": "Console.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Utilize-Icons/Windows/Console.ico",
+    "tags": [
+      "console"
+    ]
+  },
+  {
+    "name": "Terminal.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Utilize-Icons/Windows/Terminal.ico",
+    "tags": [
+      "display",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "konsole",
+      "control",
+      "hardware"
+    ]
+  }
+]

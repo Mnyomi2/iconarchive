@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Life-Saver.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Lifesaver-Icons/Windows/Life-Saver.ico",
+    "tags": [
+      "life",
+      "saver"
+    ]
+  },
+  {
+    "name": "Red-Life-Saver.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Lifesaver-Icons/Windows/Red-Life-Saver.ico",
+    "tags": [
+      "red",
+      "life",
+      "saver"
+    ]
+  }
+]

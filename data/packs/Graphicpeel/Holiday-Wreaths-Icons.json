@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Festive.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Holiday-Wreaths-Icons/Windows/Festive.ico",
+    "tags": [
+      "festive"
+    ]
+  },
+  {
+    "name": "Snowy.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Holiday-Wreaths-Icons/Windows/Snowy.ico",
+    "tags": [
+      "snowy"
+    ]
+  },
+  {
+    "name": "Wreath.ico",
+    "format": "Windows",
+    "path": "Designer/Graphicpeel/Holiday-Wreaths-Icons/Windows/Wreath.ico",
+    "tags": [
+      "wreath"
+    ]
+  }
+]
