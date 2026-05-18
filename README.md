@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🎨 IconArchive Perfect Selective Downloader
 
 <p align="center">
@@ -8,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
 </p>
-```
+
 An advanced, multi-threaded, and highly customizable Python scraper designed to download massive icon sets from [IconArchive.com](https://www.iconarchive.com) flawlessly.
 
 This tool goes beyond simple downloading. It features smart skipping, missing-file detection, selective format filtering, **advanced tag scraping**, and a powerful **static JSON API generator** to make your local icon collection instantly searchable and web-ready.
