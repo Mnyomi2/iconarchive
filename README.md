@@ -1,10 +1,4 @@
-Of course! Based on your excellent Python script and the initial README, I've created a comprehensive, polished, and technically accurate `README.md` file.
 
-This new version includes the powerful features I found in your code that weren't fully documented, such as the advanced tag scraping and the static JSON API generation. It's ready to be copied and pasted directly into your GitHub project.
-
----
-
-Here is the complete README file:
 
 ```markdown
 # 🎨 IconArchive Perfect Selective Downloader
