@@ -209,6 +209,11 @@
                             class="w-full bg-gray-100 dark:bg-dark-700 border border-transparent focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-11 pr-4 py-2 outline-none transition shadow-sm text-sm">
                     </div>
                     
+                    <!-- Sync / Refresh Button -->
+                    <button id="syncBtn" onclick="forceSync()" class="w-9 h-9 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-blue-100 hover:text-blue-600 dark:hover:bg-dark-600 dark:hover:text-blue-400 transition shrink-0 shadow-sm" title="Refresh & Sync Data">
+                        <i class="fa-solid fa-rotate text-sm transition-transform"></i>
+                    </button>
+
                     <!-- Theme Toggle -->
                     <button id="themeToggle" class="w-9 h-9 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-yellow-400 hover:bg-gray-200 dark:hover:bg-dark-600 transition shrink-0 shadow-sm">
                         <i class="fa-solid fa-moon block dark:hidden text-lg"></i>
@@ -329,16 +334,43 @@
         const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
 
         // --- SMART FETCHER (Handles errors and caches flawlessly) ---
+        // Retrieve last sync key from storage to ensure refresh doesn't revert to old data
+        let cacheBuster = localStorage.getItem('icon_gallery_sync_key') || "";
+
+        async function forceSync() {
+            const icon = document.querySelector('#syncBtn i');
+            if (icon) icon.classList.add('fa-spin');
+            
+            // Generate new timestamp and save it permanently to local storage
+            cacheBuster = "?t=" + new Date().getTime();
+            localStorage.setItem('icon_gallery_sync_key', cacheBuster);
+            
+            // Clear all local memory caches
+            cachedPacks = {};
+            cachedIcons = {};
+            tagsExtracted = false;
+            allExtractedTags = [];
+            
+            // Reload the gallery database with the new key
+            await init();
+            
+            if (icon) icon.classList.remove('fa-spin');
+            showToast("Database Synced Successfully!");
+        }
+
         async function fetchJSON(path, ignoreError = false) {
-            // Attempt 1: jsDelivr CDN (Ultra-fast, globally distributed)
+            // If a sync key exists, we force the browser to ignore its internal cache
+            const fetchOpts = cacheBuster ? { cache: 'reload' } : {};
+            
+            // Attempt 1: jsDelivr CDN
             try {
-                const resCdn = await fetch(`${CDN_BASE}${path}`);
+                const resCdn = await fetch(`${CDN_BASE}${path}${cacheBuster}`, fetchOpts);
                 if (resCdn.ok) return await resCdn.json();
             } catch (err) {}
 
-            // Attempt 2: GitHub Raw as a safe fallback (In case CDN hasn't synced the latest commit)
+            // Attempt 2: GitHub Raw (Fallback)
             try {
-                const res = await fetch(`https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/${BRANCH}/${path}`);
+                const res = await fetch(`https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/${BRANCH}/${path}${cacheBuster}`, fetchOpts);
                 if (res.ok) return await res.json();
             } catch (err) {}
             
@@ -416,15 +448,31 @@
                                 name: icon.artist.replace(/-/g, ' '),
                                 packCount: 0,
                                 iconCount: 0,
-                                packs: new Set()
+                                packs: new Set(),
+                                _uniqueIcons: new Set() // Tracks base icons
                             };
                         }
-                        designersMap[icon.artist].iconCount++;
+                        
+                        // Grouping Logic: Count base names instead of total files
+                        const parts = icon.name.split('.');
+                        parts.pop(); // remove extension (e.g. png, svg)
+                        if (parts.length > 0 && /^((\d+x\d+)|\d+)$/.test(parts[parts.length-1])) {
+                            parts.pop(); // remove size (e.g. 128, 256)
+                        }
+                        const groupKey = parts.join('.').toLowerCase();
+                        const uniqueIconId = `${icon.set}:::${groupKey}`;
+
+                        if (!designersMap[icon.artist]._uniqueIcons.has(uniqueIconId)) {
+                            designersMap[icon.artist]._uniqueIcons.add(uniqueIconId);
+                            designersMap[icon.artist].iconCount++;
+                        }
+
                         designersMap[icon.artist].packs.add(icon.set);
                     });
                     designersList = Object.values(designersMap).map(d => {
                         d.packCount = d.packs.size;
                         delete d.packs;
+                        delete d._uniqueIcons;
                         return d;
                     }).sort((a, b) => a.name.localeCompare(b.name));
                 } else {
@@ -892,13 +940,31 @@
                         <h3 class="font-bold text-base sm:text-lg text-gray-900 dark:text-white truncate capitalize">${packData.name}</h3>
                         <p class="text-[10px] text-gray-400 font-bold uppercase tracking-widest mt-0.5 truncate">${packData.artist.replace(/-/g, ' ')}</p>
                     </div>
-                    <span class="text-[10px] font-black uppercase tracking-wider text-blue-600 bg-blue-50 dark:bg-blue-900/30 dark:text-blue-400 px-2.5 py-1.5 rounded-lg shrink-0">${packData.iconCount} ICONS</span>
+                    <span class="pack-count text-[10px] font-black uppercase tracking-wider text-blue-600 bg-blue-50 dark:bg-blue-900/30 dark:text-blue-400 px-2.5 py-1.5 rounded-lg shrink-0">${packData.iconCount} ICONS</span>
                 </div>
             `;
 
             // Lazy Load Previews smoothly without crashing
             fetchPackIcons(packData.artist, packData.pack).then(icons => {
-                const getPriority = (i) => i.exactFormat === 'Vector' ? 1 : i.exactFormat.includes('PNG-64px') ? 2 : i.exactFormat.startsWith('Win') ? 3 : 4;
+                // Dynamically update to show ONLY the true group count
+                const uniqueGroups = new Set(icons.map(i => i.groupKey));
+                const countEl = div.querySelector('.pack-count');
+                if (countEl) countEl.innerText = `${uniqueGroups.size} ICONS`;
+
+                const getPriority = (i) => {
+                    if (i.exactFormat === 'Vector') return 1;
+                    if (i.exactFormat.includes('PNG')) {
+                        const m = i.exactFormat.match(/(\d+)/);
+                        const s = m ? parseInt(m[1]) : 0;
+                        if (s === 128) return 2;
+                        if (s > 128) return 3 + s;
+                        return 10000 - s;
+                    }
+                    if (i.exactFormat === 'Favicon') return 20000;
+                    if (i.exactFormat.startsWith('Win')) return 30000;
+                    if (i.exactFormat.startsWith('Mac')) return 40000;
+                    return 50000;
+                };
                 const uniqueMap = {};
                 icons.forEach(icon => {
                     const baseName = icon.name.split('.')[0].toLowerCase();
@@ -927,7 +993,21 @@
         }
 
         function createIconCard(variants, index) {
-            let previewIcon = variants.find(v => v.exactFormat === 'Vector') || variants.find(v => v.exactFormat.includes('PNG')) || variants[0];
+            const getPriority = (i) => {
+                if (i.exactFormat === 'Vector') return 1;
+                if (i.exactFormat.includes('PNG')) {
+                    const m = i.exactFormat.match(/(\d+)/);
+                    const s = m ? parseInt(m[1]) : 0;
+                    if (s === 128) return 2;
+                    if (s > 128) return 3 + s;
+                    return 10000 - s;
+                }
+                if (i.exactFormat === 'Favicon') return 20000;
+                if (i.exactFormat.startsWith('Win')) return 30000;
+                if (i.exactFormat.startsWith('Mac')) return 40000;
+                return 50000;
+            };
+            let previewIcon = variants.reduce((best, curr) => getPriority(curr) < getPriority(best) ? curr : best, variants[0]);
             const fullUrl = CDN_BASE + previewIcon.path;
             const isMac = previewIcon.exactFormat.startsWith('Mac');
             const isWindows = previewIcon.exactFormat.startsWith('Win');
@@ -1061,7 +1141,17 @@
 
         function openModal(index) {
             const variants = displayList[index];
-            let previewIcon = variants.find(v => v.exactFormat === 'Vector') || variants.find(v => v.exactFormat.includes('PNG')) || variants[0];
+            const getPriority = (i) => {
+                if (i.exactFormat === 'Vector') return 1;
+                const m = i.exactFormat.match(/(\d+)/);
+                const s = m ? parseInt(m[1]) : 0;
+                if (i.exactFormat.includes('PNG')) return 10000 - s;
+                if (i.exactFormat.includes('Favicon')) return 20000 - s;
+                if (i.exactFormat.startsWith('Win')) return 30000 - s;
+                if (i.exactFormat.startsWith('Mac')) return 40000 - s;
+                return 50000 - s;
+            };
+            let previewIcon = variants.reduce((best, curr) => getPriority(curr) < getPriority(best) ? curr : best, variants[0]);
             const fullUrl = CDN_BASE + previewIcon.path;
             const isMac = previewIcon.exactFormat.startsWith('Mac');
             const isWindows = previewIcon.exactFormat.startsWith('Win');
@@ -1072,10 +1162,7 @@
             else if (isWindows) preview = `<i class="fa-brands fa-windows text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl transition-transform duration-200 ease-out group-hover:scale-[2]"></i>`;
             else preview = `<img src="${fullUrl}" class="w-full h-full object-contain drop-shadow-2xl transition-transform duration-200 ease-out group-hover:scale-[2]">`;
 
-            const sortedVariants = [...variants].sort((a,b) => {
-                const getScore = (f) => f==='Vector'?1 : f.includes('PNG')?2 : f.includes('Mac')?3 : f.includes('Win')?4 : 5;
-                return getScore(a.exactFormat) - getScore(b.exactFormat);
-            });
+            const sortedVariants = [...variants].sort((a,b) => getPriority(a) - getPriority(b));
 
             let formatsHtml = '';
             sortedVariants.forEach(v => {
