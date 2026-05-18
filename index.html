@@ -1028,6 +1028,21 @@
             }
         }
 
+        
+        // --- IMAGE ZOOM TRACKING LOGIC ---
+        function handleModalZoom(e, el) {
+            const rect = el.getBoundingClientRect();
+            const x = ((e.clientX - rect.left) / rect.width) * 100;
+            const y = ((e.clientY - rect.top) / rect.height) * 100;
+            const target = el.firstElementChild;
+            if (target) target.style.transformOrigin = `${x}% ${y}%`;
+        }
+
+        function resetModalZoom(el) {
+            const target = el.firstElementChild;
+            if (target) target.style.transformOrigin = 'center center';
+        }
+
         function openModal(index) {
             const variants = displayList[index];
             let previewIcon = variants.find(v => v.exactFormat === 'Vector') || variants.find(v => v.exactFormat.includes('PNG')) || variants[0];
@@ -1035,10 +1050,11 @@
             const isMac = previewIcon.exactFormat.startsWith('Mac');
             const isWindows = previewIcon.exactFormat.startsWith('Win');
             
+            // Added CSS transition and group-hover scaling for the zoom effect
             let preview = '';
-            if (isMac) preview = `<i class="fa-brands fa-apple text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl"></i>`;
-            else if (isWindows) preview = `<i class="fa-brands fa-windows text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl"></i>`;
-            else preview = `<img src="${fullUrl}" class="w-full h-full object-contain drop-shadow-2xl">`;
+            if (isMac) preview = `<i class="fa-brands fa-apple text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl transition-transform duration-200 ease-out group-hover:scale-[2]"></i>`;
+            else if (isWindows) preview = `<i class="fa-brands fa-windows text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl transition-transform duration-200 ease-out group-hover:scale-[2]"></i>`;
+            else preview = `<img src="${fullUrl}" class="w-full h-full object-contain drop-shadow-2xl transition-transform duration-200 ease-out group-hover:scale-[2]">`;
 
             const sortedVariants = [...variants].sort((a,b) => {
                 const getScore = (f) => f==='Vector'?1 : f.includes('PNG')?2 : f.includes('Mac')?3 : f.includes('Win')?4 : 5;
@@ -1063,10 +1079,8 @@
                 `;
             });
 
-            // Use the groupKey for the title so dots in names (like app-vnd.android) show correctly
             const baseName = previewIcon.groupKey.replace(/-/g, ' ');
 
-            // Extract Tags
             let allTags = [];
             variants.forEach(v => {
                 if (v.tags) {
@@ -1081,7 +1095,6 @@
             
             let tagsBtnHtml = '';
 
-            // Generate Perfect Transparent Wrapping Tags UI
             if (uniqueTags.length > 0) {
                 let tagsHtml = uniqueTags.map(t => `
                     <button onclick="searchByTag('${t.replace(/'/g, "\\'")}'); closeModal();" class="grow px-3 py-1.5 bg-white dark:bg-dark-800 hover:bg-blue-600 dark:hover:bg-blue-600 text-gray-700 dark:text-gray-200 hover:text-white text-xs font-semibold rounded-xl transition-all border border-gray-200 dark:border-dark-600 shadow-sm hover:shadow-blue-500/20 active:scale-95 text-center truncate">
@@ -1089,12 +1102,10 @@
                     </button>
                 `).join('');
 
-                let containerWidthClass = 'w-max pr-4'; // Hug tightly if 3 or fewer tags
+                let containerWidthClass = 'w-max pr-4';
 
-                // If there are many tags, set a fixed width to make a nice perfect grid edge-to-edge
                 if (uniqueTags.length > 3) {
                     containerWidthClass = 'w-[260px] sm:w-[320px]';
-                    // Invisible spacers to prevent the last row from stretching one tag massively
                     for(let i=0; i<6; i++) {
                         tagsHtml += `<div class="grow-[10] h-0"></div>`;
                     }
@@ -1102,18 +1113,13 @@
                 
                 tagsBtnHtml = `
                     <div class="absolute bottom-4 left-4 z-[60] flex items-end gap-3 pointer-events-none max-w-[calc(100%-2rem)]">
-                        
-                        <!-- Minimal Transparent Toggle Button -->
                         <button onclick="toggleModalTags(event)" class="pointer-events-auto relative flex items-center justify-center h-11 w-11 bg-white/60 dark:bg-dark-900/60 backdrop-blur-xl border border-gray-200 dark:border-dark-600 rounded-2xl hover:bg-white dark:hover:bg-dark-800 transition-all shrink-0 shadow-lg">
                             <i class="fa-solid fa-tags text-blue-500 text-lg"></i>
                             <span class="absolute -top-1.5 -right-1.5 bg-blue-600 text-white text-[9px] font-black w-5 h-5 flex items-center justify-center rounded-lg shadow-xl border-2 border-white dark:border-dark-900">${uniqueTags.length}</span>
                         </button>
-                        
-                        <!-- Perfect Rectangular Glass Tags Container -->
                         <div id="iconTagsList" class="pointer-events-auto opacity-0 translate-y-2 hidden flex-wrap content-start gap-2 max-h-40 overflow-y-auto no-scrollbar p-3 transition-all duration-300 bg-white/90 dark:bg-dark-900/90 backdrop-blur-xl border border-gray-200/50 dark:border-dark-700/50 rounded-2xl shadow-2xl ${containerWidthClass}">
                             ${tagsHtml}
                         </div>
-                        
                     </div>
                 `;
             } else {
@@ -1138,7 +1144,10 @@
                             </p>
                         </div>
                         <div class="flex-1 flex items-center justify-center p-6 mt-12" onclick="closeModalTags()">
-                            <div class="w-64 h-64 sm:w-[22rem] sm:h-[22rem] flex items-center justify-center relative">${preview}</div>
+                            <!-- Added Overflow Hidden, Group, Crosshair, and Mouse Events here -->
+                            <div class="w-64 h-64 sm:w-[22rem] sm:h-[22rem] flex items-center justify-center relative overflow-hidden group cursor-crosshair rounded-2xl" onmousemove="handleModalZoom(event, this)" onmouseleave="resetModalZoom(this)">
+                                ${preview}
+                            </div>
                         </div>
                         ${tagsBtnHtml}
                     </div>
@@ -1161,7 +1170,6 @@
                 document.getElementById('modalBox').classList.add('scale-100');
             }, 10);
         }
-
         function closeModal() {
             viewModal.classList.add('opacity-0');
             const box = document.getElementById('modalBox');
