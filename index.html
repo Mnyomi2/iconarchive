@@ -138,12 +138,14 @@
     <!-- VS CODE STYLE SIDEBAR -->
     <aside id="sidebar" class="bg-white dark:bg-dark-800 flex flex-col z-50 h-full shadow-md shrink-0 relative">
         
-        <!-- Logo (Compact sizing) -->
-        <div class="h-20 flex items-center border-b border-gray-200 dark:border-dark-700 w-full overflow-hidden shrink-0 sidebar-header">
-            <div class="w-9 h-9 flex items-center justify-center bg-blue-600 rounded-lg text-white shrink-0 shadow-md">
-                <i class="fa-solid fa-shapes text-lg"></i>
+        <!-- Logo (Locked position, behaves like Nav Icons) -->
+        <div onclick="document.getElementById('sidebarToggle').click()" class="h-14 flex items-center border-b border-gray-200 dark:border-dark-700 w-full overflow-hidden shrink-0 cursor-pointer group/brand hover:bg-gray-50 dark:hover:bg-dark-700/30 transition-colors">
+            <div class="w-full flex items-center px-3">
+                <div class="w-8 h-8 flex items-center justify-center bg-blue-600 rounded-lg text-white shrink-0 shadow-md transition-transform group-hover/brand:scale-110">
+                    <i class="fa-solid fa-shapes text-sm"></i>
+                </div>
+                <h1 class="nav-text text-lg font-bold tracking-tight text-gray-900 dark:text-white">Icon<span class="text-blue-500 font-light">Gallery</span></h1>
             </div>
-            <h1 class="nav-text text-lg font-bold tracking-tight">Icon<span class="text-blue-500 font-light">Gallery</span></h1>
         </div>
 
         <!-- Navigation (Perfectly centered & larger icons) -->
@@ -191,7 +193,7 @@
     <main class="flex-1 flex flex-col min-w-0 bg-gray-50 dark:bg-dark-900 relative">
         
         <!-- Header Controls -->
-        <header class="px-4 py-3 bg-white dark:bg-dark-800 shrink-0 flex flex-col gap-3 z-20">
+        <header class="px-4 py-2 bg-white dark:bg-dark-800 shrink-0 flex flex-col gap-3 z-20">
             
             <div class="flex items-center justify-between gap-6">
                 <!-- Dynamic Breadcrumbs -->
@@ -202,13 +204,13 @@
                 <div class="flex items-center gap-4 w-full max-w-md">
                     <!-- Global Search -->
                     <div class="relative w-full hidden sm:block">
-                        <i class="fa-solid fa-magnifying-glass absolute left-4 top-3.5 text-gray-400"></i>
+                        <i class="fa-solid fa-magnifying-glass absolute left-4 top-2.5 text-gray-400"></i>
                         <input type="text" id="searchInput" placeholder="Search perfect icons..." 
-                            class="w-full bg-gray-100 dark:bg-dark-700 border border-transparent focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-11 pr-4 py-3 outline-none transition shadow-sm text-sm">
+                            class="w-full bg-gray-100 dark:bg-dark-700 border border-transparent focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-11 pr-4 py-2 outline-none transition shadow-sm text-sm">
                     </div>
                     
                     <!-- Theme Toggle -->
-                    <button id="themeToggle" class="w-11 h-11 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-yellow-400 hover:bg-gray-200 dark:hover:bg-dark-600 transition shrink-0 shadow-sm">
+                    <button id="themeToggle" class="w-9 h-9 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-yellow-400 hover:bg-gray-200 dark:hover:bg-dark-600 transition shrink-0 shadow-sm">
                         <i class="fa-solid fa-moon block dark:hidden text-lg"></i>
                         <i class="fa-solid fa-sun hidden dark:block text-lg"></i>
                     </button>
@@ -238,10 +240,12 @@
         </div>
     </main>
 
-    <!-- Copy Toast (Moved to Center to avoid overlapping buttons) -->
-    <div id="toast" class="fixed bottom-8 left-1/2 -translate-x-1/2 bg-gray-900 dark:bg-white text-white dark:text-gray-900 font-medium px-6 py-4 rounded-2xl shadow-2xl opacity-0 translate-y-4 pointer-events-none z-[200] flex items-center gap-3 transition-all duration-300">
-        <i class="fa-solid fa-circle-check text-green-400 dark:text-green-500 text-xl"></i>
-        <span id="toastMsg">URL Copied Successfully!</span>
+    <!-- Copy Toast (Perfectly Theme Matched) -->
+    <div id="toast" class="fixed bottom-8 left-1/2 -translate-x-1/2 bg-white dark:bg-dark-800 text-gray-900 dark:text-white font-bold px-6 py-3.5 rounded-2xl shadow-2xl border border-gray-200 dark:border-dark-700 opacity-0 translate-y-4 pointer-events-none z-[200] flex items-center gap-3 transition-all duration-300">
+        <div class="w-8 h-8 rounded-full bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center shrink-0">
+            <i class="fa-solid fa-circle-check text-blue-600 dark:text-blue-400 text-lg"></i>
+        </div>
+        <span id="toastMsg" class="text-sm tracking-tight">URL Copied Successfully!</span>
     </div>
 
     <!-- Floating UI Controls (Zoom & Scroll to Top) -->
@@ -297,7 +301,7 @@
                 </h2>
                 <div class="relative w-full max-w-xs">
                     <i class="fa-solid fa-magnifying-glass absolute left-3 top-2.5 text-gray-400 text-sm"></i>
-                    <input type="text" id="tagSearchInput" onkeyup="filterTagsModal()" placeholder="Search tags..." class="w-full bg-white dark:bg-dark-900 border border-gray-200 dark:border-dark-600 focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-9 pr-3 py-2 outline-none transition shadow-sm text-sm text-gray-900 dark:text-white">
+                    <input type="text" id="tagSearchInput" onkeyup="filterTagsModal()" placeholder="Search tags..." class="w-full bg-gray-100 dark:bg-dark-800 border border-transparent focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-9 pr-4 py-2 outline-none transition shadow-sm text-sm text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400">
                 </div>
                 <button onclick="closeTagsModal()" class="text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors w-8 h-8 flex items-center justify-center rounded-full hover:bg-gray-200 dark:hover:bg-dark-700 shrink-0">
                     <i class="fa-solid fa-xmark text-xl"></i>
@@ -351,7 +355,7 @@
         let navState = { artist: null, pack: null };
         let activeFormatFilters = ['All']; 
         let tempFormatFilters = [];
-        let currentZoomLevel = 3; 
+        let currentZoomLevel = parseInt(localStorage.getItem('grid_zoom')) || 3; 
         let activeTag = null; 
         
         let allExtractedTags = [];
@@ -384,15 +388,21 @@
 
         sidebarToggle.addEventListener('click', () => {
             sidebar.classList.toggle('expanded');
-            if (sidebar.classList.contains('expanded')) {
-                sidebarToggleIcon.className = "fa-solid fa-chevron-left text-xl text-gray-500 transition-transform";
-            } else {
-                sidebarToggleIcon.className = "fa-solid fa-chevron-right text-xl text-gray-500 transition-transform";
-            }
+            const isExpanded = sidebar.classList.contains('expanded');
+            sidebarToggleIcon.className = isExpanded 
+                ? "fa-solid fa-chevron-left text-xl text-gray-500 transition-transform" 
+                : "fa-solid fa-chevron-right text-xl text-gray-500 transition-transform";
+            localStorage.setItem('sidebar_expanded', isExpanded);
         });
 
         // --- CORE INITIALIZATION ---
         async function init() {
+            // Restore Sidebar State
+            if (localStorage.getItem('sidebar_expanded') === 'true') {
+                sidebar.classList.add('expanded');
+                sidebarToggleIcon.className = "fa-solid fa-chevron-left text-xl text-gray-500 transition-transform";
+            }
+
             try {
                 let rawData = await fetchJSON('master_index.json');
                 
@@ -423,11 +433,16 @@
 
                 loading.classList.add('hidden');
                 
-                // Try to restore the last view from refresh
+                // Try to restore the last view and active tag from refresh
                 const savedNav = localStorage.getItem('iconGallery_nav');
                 if (savedNav) {
-                    const { view, artist, pack } = JSON.parse(savedNav);
-                    navigate(view, artist, pack);
+                    const { view, artist, pack, activeTag: savedTag } = JSON.parse(savedNav);
+                    if (savedTag) {
+                        activeTag = savedTag;
+                        navigate(view, artist, pack, true); // skipTagReset = true to keep the tag
+                    } else {
+                        navigate(view, artist, pack);
+                    }
                 } else {
                     navigate('all');
                 }
@@ -495,13 +510,13 @@
             currentView = view;
             navState = { artist, pack };
             
-            // Save current state to remember after refresh
-            localStorage.setItem('iconGallery_nav', JSON.stringify({ view, artist, pack }));
-
             if (!skipTagReset) {
                 activeTag = null;
                 searchInput.value = '';
             }
+
+            // Save state to remember after refresh
+            localStorage.setItem('iconGallery_nav', JSON.stringify({ view, artist, pack, activeTag }));
             
             updateBreadcrumbs();
             updateSidebarHighlight();
@@ -994,6 +1009,7 @@
         function zoomGrid(action) {
             if(action === 'in' && currentZoomLevel < 5) currentZoomLevel++;
             if(action === 'out' && currentZoomLevel > 1) currentZoomLevel--;
+            localStorage.setItem('grid_zoom', currentZoomLevel);
             applyZoom();
         }
         function applyZoom() {
