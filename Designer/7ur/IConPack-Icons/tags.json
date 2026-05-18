@@ -1,0 +1,72 @@
+{
+  "c-panel": [
+    "panel"
+  ],
+  "ill": [
+    "ill"
+  ],
+  "dream-weaver": [
+    "dream",
+    "weaver"
+  ],
+  "flash": [
+    "flash"
+  ],
+  "quark": [
+    "quark"
+  ],
+  "ps": [
+    "ps"
+  ],
+  "ir": [
+    "ir"
+  ],
+  "paint": [
+    "paint",
+    "painting"
+  ],
+  "finder": [
+    "finder"
+  ],
+  "halo": [
+    "halo"
+  ],
+  "usb": [
+    "usb"
+  ],
+  "draw": [
+    "draw",
+    "pencil",
+    "design",
+    "edit",
+    "sketch",
+    "update"
+  ],
+  "bin": [
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash"
+  ],
+  "firefox": [
+    "firefox",
+    "browser"
+  ],
+  "vlc": [
+    "vlc"
+  ],
+  "dowload": [
+    "dowload"
+  ],
+  "phone": [
+    "phone",
+    "telephone",
+    "call",
+    "contact"
+  ],
+  "freehand": [
+    "freehand"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "nVidia-Gforce8800GT": [
+    "nvidia",
+    "gforcegt"
+  ],
+  "AMD-Barcelona-CPU": [
+    "amd",
+    "barcelona",
+    "cpu",
+    "processor"
+  ],
+  "CPU-Z": [
+    "cpu",
+    "processor"
+  ],
+  "Plantronics-Headphones": [
+    "earphone",
+    "headphone",
+    "headset",
+    "plantronics",
+    "headphones"
+  ],
+  "PNY-USB-Stick-2GB-1": [
+    "pny",
+    "stick",
+    "usb"
+  ],
+  "TFT-1": [
+    "tft"
+  ],
+  "TFT-2": [
+    "tft"
+  ],
+  "Creative-Aurvana-X-Fi-Headphones": [
+    "creative",
+    "aurvana",
+    "earphone",
+    "headphone",
+    "headset",
+    "headphones"
+  ],
+  "Creative-Fatal1ty-Gaming-Headset": [
+    "creative",
+    "fatalty",
+    "gaming",
+    "earphone",
+    "headphone",
+    "headset"
+  ],
+  "TFT": [
+    "tft"
+  ],
+  "CPU-AMD": [
+    "processor",
+    "cpu",
+    "amd"
+  ],
+  "PNY-USB-Stick-2GB": [
+    "pny",
+    "usb",
+    "stick"
+  ],
+  "AMD-Sempron-CPU": [
+    "amd",
+    "sempron",
+    "cpu",
+    "processor"
+  ],
+  "CPU-Intel": [
+    "cpu",
+    "intel",
+    "processor"
+  ],
+  "nVidia-Speaker-Tray": [
+    "nvidia",
+    "speaker",
+    "tray",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Genius-HS04A": [
+    "genius",
+    "hsa"
+  ],
+  "Sennheiser-PXC-450-Headphones": [
+    "pxc",
+    "sennheiser",
+    "earphone",
+    "headphone",
+    "headset",
+    "headphones"
+  ],
+  "MiniSD": [
+    "minisd"
+  ],
+  "American-Audio-HP-700-Headset": [
+    "audio",
+    "american",
+    "music",
+    "sound",
+    "headphone",
+    "headset",
+    "earphone"
+  ]
+}

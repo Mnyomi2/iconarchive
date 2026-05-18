@@ -1,0 +1,68 @@
+{
+  "mailbox": [
+    "mailbox"
+  ],
+  "rims": [
+    "rims"
+  ],
+  "blog": [
+    "blog"
+  ],
+  "usb": [
+    "usb"
+  ],
+  "magnifying-glass": [
+    "loupe",
+    "find",
+    "glass",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "zoom",
+    "search",
+    "look"
+  ],
+  "lock": [
+    "lock",
+    "encrypt",
+    "unlock",
+    "decrypted",
+    "encrypted",
+    "padlock",
+    "access",
+    "decrypt",
+    "private"
+  ],
+  "bar-stool": [
+    "bar",
+    "stool"
+  ],
+  "telescope": [
+    "telescope"
+  ],
+  "pensil": [
+    "pensil"
+  ],
+  "dice": [
+    "dice"
+  ],
+  "gear-wheel": [
+    "cog",
+    "cogwheel",
+    "gear",
+    "wheel",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "config",
+    "conf",
+    "preferences",
+    "setting",
+    "development",
+    "settings",
+    "developer",
+    "prefs",
+    "system"
+  ]
+}

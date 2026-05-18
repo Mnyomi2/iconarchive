@@ -1,5 +1,29 @@
 [
   {
+    "id": "100-Seedless-Penguins",
+    "name": "100 Seedless Penguins",
+    "packCount": 4,
+    "iconCount": 434
+  },
+  {
+    "id": "3dlb",
+    "name": "3dlb",
+    "packCount": 2,
+    "iconCount": 87
+  },
+  {
+    "id": "3xhumed",
+    "name": "3xhumed",
+    "packCount": 24,
+    "iconCount": 9339
+  },
+  {
+    "id": "7ur",
+    "name": "7ur",
+    "packCount": 1,
+    "iconCount": 72
+  },
+  {
     "id": "Academicons-Team",
     "name": "Academicons Team",
     "packCount": 1,
