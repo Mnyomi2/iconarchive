@@ -1,0 +1,54 @@
+name: test.yml
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml tqdm
+
+      - name: 🚀 Run Scraper (Vector + Update)
+        run: |
+          # The "update" flag scans existing artist folders for new icons
+          python3 iconarchive_perfect_selective.py force windows update
+
+      - name: 📤 Auto Commit and Push back to GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the downloaded files and manifest
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "✅ No new vector icons were downloaded. Everything is up to date."
+          else
+            echo "🚀 New vector icons found! Committing to the repository..."
+            git commit -m "🤖 Auto-downloaded missing vector icons & updated index"
+            git push origin HEAD:${GITHUB_REF}
+          fi
+
+      - name: 🧹 Purge jsDelivr Cache
+        run: |
+          echo "⏳ Waiting 5 seconds before purge..."
+          sleep 5
+          curl -s "https://purge.jsdelivr.net/gh/Mnyomi2/iconarchive@main"
