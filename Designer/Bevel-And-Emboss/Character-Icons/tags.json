@@ -1,0 +1,15 @@
+{
+  "cop": [
+    "cop"
+  ],
+  "chef": [
+    "chef"
+  ],
+  "cowboy": [
+    "cowboy"
+  ],
+  "doctor": [
+    "doctor",
+    "medical"
+  ]
+}

@@ -1,0 +1,667 @@
+[
+  {
+    "name": "auto.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/auto.32.png",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "bag.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/bag.32.png",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "e-ric.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/e-ric.32.png",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/eve.32.png",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "m-o-full.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/m-o-full.32.png",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/m-o.32.png",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "plant.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/plant.32.png",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "wall-e.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Wall-E-Icons/Favicon/wall-e.32.png",
+    "tags": [
+      "wall"
+    ]
+  },
+  {
+    "name": "auto.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/auto.icns",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "bag.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/bag.icns",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "e-ric.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/e-ric.icns",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/eve.icns",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "m-o-full.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/m-o-full.icns",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/m-o.icns",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "plant.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/plant.icns",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "wall-e.icns",
+    "format": "Mac",
+    "path": "Designer/Artua/Wall-E-Icons/Mac/wall-e.icns",
+    "tags": [
+      "wall"
+    ]
+  },
+  {
+    "name": "auto.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/auto.128.png",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "auto.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/auto.256.png",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "auto.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/auto.48.png",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "auto.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/auto.64.png",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "bag.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/bag.128.png",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "bag.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/bag.256.png",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "bag.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/bag.48.png",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "bag.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/bag.64.png",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "e-ric.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/e-ric.128.png",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "e-ric.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/e-ric.256.png",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "e-ric.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/e-ric.48.png",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "e-ric.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/e-ric.64.png",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/eve.128.png",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/eve.256.png",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/eve.48.png",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/eve.64.png",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "m-o-full.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o-full.128.png",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o-full.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o-full.256.png",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o-full.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o-full.48.png",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o-full.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o-full.64.png",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o.128.png",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "m-o.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o.256.png",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "m-o.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o.48.png",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "m-o.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/m-o.64.png",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "plant.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/plant.128.png",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "plant.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/plant.256.png",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "plant.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/plant.48.png",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "plant.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/plant.64.png",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "wall-e.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/wall-e.128.png",
+    "tags": [
+      "wall"
+    ]
+  },
+  {
+    "name": "wall-e.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/wall-e.256.png",
+    "tags": [
+      "wall"
+    ]
+  },
+  {
+    "name": "wall-e.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/wall-e.48.png",
+    "tags": [
+      "wall"
+    ]
+  },
+  {
+    "name": "wall-e.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Wall-E-Icons/PNG/wall-e.64.png",
+    "tags": [
+      "wall"
+    ]
+  },
+  {
+    "name": "auto.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/auto.ico",
+    "tags": [
+      "auto",
+      "vehicle",
+      "car",
+      "transport",
+      "steering",
+      "wheel"
+    ]
+  },
+  {
+    "name": "bag.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/bag.ico",
+    "tags": [
+      "bag",
+      "tool",
+      "utilities",
+      "utils",
+      "wall e",
+      "tools",
+      "walle"
+    ]
+  },
+  {
+    "name": "e-ric.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/e-ric.ico",
+    "tags": [
+      "walle",
+      "ric",
+      "robot",
+      "wall e",
+      "e ric",
+      "eric",
+      "wall"
+    ]
+  },
+  {
+    "name": "eve.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/eve.ico",
+    "tags": [
+      "eve",
+      "robot",
+      "wall e",
+      "walle",
+      "wall"
+    ]
+  },
+  {
+    "name": "m-o-full.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/m-o-full.ico",
+    "tags": [
+      "full",
+      "e",
+      "robot",
+      "wall",
+      "walle"
+    ]
+  },
+  {
+    "name": "m-o.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/m-o.ico",
+    "tags": [
+      "wall",
+      "walle",
+      "e",
+      "robot"
+    ]
+  },
+  {
+    "name": "plant.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/plant.ico",
+    "tags": [
+      "plant",
+      "wall",
+      "shoe",
+      "walle"
+    ]
+  },
+  {
+    "name": "wall-e.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Wall-E-Icons/Windows/wall-e.ico",
+    "tags": [
+      "wall"
+    ]
+  }
+]

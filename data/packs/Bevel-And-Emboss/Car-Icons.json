@@ -1,0 +1,904 @@
+[
+  {
+    "name": "car-blue.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-blue.16.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-blue.24.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-blue.32.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-orange.16.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-orange.24.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-orange.32.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-purple.16.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-purple.24.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/car-purple.32.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "jeep.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/jeep.16.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/jeep.24.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/jeep.32.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "lorry.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/lorry.16.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/lorry.24.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/lorry.32.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/racing-car.16.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/racing-car.24.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/racing-car.32.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/van-bus.16.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/van-bus.24.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Favicon/van-bus.32.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/car-blue.icns",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/car-orange.icns",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/car-purple.icns",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "jeep.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/jeep.icns",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "lorry.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/lorry.icns",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/racing-car.icns",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.icns",
+    "format": "Mac",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Mac/van-bus.icns",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-blue.128.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-blue.256.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-blue.48.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-blue.64.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-blue.72.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-blue.96.png",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-orange.128.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-orange.256.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-orange.48.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-orange.64.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-orange.72.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-orange.96.png",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-purple.128.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-purple.256.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-purple.48.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-purple.64.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-purple.72.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/car-purple.96.png",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "jeep.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/jeep.128.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/jeep.256.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/jeep.48.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/jeep.64.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/jeep.72.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "jeep.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/jeep.96.png",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "lorry.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/lorry.128.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/lorry.256.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/lorry.48.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/lorry.64.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/lorry.72.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "lorry.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/lorry.96.png",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/racing-car.128.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/racing-car.256.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/racing-car.48.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/racing-car.64.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/racing-car.72.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/racing-car.96.png",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.128.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/van-bus.128.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.256.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/van-bus.256.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.48.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/van-bus.48.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.64.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/van-bus.64.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.72.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/van-bus.72.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.96.png",
+    "format": "PNG",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/PNG/van-bus.96.png",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-blue.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/car-blue.ico",
+    "tags": [
+      "car",
+      "auto",
+      "blue",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-orange.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/car-orange.ico",
+    "tags": [
+      "orange",
+      "auto",
+      "car",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "car-purple.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/car-purple.ico",
+    "tags": [
+      "auto",
+      "car",
+      "purple",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "jeep.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/jeep.ico",
+    "tags": [
+      "jeep"
+    ]
+  },
+  {
+    "name": "lorry.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/lorry.ico",
+    "tags": [
+      "truck",
+      "lorry",
+      "van",
+      "transport"
+    ]
+  },
+  {
+    "name": "racing-car.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/racing-car.ico",
+    "tags": [
+      "racing",
+      "auto",
+      "car",
+      "vehicle",
+      "sport",
+      "transport"
+    ]
+  },
+  {
+    "name": "van-bus.ico",
+    "format": "Windows",
+    "path": "Designer/Bevel-And-Emboss/Car-Icons/Windows/van-bus.ico",
+    "tags": [
+      "bus",
+      "van",
+      "lorry",
+      "omnibus",
+      "truck",
+      "vehicle",
+      "transport"
+    ]
+  }
+]

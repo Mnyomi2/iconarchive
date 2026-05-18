@@ -1,0 +1,2667 @@
+[
+  {
+    "name": "1Password.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/1Password.16.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/1Password.24.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/1Password.32.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "AirDroid.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/AirDroid.16.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/AirDroid.24.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/AirDroid.32.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "Authy-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Authy-1.16.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Authy-1.24.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Authy-1.32.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Authy-2.16.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Authy-2.24.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Authy-2.32.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "BibDesk.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/BibDesk.16.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/BibDesk.24.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/BibDesk.32.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BitCoin.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/BitCoin.16.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/BitCoin.24.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/BitCoin.32.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "CaptureOne.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/CaptureOne.16.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/CaptureOne.24.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/CaptureOne.32.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "DayOne.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/DayOne.16.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/DayOne.24.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/DayOne.32.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DogeCoin.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/DogeCoin.16.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/DogeCoin.24.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/DogeCoin.32.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "Emacs.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Emacs.16.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Emacs.24.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Emacs.32.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Finale.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Finale.16.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Finale.24.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Finale.32.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "InkScape.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/InkScape.16.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/InkScape.24.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/InkScape.32.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "LabView.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/LabView.16.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/LabView.24.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/LabView.32.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LiteCoin.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/LiteCoin.16.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/LiteCoin.24.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/LiteCoin.32.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "MATLAB.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/MATLAB.16.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/MATLAB.24.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/MATLAB.32.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MacVim.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/MacVim.16.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/MacVim.24.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/MacVim.32.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "Mathematica.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mathematica.16.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mathematica.24.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mathematica.32.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mou.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mou.16.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mou.24.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mou.32.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mp3tag.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mp3tag.16.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mp3tag.24.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Mp3tag.32.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Sibelius.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Sibelius.16.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Sibelius.24.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Sibelius.32.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Tumblr.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Tumblr.16.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Tumblr.24.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Tumblr.32.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "VirtualBox.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/VirtualBox.16.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/VirtualBox.24.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/VirtualBox.32.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "Vmware.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Vmware.16.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Vmware.24.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/Vmware.32.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "iTerm.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/iTerm.16.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/iTerm.24.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/iTerm.32.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iWriter.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/iWriter.16.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/iWriter.24.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Favicon/iWriter.32.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "1Password.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/1Password.icns",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "AirDroid.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/AirDroid.icns",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "Authy-1.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Authy-1.icns",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Authy-2.icns",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "BibDesk.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/BibDesk.icns",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BitCoin.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/BitCoin.icns",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "CaptureOne.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/CaptureOne.icns",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "DayOne.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/DayOne.icns",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DogeCoin.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/DogeCoin.icns",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "Emacs.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Emacs.icns",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Finale.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Finale.icns",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "InkScape.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/InkScape.icns",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "LabView.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/LabView.icns",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LiteCoin.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/LiteCoin.icns",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "MATLAB.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/MATLAB.icns",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MacVim.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/MacVim.icns",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "Mathematica.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Mathematica.icns",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mou.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Mou.icns",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mp3tag.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Mp3tag.icns",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Sibelius.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Sibelius.icns",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Tumblr.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Tumblr.icns",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "VirtualBox.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/VirtualBox.icns",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "Vmware.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/Vmware.icns",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "iTerm.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/iTerm.icns",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iWriter.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Mac/iWriter.icns",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "1Password.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.1024.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.128.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.256.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.48.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.512.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.64.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.72.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "1Password.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/1Password.96.png",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "AirDroid.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.1024.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.128.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.256.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.48.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.512.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.64.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.72.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "AirDroid.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/AirDroid.96.png",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "Authy-1.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.1024.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.128.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.256.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.48.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.512.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.64.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.72.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-1.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-1.96.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.1024.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.128.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.256.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.48.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.512.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.64.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.72.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Authy-2.96.png",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "BibDesk.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.1024.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.128.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.256.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.48.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.512.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.64.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.72.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BibDesk.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BibDesk.96.png",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BitCoin.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.1024.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.128.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.256.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.48.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.512.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.64.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.72.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "BitCoin.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/BitCoin.96.png",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "CaptureOne.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.1024.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.128.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.256.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.48.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.512.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.64.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.72.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "CaptureOne.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/CaptureOne.96.png",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "DayOne.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.1024.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.128.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.256.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.48.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.512.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.64.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.72.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DayOne.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DayOne.96.png",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DogeCoin.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.1024.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.128.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.256.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.48.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.512.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.64.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.72.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "DogeCoin.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/DogeCoin.96.png",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "Emacs.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.1024.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.128.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.256.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.48.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.512.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.64.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.72.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Emacs.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Emacs.96.png",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Finale.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.1024.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.128.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.256.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.48.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.512.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.64.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.72.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "Finale.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Finale.96.png",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "InkScape.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.1024.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.128.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.256.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.48.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.512.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.64.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.72.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "InkScape.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/InkScape.96.png",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "LabView.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.1024.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.128.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.256.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.48.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.512.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.64.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.72.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LabView.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LabView.96.png",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LiteCoin.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.1024.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.128.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.256.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.48.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.512.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.64.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.72.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "LiteCoin.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/LiteCoin.96.png",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "MATLAB.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.1024.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.128.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.256.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.48.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.512.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.64.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.72.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MATLAB.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MATLAB.96.png",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MacVim.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.1024.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.128.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.256.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.48.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.512.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.64.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.72.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "MacVim.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/MacVim.96.png",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "Mathematica.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.1024.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.128.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.256.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.48.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.512.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.64.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.72.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mathematica.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mathematica.96.png",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mou.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.1024.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.128.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.256.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.48.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.512.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.64.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.72.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mou.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mou.96.png",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mp3tag.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.1024.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.128.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.256.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.48.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.512.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.64.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.72.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Mp3tag.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Mp3tag.96.png",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Sibelius.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.1024.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.128.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.256.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.48.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.512.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.64.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.72.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Sibelius.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Sibelius.96.png",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Tumblr.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.1024.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.128.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.256.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.48.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.512.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.64.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.72.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Tumblr.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Tumblr.96.png",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "VirtualBox.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.1024.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.128.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.256.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.48.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.512.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.64.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.72.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "VirtualBox.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/VirtualBox.96.png",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "Vmware.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.1024.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.128.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.256.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.48.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.512.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.64.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.72.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "Vmware.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/Vmware.96.png",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "iTerm.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.1024.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.128.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.256.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.48.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.512.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.64.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.72.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iTerm.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iTerm.96.png",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iWriter.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.1024.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.128.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.256.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.48.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.512.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.64.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.72.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "iWriter.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/PNG/iWriter.96.png",
+    "tags": [
+      "iwriter"
+    ]
+  },
+  {
+    "name": "1Password.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/1Password.ico",
+    "tags": [
+      "password"
+    ]
+  },
+  {
+    "name": "AirDroid.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/AirDroid.ico",
+    "tags": [
+      "airdroid"
+    ]
+  },
+  {
+    "name": "Authy-1.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Authy-1.ico",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "Authy-2.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Authy-2.ico",
+    "tags": [
+      "authy"
+    ]
+  },
+  {
+    "name": "BibDesk.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/BibDesk.ico",
+    "tags": [
+      "bibdesk"
+    ]
+  },
+  {
+    "name": "BitCoin.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/BitCoin.ico",
+    "tags": [
+      "bitcoin"
+    ]
+  },
+  {
+    "name": "CaptureOne.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/CaptureOne.ico",
+    "tags": [
+      "captureone"
+    ]
+  },
+  {
+    "name": "DayOne.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/DayOne.ico",
+    "tags": [
+      "dayone"
+    ]
+  },
+  {
+    "name": "DogeCoin.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/DogeCoin.ico",
+    "tags": [
+      "dogecoin"
+    ]
+  },
+  {
+    "name": "Emacs.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Emacs.ico",
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
+    "name": "Finale.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Finale.ico",
+    "tags": [
+      "finale"
+    ]
+  },
+  {
+    "name": "InkScape.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/InkScape.ico",
+    "tags": [
+      "inkscape"
+    ]
+  },
+  {
+    "name": "LabView.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/LabView.ico",
+    "tags": [
+      "labview"
+    ]
+  },
+  {
+    "name": "LiteCoin.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/LiteCoin.ico",
+    "tags": [
+      "litecoin",
+      "coin",
+      "crypto",
+      "currency"
+    ]
+  },
+  {
+    "name": "MATLAB.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/MATLAB.ico",
+    "tags": [
+      "matlab"
+    ]
+  },
+  {
+    "name": "MacVim.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/MacVim.ico",
+    "tags": [
+      "macvim"
+    ]
+  },
+  {
+    "name": "Mathematica.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Mathematica.ico",
+    "tags": [
+      "mathematica"
+    ]
+  },
+  {
+    "name": "Mou.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Mou.ico",
+    "tags": [
+      "mou"
+    ]
+  },
+  {
+    "name": "Mp3tag.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Mp3tag.ico",
+    "tags": [
+      "mp3tag"
+    ]
+  },
+  {
+    "name": "Sibelius.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Sibelius.ico",
+    "tags": [
+      "sibelius"
+    ]
+  },
+  {
+    "name": "Tumblr.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Tumblr.ico",
+    "tags": [
+      "tumblr",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "VirtualBox.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/VirtualBox.ico",
+    "tags": [
+      "virtualbox"
+    ]
+  },
+  {
+    "name": "Vmware.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/Vmware.ico",
+    "tags": [
+      "vmware"
+    ]
+  },
+  {
+    "name": "iTerm.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/iTerm.ico",
+    "tags": [
+      "iterm"
+    ]
+  },
+  {
+    "name": "iWriter.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-6-Icons/Windows/iWriter.ico",
+    "tags": [
+      "iwriter"
+    ]
+  }
+]

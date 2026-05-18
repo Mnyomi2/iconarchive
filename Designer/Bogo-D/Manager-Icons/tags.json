@@ -1,0 +1,58 @@
+{
+  "Manager-Suit-Black-Tie": [
+    "manager",
+    "suit",
+    "black",
+    "tie"
+  ],
+  "Manager-Suit-Red-Tie-Rose": [
+    "manager",
+    "suit",
+    "red",
+    "tie",
+    "rose",
+    "birthday",
+    "flower",
+    "love",
+    "valentine"
+  ],
+  "Manager-Suit-Black-Tie-Rose": [
+    "suit",
+    "manager",
+    "black",
+    "tie",
+    "rose",
+    "birthday",
+    "flower",
+    "love",
+    "valentine"
+  ],
+  "Manager-Suit-Brown": [
+    "manager",
+    "suit",
+    "brown"
+  ],
+  "Manager-Suit-Red-Stripes": [
+    "manager",
+    "suit",
+    "red",
+    "stripes"
+  ],
+  "Manager-Suit-Purple-Stripes": [
+    "manager",
+    "suit",
+    "purple",
+    "stripes"
+  ],
+  "Manager-Suit-Red-Tie": [
+    "manager",
+    "suit",
+    "red",
+    "tie"
+  ],
+  "Manager-Suit-Purple": [
+    "manager",
+    "suit",
+    "purple"
+  ]
+}

@@ -1,0 +1,926 @@
+[
+  {
+    "name": "candy.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/candy.16.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/candy.24.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/candy.32.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "egg.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/egg.16.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/egg.24.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/egg.32.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "folder.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/folder.16.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/folder.24.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/folder.32.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-cloud.16.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-cloud.24.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-cloud.32.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-package.16.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-package.24.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-package.32.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-sea.16.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-sea.24.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope-sea.32.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope.16.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope.24.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelope.32.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.16.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelopes.16.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.24.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelopes.24.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.32.png",
+    "format": "Favicon",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Favicon/mail-envelopes.32.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "candy.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/candy.icns",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "egg.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/egg.icns",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "folder.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/folder.icns",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/mail-envelope-cloud.icns",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/mail-envelope-package.icns",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/mail-envelope-sea.icns",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/mail-envelope.icns",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.icns",
+    "format": "Mac",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Mac/mail-envelopes.icns",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "candy.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/candy.128.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/candy.256.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/candy.48.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/candy.64.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/candy.72.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "candy.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/candy.96.png",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "egg.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/egg.128.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/egg.256.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/egg.48.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/egg.64.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/egg.72.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "egg.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/egg.96.png",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "folder.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/folder.128.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/folder.256.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/folder.48.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/folder.64.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/folder.72.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/folder.96.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-cloud.128.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-cloud.256.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-cloud.48.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-cloud.64.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-cloud.72.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-cloud.96.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-package.128.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-package.256.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-package.48.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-package.64.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-package.72.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-package.96.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-sea.128.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-sea.256.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-sea.48.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-sea.64.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-sea.72.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope-sea.96.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope.128.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope.256.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope.48.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope.64.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope.72.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelope.96.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.128.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelopes.128.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.256.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelopes.256.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.48.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelopes.48.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.64.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelopes.64.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.72.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelopes.72.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.96.png",
+    "format": "PNG",
+    "path": "Designer/Babysnoop03/Reborn-Icons/PNG/mail-envelopes.96.png",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  },
+  {
+    "name": "candy.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/candy.ico",
+    "tags": [
+      "candy"
+    ]
+  },
+  {
+    "name": "egg.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/egg.ico",
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "name": "folder.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/folder.ico",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "mail-envelope-cloud.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/mail-envelope-cloud.ico",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "cloud",
+      "cloudy",
+      "contact",
+      "weather"
+    ]
+  },
+  {
+    "name": "mail-envelope-package.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/mail-envelope-package.ico",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "package",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope-sea.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/mail-envelope-sea.ico",
+    "tags": [
+      "email",
+      "mail",
+      "envelope",
+      "sea",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelope.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/mail-envelope.ico",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-envelopes.ico",
+    "format": "Windows",
+    "path": "Designer/Babysnoop03/Reborn-Icons/Windows/mail-envelopes.ico",
+    "tags": [
+      "email",
+      "mail",
+      "envelopes",
+      "contact"
+    ]
+  }
+]

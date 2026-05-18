@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Browser.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Royal-Icons/Favicon/Browser.32.png",
+    "tags": [
+      "browser"
+    ]
+  },
+  {
+    "name": "Crown.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Royal-Icons/Favicon/Crown.32.png",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Globe.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Royal-Icons/Favicon/Globe.32.png",
+    "tags": [
+      "world",
+      "earth",
+      "globe",
+      "hosting",
+      "nature",
+      "internet",
+      "network"
+    ]
+  },
+  {
+    "name": "Mail.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Royal-Icons/Favicon/Mail.32.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Search.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Royal-Icons/Favicon/Search.32.png",
+    "tags": [
+      "magnify",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "User.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Royal-Icons/Favicon/User.32.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Browser.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Browser.128.png",
+    "tags": [
+      "browser"
+    ]
+  },
+  {
+    "name": "Browser.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Browser.48.png",
+    "tags": [
+      "browser"
+    ]
+  },
+  {
+    "name": "Browser.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Browser.64.png",
+    "tags": [
+      "browser"
+    ]
+  },
+  {
+    "name": "Crown.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Crown.128.png",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Crown.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Crown.48.png",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Crown.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Crown.64.png",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Globe.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Globe.128.png",
+    "tags": [
+      "world",
+      "earth",
+      "globe",
+      "hosting",
+      "nature",
+      "internet",
+      "network"
+    ]
+  },
+  {
+    "name": "Globe.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Globe.48.png",
+    "tags": [
+      "world",
+      "earth",
+      "globe",
+      "hosting",
+      "nature",
+      "internet",
+      "network"
+    ]
+  },
+  {
+    "name": "Globe.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Globe.64.png",
+    "tags": [
+      "world",
+      "earth",
+      "globe",
+      "hosting",
+      "nature",
+      "internet",
+      "network"
+    ]
+  },
+  {
+    "name": "Mail.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Mail.128.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Mail.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Mail.48.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Mail.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Mail.64.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Search.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Search.128.png",
+    "tags": [
+      "magnify",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Search.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Search.48.png",
+    "tags": [
+      "magnify",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Search.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/Search.64.png",
+    "tags": [
+      "magnify",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "User.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/User.128.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "User.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/User.48.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "User.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Royal-Icons/PNG/User.64.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Browser.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Royal-Icons/Windows/Browser.ico",
+    "tags": [
+      "browser"
+    ]
+  },
+  {
+    "name": "Crown.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Royal-Icons/Windows/Crown.ico",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Globe.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Royal-Icons/Windows/Globe.ico",
+    "tags": [
+      "world",
+      "earth",
+      "globe",
+      "hosting",
+      "nature",
+      "internet",
+      "network"
+    ]
+  },
+  {
+    "name": "Mail.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Royal-Icons/Windows/Mail.ico",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Search.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Royal-Icons/Windows/Search.ico",
+    "tags": [
+      "magnify",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "User.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Royal-Icons/Windows/User.ico",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  }
+]

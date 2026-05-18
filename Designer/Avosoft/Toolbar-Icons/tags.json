@@ -1,0 +1,44 @@
+{
+  "config": [
+    "conf",
+    "config",
+    "configuration",
+    "customization",
+    "configure",
+    "customise",
+    "setting"
+  ],
+  "calender": [
+    "calender",
+    "calendar",
+    "organizer",
+    "date",
+    "event"
+  ],
+  "document": [
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "paste": [
+    "paste"
+  ],
+  "male": [
+    "guy",
+    "male",
+    "boy",
+    "man",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "printer": [
+    "print",
+    "printer",
+    "hardware",
+    "minimal",
+    "classic"
+  ]
+}

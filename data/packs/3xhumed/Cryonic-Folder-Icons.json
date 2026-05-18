@@ -1,5 +1,533 @@
 [
   {
+    "name": "Folder-Blank-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-1.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-1.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-1.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-10.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-10.16.png",
+    "tags": [
+      "blank",
+      "folder"
+    ]
+  },
+  {
+    "name": "Folder-Blank-10.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-10.24.png",
+    "tags": [
+      "blank",
+      "folder"
+    ]
+  },
+  {
+    "name": "Folder-Blank-10.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-10.32.png",
+    "tags": [
+      "blank",
+      "folder"
+    ]
+  },
+  {
+    "name": "Folder-Blank-11.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-11.16.png",
+    "tags": [
+      "folder",
+      "blank",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Folder-Blank-11.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-11.24.png",
+    "tags": [
+      "folder",
+      "blank",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Folder-Blank-11.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-11.32.png",
+    "tags": [
+      "folder",
+      "blank",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Folder-Blank-12.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-12.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-12.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-12.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-12.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-12.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-2.16.png",
+    "tags": [
+      "blank",
+      "folder",
+      "army",
+      "camouflage",
+      "military"
+    ]
+  },
+  {
+    "name": "Folder-Blank-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-2.24.png",
+    "tags": [
+      "blank",
+      "folder",
+      "army",
+      "camouflage",
+      "military"
+    ]
+  },
+  {
+    "name": "Folder-Blank-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-2.32.png",
+    "tags": [
+      "blank",
+      "folder",
+      "army",
+      "camouflage",
+      "military"
+    ]
+  },
+  {
+    "name": "Folder-Blank-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-3.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-3.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-3.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-3.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-4.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-4.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-4.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-4.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-5.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-5.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-5.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-5.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-6.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-6.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-6.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-6.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-7.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-7.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-7.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-7.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-8.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-8.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-8.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-8.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-9.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-9.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-9.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-9.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-9.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-9.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-sample.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-sample.16.png",
+    "tags": [
+      "folder",
+      "sample",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-sample.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-sample.24.png",
+    "tags": [
+      "folder",
+      "sample",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-sample.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank-sample.32.png",
+    "tags": [
+      "folder",
+      "sample",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank.16.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank.24.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Favicon/Folder-Blank.32.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-1.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-1.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-10.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-10.icns",
+    "tags": [
+      "blank",
+      "folder"
+    ]
+  },
+  {
+    "name": "Folder-Blank-11.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-11.icns",
+    "tags": [
+      "folder",
+      "blank",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Folder-Blank-12.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-12.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-2.icns",
+    "tags": [
+      "blank",
+      "folder",
+      "army",
+      "camouflage",
+      "military"
+    ]
+  },
+  {
+    "name": "Folder-Blank-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-3.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-4.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-5.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-6.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-7.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-8.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-9.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-9.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-sample.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank-sample.icns",
+    "tags": [
+      "folder",
+      "sample",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Mac/Folder-Blank.icns",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
     "name": "Folder-Blank-1.128.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Cryonic-Folder-Icons/PNG/Folder-Blank-1.128.png",
@@ -522,6 +1050,138 @@
     "name": "Folder-Blank.64.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Cryonic-Folder-Icons/PNG/Folder-Blank.64.png",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-1.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-1.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-10.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-10.ico",
+    "tags": [
+      "blank",
+      "folder"
+    ]
+  },
+  {
+    "name": "Folder-Blank-11.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-11.ico",
+    "tags": [
+      "folder",
+      "blank",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Folder-Blank-12.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-12.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-2.ico",
+    "tags": [
+      "blank",
+      "folder",
+      "army",
+      "camouflage",
+      "military"
+    ]
+  },
+  {
+    "name": "Folder-Blank-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-3.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-4.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-5.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-6.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-7.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-8.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-9.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-9.ico",
+    "tags": [
+      "folder",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank-sample.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank-sample.ico",
+    "tags": [
+      "folder",
+      "sample",
+      "blank"
+    ]
+  },
+  {
+    "name": "Folder-Blank.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Cryonic-Folder-Icons/Windows/Folder-Blank.ico",
     "tags": [
       "folder",
       "blank"

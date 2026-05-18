@@ -1,0 +1,270 @@
+{
+  "iCal": [
+    "ical"
+  ],
+  "TextEdit": [
+    "textedit"
+  ],
+  "Trash-Full": [
+    "trash",
+    "recycle",
+    "recyclebin",
+    "garbage",
+    "recycled",
+    "bin",
+    "full"
+  ],
+  "Console": [
+    "console"
+  ],
+  "Network-Utility": [
+    "network",
+    "utility"
+  ],
+  "Keychain-Access": [
+    "private",
+    "keychain",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "padlock",
+    "unlock",
+    "lock"
+  ],
+  "Safari": [
+    "safari",
+    "browser"
+  ],
+  "Mac": [
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "Archive-manage": [
+    "manage",
+    "archive",
+    "zip"
+  ],
+  "Safe": [
+    "safe"
+  ],
+  "Intranet": [
+    "intranet"
+  ],
+  "Trash-Empty": [
+    "recyclebin",
+    "bin",
+    "garbage",
+    "recycle",
+    "recycled",
+    "trash",
+    "empty",
+    "erase"
+  ],
+  "Terminal": [
+    "konsole",
+    "lcd",
+    "display",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "iTunes": [
+    "itunes"
+  ],
+  "DigitalColor-Meter": [
+    "meter",
+    "digitalcolor"
+  ],
+  "Xcode": [
+    "xcode"
+  ],
+  "Audio-MIDI-Setup": [
+    "music",
+    "audio",
+    "sound",
+    "midi",
+    "setup"
+  ],
+  "Microphone": [
+    "microphone"
+  ],
+  "Chess": [
+    "chess",
+    "game",
+    "horse",
+    "animal"
+  ],
+  "Activity-Monitor": [
+    "lcd",
+    "konsole",
+    "monitor",
+    "terminal",
+    "workstation",
+    "activity",
+    "control",
+    "screen",
+    "display",
+    "hardware"
+  ],
+  "Lock": [
+    "lock",
+    "decrypted",
+    "access",
+    "padlock",
+    "decrypt",
+    "encrypt",
+    "encrypted",
+    "private",
+    "unlock"
+  ],
+  "Laptop": [
+    "laptop",
+    "notebook",
+    "hardware"
+  ],
+  "Finder": [
+    "finder"
+  ],
+  "Front-Row": [
+    "front",
+    "row"
+  ],
+  "Folder-Music": [
+    "music",
+    "folder",
+    "sound",
+    "audio"
+  ],
+  "Address-Book": [
+    "book",
+    "addressbook",
+    "phonebook",
+    "address",
+    "contact"
+  ],
+  "Image-Capture": [
+    "picture",
+    "photo",
+    "image",
+    "photography",
+    "capture"
+  ],
+  "Battery": [
+    "battery",
+    "power"
+  ],
+  "Folder-Photo": [
+    "photography",
+    "folder",
+    "image",
+    "picture",
+    "photo"
+  ],
+  "Folder": [
+    "folder",
+    "classic",
+    "minimal",
+    "plain",
+    "simple",
+    "white"
+  ],
+  "Play": [
+    "play"
+  ],
+  "Hard-Drive": [
+    "drive",
+    "hard"
+  ],
+  "Time-Machine": [
+    "machine",
+    "time"
+  ],
+  "Home": [
+    "home",
+    "house",
+    "building"
+  ],
+  "System-Preferences": [
+    "system",
+    "preferences",
+    "prefs",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "prefpanes",
+    "settings"
+  ],
+  "iChat": [
+    "ichat"
+  ],
+  "Setting": [
+    "setting",
+    "configuration",
+    "configure",
+    "customization",
+    "customise",
+    "conf",
+    "config"
+  ],
+  "Unlock": [
+    "decrypt",
+    "lock",
+    "unlock",
+    "access",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "padlock",
+    "private"
+  ],
+  "iSync": [
+    "isync",
+    "power"
+  ],
+  "Application": [
+    "application",
+    "software",
+    "app"
+  ],
+  "Earth": [
+    "earth",
+    "globe",
+    "hosting",
+    "world",
+    "nature",
+    "internet",
+    "network"
+  ],
+  "Joystick": [
+    "joystick"
+  ],
+  "Folder-Tools": [
+    "tool",
+    "tools",
+    "utilities",
+    "utils",
+    "folder"
+  ],
+  "Bluetooth": [
+    "bluetooth"
+  ],
+  "Podcaste-capture": [
+    "podcaste",
+    "capture"
+  ],
+  "Dashboard": [
+    "dashboard"
+  ]
+}

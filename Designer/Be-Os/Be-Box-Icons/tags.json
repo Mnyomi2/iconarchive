@@ -1,0 +1,480 @@
+{
+  "Be-Keyboard": [
+    "keyboard",
+    "hardware"
+  ],
+  "Flash-Updater": [
+    "flash",
+    "updater"
+  ],
+  "Be-Edit": [
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "APPS-Info": [
+    "app",
+    "application",
+    "software",
+    "apps",
+    "info",
+    "information"
+  ],
+  "Be-Term": [
+    "term"
+  ],
+  "Be-Font": [
+    "font"
+  ],
+  "Be-Screen": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Be-Sound": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Be-Paint": [
+    "paint",
+    "painting"
+  ],
+  "BeBox-Watcher": [
+    "bebox",
+    "watcher"
+  ],
+  "BeBox-DR-7": [
+    "bebox"
+  ],
+  "Group": [
+    "forum",
+    "group",
+    "meeting",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Be-QuickTime": [
+    "quicktime"
+  ],
+  "Be-CD-Player": [
+    "cd",
+    "player",
+    "disc",
+    "disk"
+  ],
+  "Browser": [
+    "browser"
+  ],
+  "Be-Kernel": [
+    "kernel"
+  ],
+  "Be-MiniPlayer": [
+    "miniplayer"
+  ],
+  "Be-Connect": [
+    "connect"
+  ],
+  "Be-Printer": [
+    "printer",
+    "print",
+    "hardware"
+  ],
+  "Be-Icon-World": [
+    "icon",
+    "earth",
+    "globe",
+    "world",
+    "hosting",
+    "internet",
+    "nature",
+    "network"
+  ],
+  "Clock": [
+    "clock",
+    "timer"
+  ],
+  "Be-Card-Stack": [
+    "card",
+    "stack"
+  ],
+  "Be-Midi-File": [
+    "midi",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Be-Midi": [
+    "midi"
+  ],
+  "Be-Magnify": [
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "BeBox-PoorMan": [
+    "bebox",
+    "poorman"
+  ],
+  "ANSI-Server": [
+    "ansi",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Be-Bounce": [
+    "bounce"
+  ],
+  "Debug-Server": [
+    "debug",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Chart": [
+    "chart",
+    "business"
+  ],
+  "Be-Zoo-Keeper": [
+    "zoo",
+    "keeper"
+  ],
+  "Be-Shex": [
+    "shex"
+  ],
+  "Be-Fax": [
+    "fax",
+    "contact"
+  ],
+  "Be-NetConfig": [
+    "netconfig"
+  ],
+  "Be-Generic-File": [
+    "generic",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Be-Painting": [
+    "paint",
+    "painting"
+  ],
+  "Be-SCSI-Probe": [
+    "scsi",
+    "probe"
+  ],
+  "Be-Draw": [
+    "draw"
+  ],
+  "APPS-Stop": [
+    "app",
+    "application",
+    "software",
+    "apps",
+    "stop"
+  ],
+  "Be-Terminal": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Be-Print-Server": [
+    "print",
+    "printer",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Be-Video-File": [
+    "film",
+    "movie",
+    "video",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Be-Boot": [
+    "boot"
+  ],
+  "Floppy": [
+    "floppy",
+    "save"
+  ],
+  "Be-ScrollBar": [
+    "scrollbar"
+  ],
+  "APPS-Warn": [
+    "app",
+    "application",
+    "software",
+    "apps",
+    "warn"
+  ],
+  "Be-Libbe": [
+    "libbe"
+  ],
+  "BeBox-Play-A": [
+    "bebox",
+    "play"
+  ],
+  "Be-Fax-2": [
+    "fax",
+    "contact"
+  ],
+  "Be-Script": [
+    "script"
+  ],
+  "Be-Hello-World": [
+    "hello",
+    "earth",
+    "globe",
+    "world",
+    "hosting",
+    "internet",
+    "nature",
+    "network"
+  ],
+  "Be-IDE": [
+    "ide"
+  ],
+  "Desktop": [
+    "desk",
+    "desktop"
+  ],
+  "Be-TVGuide": [
+    "tvguide"
+  ],
+  "Money": [
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Be-Bulb": [
+    "bulb",
+    "lamp",
+    "light"
+  ],
+  "Be-Heap-Watch": [
+    "heap",
+    "watch",
+    "clock",
+    "timer"
+  ],
+  "BeBox-MIDE": [
+    "bebox",
+    "mide"
+  ],
+  "BeBox-Minesweeper": [
+    "bebox",
+    "minesweeper",
+    "game"
+  ],
+  "Be-logo": [
+    "logo"
+  ],
+  "Be-Trash-Empty": [
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "empty",
+    "erase"
+  ],
+  "BeBox-Workspaces": [
+    "bebox",
+    "workspaces"
+  ],
+  "Be-Storage-Server": [
+    "storage",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Be-Chart": [
+    "chart",
+    "business"
+  ],
+  "BeBox": [
+    "bebox"
+  ],
+  "Be-Mail": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "Be-Play-Sound": [
+    "play",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "BeBox-NetPositive": [
+    "bebox",
+    "netpositive"
+  ],
+  "Fish": [
+    "fish",
+    "animal"
+  ],
+  "User": [
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "BeBox-Buggy": [
+    "bebox",
+    "buggy"
+  ],
+  "Be-Installer": [
+    "installer"
+  ],
+  "Be-Text-File": [
+    "text",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Audio-Server": [
+    "audio",
+    "music",
+    "sound",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Be-Net-Server": [
+    "net",
+    "server",
+    "pc",
+    "computer",
+    "hardware"
+  ],
+  "BeBox-Flight": [
+    "bebox",
+    "flight"
+  ],
+  "Be-Cabinet": [
+    "cabinet"
+  ],
+  "Be-Message-Center": [
+    "message",
+    "center",
+    "contact"
+  ],
+  "Be-Kaleidoscope": [
+    "kaleidoscope"
+  ],
+  "Be-Mail-2": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "CDROM": [
+    "cdrom"
+  ],
+  "APP-Server": [
+    "app",
+    "application",
+    "software",
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Be-Folder": [
+    "folder"
+  ],
+  "BeBox-MWDebug": [
+    "bebox",
+    "mwdebug"
+  ],
+  "Be-Mandelbrot": [
+    "mandelbrot"
+  ],
+  "Be-Dominos": [
+    "dominos"
+  ],
+  "Be-Play": [
+    "play"
+  ],
+  "Be-Keyboard-Map": [
+    "keyboard",
+    "map",
+    "plan",
+    "hardware",
+    "contact",
+    "navigation"
+  ],
+  "Be-Mail-Sound": [
+    "email",
+    "mail",
+    "audio",
+    "music",
+    "sound",
+    "contact"
+  ],
+  "Be-Trash-Full": [
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "full"
+  ],
+  "Be-Shell": [
+    "shell"
+  ],
+  "Be-Mail-Video": [
+    "email",
+    "mail",
+    "film",
+    "movie",
+    "video",
+    "contact"
+  ],
+  "BeBox-DR-8": [
+    "bebox"
+  ],
+  "Be-Mailbox": [
+    "mailbox"
+  ],
+  "Be-Pulse": [
+    "pulse"
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "Booklatch-Green": [
+    "booklatch",
+    "green",
+    "book",
+    "diary"
+  ],
+  "Barrel": [
+    "barrel"
+  ],
+  "Book-Red": [
+    "book",
+    "red"
+  ],
+  "Control": [
+    "control"
+  ],
+  "Window": [
+    "window"
+  ],
+  "Europe": [
+    "europe"
+  ],
+  "Color": [
+    "color",
+    "colour"
+  ],
+  "Work": [
+    "work"
+  ],
+  "Bones": [
+    "bones"
+  ],
+  "Unpack": [
+    "unpack"
+  ],
+  "Extra": [
+    "extra"
+  ],
+  "pattern": [
+    "pattern"
+  ],
+  "Akte": [
+    "akte"
+  ],
+  "Programming-2": [
+    "programming"
+  ],
+  "Text": [
+    "text"
+  ],
+  "Collection-2": [
+    "collection"
+  ],
+  "Drawer-Brown": [
+    "drawer",
+    "brown"
+  ],
+  "Collection": [
+    "collection"
+  ],
+  "Carrot": [
+    "carrot",
+    "food",
+    "meal"
+  ],
+  "Extra-2": [
+    "extra"
+  ],
+  "Closed": [
+    "closed"
+  ],
+  "Build": [
+    "build"
+  ],
+  "CD": [
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "Resources": [
+    "resources"
+  ],
+  "Speech-balloon": [
+    "speech",
+    "balloon"
+  ],
+  "Book-Cyan": [
+    "book",
+    "cyan"
+  ],
+  "Book-Green": [
+    "book",
+    "green"
+  ],
+  "Monitor": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "warning": [
+    "warning"
+  ],
+  "notice": [
+    "notice"
+  ],
+  "Arrow": [
+    "arrow"
+  ],
+  "Code": [
+    "code"
+  ],
+  "Book-4": [
+    "book"
+  ],
+  "Booklatch-Blue": [
+    "booklatch",
+    "blue",
+    "book",
+    "closed",
+    "diary",
+    "shut"
+  ],
+  "Drawer-Full": [
+    "drawer",
+    "full"
+  ],
+  "QuickTime": [
+    "quicktime"
+  ],
+  "Photoshop": [
+    "photoshop",
+    "adobe"
+  ],
+  "Sound": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Knowledge": [
+    "knowledge"
+  ],
+  "System": [
+    "system"
+  ],
+  "Music": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "ResEdit": [
+    "resedit"
+  ],
+  "Booklatch-Cyan": [
+    "booklatch",
+    "cyan"
+  ],
+  "Book-5": [
+    "book"
+  ],
+  "Drawer-Grey": [
+    "drawer",
+    "grey"
+  ],
+  "Director-2": [
+    "director"
+  ],
+  "Entertainment": [
+    "entertainment"
+  ],
+  "Carton": [
+    "carton"
+  ],
+  "Calculator": [
+    "calc",
+    "calculator"
+  ],
+  "Patterns": [
+    "patterns"
+  ],
+  "Book-2": [
+    "book"
+  ],
+  "Construction": [
+    "construction"
+  ],
+  "Packet": [
+    "packet",
+    "parcel"
+  ],
+  "Programming": [
+    "programming"
+  ],
+  "Movies": [
+    "film",
+    "movie",
+    "video",
+    "movies"
+  ],
+  "Mac-OS": [
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "Carlson": [
+    "carlson"
+  ],
+  "Utilities": [
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Monitor-2": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Open": [
+    "open"
+  ],
+  "Drawer": [
+    "drawer"
+  ],
+  "Barrel-2": [
+    "barrel"
+  ],
+  "Booklatch-Grey": [
+    "booklatch",
+    "grey"
+  ],
+  "Documentation": [
+    "documentation"
+  ],
+  "Box": [
+    "box"
+  ],
+  "Acrobat": [
+    "acrobat"
+  ],
+  "Dog": [
+    "hound",
+    "dog",
+    "pet",
+    "animal"
+  ],
+  "Black-White": [
+    "black",
+    "white"
+  ],
+  "Color-2": [
+    "color",
+    "colour"
+  ],
+  "Propeller": [
+    "propeller"
+  ],
+  "Document": [
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Book-3": [
+    "book"
+  ],
+  "Wooden-box": [
+    "wooden",
+    "box"
+  ],
+  "X": [
+    "x"
+  ],
+  "Here": [
+    "here"
+  ],
+  "Preferences": [
+    "preferences",
+    "prefs"
+  ],
+  "Folder": [
+    "folder"
+  ],
+  "Director": [
+    "director"
+  ],
+  "Pictures": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "Reserve": [
+    "reserve"
+  ],
+  "Add-on": [
+    "add",
+    "plus"
+  ],
+  "Drum": [
+    "drum"
+  ],
+  "Book-Grey": [
+    "book",
+    "grey"
+  ],
+  "Fun": [
+    "fun"
+  ],
+  "Drawer-Yellow": [
+    "drawer",
+    "yellow"
+  ],
+  "Top": [
+    "top"
+  ],
+  "Mac": [
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "Mac-2": [
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "Book-Blue": [
+    "book",
+    "blue"
+  ],
+  "Booklatch-Red": [
+    "booklatch",
+    "red"
+  ],
+  "Fonts": [
+    "fonts"
+  ],
+  "Book-1": [
+    "book"
+  ],
+  "Edutainment": [
+    "edutainment"
+  ],
+  "search": [
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "Movies-2": [
+    "film",
+    "movie",
+    "video",
+    "movies"
+  ],
+  "Zip": [
+    "zip",
+    "archive"
+  ]
+}

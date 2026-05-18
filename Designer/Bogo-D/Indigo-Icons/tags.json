@@ -1,0 +1,83 @@
+{
+  "SMS": [
+    "sms",
+    "message",
+    "social",
+    "contact",
+    "logo"
+  ],
+  "Calendar": [
+    "calendar",
+    "date",
+    "event",
+    "organizer"
+  ],
+  "Music": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Market": [
+    "market",
+    "android"
+  ],
+  "Phone": [
+    "phone",
+    "telephone",
+    "call",
+    "contact"
+  ],
+  "Mail": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "File-Manager": [
+    "doc",
+    "document",
+    "file",
+    "manager",
+    "paper"
+  ],
+  "Barcode-Scanner": [
+    "barcode",
+    "scanner",
+    "hardware"
+  ],
+  "Photography": [
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "Contacts": [
+    "contact",
+    "contacts"
+  ],
+  "Clock": [
+    "clock",
+    "timer"
+  ],
+  "Settings": [
+    "customization",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "Browser": [
+    "browser"
+  ],
+  "Maps": [
+    "map",
+    "plan",
+    "maps",
+    "contact",
+    "navigation"
+  ]
+}

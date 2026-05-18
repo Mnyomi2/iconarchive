@@ -1,0 +1,175 @@
+{
+  "off": [
+    "off",
+    "folder"
+  ],
+  "cross": [
+    "exit",
+    "close",
+    "error",
+    "cross",
+    "quit",
+    "delete",
+    "terminate",
+    "cancel",
+    "folder"
+  ],
+  "button": [
+    "button",
+    "folder"
+  ],
+  "tape-2": [
+    "tape",
+    "folder"
+  ],
+  "equalizer-2": [
+    "equalizer",
+    "folder"
+  ],
+  "glowing": [
+    "glowing",
+    "folder"
+  ],
+  "droite": [
+    "droite",
+    "folder"
+  ],
+  "screw": [
+    "screw",
+    "folder"
+  ],
+  "pictures-4": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures",
+    "folder"
+  ],
+  "pictures-5": [
+    "photo",
+    "photography",
+    "picture",
+    "image",
+    "pictures",
+    "folder"
+  ],
+  "tape-4": [
+    "tape",
+    "folder"
+  ],
+  "pictures-2": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures",
+    "folder"
+  ],
+  "myfolder": [
+    "myfolder",
+    "folder"
+  ],
+  "print-2": [
+    "printer",
+    "print",
+    "hardware",
+    "folder"
+  ],
+  "fuel": [
+    "fuel",
+    "folder"
+  ],
+  "gauche": [
+    "gauche",
+    "folder"
+  ],
+  "doc": [
+    "doc",
+    "document",
+    "file",
+    "paper",
+    "folder"
+  ],
+  "pictures": [
+    "picture",
+    "image",
+    "photography",
+    "pictures",
+    "photo",
+    "folder"
+  ],
+  "cassette-2": [
+    "cassette",
+    "folder"
+  ],
+  "fav": [
+    "favorite",
+    "bookmark",
+    "fav",
+    "favourite",
+    "folder"
+  ],
+  "player": [
+    "player",
+    "folder"
+  ],
+  "tape-1": [
+    "tape",
+    "folder"
+  ],
+  "on-2": [
+    "on",
+    "folder"
+  ],
+  "pictures-3": [
+    "photography",
+    "image",
+    "photo",
+    "picture",
+    "pictures",
+    "folder"
+  ],
+  "off-2": [
+    "off",
+    "folder"
+  ],
+  "ok": [
+    "accept",
+    "check",
+    "ok",
+    "tick",
+    "yes",
+    "folder"
+  ],
+  "heart-4": [
+    "heart",
+    "folder",
+    "valentine",
+    "fav",
+    "bookmark",
+    "favorite",
+    "favourite",
+    "love"
+  ],
+  "reglage": [
+    "reglage",
+    "folder"
+  ],
+  "tape-3": [
+    "tape",
+    "folder"
+  ],
+  "tickets": [
+    "tickets",
+    "folder"
+  ],
+  "on": [
+    "on",
+    "folder"
+  ],
+  "star-2": [
+    "star",
+    "folder"
+  ]
+}

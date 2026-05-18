@@ -1,0 +1,2992 @@
+[
+  {
+    "name": "Acrobat.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Acrobat.16.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Acrobat.24.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Acrobat.32.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "AfterEffects.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/AfterEffects.16.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/AfterEffects.24.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/AfterEffects.32.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Audition.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Audition.16.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Audition.24.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Audition.32.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Bridge.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Bridge.16.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Bridge.24.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Bridge.32.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "CreativeCloud.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/CreativeCloud.16.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/CreativeCloud.24.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/CreativeCloud.32.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "DreamWeaver.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/DreamWeaver.16.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/DreamWeaver.24.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/DreamWeaver.32.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeAnimate.16.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeAnimate.24.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeAnimate.32.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeCode.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeCode.16.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeCode.24.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeCode.32.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeFlow.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeFlow.16.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeFlow.24.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeFlow.32.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeInspect.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeInspect.16.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeInspect.24.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/EdgeInspect.32.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "Fireworks.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Fireworks.16.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Fireworks.24.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Fireworks.32.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Flash.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Flash.16.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Flash.24.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Flash.32.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "FlashBuilder.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/FlashBuilder.16.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/FlashBuilder.24.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/FlashBuilder.32.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashPro.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/FlashPro.16.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/FlashPro.24.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/FlashPro.32.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "Illustrator.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Illustrator.16.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Illustrator.24.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Illustrator.32.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InCopy.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/InCopy.16.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/InCopy.24.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/InCopy.32.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InDesign.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/InDesign.16.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/InDesign.24.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/InDesign.32.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "LightRoom.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/LightRoom.16.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/LightRoom.24.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/LightRoom.32.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LiveLogger.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/LiveLogger.16.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/LiveLogger.24.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/LiveLogger.32.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "MediaEncoder.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/MediaEncoder.16.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/MediaEncoder.24.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/MediaEncoder.32.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "Muse.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Muse.16.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Muse.24.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Muse.32.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/PhoneGapBuild.16.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/PhoneGapBuild.24.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/PhoneGapBuild.32.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "Photoshop.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Photoshop.16.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Photoshop.24.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Photoshop.32.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Prelude.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Prelude.16.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Prelude.24.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Prelude.32.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "PremierPro.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/PremierPro.16.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/PremierPro.24.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/PremierPro.32.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "Scout.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Scout.16.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Scout.24.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/Scout.32.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "SpeedGrade.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/SpeedGrade.16.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/SpeedGrade.24.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/SpeedGrade.32.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "StoryPlus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/StoryPlus.16.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/StoryPlus.24.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Favicon/StoryPlus.32.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "Acrobat.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Acrobat.icns",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "AfterEffects.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/AfterEffects.icns",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Audition.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Audition.icns",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Bridge.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Bridge.icns",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "CreativeCloud.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/CreativeCloud.icns",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "DreamWeaver.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/DreamWeaver.icns",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/EdgeAnimate.icns",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeCode.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/EdgeCode.icns",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeFlow.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/EdgeFlow.icns",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeInspect.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/EdgeInspect.icns",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "Fireworks.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Fireworks.icns",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Flash.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Flash.icns",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "FlashBuilder.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/FlashBuilder.icns",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashPro.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/FlashPro.icns",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "Illustrator.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Illustrator.icns",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InCopy.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/InCopy.icns",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InDesign.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/InDesign.icns",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "LightRoom.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/LightRoom.icns",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LiveLogger.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/LiveLogger.icns",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "MediaEncoder.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/MediaEncoder.icns",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "Muse.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Muse.icns",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/PhoneGapBuild.icns",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "Photoshop.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Photoshop.icns",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Prelude.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Prelude.icns",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "PremierPro.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/PremierPro.icns",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "Scout.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/Scout.icns",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "SpeedGrade.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/SpeedGrade.icns",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "StoryPlus.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Mac/StoryPlus.icns",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "Acrobat.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.1024.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.128.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.256.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.48.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.512.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.64.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.72.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "Acrobat.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Acrobat.96.png",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "AfterEffects.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.1024.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.128.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.256.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.48.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.512.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.64.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.72.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "AfterEffects.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/AfterEffects.96.png",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Audition.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.1024.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.128.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.256.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.48.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.512.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.64.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.72.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Audition.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Audition.96.png",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Bridge.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.1024.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.128.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.256.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.48.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.512.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.64.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.72.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "Bridge.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Bridge.96.png",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "CreativeCloud.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.1024.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.128.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.256.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.48.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.512.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.64.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.72.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "CreativeCloud.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/CreativeCloud.96.png",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "DreamWeaver.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.1024.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.128.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.256.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.48.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.512.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.64.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.72.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "DreamWeaver.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/DreamWeaver.96.png",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.1024.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.128.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.256.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.48.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.512.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.64.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.72.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeAnimate.96.png",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeCode.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.1024.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.128.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.256.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.48.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.512.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.64.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.72.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeCode.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeCode.96.png",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeFlow.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.1024.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.128.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.256.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.48.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.512.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.64.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.72.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeFlow.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeFlow.96.png",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeInspect.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.1024.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.128.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.256.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.48.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.512.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.64.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.72.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "EdgeInspect.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/EdgeInspect.96.png",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "Fireworks.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.1024.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.128.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.256.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.48.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.512.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.64.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.72.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Fireworks.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Fireworks.96.png",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Flash.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.1024.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.128.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.256.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.48.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.512.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.64.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.72.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "Flash.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Flash.96.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "FlashBuilder.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.1024.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.128.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.256.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.48.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.512.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.64.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.72.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashBuilder.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashBuilder.96.png",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashPro.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.1024.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.128.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.256.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.48.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.512.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.64.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.72.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "FlashPro.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/FlashPro.96.png",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "Illustrator.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.1024.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.128.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.256.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.48.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.512.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.64.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.72.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Illustrator.96.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InCopy.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.1024.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.128.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.256.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.48.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.512.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.64.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.72.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InCopy.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InCopy.96.png",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InDesign.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.1024.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.128.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.256.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.48.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.512.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.64.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.72.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InDesign.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/InDesign.96.png",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "LightRoom.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.1024.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.128.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.256.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.48.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.512.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.64.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.72.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LightRoom.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LightRoom.96.png",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LiveLogger.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.1024.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.128.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.256.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.48.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.512.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.64.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.72.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "LiveLogger.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/LiveLogger.96.png",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "MediaEncoder.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.1024.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.128.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.256.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.48.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.512.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.64.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.72.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "MediaEncoder.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/MediaEncoder.96.png",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "Muse.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.1024.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.128.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.256.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.48.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.512.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.64.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.72.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "Muse.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Muse.96.png",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.1024.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.128.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.256.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.48.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.512.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.64.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.72.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PhoneGapBuild.96.png",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "Photoshop.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.1024.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.128.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.256.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.48.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.512.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.64.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.72.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Photoshop.96.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Prelude.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.1024.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.128.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.256.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.48.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.512.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.64.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.72.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "Prelude.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Prelude.96.png",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "PremierPro.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.1024.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.128.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.256.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.48.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.512.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.64.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.72.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "PremierPro.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/PremierPro.96.png",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "Scout.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.1024.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.128.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.256.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.48.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.512.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.64.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.72.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "Scout.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/Scout.96.png",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "SpeedGrade.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.1024.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.128.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.256.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.48.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.512.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.64.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.72.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "SpeedGrade.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/SpeedGrade.96.png",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "StoryPlus.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.1024.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.128.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.256.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.48.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.512.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.64.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.72.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "StoryPlus.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/PNG/StoryPlus.96.png",
+    "tags": [
+      "storyplus"
+    ]
+  },
+  {
+    "name": "Acrobat.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Acrobat.ico",
+    "tags": [
+      "acrobat"
+    ]
+  },
+  {
+    "name": "AfterEffects.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/AfterEffects.ico",
+    "tags": [
+      "aftereffects",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Audition.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Audition.ico",
+    "tags": [
+      "audition"
+    ]
+  },
+  {
+    "name": "Bridge.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Bridge.ico",
+    "tags": [
+      "bridge"
+    ]
+  },
+  {
+    "name": "CreativeCloud.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/CreativeCloud.ico",
+    "tags": [
+      "creativecloud"
+    ]
+  },
+  {
+    "name": "DreamWeaver.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/DreamWeaver.ico",
+    "tags": [
+      "dreamweaver",
+      "adobe"
+    ]
+  },
+  {
+    "name": "EdgeAnimate.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/EdgeAnimate.ico",
+    "tags": [
+      "edgeanimate"
+    ]
+  },
+  {
+    "name": "EdgeCode.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/EdgeCode.ico",
+    "tags": [
+      "edgecode"
+    ]
+  },
+  {
+    "name": "EdgeFlow.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/EdgeFlow.ico",
+    "tags": [
+      "edgeflow"
+    ]
+  },
+  {
+    "name": "EdgeInspect.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/EdgeInspect.ico",
+    "tags": [
+      "edgeinspect"
+    ]
+  },
+  {
+    "name": "Fireworks.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Fireworks.ico",
+    "tags": [
+      "fireworks",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Flash.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Flash.ico",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "FlashBuilder.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/FlashBuilder.ico",
+    "tags": [
+      "flashbuilder"
+    ]
+  },
+  {
+    "name": "FlashPro.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/FlashPro.ico",
+    "tags": [
+      "flashpro"
+    ]
+  },
+  {
+    "name": "Illustrator.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Illustrator.ico",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "InCopy.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/InCopy.ico",
+    "tags": [
+      "incopy"
+    ]
+  },
+  {
+    "name": "InDesign.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/InDesign.ico",
+    "tags": [
+      "indesign",
+      "adobe"
+    ]
+  },
+  {
+    "name": "LightRoom.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/LightRoom.ico",
+    "tags": [
+      "lightroom"
+    ]
+  },
+  {
+    "name": "LiveLogger.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/LiveLogger.ico",
+    "tags": [
+      "livelogger"
+    ]
+  },
+  {
+    "name": "MediaEncoder.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/MediaEncoder.ico",
+    "tags": [
+      "mediaencoder"
+    ]
+  },
+  {
+    "name": "Muse.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Muse.ico",
+    "tags": [
+      "muse"
+    ]
+  },
+  {
+    "name": "PhoneGapBuild.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/PhoneGapBuild.ico",
+    "tags": [
+      "phonegapbuild"
+    ]
+  },
+  {
+    "name": "Photoshop.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Photoshop.ico",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Prelude.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Prelude.ico",
+    "tags": [
+      "prelude"
+    ]
+  },
+  {
+    "name": "PremierPro.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/PremierPro.ico",
+    "tags": [
+      "premierpro"
+    ]
+  },
+  {
+    "name": "Scout.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/Scout.ico",
+    "tags": [
+      "scout"
+    ]
+  },
+  {
+    "name": "SpeedGrade.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/SpeedGrade.ico",
+    "tags": [
+      "speedgrade"
+    ]
+  },
+  {
+    "name": "StoryPlus.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Shadow135-Adobe-Icons/Windows/StoryPlus.ico",
+    "tags": [
+      "storyplus"
+    ]
+  }
+]

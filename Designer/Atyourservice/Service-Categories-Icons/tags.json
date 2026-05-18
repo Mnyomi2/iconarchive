@@ -1,0 +1,188 @@
+{
+  "Heating": [
+    "heating"
+  ],
+  "Humidity": [
+    "humidity"
+  ],
+  "Scissor-Sew": [
+    "cut",
+    "scissor",
+    "sew"
+  ],
+  "Wood-Axe": [
+    "wood",
+    "axe"
+  ],
+  "Gardening": [
+    "gardening"
+  ],
+  "Event-Equipment": [
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "equipment"
+  ],
+  "Gifts": [
+    "gift",
+    "gifts",
+    "present",
+    "birthday",
+    "christmas",
+    "xmas"
+  ],
+  "Painting": [
+    "paint",
+    "painting"
+  ],
+  "Makeup": [
+    "makeup"
+  ],
+  "Sweets": [
+    "sweets"
+  ],
+  "Car-Painting": [
+    "auto",
+    "car",
+    "paint",
+    "painting",
+    "vehicle",
+    "transport"
+  ],
+  "Metal-Construction": [
+    "metal",
+    "construction"
+  ],
+  "Car-Sound": [
+    "auto",
+    "car",
+    "audio",
+    "music",
+    "sound",
+    "vehicle",
+    "transport"
+  ],
+  "Plumbing": [
+    "plumbing"
+  ],
+  "Photography": [
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "Pool-Cleaning": [
+    "pool",
+    "cleaning"
+  ],
+  "Folder-Filing": [
+    "folder",
+    "filing"
+  ],
+  "Water-Bottle": [
+    "water",
+    "bottle"
+  ],
+  "Oil-Delivery": [
+    "oil",
+    "delivery"
+  ],
+  "Accounting-Calculator": [
+    "accounting",
+    "calc",
+    "calculator"
+  ],
+  "Hairstyling": [
+    "hairstyling"
+  ],
+  "Interior-Seat": [
+    "interior",
+    "seat"
+  ],
+  "Car-Repair": [
+    "repair",
+    "car",
+    "auto",
+    "vehicle",
+    "transport"
+  ],
+  "Cleaning": [
+    "cleaning"
+  ],
+  "Bartender": [
+    "bartender"
+  ],
+  "Sound-Equipment": [
+    "audio",
+    "music",
+    "sound",
+    "equipment"
+  ],
+  "Amazing": [
+    "amazing"
+  ],
+  "Security-Bell": [
+    "security",
+    "bell"
+  ],
+  "Video": [
+    "film",
+    "movie",
+    "video"
+  ],
+  "General-House-Help": [
+    "general",
+    "home",
+    "house",
+    "faq",
+    "help",
+    "question",
+    "support",
+    "building"
+  ],
+  "Car-Washing": [
+    "auto",
+    "car",
+    "washing",
+    "vehicle",
+    "transport"
+  ],
+  "Cooking": [
+    "cooking"
+  ],
+  "Consulting": [
+    "consulting"
+  ],
+  "Babysitting": [
+    "babysitting"
+  ],
+  "Electrical": [
+    "electrical"
+  ],
+  "Lawn-Mowing": [
+    "lawn",
+    "mowing"
+  ],
+  "Printing": [
+    "printing"
+  ],
+  "Carpentry": [
+    "carpentry"
+  ],
+  "Pickup": [
+    "pickup"
+  ],
+  "Music-Lesson": [
+    "audio",
+    "lesson",
+    "music",
+    "sound"
+  ],
+  "Tailoring": [
+    "tailoring"
+  ],
+  "Catering": [
+    "catering"
+  ]
+}

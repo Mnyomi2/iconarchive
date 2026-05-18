@@ -1,0 +1,39 @@
+{
+  "Reading-Book": [
+    "reading",
+    "book"
+  ],
+  "Smoking": [
+    "smoking"
+  ],
+  "Blow-Kiss": [
+    "blow",
+    "kiss"
+  ],
+  "Singing-Songs": [
+    "singing",
+    "songs"
+  ],
+  "Japanese-Lady": [
+    "japanese",
+    "lady",
+    "female",
+    "girl",
+    "kimono",
+    "woman",
+    "customer",
+    "face",
+    "person",
+    "user"
+  ],
+  "Calm-Lady": [
+    "calm",
+    "lady"
+  ],
+  "Laughing": [
+    "laughing"
+  ],
+  "Drinking": [
+    "drinking"
+  ]
+}

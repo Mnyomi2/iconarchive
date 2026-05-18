@@ -1,0 +1,3950 @@
+[
+  {
+    "name": "Adventure-Map.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Adventure-Map.16.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Adventure-Map.24.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Adventure-Map.32.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Armor.16.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Armor.24.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Armor.32.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Bow-Arrow.16.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Bow-Arrow.24.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Bow-Arrow.32.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Castle.16.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Castle.24.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Castle.32.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Centaur.16.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Centaur.24.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Centaur.32.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Crystal-Shard.16.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Crystal-Shard.24.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Crystal-Shard.32.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Destructive-Magic.16.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Destructive-Magic.24.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Destructive-Magic.32.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Dragon-Egg.16.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Dragon-Egg.24.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Dragon-Egg.32.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Elf.16.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Elf.24.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Elf.32.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Fairy.16.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Fairy.24.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Fairy.32.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Food.16.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Food.24.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Food.32.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Grim-Reaper.16.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Grim-Reaper.24.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Grim-Reaper.32.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Helmet.jpg.16.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Helmet.jpg.24.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Helmet.jpg.32.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Item-Bag.16.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Item-Bag.24.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Item-Bag.32.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "King.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/King.16.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/King.24.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/King.32.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Knight.16.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Knight.24.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Knight.32.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Medusa.16.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Medusa.24.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Medusa.32.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Monster.16.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Monster.24.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Monster.32.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Orc.16.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Orc.24.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Orc.32.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Poison-Spider.16.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Poison-Spider.24.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Poison-Spider.32.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Potion.16.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Potion.24.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Potion.32.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Sorceress-Witch.16.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Sorceress-Witch.24.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Sorceress-Witch.32.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Spell-Book.16.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Spell-Book.24.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Spell-Book.32.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Spell-Scroll.16.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Spell-Scroll.24.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Spell-Scroll.32.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Sword.16.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Sword.24.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Sword.32.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Treant-Tree.16.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Treant-Tree.24.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Treant-Tree.32.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Unicorn.16.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Unicorn.24.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Unicorn.32.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Viking.16.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Viking.24.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Viking.32.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Villager.16.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Villager.24.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Villager.32.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.16.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Werewolf.16.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.24.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Werewolf.24.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.32.png",
+    "format": "Favicon",
+    "path": "Designer/Chanut/Role-Playing-Icons/Favicon/Werewolf.32.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Adventure-Map.icns",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Armor.icns",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Bow-Arrow.icns",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Castle.icns",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Centaur.icns",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Crystal-Shard.icns",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Destructive-Magic.icns",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Dragon-Egg.icns",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Elf.icns",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Fairy.icns",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Food.icns",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Grim-Reaper.icns",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Helmet.jpg.icns",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Item-Bag.icns",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "King.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/King.icns",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Knight.icns",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Medusa.icns",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Monster.icns",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Orc.icns",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Poison-Spider.icns",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Potion.icns",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Sorceress-Witch.icns",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Spell-Book.icns",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Spell-Scroll.icns",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Sword.icns",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Treant-Tree.icns",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Unicorn.icns",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Viking.icns",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Villager.icns",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.icns",
+    "format": "Mac",
+    "path": "Designer/Chanut/Role-Playing-Icons/Mac/Werewolf.icns",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.1024.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.128.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.256.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.48.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.512.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.64.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.72.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Adventure-Map.96.png",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.1024.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.128.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.256.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.48.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.512.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.64.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.72.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Armor.96.png",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.1024.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.128.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.256.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.48.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.512.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.64.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.72.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Bow-Arrow.96.png",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.1024.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.128.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.256.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.48.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.512.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.64.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.72.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Castle.96.png",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.1024.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.128.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.256.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.48.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.512.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.64.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.72.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Centaur.96.png",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.1024.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.128.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.256.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.48.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.512.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.64.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.72.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Crystal-Shard.96.png",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.1024.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.128.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.256.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.48.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.512.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.64.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.72.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Destructive-Magic.96.png",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.1024.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.128.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.256.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.48.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.512.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.64.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.72.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Dragon-Egg.96.png",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.1024.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.128.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.256.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.48.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.512.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.64.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.72.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Elf.96.png",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.1024.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.128.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.256.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.48.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.512.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.64.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.72.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Fairy.96.png",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.1024.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.128.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.256.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.48.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.512.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.64.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.72.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Food.96.png",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.1024.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.128.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.256.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.48.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.512.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.64.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.72.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Grim-Reaper.96.png",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.1024.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.128.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.256.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.48.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.512.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.64.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.72.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Helmet.jpg.96.png",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.1024.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.128.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.256.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.48.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.512.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.64.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.72.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Item-Bag.96.png",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "King.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.1024.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.128.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.256.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.48.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.512.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.64.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.72.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "King.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/King.96.png",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.1024.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.128.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.256.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.48.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.512.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.64.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.72.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Knight.96.png",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.1024.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.128.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.256.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.48.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.512.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.64.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.72.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Medusa.96.png",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.1024.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.128.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.256.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.48.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.512.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.64.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.72.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Monster.96.png",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.1024.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.128.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.256.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.48.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.512.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.64.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.72.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Orc.96.png",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.1024.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.128.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.256.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.48.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.512.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.64.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.72.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Poison-Spider.96.png",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.1024.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.128.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.256.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.48.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.512.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.64.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.72.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Potion.96.png",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.1024.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.128.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.256.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.48.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.512.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.64.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.72.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sorceress-Witch.96.png",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.1024.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.128.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.256.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.48.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.512.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.64.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.72.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Book.96.png",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.1024.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.128.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.256.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.48.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.512.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.64.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.72.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Spell-Scroll.96.png",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.1024.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.128.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.256.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.48.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.512.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.64.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.72.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Sword.96.png",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.1024.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.128.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.256.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.48.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.512.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.64.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.72.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Treant-Tree.96.png",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.1024.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.128.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.256.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.48.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.512.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.64.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.72.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Unicorn.96.png",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.1024.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.128.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.256.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.48.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.512.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.64.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.72.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Viking.96.png",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.1024.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.128.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.256.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.48.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.512.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.64.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.72.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Villager.96.png",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.1024.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.1024.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.128.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.128.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.256.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.256.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.48.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.48.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.512.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.512.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.64.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.64.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.72.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.72.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.96.png",
+    "format": "PNG",
+    "path": "Designer/Chanut/Role-Playing-Icons/PNG/Werewolf.96.png",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Adventure-Map.svg",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Armor.svg",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Bow-Arrow.svg",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Castle.svg",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Centaur.svg",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Crystal-Shard.svg",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Destructive-Magic.svg",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Dragon-Egg.svg",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Elf.svg",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Fairy.svg",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Food.svg",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Grim-Reaper.svg",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Helmet.jpg.svg",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Item-Bag.svg",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "King.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/King.svg",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Knight.svg",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Medusa.svg",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Monster.svg",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Orc.svg",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Poison-Spider.svg",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Potion.svg",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Sorceress-Witch.svg",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Spell-Book.svg",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Spell-Scroll.svg",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Sword.svg",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Treant-Tree.svg",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Unicorn.svg",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Viking.svg",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Villager.svg",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.svg",
+    "format": "Vector",
+    "path": "Designer/Chanut/Role-Playing-Icons/Vector/Werewolf.svg",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  },
+  {
+    "name": "Adventure-Map.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Adventure-Map.ico",
+    "tags": [
+      "adventure",
+      "map",
+      "role"
+    ]
+  },
+  {
+    "name": "Armor.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Armor.ico",
+    "tags": [
+      "armor",
+      "role"
+    ]
+  },
+  {
+    "name": "Bow-Arrow.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Bow-Arrow.ico",
+    "tags": [
+      "bow",
+      "arrow",
+      "role"
+    ]
+  },
+  {
+    "name": "Castle.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Castle.ico",
+    "tags": [
+      "castle",
+      "role"
+    ]
+  },
+  {
+    "name": "Centaur.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Centaur.ico",
+    "tags": [
+      "centaur",
+      "role"
+    ]
+  },
+  {
+    "name": "Crystal-Shard.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Crystal-Shard.ico",
+    "tags": [
+      "crystal",
+      "shard",
+      "role"
+    ]
+  },
+  {
+    "name": "Destructive-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Destructive-Magic.ico",
+    "tags": [
+      "destructive",
+      "magic",
+      "role"
+    ]
+  },
+  {
+    "name": "Dragon-Egg.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Dragon-Egg.ico",
+    "tags": [
+      "dragon",
+      "egg",
+      "role"
+    ]
+  },
+  {
+    "name": "Elf.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Elf.ico",
+    "tags": [
+      "elf",
+      "role"
+    ]
+  },
+  {
+    "name": "Fairy.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Fairy.ico",
+    "tags": [
+      "fairy",
+      "role"
+    ]
+  },
+  {
+    "name": "Food.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Food.ico",
+    "tags": [
+      "food",
+      "role"
+    ]
+  },
+  {
+    "name": "Grim-Reaper.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Grim-Reaper.ico",
+    "tags": [
+      "grim",
+      "reaper",
+      "role"
+    ]
+  },
+  {
+    "name": "Helmet.jpg.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Helmet.jpg.ico",
+    "tags": [
+      "helmet.jpg",
+      "role"
+    ]
+  },
+  {
+    "name": "Item-Bag.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Item-Bag.ico",
+    "tags": [
+      "item",
+      "bag",
+      "role"
+    ]
+  },
+  {
+    "name": "King.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/King.ico",
+    "tags": [
+      "king",
+      "role"
+    ]
+  },
+  {
+    "name": "Knight.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Knight.ico",
+    "tags": [
+      "knight",
+      "role"
+    ]
+  },
+  {
+    "name": "Medusa.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Medusa.ico",
+    "tags": [
+      "medusa",
+      "role"
+    ]
+  },
+  {
+    "name": "Monster.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Monster.ico",
+    "tags": [
+      "monster",
+      "role"
+    ]
+  },
+  {
+    "name": "Orc.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Orc.ico",
+    "tags": [
+      "orc",
+      "role"
+    ]
+  },
+  {
+    "name": "Poison-Spider.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Poison-Spider.ico",
+    "tags": [
+      "poison",
+      "spider",
+      "role"
+    ]
+  },
+  {
+    "name": "Potion.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Potion.ico",
+    "tags": [
+      "potion",
+      "role"
+    ]
+  },
+  {
+    "name": "Sorceress-Witch.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Sorceress-Witch.ico",
+    "tags": [
+      "witch",
+      "sorceress",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Book.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Spell-Book.ico",
+    "tags": [
+      "spell",
+      "book",
+      "role"
+    ]
+  },
+  {
+    "name": "Spell-Scroll.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Spell-Scroll.ico",
+    "tags": [
+      "spell",
+      "scroll",
+      "role"
+    ]
+  },
+  {
+    "name": "Sword.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Sword.ico",
+    "tags": [
+      "sword",
+      "role"
+    ]
+  },
+  {
+    "name": "Treant-Tree.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Treant-Tree.ico",
+    "tags": [
+      "treant",
+      "tree",
+      "role"
+    ]
+  },
+  {
+    "name": "Unicorn.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Unicorn.ico",
+    "tags": [
+      "unicorn",
+      "role"
+    ]
+  },
+  {
+    "name": "Viking.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Viking.ico",
+    "tags": [
+      "viking",
+      "role"
+    ]
+  },
+  {
+    "name": "Villager.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Villager.ico",
+    "tags": [
+      "villager",
+      "role"
+    ]
+  },
+  {
+    "name": "Werewolf.ico",
+    "format": "Windows",
+    "path": "Designer/Chanut/Role-Playing-Icons/Windows/Werewolf.ico",
+    "tags": [
+      "werewolf",
+      "role"
+    ]
+  }
+]

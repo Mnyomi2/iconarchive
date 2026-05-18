@@ -1,0 +1,953 @@
+{
+  "Drives-Colours-Orange": [
+    "drive",
+    "color",
+    "colour",
+    "drives",
+    "colours",
+    "orange"
+  ],
+  "Mimetypes-wmv": [
+    "mimetypes",
+    "wmv"
+  ],
+  "Misc-Basketball": [
+    "basketball",
+    "ball",
+    "sport"
+  ],
+  "Drives-Pictures": [
+    "drive",
+    "drives",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "Misc-Desktop-Mac": [
+    "desktop",
+    "desk",
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "CD-Games-Alt": [
+    "game",
+    "cd",
+    "games",
+    "alt",
+    "disc",
+    "disk"
+  ],
+  "Misc-Axialis-IconWorkshop": [
+    "axialis",
+    "iconworkshop"
+  ],
+  "Folders-iPod": [
+    "folder",
+    "folders",
+    "ipod",
+    "mp3",
+    "player"
+  ],
+  "Toolbar-Add-Folder": [
+    "toolbar",
+    "add",
+    "folder",
+    "plus"
+  ],
+  "Mimetypes-wav": [
+    "mimetypes",
+    "wav"
+  ],
+  "Misc-iPhoto": [
+    "iphoto"
+  ],
+  "Toolbar-MP3-Eject": [
+    "toolbar",
+    "mp3",
+    "eject"
+  ],
+  "Drives-Firewire-Drive": [
+    "drives",
+    "firewire",
+    "drive"
+  ],
+  "Folders-Sites-Alt": [
+    "folder",
+    "folders",
+    "sites",
+    "alt"
+  ],
+  "Folders-Downloads": [
+    "folders",
+    "folder",
+    "decrease",
+    "down",
+    "download",
+    "downloads",
+    "arrow"
+  ],
+  "Misc-Desktop-Windows": [
+    "desk",
+    "desktop",
+    "windows",
+    "os"
+  ],
+  "Mimetypes-Torrent-File": [
+    "mimetypes",
+    "torrent",
+    "doc",
+    "document",
+    "file",
+    "social",
+    "logo",
+    "paper"
+  ],
+  "Misc-Terminal": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Folders-Videos": [
+    "folder",
+    "film",
+    "folders",
+    "movie",
+    "video",
+    "videos"
+  ],
+  "Mimetypes-Document": [
+    "mimetypes",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Folders-Muisc": [
+    "folder",
+    "folders",
+    "muisc"
+  ],
+  "Hardware-iPod": [
+    "hardware",
+    "ipod",
+    "mp3",
+    "player"
+  ],
+  "Misc-Recycle-Bin-Full": [
+    "recycle",
+    "bin",
+    "garbage",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "full"
+  ],
+  "Mimetypes-mov": [
+    "mimetypes",
+    "mov"
+  ],
+  "Toolbar-MP3-Stop": [
+    "toolbar",
+    "mp3",
+    "stop"
+  ],
+  "CD-Sites": [
+    "cd",
+    "sites",
+    "disc",
+    "disk"
+  ],
+  "Folders-Applications": [
+    "folder",
+    "folders",
+    "app",
+    "application",
+    "software",
+    "applications"
+  ],
+  "Drives-Colours-Purple": [
+    "color",
+    "drive",
+    "colour",
+    "drives",
+    "colours",
+    "purple"
+  ],
+  "Drives-Colours-Sky-Blue": [
+    "drive",
+    "color",
+    "colour",
+    "drives",
+    "colours",
+    "sky",
+    "blue"
+  ],
+  "Folders-Fonts": [
+    "folder",
+    "folders",
+    "fonts"
+  ],
+  "Drives-Colours-Dark-Drive": [
+    "color",
+    "colour",
+    "drives",
+    "colours",
+    "dark",
+    "drive"
+  ],
+  "Mimetypes-img": [
+    "mimetypes",
+    "img"
+  ],
+  "Drives-Games": [
+    "drive",
+    "game",
+    "drives",
+    "games"
+  ],
+  "Drives-Games-Alt": [
+    "drive",
+    "drives",
+    "game",
+    "games",
+    "alt"
+  ],
+  "Drives-Colours-Violet": [
+    "drive",
+    "color",
+    "colour",
+    "drives",
+    "colours",
+    "violet"
+  ],
+  "Drives-Videos": [
+    "drive",
+    "drives",
+    "film",
+    "movie",
+    "video",
+    "videos"
+  ],
+  "Toolbar-MP3-Previous": [
+    "toolbar",
+    "mp3",
+    "backward",
+    "left",
+    "previous",
+    "arrow"
+  ],
+  "Misc-Music": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Folders-Pictures": [
+    "folder",
+    "folders",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "Misc-Downloads": [
+    "down",
+    "decrease",
+    "download",
+    "downloads",
+    "arrow"
+  ],
+  "Drives-Network-Offline": [
+    "drive",
+    "drives",
+    "network",
+    "disconnected",
+    "offline"
+  ],
+  "Drives-Colours-Light-Green": [
+    "drive",
+    "drives",
+    "color",
+    "colour",
+    "colours",
+    "lamp",
+    "bulb",
+    "light",
+    "green"
+  ],
+  "Misc-Mail": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "Mimetypes-htm": [
+    "mimetypes",
+    "htm",
+    "html",
+    "mime"
+  ],
+  "Misc-Writing-Tool": [
+    "writing",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Mimetypes-ccd": [
+    "mimetypes",
+    "ccd"
+  ],
+  "Folders-Photoshop": [
+    "folder",
+    "folders",
+    "photoshop",
+    "adobe"
+  ],
+  "Folders-Pictures-Alt": [
+    "folder",
+    "folders",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures",
+    "alt"
+  ],
+  "Misc-Sites": [
+    "sites",
+    "at",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "Misc-Globe": [
+    "earth",
+    "globe",
+    "world",
+    "hosting",
+    "internet",
+    "nature",
+    "network"
+  ],
+  "Mimetypes-aiff": [
+    "mimetypes",
+    "aiff"
+  ],
+  "Drives-Windows": [
+    "drive",
+    "windows",
+    "drives",
+    "os"
+  ],
+  "Misc-Photoshop": [
+    "photoshop",
+    "adobe"
+  ],
+  "Drives-CD-Drive": [
+    "drives",
+    "cd",
+    "drive",
+    "disc",
+    "disk"
+  ],
+  "Folders-Games": [
+    "games",
+    "folder",
+    "game",
+    "folders"
+  ],
+  "Mimetypes-com": [
+    "mimetypes",
+    "com"
+  ],
+  "CD-CD": [
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "Drives-Floppy-Drive": [
+    "drives",
+    "floppy",
+    "save",
+    "drive"
+  ],
+  "Mimetypes-Text-Document": [
+    "mimetypes",
+    "text",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Drives-Temporary": [
+    "drive",
+    "drives",
+    "temporary"
+  ],
+  "Toolbar-Browser-Home": [
+    "toolbar",
+    "browser",
+    "home",
+    "house",
+    "building"
+  ],
+  "Drives-Applications": [
+    "drive",
+    "drives",
+    "app",
+    "application",
+    "software",
+    "applications"
+  ],
+  "Folders-Favourites": [
+    "folders",
+    "folder",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "favourites"
+  ],
+  "Misc-Painting-Tool": [
+    "paint",
+    "painting",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Folders-Games-Alt": [
+    "folder",
+    "folders",
+    "game",
+    "games",
+    "alt"
+  ],
+  "Toolbar-Browser-Search": [
+    "browser",
+    "find",
+    "toolbar",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "Folders-Apple": [
+    "folder",
+    "folders",
+    "apple"
+  ],
+  "Toolbar-Browser-Back": [
+    "toolbar",
+    "browser",
+    "back"
+  ],
+  "Hardware-iPod-Alt": [
+    "hardware",
+    "ipod",
+    "alt",
+    "mp3",
+    "player"
+  ],
+  "Drives-Drive-Internal": [
+    "drives",
+    "drive",
+    "internal"
+  ],
+  "Folders-Temporary": [
+    "folder",
+    "folders",
+    "temporary"
+  ],
+  "Toolbar-MP3-Rewind": [
+    "mp3",
+    "toolbar",
+    "rewind"
+  ],
+  "Drives-Favourites": [
+    "drive",
+    "drives",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "favourites"
+  ],
+  "Mimetypes-cmd": [
+    "mimetypes",
+    "cmd",
+    "command line",
+    "console",
+    "shell"
+  ],
+  "Mimetypes-iso": [
+    "mimetypes",
+    "iso"
+  ],
+  "Misc-Sharing-Overlay": [
+    "sharing",
+    "overlay"
+  ],
+  "Mimetypes-BitComet-Torrent-File": [
+    "mimetypes",
+    "bitcomet",
+    "torrent",
+    "doc",
+    "document",
+    "file",
+    "social",
+    "logo",
+    "paper"
+  ],
+  "Hardware-Mac-G5": [
+    "hardware",
+    "mac",
+    "computer"
+  ],
+  "Mimetypes-Fonts": [
+    "mimetypes",
+    "fonts"
+  ],
+  "Mimetypes-avi": [
+    "mimetypes",
+    "avi"
+  ],
+  "Mimetypes-css": [
+    "mimetypes",
+    "css"
+  ],
+  "Drives-Downloads": [
+    "drive",
+    "decrease",
+    "down",
+    "download",
+    "drives",
+    "downloads",
+    "arrow"
+  ],
+  "Misc-Ethereal-Icons": [
+    "ethereal",
+    "icons"
+  ],
+  "Misc-BitComet": [
+    "bitcomet"
+  ],
+  "Drives-USB-Drive": [
+    "drives",
+    "drive",
+    "usb"
+  ],
+  "Mimetypes-ogg": [
+    "mimetypes",
+    "ogg"
+  ],
+  "Toolbar-Browser-Forward": [
+    "toolbar",
+    "browser",
+    "next",
+    "right",
+    "forward",
+    "arrow",
+    "go"
+  ],
+  "Folders-Sites": [
+    "folder",
+    "folders",
+    "sites",
+    "ftp",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "CD-Games": [
+    "game",
+    "games",
+    "cd",
+    "disc",
+    "disk",
+    "controller"
+  ],
+  "Mimetypes-php": [
+    "mimetypes",
+    "php"
+  ],
+  "Drives-Drive-External": [
+    "drives",
+    "drive",
+    "external"
+  ],
+  "Drives-Colours-Blue": [
+    "color",
+    "colour",
+    "drive",
+    "colours",
+    "drives",
+    "blue"
+  ],
+  "Toolbar-MP3-Pause": [
+    "toolbar",
+    "mp3",
+    "pause"
+  ],
+  "Toolbar-MP3-Next": [
+    "toolbar",
+    "mp3",
+    "forward",
+    "next",
+    "right",
+    "arrow",
+    "go"
+  ],
+  "Toolbar-Closed-Folder": [
+    "toolbar",
+    "closed",
+    "folder"
+  ],
+  "CD-Pictures": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "cd",
+    "pictures",
+    "disc",
+    "disk"
+  ],
+  "Folders-Music-Alt": [
+    "folder",
+    "folders",
+    "audio",
+    "music",
+    "sound",
+    "alt"
+  ],
+  "Misc-Windows-Media-Player": [
+    "media",
+    "windows",
+    "player",
+    "os"
+  ],
+  "Folders-Folder": [
+    "folders",
+    "folder"
+  ],
+  "Folders-Documents": [
+    "folder",
+    "doc",
+    "document",
+    "file",
+    "folders",
+    "documents",
+    "paper"
+  ],
+  "Mimetypes-mp-3": [
+    "mimetypes"
+  ],
+  "Mimetypes-inf": [
+    "mimetypes",
+    "inf"
+  ],
+  "Toolbar-Browser-Refresh": [
+    "browser",
+    "toolbar",
+    "refresh",
+    "reload"
+  ],
+  "Misc-System": [
+    "system"
+  ],
+  "Hardware-Camera": [
+    "camera",
+    "hardware",
+    "cam",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "Misc-Games": [
+    "games",
+    "game",
+    "controller",
+    "play"
+  ],
+  "Misc-Windows": [
+    "windows",
+    "microsoft",
+    "os"
+  ],
+  "Toolbar-MP3-Forward": [
+    "toolbar",
+    "forward",
+    "mp3",
+    "next",
+    "right",
+    "arrow",
+    "go"
+  ],
+  "Misc-Shortcut-Overlay": [
+    "shortcut",
+    "overlay"
+  ],
+  "Mimetypes-Picture-File": [
+    "mimetypes",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Mimetypes-Photoshop-Files": [
+    "mimetypes",
+    "doc",
+    "document",
+    "file",
+    "photoshop",
+    "files",
+    "adobe",
+    "paper"
+  ],
+  "Drives-Colours-Dark-Green": [
+    "drive",
+    "color",
+    "colour",
+    "drives",
+    "colours",
+    "dark",
+    "green"
+  ],
+  "Drives-Network-Online": [
+    "drive",
+    "drives",
+    "network",
+    "connected",
+    "online"
+  ],
+  "Drives-Colours-Navy-Blue": [
+    "drive",
+    "color",
+    "colour",
+    "colours",
+    "drives",
+    "navy",
+    "blue"
+  ],
+  "Mimetypes-Picture-File-Alt": [
+    "mimetypes",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "doc",
+    "document",
+    "file",
+    "alt",
+    "paper"
+  ],
+  "Misc-iTunes": [
+    "itunes"
+  ],
+  "Misc-Alcohol-120": [
+    "alcohol",
+    "a"
+  ],
+  "Drives-Sites": [
+    "drive",
+    "drives",
+    "sites"
+  ],
+  "Misc-Clock": [
+    "clock",
+    "timer"
+  ],
+  "Drives-Removable-Drive": [
+    "drives",
+    "removable",
+    "drive"
+  ],
+  "Misc-Recycle-Bin-Empty": [
+    "recycle",
+    "bin",
+    "garbage",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "empty",
+    "erase"
+  ],
+  "Hardware-iMac-G5": [
+    "hardware",
+    "imac"
+  ],
+  "Mimetypes-dll": [
+    "mimetypes",
+    "dll"
+  ],
+  "Mimetypes-sys": [
+    "mimetypes",
+    "sys"
+  ],
+  "Misc-Apple": [
+    "apple",
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "Mimetypes-bin": [
+    "bin",
+    "mimetypes",
+    "recycle",
+    "garbage",
+    "recyclebin",
+    "recycled",
+    "trash"
+  ],
+  "Mimetypes-bat": [
+    "mimetypes",
+    "bat"
+  ],
+  "Toolbar-MP3-Play": [
+    "toolbar",
+    "mp3",
+    "play"
+  ],
+  "Mimetypes-mdf": [
+    "mimetypes",
+    "mdf"
+  ],
+  "Folders-Windows": [
+    "folder",
+    "windows",
+    "folders",
+    "os"
+  ],
+  "Toolbar-Browser-Favourites": [
+    "toolbar",
+    "bookmark",
+    "browser",
+    "fav",
+    "favorite",
+    "favourite",
+    "favourites"
+  ],
+  "Mimetypes-midi": [
+    "mimetypes",
+    "midi"
+  ],
+  "Mimetypes-Blank-Document": [
+    "mimetypes",
+    "blank",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Mimetypes-ini": [
+    "mimetypes",
+    "ini"
+  ],
+  "Hardware-Floppy": [
+    "hardware",
+    "floppy",
+    "save"
+  ],
+  "Toolbar-Browser-Delete": [
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate",
+    "toolbar",
+    "browser"
+  ],
+  "Toolbar-Info": [
+    "toolbar",
+    "info",
+    "information"
+  ],
+  "Mimetypes-mpc": [
+    "mimetypes",
+    "mpc"
+  ],
+  "Mimetypes-asp": [
+    "mimetypes",
+    "asp"
+  ],
+  "Mimetypes-mp-4": [
+    "mimetypes"
+  ],
+  "Misc-Network": [
+    "network"
+  ],
+  "Mimetypes-mds": [
+    "mimetypes",
+    "mds"
+  ],
+  "CD-Burn": [
+    "burn",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "CD-Music": [
+    "audio",
+    "cd",
+    "music",
+    "sound",
+    "disc",
+    "disk"
+  ],
+  "Drives-Apple": [
+    "drive",
+    "drives",
+    "apple"
+  ],
+  "Mimetypes-Compressed-Files": [
+    "mimetypes",
+    "doc",
+    "document",
+    "file",
+    "compressed",
+    "files",
+    "paper"
+  ],
+  "Drives-Colours-Milk-Drive": [
+    "color",
+    "colour",
+    "colours",
+    "drives",
+    "milk",
+    "drive"
+  ],
+  "Mimetypes-mpg": [
+    "mimetypes",
+    "mpg"
+  ],
+  "Mimetypes-wma": [
+    "mimetypes",
+    "wma"
+  ],
+  "Drives-Music": [
+    "drive",
+    "drives",
+    "audio",
+    "music",
+    "sound"
+  ]
+}

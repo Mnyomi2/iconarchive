@@ -1,0 +1,490 @@
+{
+  "Aluminium-App": [
+    "aluminium",
+    "app",
+    "application",
+    "software"
+  ],
+  "Aluminium-generic": [
+    "aluminium",
+    "generic"
+  ],
+  "Aluminium-movies": [
+    "aluminium",
+    "film",
+    "movie",
+    "video",
+    "movies"
+  ],
+  "Graphite-sharepoint": [
+    "graphite",
+    "sharepoint"
+  ],
+  "Purple-smart": [
+    "purple",
+    "smart"
+  ],
+  "Purple-download": [
+    "purple",
+    "down",
+    "decrease",
+    "download",
+    "arrow"
+  ],
+  "Graphite-user": [
+    "graphite",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Graphite-Application": [
+    "graphite",
+    "software",
+    "app",
+    "application"
+  ],
+  "Graphite-utilities": [
+    "graphite",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Aluminium-smart": [
+    "aluminium",
+    "smart"
+  ],
+  "Aluminium-pictures": [
+    "aluminium",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "Aluminium-developer": [
+    "aluminium",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "Purple-developer": [
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "purple",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "Graphite-site": [
+    "graphite",
+    "site"
+  ],
+  "Purple-sharepoint": [
+    "purple",
+    "sharepoint"
+  ],
+  "Summer-movies": [
+    "film",
+    "movie",
+    "summer",
+    "video",
+    "movies"
+  ],
+  "Graphite-system": [
+    "graphite",
+    "system"
+  ],
+  "Graphite-public": [
+    "graphite",
+    "public"
+  ],
+  "Aluminium-sharepoint": [
+    "aluminium",
+    "sharepoint"
+  ],
+  "Summer-user": [
+    "summer",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Purple-system": [
+    "purple",
+    "system"
+  ],
+  "Aluminium-utilities": [
+    "aluminium",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Graphite-desktop": [
+    "graphite",
+    "desk",
+    "desktop"
+  ],
+  "Purple-user": [
+    "purple",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Graphite-burn": [
+    "graphite",
+    "burn"
+  ],
+  "Graphite-smart": [
+    "graphite",
+    "smart"
+  ],
+  "Aluminium-system": [
+    "aluminium",
+    "system"
+  ],
+  "Graphite-font": [
+    "graphite",
+    "font"
+  ],
+  "Purple-pictures": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "purple",
+    "pictures"
+  ],
+  "Summer-developer": [
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "summer",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "Graphite-developer": [
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "graphite",
+    "setting",
+    "developer",
+    "development",
+    "settings"
+  ],
+  "Graphite-download": [
+    "graphite",
+    "down",
+    "decrease",
+    "download",
+    "arrow"
+  ],
+  "Purple-utilities": [
+    "purple",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Purple-music": [
+    "purple",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Graphite-movies": [
+    "film",
+    "graphite",
+    "movie",
+    "video",
+    "movies"
+  ],
+  "Summer-library": [
+    "summer",
+    "library"
+  ],
+  "Purple-group": [
+    "purple",
+    "forum",
+    "group",
+    "meeting",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Graphite-pictures": [
+    "graphite",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "Purple-desktop": [
+    "purple",
+    "desk",
+    "desktop"
+  ],
+  "Purple-font": [
+    "purple",
+    "font"
+  ],
+  "Summer-group": [
+    "summer",
+    "forum",
+    "group",
+    "meeting",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Aluminium-site": [
+    "aluminium",
+    "site"
+  ],
+  "Purple-site": [
+    "purple",
+    "site"
+  ],
+  "Summer-font": [
+    "summer",
+    "font"
+  ],
+  "Aluminium-font": [
+    "aluminium",
+    "font"
+  ],
+  "Summer-doc": [
+    "summer",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Summer-sharepoint": [
+    "sharepoint",
+    "summer"
+  ],
+  "Purple-library": [
+    "purple",
+    "library"
+  ],
+  "Aluminium-idisk": [
+    "aluminium",
+    "idisk"
+  ],
+  "Purple-burn": [
+    "purple",
+    "burn"
+  ],
+  "Purple-public": [
+    "purple",
+    "public"
+  ],
+  "Summer-generic": [
+    "summer",
+    "generic"
+  ],
+  "Purple-generic": [
+    "purple",
+    "generic"
+  ],
+  "Aluminium-music": [
+    "aluminium",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Graphite-doc": [
+    "graphite",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Aluminium-desktop": [
+    "aluminium",
+    "desk",
+    "desktop"
+  ],
+  "Summer-pictures": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "summer",
+    "pictures"
+  ],
+  "Purple-movies": [
+    "film",
+    "movie",
+    "purple",
+    "video",
+    "movies"
+  ],
+  "Aluminium-user": [
+    "aluminium",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Summer-burn": [
+    "summer",
+    "burn"
+  ],
+  "Summer-music": [
+    "summer",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Summer-idisk": [
+    "summer",
+    "idisk"
+  ],
+  "Summer-system": [
+    "summer",
+    "system"
+  ],
+  "Purple-idisk": [
+    "purple",
+    "idisk"
+  ],
+  "Summer-utilities": [
+    "summer",
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "Summer-download": [
+    "summer",
+    "down",
+    "decrease",
+    "download",
+    "arrow"
+  ],
+  "Summer-site": [
+    "summer",
+    "site"
+  ],
+  "Aluminium-download": [
+    "aluminium",
+    "decrease",
+    "down",
+    "download",
+    "arrow"
+  ],
+  "Graphite-music": [
+    "graphite",
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Graphite-library": [
+    "graphite",
+    "library"
+  ],
+  "Aluminium-burn": [
+    "aluminium",
+    "burn"
+  ],
+  "Purple-doc": [
+    "purple",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Summer-desktop": [
+    "summer",
+    "desktop",
+    "desk"
+  ],
+  "Graphite-group": [
+    "forum",
+    "graphite",
+    "group",
+    "meeting",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Summer-public": [
+    "summer",
+    "public"
+  ],
+  "Aluminium-public": [
+    "aluminium",
+    "public"
+  ],
+  "Aluminium-doc": [
+    "aluminium",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Aluminium-group": [
+    "aluminium",
+    "forum",
+    "group",
+    "meeting",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Aluminium-library": [
+    "aluminium",
+    "library"
+  ],
+  "Summer-App": [
+    "summer",
+    "app",
+    "application",
+    "software"
+  ],
+  "Purple-App": [
+    "purple",
+    "app",
+    "application",
+    "software"
+  ],
+  "Graphite-generic": [
+    "graphite",
+    "generic"
+  ],
+  "Graphite-idisk": [
+    "graphite",
+    "idisk"
+  ],
+  "Summer-smart": [
+    "summer",
+    "smart"
+  ]
+}

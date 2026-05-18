@@ -1,0 +1,974 @@
+[
+  {
+    "name": "bell.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/bell.16.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/bell.24.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/bell.32.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "christmas-tree.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/christmas-tree.16.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/christmas-tree.24.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/christmas-tree.32.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "diamond.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/diamond.16.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/diamond.24.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/diamond.32.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "gift.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/gift.16.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/gift.24.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/gift.32.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "heart.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/heart.16.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/heart.24.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/heart.32.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "paper-airplane.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/paper-airplane.16.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/paper-airplane.24.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/paper-airplane.32.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "snowman.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/snowman.16.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/snowman.24.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/snowman.32.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "socks.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/socks.16.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/socks.24.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benzlee/Christmas-Icons/Favicon/socks.32.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "bell.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/bell.icns",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "christmas-tree.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/christmas-tree.icns",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "diamond.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/diamond.icns",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "gift.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/gift.icns",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "heart.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/heart.icns",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "paper-airplane.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/paper-airplane.icns",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "snowman.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/snowman.icns",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "socks.icns",
+    "format": "Mac",
+    "path": "Designer/Benzlee/Christmas-Icons/Mac/socks.icns",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "bell.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.128.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.256.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.48.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.512.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.64.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.72.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "bell.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/bell.96.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "christmas-tree.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.128.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.256.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.48.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.512.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.64.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.72.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "christmas-tree.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/christmas-tree.96.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "diamond.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.128.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.256.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.48.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.512.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.64.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.72.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "diamond.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/diamond.96.png",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "gift.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.128.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.256.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.48.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.512.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.64.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.72.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/gift.96.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "heart.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.128.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.256.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.48.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.512.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.64.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.72.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/heart.96.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "paper-airplane.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.128.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.256.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.48.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.512.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.64.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.72.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "paper-airplane.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/paper-airplane.96.png",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "snowman.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.128.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.256.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.48.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.512.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.64.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.72.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "snowman.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/snowman.96.png",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "socks.128.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.128.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.256.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.256.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.48.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.48.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.512.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.512.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.64.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.64.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.72.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.72.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "socks.96.png",
+    "format": "PNG",
+    "path": "Designer/Benzlee/Christmas-Icons/PNG/socks.96.png",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  },
+  {
+    "name": "bell.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/bell.ico",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "christmas-tree.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/christmas-tree.ico",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "diamond.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/diamond.ico",
+    "tags": [
+      "diamond"
+    ]
+  },
+  {
+    "name": "gift.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/gift.ico",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "heart.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/heart.ico",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "paper-airplane.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/paper-airplane.ico",
+    "tags": [
+      "aircraft",
+      "airplane",
+      "paper",
+      "plane",
+      "transport"
+    ]
+  },
+  {
+    "name": "snowman.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/snowman.ico",
+    "tags": [
+      "snowman"
+    ]
+  },
+  {
+    "name": "socks.ico",
+    "format": "Windows",
+    "path": "Designer/Benzlee/Christmas-Icons/Windows/socks.ico",
+    "tags": [
+      "sock",
+      "socks"
+    ]
+  }
+]

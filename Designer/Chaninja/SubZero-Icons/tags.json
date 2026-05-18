@@ -1,0 +1,495 @@
+{
+  "Program-Group": [
+    "program",
+    "forum",
+    "group",
+    "meeting",
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Recent-Documents": [
+    "file",
+    "doc",
+    "document",
+    "recent",
+    "documents",
+    "paper"
+  ],
+  "RichText-Format": [
+    "richtext",
+    "format"
+  ],
+  "File-Picture": [
+    "doc",
+    "document",
+    "file",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "paper"
+  ],
+  "Help": [
+    "faq",
+    "help",
+    "question",
+    "support"
+  ],
+  "My-Music": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "Folder-Icons": [
+    "folder",
+    "icons"
+  ],
+  "My-NetworkPlaces": [
+    "networkplaces"
+  ],
+  "RecycleBin-Empty": [
+    "recyclebin",
+    "recycle",
+    "bin",
+    "empty",
+    "erase",
+    "garbage",
+    "recycled",
+    "trash"
+  ],
+  "DVD": [
+    "dvd",
+    "disc",
+    "disk"
+  ],
+  "My-Pictures": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "pictures"
+  ],
+  "Printer-Default-Network": [
+    "print",
+    "printer",
+    "default",
+    "network",
+    "hardware"
+  ],
+  "CD-R": [
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "Folder-Favorites": [
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "folder",
+    "favorites"
+  ],
+  "Folder-Internet": [
+    "folder",
+    "internet",
+    "network"
+  ],
+  "Joystick": [
+    "joystick"
+  ],
+  "Favorites": [
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "favorites"
+  ],
+  "Default-Document": [
+    "default",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "File-Movie": [
+    "doc",
+    "document",
+    "file",
+    "film",
+    "movie",
+    "video",
+    "paper"
+  ],
+  "Control-Panel": [
+    "control",
+    "panel"
+  ],
+  "Removeable-Drive": [
+    "drive",
+    "removeable"
+  ],
+  "File-Temp": [
+    "doc",
+    "document",
+    "file",
+    "temp",
+    "paper"
+  ],
+  "Internet-Explorer": [
+    "internet",
+    "network",
+    "explorer",
+    "microsoft"
+  ],
+  "Folder-Program-Files": [
+    "folder",
+    "doc",
+    "document",
+    "file",
+    "program",
+    "files",
+    "paper"
+  ],
+  "Search": [
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "Application": [
+    "app",
+    "application",
+    "software"
+  ],
+  "My-Documents": [
+    "doc",
+    "document",
+    "file",
+    "documents",
+    "paper"
+  ],
+  "EMail": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "CD-Drive": [
+    "cd",
+    "drive",
+    "disc",
+    "disk"
+  ],
+  "Documents-Settings": [
+    "doc",
+    "document",
+    "file",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "documents",
+    "setting",
+    "developer",
+    "development",
+    "settings",
+    "paper"
+  ],
+  "HardDrive": [
+    "harddisk",
+    "harddrive",
+    "hd",
+    "hdd",
+    "disc",
+    "disk",
+    "hardware"
+  ],
+  "Folder-Network": [
+    "folder",
+    "network"
+  ],
+  "Shortcut-Overlay": [
+    "shortcut",
+    "overlay"
+  ],
+  "Turn-Table": [
+    "turn",
+    "table"
+  ],
+  "File-Music": [
+    "doc",
+    "document",
+    "file",
+    "audio",
+    "music",
+    "sound",
+    "paper"
+  ],
+  "Folder-Windows": [
+    "folder",
+    "windows",
+    "os"
+  ],
+  "CD-Rom": [
+    "cd",
+    "rom",
+    "disc",
+    "disk"
+  ],
+  "Printer": [
+    "printer",
+    "print",
+    "hardware"
+  ],
+  "Workgroup": [
+    "workgroup"
+  ],
+  "Network-Connections": [
+    "network",
+    "connections"
+  ],
+  "Folder-Games": [
+    "folder",
+    "game",
+    "games"
+  ],
+  "RecycleBin-Full": [
+    "recyclebin",
+    "bin",
+    "full",
+    "garbage",
+    "recycle",
+    "recycled",
+    "trash"
+  ],
+  "File-Configuration": [
+    "doc",
+    "document",
+    "file",
+    "conf",
+    "config",
+    "configuration",
+    "configure",
+    "customise",
+    "customization",
+    "setting",
+    "paper"
+  ],
+  "Downloads": [
+    "down",
+    "decrease",
+    "download",
+    "downloads",
+    "arrow"
+  ],
+  "Unregistered-Document": [
+    "doc",
+    "document",
+    "file",
+    "unregistered",
+    "paper"
+  ],
+  "Headphones": [
+    "earphone",
+    "headphone",
+    "headset",
+    "headphones"
+  ],
+  "Search-Results": [
+    "results",
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "Misc-Drive": [
+    "drive"
+  ],
+  "Folder-Fonts": [
+    "folder",
+    "fonts"
+  ],
+  "DVD-Drive": [
+    "dvd",
+    "drive",
+    "disc",
+    "disk"
+  ],
+  "DVD-RW": [
+    "dvd",
+    "disc",
+    "disk"
+  ],
+  "Administrative-Tools": [
+    "tool",
+    "utilities",
+    "utils",
+    "administrative",
+    "tools"
+  ],
+  "My-Computer": [
+    "computer",
+    "hardware"
+  ],
+  "CD-RW": [
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "DVD-Ram": [
+    "dvd",
+    "ram",
+    "disc",
+    "disk"
+  ],
+  "Folder-Backups": [
+    "backup",
+    "folder",
+    "backups"
+  ],
+  "Internet": [
+    "internet",
+    "network"
+  ],
+  "Floppy": [
+    "floppy",
+    "save"
+  ],
+  "DVD-R": [
+    "dvd",
+    "disc",
+    "disk"
+  ],
+  "Audio-CD": [
+    "audio",
+    "music",
+    "sound",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "Internet-Documents": [
+    "doc",
+    "document",
+    "file",
+    "internet",
+    "network",
+    "documents",
+    "paper"
+  ],
+  "Printer-Network": [
+    "print",
+    "printer",
+    "network",
+    "hardware"
+  ],
+  "Folder-Closed": [
+    "folder",
+    "closed"
+  ],
+  "Clock": [
+    "clock",
+    "timer"
+  ],
+  "File-Text": [
+    "doc",
+    "document",
+    "file",
+    "text",
+    "paper"
+  ],
+  "Network-Drive": [
+    "network",
+    "drive"
+  ],
+  "CD": [
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "File-Resource": [
+    "doc",
+    "document",
+    "file",
+    "resource",
+    "paper"
+  ],
+  "File-Help": [
+    "doc",
+    "document",
+    "file",
+    "faq",
+    "help",
+    "question",
+    "support",
+    "paper"
+  ],
+  "Run": [
+    "run"
+  ],
+  "My-Movies": [
+    "film",
+    "movie",
+    "video",
+    "movies"
+  ],
+  "Network-Drive-Offline": [
+    "network",
+    "drive",
+    "disconnected",
+    "offline"
+  ],
+  "Desktop": [
+    "desktop",
+    "desk"
+  ],
+  "Printer-Default": [
+    "print",
+    "printer",
+    "default",
+    "hardware"
+  ],
+  "Folder-Open": [
+    "folder",
+    "open"
+  ],
+  "File-Compressed": [
+    "document",
+    "doc",
+    "file",
+    "compressed",
+    "paper"
+  ],
+  "History": [
+    "history"
+  ],
+  "DVD-Rom": [
+    "dvd",
+    "rom",
+    "disc",
+    "disk"
+  ],
+  "Share-Overlay": [
+    "share",
+    "overlay"
+  ],
+  "Microsoft-Network": [
+    "microsoft",
+    "network"
+  ],
+  "Explorer": [
+    "explorer",
+    "microsoft"
+  ]
+}

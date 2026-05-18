@@ -1,0 +1,845 @@
+[
+  {
+    "name": "Black-Label.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Black-Label.16.png",
+    "tags": [
+      "black",
+      "label"
+    ]
+  },
+  {
+    "name": "Black-Label.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Black-Label.32.png",
+    "tags": [
+      "black",
+      "label"
+    ]
+  },
+  {
+    "name": "Bombay-Sapphire.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Bombay-Sapphire.16.png",
+    "tags": [
+      "bombay",
+      "sapphire"
+    ]
+  },
+  {
+    "name": "Bombay-Sapphire.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Bombay-Sapphire.32.png",
+    "tags": [
+      "bombay",
+      "sapphire"
+    ]
+  },
+  {
+    "name": "Budweiser.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Budweiser.16.png",
+    "tags": [
+      "budweiser"
+    ]
+  },
+  {
+    "name": "Budweiser.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Budweiser.32.png",
+    "tags": [
+      "budweiser"
+    ]
+  },
+  {
+    "name": "Campari.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Campari.16.png",
+    "tags": [
+      "campari"
+    ]
+  },
+  {
+    "name": "Campari.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Campari.32.png",
+    "tags": [
+      "campari"
+    ]
+  },
+  {
+    "name": "Carlsberg.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Carlsberg.16.png",
+    "tags": [
+      "carlsberg"
+    ]
+  },
+  {
+    "name": "Carlsberg.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Carlsberg.32.png",
+    "tags": [
+      "carlsberg"
+    ]
+  },
+  {
+    "name": "Coors.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Coors.16.png",
+    "tags": [
+      "coors"
+    ]
+  },
+  {
+    "name": "Coors.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Coors.32.png",
+    "tags": [
+      "coors"
+    ]
+  },
+  {
+    "name": "Corona-Ex.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Corona-Ex.16.png",
+    "tags": [
+      "corona"
+    ]
+  },
+  {
+    "name": "Corona-Ex.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Corona-Ex.32.png",
+    "tags": [
+      "corona"
+    ]
+  },
+  {
+    "name": "Four-Roses.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Four-Roses.16.png",
+    "tags": [
+      "four",
+      "roses"
+    ]
+  },
+  {
+    "name": "Four-Roses.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Four-Roses.32.png",
+    "tags": [
+      "four",
+      "roses"
+    ]
+  },
+  {
+    "name": "Gilbeys-Gin.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Gilbeys-Gin.16.png",
+    "tags": [
+      "gilbeys",
+      "gin"
+    ]
+  },
+  {
+    "name": "Gilbeys-Gin.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Gilbeys-Gin.32.png",
+    "tags": [
+      "gilbeys",
+      "gin"
+    ]
+  },
+  {
+    "name": "Grand-Dad.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Grand-Dad.16.png",
+    "tags": [
+      "grand",
+      "dad"
+    ]
+  },
+  {
+    "name": "Grand-Dad.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Grand-Dad.32.png",
+    "tags": [
+      "grand",
+      "dad"
+    ]
+  },
+  {
+    "name": "Harper.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Harper.16.png",
+    "tags": [
+      "harper"
+    ]
+  },
+  {
+    "name": "Harper.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Harper.32.png",
+    "tags": [
+      "harper"
+    ]
+  },
+  {
+    "name": "Heineken.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Heineken.16.png",
+    "tags": [
+      "heineken"
+    ]
+  },
+  {
+    "name": "Heineken.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Heineken.32.png",
+    "tags": [
+      "heineken"
+    ]
+  },
+  {
+    "name": "IconBar.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/IconBar.16.png",
+    "tags": [
+      "iconbar"
+    ]
+  },
+  {
+    "name": "IconBar.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/IconBar.32.png",
+    "tags": [
+      "iconbar"
+    ]
+  },
+  {
+    "name": "Jack-Daniels.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Jack-Daniels.16.png",
+    "tags": [
+      "daniels",
+      "jack"
+    ]
+  },
+  {
+    "name": "Jack-Daniels.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Jack-Daniels.32.png",
+    "tags": [
+      "daniels",
+      "jack"
+    ]
+  },
+  {
+    "name": "Jonny-Walker.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Jonny-Walker.16.png",
+    "tags": [
+      "jonny",
+      "walker"
+    ]
+  },
+  {
+    "name": "Jonny-Walker.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Jonny-Walker.32.png",
+    "tags": [
+      "jonny",
+      "walker"
+    ]
+  },
+  {
+    "name": "Lager.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Lager.16.png",
+    "tags": [
+      "lager"
+    ]
+  },
+  {
+    "name": "Lager.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Lager.32.png",
+    "tags": [
+      "lager"
+    ]
+  },
+  {
+    "name": "Makers-Mark.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Makers-Mark.16.png",
+    "tags": [
+      "makers",
+      "mark"
+    ]
+  },
+  {
+    "name": "Makers-Mark.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Makers-Mark.32.png",
+    "tags": [
+      "makers",
+      "mark"
+    ]
+  },
+  {
+    "name": "Miller-Special.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Miller-Special.16.png",
+    "tags": [
+      "miller",
+      "special"
+    ]
+  },
+  {
+    "name": "Miller-Special.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Miller-Special.32.png",
+    "tags": [
+      "miller",
+      "special"
+    ]
+  },
+  {
+    "name": "Myers-Rum.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Myers-Rum.16.png",
+    "tags": [
+      "myers",
+      "rum"
+    ]
+  },
+  {
+    "name": "Myers-Rum.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Myers-Rum.32.png",
+    "tags": [
+      "myers",
+      "rum"
+    ]
+  },
+  {
+    "name": "Orion.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Orion.16.png",
+    "tags": [
+      "orion"
+    ]
+  },
+  {
+    "name": "Orion.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Orion.32.png",
+    "tags": [
+      "orion"
+    ]
+  },
+  {
+    "name": "Royal.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Royal.16.png",
+    "tags": [
+      "royal"
+    ]
+  },
+  {
+    "name": "Royal.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Royal.32.png",
+    "tags": [
+      "royal"
+    ]
+  },
+  {
+    "name": "Smirnoff.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Smirnoff.16.png",
+    "tags": [
+      "smirnoff"
+    ]
+  },
+  {
+    "name": "Smirnoff.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Smirnoff.32.png",
+    "tags": [
+      "smirnoff"
+    ]
+  },
+  {
+    "name": "Suntory-Hankaku.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-Hankaku.16.png",
+    "tags": [
+      "suntory",
+      "hankaku"
+    ]
+  },
+  {
+    "name": "Suntory-Hankaku.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-Hankaku.32.png",
+    "tags": [
+      "suntory",
+      "hankaku"
+    ]
+  },
+  {
+    "name": "Suntory-Old.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-Old.16.png",
+    "tags": [
+      "suntory",
+      "old"
+    ]
+  },
+  {
+    "name": "Suntory-Old.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-Old.32.png",
+    "tags": [
+      "suntory",
+      "old"
+    ]
+  },
+  {
+    "name": "Suntory-Shirokaku.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-Shirokaku.16.png",
+    "tags": [
+      "suntory",
+      "shirokaku"
+    ]
+  },
+  {
+    "name": "Suntory-Shirokaku.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-Shirokaku.32.png",
+    "tags": [
+      "suntory",
+      "shirokaku"
+    ]
+  },
+  {
+    "name": "Suntory-kaku.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-kaku.16.png",
+    "tags": [
+      "suntory",
+      "kaku"
+    ]
+  },
+  {
+    "name": "Suntory-kaku.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Suntory-kaku.32.png",
+    "tags": [
+      "suntory",
+      "kaku"
+    ]
+  },
+  {
+    "name": "Super-DRY.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Super-DRY.16.png",
+    "tags": [
+      "super",
+      "dry"
+    ]
+  },
+  {
+    "name": "Super-DRY.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Super-DRY.32.png",
+    "tags": [
+      "super",
+      "dry"
+    ]
+  },
+  {
+    "name": "Tanqueray.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Tanqueray.16.png",
+    "tags": [
+      "tanqueray"
+    ]
+  },
+  {
+    "name": "Tanqueray.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Tanqueray.32.png",
+    "tags": [
+      "tanqueray"
+    ]
+  },
+  {
+    "name": "Yamazaki.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Yamazaki.16.png",
+    "tags": [
+      "yamazaki"
+    ]
+  },
+  {
+    "name": "Yamazaki.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Yamazaki.32.png",
+    "tags": [
+      "yamazaki"
+    ]
+  },
+  {
+    "name": "Yebisu.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Yebisu.16.png",
+    "tags": [
+      "yebisu"
+    ]
+  },
+  {
+    "name": "Yebisu.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Yebisu.32.png",
+    "tags": [
+      "yebisu"
+    ]
+  },
+  {
+    "name": "Zubrowka.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Zubrowka.16.png",
+    "tags": [
+      "zubrowka"
+    ]
+  },
+  {
+    "name": "Zubrowka.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/Zubrowka.32.png",
+    "tags": [
+      "zubrowka"
+    ]
+  },
+  {
+    "name": "cocktail-mixer-2.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/cocktail-mixer-2.16.png",
+    "tags": [
+      "cocktail",
+      "mixer"
+    ]
+  },
+  {
+    "name": "cocktail-mixer-2.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/cocktail-mixer-2.32.png",
+    "tags": [
+      "cocktail",
+      "mixer"
+    ]
+  },
+  {
+    "name": "cocktail-mixer.16.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/cocktail-mixer.16.png",
+    "tags": [
+      "cocktail",
+      "mixer"
+    ]
+  },
+  {
+    "name": "cocktail-mixer.32.png",
+    "format": "PNG",
+    "path": "Designer/Brown/Icon-Bar-Icons/PNG/cocktail-mixer.32.png",
+    "tags": [
+      "cocktail",
+      "mixer"
+    ]
+  },
+  {
+    "name": "Black-Label.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Black-Label.ico",
+    "tags": [
+      "black",
+      "label"
+    ]
+  },
+  {
+    "name": "Bombay-Sapphire.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Bombay-Sapphire.ico",
+    "tags": [
+      "bombay",
+      "sapphire"
+    ]
+  },
+  {
+    "name": "Budweiser.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Budweiser.ico",
+    "tags": [
+      "budweiser"
+    ]
+  },
+  {
+    "name": "Campari.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Campari.ico",
+    "tags": [
+      "campari"
+    ]
+  },
+  {
+    "name": "Carlsberg.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Carlsberg.ico",
+    "tags": [
+      "carlsberg"
+    ]
+  },
+  {
+    "name": "Coors.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Coors.ico",
+    "tags": [
+      "coors"
+    ]
+  },
+  {
+    "name": "Corona-Ex.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Corona-Ex.ico",
+    "tags": [
+      "corona"
+    ]
+  },
+  {
+    "name": "Four-Roses.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Four-Roses.ico",
+    "tags": [
+      "four",
+      "roses"
+    ]
+  },
+  {
+    "name": "Gilbeys-Gin.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Gilbeys-Gin.ico",
+    "tags": [
+      "gilbeys",
+      "gin"
+    ]
+  },
+  {
+    "name": "Grand-Dad.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Grand-Dad.ico",
+    "tags": [
+      "grand",
+      "dad"
+    ]
+  },
+  {
+    "name": "Harper.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Harper.ico",
+    "tags": [
+      "harper"
+    ]
+  },
+  {
+    "name": "Heineken.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Heineken.ico",
+    "tags": [
+      "heineken"
+    ]
+  },
+  {
+    "name": "IconBar.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/IconBar.ico",
+    "tags": [
+      "iconbar"
+    ]
+  },
+  {
+    "name": "Jack-Daniels.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Jack-Daniels.ico",
+    "tags": [
+      "daniels",
+      "jack"
+    ]
+  },
+  {
+    "name": "Jonny-Walker.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Jonny-Walker.ico",
+    "tags": [
+      "jonny",
+      "walker"
+    ]
+  },
+  {
+    "name": "Lager.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Lager.ico",
+    "tags": [
+      "lager"
+    ]
+  },
+  {
+    "name": "Makers-Mark.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Makers-Mark.ico",
+    "tags": [
+      "makers",
+      "mark"
+    ]
+  },
+  {
+    "name": "Miller-Special.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Miller-Special.ico",
+    "tags": [
+      "miller",
+      "special"
+    ]
+  },
+  {
+    "name": "Myers-Rum.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Myers-Rum.ico",
+    "tags": [
+      "myers",
+      "rum"
+    ]
+  },
+  {
+    "name": "Orion.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Orion.ico",
+    "tags": [
+      "orion"
+    ]
+  },
+  {
+    "name": "Royal.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Royal.ico",
+    "tags": [
+      "royal"
+    ]
+  },
+  {
+    "name": "Smirnoff.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Smirnoff.ico",
+    "tags": [
+      "smirnoff"
+    ]
+  },
+  {
+    "name": "Suntory-Hankaku.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Suntory-Hankaku.ico",
+    "tags": [
+      "suntory",
+      "hankaku"
+    ]
+  },
+  {
+    "name": "Suntory-Old.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Suntory-Old.ico",
+    "tags": [
+      "suntory",
+      "old"
+    ]
+  },
+  {
+    "name": "Suntory-Shirokaku.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Suntory-Shirokaku.ico",
+    "tags": [
+      "suntory",
+      "shirokaku"
+    ]
+  },
+  {
+    "name": "Suntory-kaku.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Suntory-kaku.ico",
+    "tags": [
+      "suntory",
+      "kaku"
+    ]
+  },
+  {
+    "name": "Super-DRY.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Super-DRY.ico",
+    "tags": [
+      "super",
+      "dry"
+    ]
+  },
+  {
+    "name": "Tanqueray.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Tanqueray.ico",
+    "tags": [
+      "tanqueray"
+    ]
+  },
+  {
+    "name": "Yamazaki.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Yamazaki.ico",
+    "tags": [
+      "yamazaki"
+    ]
+  },
+  {
+    "name": "Yebisu.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Yebisu.ico",
+    "tags": [
+      "yebisu"
+    ]
+  },
+  {
+    "name": "Zubrowka.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/Zubrowka.ico",
+    "tags": [
+      "zubrowka"
+    ]
+  },
+  {
+    "name": "cocktail-mixer-2.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/cocktail-mixer-2.ico",
+    "tags": [
+      "cocktail",
+      "mixer"
+    ]
+  },
+  {
+    "name": "cocktail-mixer.ico",
+    "format": "Windows",
+    "path": "Designer/Brown/Icon-Bar-Icons/Windows/cocktail-mixer.ico",
+    "tags": [
+      "cocktail",
+      "mixer"
+    ]
+  }
+]

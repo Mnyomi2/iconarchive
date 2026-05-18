@@ -1,0 +1,32 @@
+{
+  "Matryoshka-Treats": [
+    "matryoshka",
+    "treats"
+  ],
+  "Matryoshka-Music": [
+    "audio",
+    "matryoshka",
+    "music",
+    "sound"
+  ],
+  "Matryoshka-Research": [
+    "matryoshka",
+    "research"
+  ],
+  "Matryoshka-Rainy-Day": [
+    "rainy",
+    "matryoshka",
+    "day"
+  ],
+  "Matryoshka-Leisure": [
+    "leisure",
+    "matryoshka"
+  ],
+  "Matryoshka-Pictures": [
+    "image",
+    "photo",
+    "picture",
+    "matryoshka",
+    "pictures"
+  ]
+}

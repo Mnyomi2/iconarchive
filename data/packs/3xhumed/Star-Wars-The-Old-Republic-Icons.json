@@ -1,5 +1,401 @@
 [
   {
+    "name": "Star-Wars-The-Old-Republic-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-1.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-1.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-1.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-10.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-10.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-10.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-10.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-10.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-10.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-3.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-3.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-3.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-3.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-4.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-4.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-4.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-4.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-5.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-5.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-5.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-5.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-6.16.png",
+    "tags": [
+      "star",
+      "old",
+      "wars",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-6.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-6.24.png",
+    "tags": [
+      "star",
+      "old",
+      "wars",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-6.32.png",
+    "tags": [
+      "star",
+      "old",
+      "wars",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-7.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-7.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-7.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-7.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-8.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-8.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-8.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-8.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-9.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-9.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-9.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-9.24.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-9.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Favicon/Star-Wars-The-Old-Republic-9.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-1.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-1.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-10.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-10.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-3.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-4.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-5.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-6.icns",
+    "tags": [
+      "star",
+      "old",
+      "wars",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-7.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-8.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-9.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Mac/Star-Wars-The-Old-Republic-9.icns",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
     "name": "Star-Wars-The-Old-Republic-1.128.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/PNG/Star-Wars-The-Old-Republic-1.128.png",
@@ -685,6 +1081,105 @@
     "name": "Star-Wars-The-Old-Republic-9.96.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/PNG/Star-Wars-The-Old-Republic-9.96.png",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-1.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-1.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-10.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-10.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-3.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-4.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-5.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-6.ico",
+    "tags": [
+      "star",
+      "old",
+      "wars",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-7.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-8.ico",
+    "tags": [
+      "star",
+      "wars",
+      "old",
+      "republic"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Old-Republic-9.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Star-Wars-The-Old-Republic-Icons/Windows/Star-Wars-The-Old-Republic-9.ico",
     "tags": [
       "star",
       "wars",

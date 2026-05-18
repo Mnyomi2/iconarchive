@@ -1,0 +1,23 @@
+{
+  "Aperture": [
+    "aperture"
+  ],
+  "FinalCutPro": [
+    "finalcutpro"
+  ],
+  "MainStage": [
+    "mainstage"
+  ],
+  "FinalCutServer": [
+    "finalcutserver"
+  ],
+  "Compressor": [
+    "compressor"
+  ],
+  "LogicPro": [
+    "logicpro"
+  ],
+  "Motion": [
+    "motion"
+  ]
+}

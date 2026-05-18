@@ -1,0 +1,57 @@
+{
+  "Gift": [
+    "gift",
+    "present",
+    "birthday",
+    "christmas",
+    "xmas"
+  ],
+  "Candy": [
+    "candy"
+  ],
+  "Rocket-Fireworks": [
+    "rocket",
+    "fireworks",
+    "adobe"
+  ],
+  "Bell": [
+    "bell"
+  ],
+  "Bow": [
+    "bow"
+  ],
+  "Christmas-Ball": [
+    "christmas",
+    "xmas",
+    "ball",
+    "sport"
+  ],
+  "Stars": [
+    "star",
+    "stars"
+  ],
+  "Socks": [
+    "sock",
+    "socks"
+  ],
+  "Christmas-Tree": [
+    "christmas",
+    "xmas",
+    "tree"
+  ],
+  "Mistletoe": [
+    "mistletoe",
+    "holly",
+    "christmas",
+    "xmas"
+  ],
+  "Gingerbread": [
+    "gingerbread"
+  ],
+  "Snow": [
+    "snow",
+    "christmas",
+    "weather",
+    "xmas"
+  ]
+}

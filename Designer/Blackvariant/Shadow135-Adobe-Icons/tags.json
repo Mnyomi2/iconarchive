@@ -1,0 +1,92 @@
+{
+  "InCopy": [
+    "incopy"
+  ],
+  "Bridge": [
+    "bridge"
+  ],
+  "Muse": [
+    "muse"
+  ],
+  "CreativeCloud": [
+    "creativecloud"
+  ],
+  "Audition": [
+    "audition"
+  ],
+  "SpeedGrade": [
+    "speedgrade"
+  ],
+  "EdgeInspect": [
+    "edgeinspect"
+  ],
+  "LiveLogger": [
+    "livelogger"
+  ],
+  "EdgeFlow": [
+    "edgeflow"
+  ],
+  "InDesign": [
+    "indesign",
+    "adobe"
+  ],
+  "Prelude": [
+    "prelude"
+  ],
+  "FlashBuilder": [
+    "flashbuilder"
+  ],
+  "Scout": [
+    "scout"
+  ],
+  "AfterEffects": [
+    "aftereffects",
+    "adobe"
+  ],
+  "StoryPlus": [
+    "storyplus"
+  ],
+  "EdgeCode": [
+    "edgecode"
+  ],
+  "Acrobat": [
+    "acrobat"
+  ],
+  "PhoneGapBuild": [
+    "phonegapbuild"
+  ],
+  "PremierPro": [
+    "premierpro"
+  ],
+  "Fireworks": [
+    "fireworks",
+    "adobe"
+  ],
+  "MediaEncoder": [
+    "mediaencoder"
+  ],
+  "EdgeAnimate": [
+    "edgeanimate"
+  ],
+  "DreamWeaver": [
+    "dreamweaver",
+    "adobe"
+  ],
+  "FlashPro": [
+    "flashpro"
+  ],
+  "LightRoom": [
+    "lightroom"
+  ],
+  "Flash": [
+    "flash"
+  ],
+  "Illustrator": [
+    "illustrator",
+    "adobe"
+  ],
+  "Photoshop": [
+    "photoshop",
+    "adobe"
+  ]
+}

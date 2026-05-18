@@ -1,0 +1,332 @@
+{
+  "Bronx": [
+    "bronx",
+    "cocktail"
+  ],
+  "Bloody-Mary": [
+    "bloody",
+    "mary",
+    "cocktail"
+  ],
+  "Banana-Daiquiri": [
+    "banana",
+    "daiquiri",
+    "fruit",
+    "cocktail",
+    "food",
+    "meal"
+  ],
+  "Frozen-Daiquiri": [
+    "frozen",
+    "daiquiri",
+    "cocktail"
+  ],
+  "Margarita": [
+    "margarita",
+    "cocktail"
+  ],
+  "Bull-Shot": [
+    "bull",
+    "shot",
+    "cocktail"
+  ],
+  "Golden-Cadillac": [
+    "golden",
+    "cadillac",
+    "cocktail"
+  ],
+  "Cosmopolitan": [
+    "cosmopolitan",
+    "cocktail"
+  ],
+  "Bacardi": [
+    "bacardi",
+    "cocktail"
+  ],
+  "Screwdriver": [
+    "screwdriver",
+    "cocktail"
+  ],
+  "Kamikaze": [
+    "kamikaze",
+    "cocktail"
+  ],
+  "Salty-Dog": [
+    "salty",
+    "dog",
+    "hound",
+    "cocktail",
+    "pet",
+    "animal"
+  ],
+  "Golden-Dream": [
+    "golden",
+    "dream",
+    "cocktail"
+  ],
+  "Martini-Dry": [
+    "martini",
+    "dry",
+    "cocktail"
+  ],
+  "Manhattan-Dry": [
+    "manhattan",
+    "dry",
+    "cocktail"
+  ],
+  "Pina-Colada": [
+    "pina",
+    "colada",
+    "cocktail"
+  ],
+  "Old-Fashioned": [
+    "old",
+    "fashioned",
+    "cocktail"
+  ],
+  "Cuba-Libre": [
+    "cuba",
+    "libre",
+    "beverage",
+    "cocktail",
+    "lime",
+    "rum",
+    "coke",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "Negroni": [
+    "negroni",
+    "cocktail"
+  ],
+  "Gin-Fizz": [
+    "gin",
+    "fizz",
+    "cocktail"
+  ],
+  "Martini-Perfect": [
+    "martini",
+    "perfect",
+    "cocktail"
+  ],
+  "John-Collins": [
+    "john",
+    "collins",
+    "cocktail"
+  ],
+  "Porto-Flip": [
+    "porto",
+    "flip",
+    "cocktail"
+  ],
+  "Planters-Punch": [
+    "planters",
+    "punch",
+    "cocktail"
+  ],
+  "Black-Russian": [
+    "black",
+    "russian",
+    "cocktail",
+    "beverage",
+    "chocolate",
+    "drink",
+    "vodka",
+    "food",
+    "meal"
+  ],
+  "Mai-Tai": [
+    "mai",
+    "tai",
+    "cocktail",
+    "tropical",
+    "beverage",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "Brandy-Eggnog": [
+    "brandy",
+    "eggnog",
+    "cocktail"
+  ],
+  "Martini-Sweet": [
+    "martini",
+    "sweet",
+    "cocktail"
+  ],
+  "White-Russian": [
+    "white",
+    "russian",
+    "cocktail"
+  ],
+  "Rose": [
+    "rose",
+    "cocktail",
+    "love",
+    "valentine",
+    "birthday",
+    "cherry",
+    "flower",
+    "pink",
+    "food",
+    "fruit",
+    "meal"
+  ],
+  "Caipirinha": [
+    "caipirinha",
+    "cocktail"
+  ],
+  "Irish-Coffee": [
+    "irish",
+    "coffee",
+    "java",
+    "cocktail",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "Daiquiri": [
+    "daiquiri",
+    "cocktail"
+  ],
+  "Godmother": [
+    "godmother",
+    "cocktail"
+  ],
+  "French-Connection": [
+    "french",
+    "connection",
+    "cocktail"
+  ],
+  "Mojito": [
+    "mojito",
+    "cocktail",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "Paradise": [
+    "paradise",
+    "cocktail"
+  ],
+  "Whiskey-Sour": [
+    "whiskey",
+    "sour",
+    "cocktail"
+  ],
+  "Harvey-Wallbanger": [
+    "harvey",
+    "wallbanger",
+    "cocktail"
+  ],
+  "Long-Island-Iced-Tea": [
+    "long",
+    "island",
+    "iced",
+    "tea",
+    "cocktail",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "Vodka-Martini": [
+    "vodka",
+    "martini",
+    "cocktail",
+    "beverage",
+    "drinks",
+    "glass",
+    "olive"
+  ],
+  "Singapore-Sling": [
+    "singapore",
+    "sling",
+    "cocktail"
+  ],
+  "Apple-Martini": [
+    "apple",
+    "martini",
+    "cocktail"
+  ],
+  "Manhattan-Perfect": [
+    "manhattan",
+    "perfect",
+    "cocktail"
+  ],
+  "Sex-on-the-Beach": [
+    "sex",
+    "cocktail",
+    "beach"
+  ],
+  "Rob-Roy": [
+    "rob",
+    "roy",
+    "cocktail"
+  ],
+  "Brandy-Alexander": [
+    "brandy",
+    "alexander",
+    "cocktail"
+  ],
+  "Japanese-Slipper": [
+    "japanese",
+    "slipper",
+    "cocktail"
+  ],
+  "Sea-breeze": [
+    "sea",
+    "breeze",
+    "cocktail"
+  ],
+  "Americano": [
+    "americano",
+    "cocktail"
+  ],
+  "Godfather": [
+    "godfather",
+    "cocktail"
+  ],
+  "Tequila-Sunrise": [
+    "tequila",
+    "sunrise",
+    "cocktail"
+  ],
+  "Gibson": [
+    "gibson",
+    "cocktail"
+  ],
+  "B-52": [
+    "cocktail",
+    "drink",
+    "beverage",
+    "layers",
+    "food",
+    "meal"
+  ],
+  "Horses-Neck": [
+    "horse",
+    "horses",
+    "neck",
+    "animal",
+    "cocktail"
+  ],
+  "Grasshopper": [
+    "grasshopper",
+    "cocktail"
+  ],
+  "Orgasm": [
+    "orgasm",
+    "cocktail"
+  ],
+  "Manhattan": [
+    "manhattan",
+    "cocktail"
+  ],
+  "Rusty-Nail": [
+    "rusty",
+    "nail",
+    "cocktail"
+  ]
+}

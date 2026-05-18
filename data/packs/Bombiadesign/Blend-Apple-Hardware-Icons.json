@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Mac-Book-Black-Off.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Black-Off.16.png",
+    "tags": [
+      "laptop",
+      "mac",
+      "black",
+      "book",
+      "computer",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-Off.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Black-Off.32.png",
+    "tags": [
+      "laptop",
+      "mac",
+      "black",
+      "book",
+      "computer",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-On.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Black-On.16.png",
+    "tags": [
+      "computer",
+      "mac",
+      "black",
+      "book",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-On.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Black-On.32.png",
+    "tags": [
+      "computer",
+      "mac",
+      "black",
+      "book",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-Off.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Pro-Off.16.png",
+    "tags": [
+      "mac",
+      "book",
+      "pro",
+      "computer",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-Off.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Pro-Off.32.png",
+    "tags": [
+      "mac",
+      "book",
+      "pro",
+      "computer",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-On.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Pro-On.16.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "pro",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-On.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-Pro-On.32.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "pro",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-Off.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-White-Off.16.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "white",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-Off.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-White-Off.32.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "white",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-On.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-White-On.16.png",
+    "tags": [
+      "book",
+      "mac",
+      "computer",
+      "white",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-On.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Book-White-On.32.png",
+    "tags": [
+      "book",
+      "mac",
+      "computer",
+      "white",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Pro.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Pro.16.png",
+    "tags": [
+      "mac",
+      "pro",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-Pro.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-Pro.32.png",
+    "tags": [
+      "mac",
+      "pro",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-mini.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-mini.16.png",
+    "tags": [
+      "mac",
+      "mini",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-mini.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/Mac-mini.32.png",
+    "tags": [
+      "mac",
+      "mini",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "iMac-Off.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/iMac-Off.16.png",
+    "tags": [
+      "imac",
+      "off"
+    ]
+  },
+  {
+    "name": "iMac-Off.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/iMac-Off.32.png",
+    "tags": [
+      "imac",
+      "off"
+    ]
+  },
+  {
+    "name": "iMac-On.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/iMac-On.16.png",
+    "tags": [
+      "imac"
+    ]
+  },
+  {
+    "name": "iMac-On.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Favicon/iMac-On.32.png",
+    "tags": [
+      "imac"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-Off.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Black-Off.128.png",
+    "tags": [
+      "laptop",
+      "mac",
+      "black",
+      "book",
+      "computer",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-Off.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Black-Off.256.png",
+    "tags": [
+      "laptop",
+      "mac",
+      "black",
+      "book",
+      "computer",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-Off.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Black-Off.48.png",
+    "tags": [
+      "laptop",
+      "mac",
+      "black",
+      "book",
+      "computer",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-On.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Black-On.128.png",
+    "tags": [
+      "computer",
+      "mac",
+      "black",
+      "book",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-On.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Black-On.256.png",
+    "tags": [
+      "computer",
+      "mac",
+      "black",
+      "book",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-On.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Black-On.48.png",
+    "tags": [
+      "computer",
+      "mac",
+      "black",
+      "book",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-Off.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Pro-Off.128.png",
+    "tags": [
+      "mac",
+      "book",
+      "pro",
+      "computer",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-Off.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Pro-Off.256.png",
+    "tags": [
+      "mac",
+      "book",
+      "pro",
+      "computer",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-Off.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Pro-Off.48.png",
+    "tags": [
+      "mac",
+      "book",
+      "pro",
+      "computer",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-On.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Pro-On.128.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "pro",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-On.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Pro-On.256.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "pro",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-On.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-Pro-On.48.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "pro",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-Off.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-White-Off.128.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "white",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-Off.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-White-Off.256.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "white",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-Off.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-White-Off.48.png",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "white",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-On.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-White-On.128.png",
+    "tags": [
+      "book",
+      "mac",
+      "computer",
+      "white",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-On.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-White-On.256.png",
+    "tags": [
+      "book",
+      "mac",
+      "computer",
+      "white",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-On.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Book-White-On.48.png",
+    "tags": [
+      "book",
+      "mac",
+      "computer",
+      "white",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Pro.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Pro.128.png",
+    "tags": [
+      "mac",
+      "pro",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-Pro.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Pro.256.png",
+    "tags": [
+      "mac",
+      "pro",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-Pro.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-Pro.48.png",
+    "tags": [
+      "mac",
+      "pro",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-mini.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-mini.128.png",
+    "tags": [
+      "mac",
+      "mini",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-mini.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-mini.256.png",
+    "tags": [
+      "mac",
+      "mini",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-mini.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/Mac-mini.48.png",
+    "tags": [
+      "mac",
+      "mini",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "iMac-Off.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/iMac-Off.128.png",
+    "tags": [
+      "imac",
+      "off"
+    ]
+  },
+  {
+    "name": "iMac-Off.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/iMac-Off.256.png",
+    "tags": [
+      "imac",
+      "off"
+    ]
+  },
+  {
+    "name": "iMac-Off.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/iMac-Off.48.png",
+    "tags": [
+      "imac",
+      "off"
+    ]
+  },
+  {
+    "name": "iMac-On.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/iMac-On.128.png",
+    "tags": [
+      "imac"
+    ]
+  },
+  {
+    "name": "iMac-On.256.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/iMac-On.256.png",
+    "tags": [
+      "imac"
+    ]
+  },
+  {
+    "name": "iMac-On.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/PNG/iMac-On.48.png",
+    "tags": [
+      "imac"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-Off.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Book-Black-Off.ico",
+    "tags": [
+      "laptop",
+      "mac",
+      "black",
+      "book",
+      "computer",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Black-On.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Book-Black-On.ico",
+    "tags": [
+      "computer",
+      "mac",
+      "black",
+      "book",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-Off.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Book-Pro-Off.ico",
+    "tags": [
+      "mac",
+      "book",
+      "pro",
+      "computer",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-Pro-On.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Book-Pro-On.ico",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "pro",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-Off.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Book-White-Off.ico",
+    "tags": [
+      "mac",
+      "book",
+      "computer",
+      "white",
+      "laptop",
+      "off",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Book-White-On.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Book-White-On.ico",
+    "tags": [
+      "book",
+      "mac",
+      "computer",
+      "white",
+      "laptop",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "Mac-Pro.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-Pro.ico",
+    "tags": [
+      "mac",
+      "pro",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mac-mini.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/Mac-mini.ico",
+    "tags": [
+      "mac",
+      "mini",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "iMac-Off.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/iMac-Off.ico",
+    "tags": [
+      "imac",
+      "off"
+    ]
+  },
+  {
+    "name": "iMac-On.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Blend-Apple-Hardware-Icons/Windows/iMac-On.ico",
+    "tags": [
+      "imac"
+    ]
+  }
+]

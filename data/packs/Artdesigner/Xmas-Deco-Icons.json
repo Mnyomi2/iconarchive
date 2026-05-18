@@ -1,5 +1,1817 @@
 [
   {
+    "name": "bell.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/bell.16.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/bell.24.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/bell.32.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/candles.16.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/candles.24.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/candles.32.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/candykane.16.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/candykane.24.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/candykane.32.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/christmas-tree.16.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/christmas-tree.24.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/christmas-tree.32.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/christmass-ball.16.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/christmass-ball.24.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/christmass-ball.32.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/deer.16.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/deer.24.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/deer.32.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/gift.16.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/gift.24.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/gift.32.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/gingerbread.16.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/gingerbread.24.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/gingerbread.32.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/hat.16.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/hat.24.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/hat.32.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/misletoe.16.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/misletoe.24.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/misletoe.32.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/santa.16.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/santa.24.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/santa.32.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/snowflake.16.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/snowflake.24.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/snowflake.32.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/snowman.16.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/snowman.24.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/snowman.32.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/sock.16.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/sock.24.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/sock.32.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/wreath.16.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/wreath.24.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Favicon/wreath.32.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/bell.icns",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/candles.icns",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/candykane.icns",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/christmas-tree.icns",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/christmass-ball.icns",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/deer.icns",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/gift.icns",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/gingerbread.icns",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/hat.icns",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/misletoe.icns",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/santa.icns",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/snowflake.icns",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/snowman.icns",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/sock.icns",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.icns",
+    "format": "Mac",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Mac/wreath.icns",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.1024.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.128.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.256.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.48.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.512.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.64.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.72.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/bell.96.png",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.1024.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.128.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.256.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.48.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.512.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.64.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.72.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candles.96.png",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.1024.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.128.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.256.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.48.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.512.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.64.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.72.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/candykane.96.png",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.1024.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.128.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.256.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.48.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.512.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.64.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.72.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmas-tree.96.png",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.1024.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.128.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.256.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.48.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.512.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.64.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.72.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/christmass-ball.96.png",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.1024.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.128.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.256.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.48.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.512.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.64.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.72.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/deer.96.png",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.1024.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.128.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.256.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.48.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.512.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.64.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.72.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gift.96.png",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.1024.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.128.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.256.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.48.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.512.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.64.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.72.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/gingerbread.96.png",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.1024.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.128.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.256.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.48.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.512.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.64.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.72.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/hat.96.png",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.1024.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.128.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.256.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.48.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.512.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.64.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.72.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/misletoe.96.png",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.1024.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.128.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.256.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.48.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.512.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.64.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.72.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/santa.96.png",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.1024.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.128.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.256.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.48.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.512.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.64.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.72.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowflake.96.png",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.1024.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.128.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.256.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.48.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.512.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.64.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.72.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/snowman.96.png",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.1024.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.128.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.256.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.48.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.512.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.64.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.72.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/sock.96.png",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.1024.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.1024.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.128.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.256.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.256.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.48.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.512.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.512.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.64.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.72.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.72.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.96.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/PNG/wreath.96.png",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
     "name": "bell.svg",
     "format": "Vector",
     "path": "Designer/Artdesigner/Xmas-Deco-Icons/Vector/bell.svg",
@@ -144,6 +1956,157 @@
     "name": "wreath.svg",
     "format": "Vector",
     "path": "Designer/Artdesigner/Xmas-Deco-Icons/Vector/wreath.svg",
+    "tags": [
+      "wreath",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "bell.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/bell.ico",
+    "tags": [
+      "bell",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candles.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/candles.ico",
+    "tags": [
+      "candles",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "candykane.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/candykane.ico",
+    "tags": [
+      "candykane",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmas-tree.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/christmas-tree.ico",
+    "tags": [
+      "christmas",
+      "tree",
+      "xmas"
+    ]
+  },
+  {
+    "name": "christmass-ball.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/christmass-ball.ico",
+    "tags": [
+      "ball",
+      "christmass",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "deer.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/deer.ico",
+    "tags": [
+      "deer",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gift.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/gift.ico",
+    "tags": [
+      "gift",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "gingerbread.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/gingerbread.ico",
+    "tags": [
+      "gingerbread",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "hat.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/hat.ico",
+    "tags": [
+      "hat",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "misletoe.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/misletoe.ico",
+    "tags": [
+      "misletoe",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "santa.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/santa.ico",
+    "tags": [
+      "santa",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowflake.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/snowflake.ico",
+    "tags": [
+      "snowflake",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "snowman.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/snowman.ico",
+    "tags": [
+      "snowman",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "sock.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/sock.ico",
+    "tags": [
+      "sock",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "wreath.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Xmas-Deco-Icons/Windows/wreath.ico",
     "tags": [
       "wreath",
       "christmas",

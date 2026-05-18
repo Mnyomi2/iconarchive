@@ -1,0 +1,485 @@
+[
+  {
+    "name": "mail-in-a-bottle.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/mail-in-a-bottle.16.png",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-in-a-bottle.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/mail-in-a-bottle.24.png",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-in-a-bottle.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/mail-in-a-bottle.32.png",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "skull-empty.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/skull-empty.16.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull-empty.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/skull-empty.24.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull-empty.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/skull-empty.32.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/skull.16.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/skull.24.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/skull.32.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "torch.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/torch.16.png",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "torch.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/torch.24.png",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "torch.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/torch.32.png",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "treasure-map.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/treasure-map.16.png",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure-map.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/treasure-map.24.png",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure-map.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/treasure-map.32.png",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/treasure.16.png",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/treasure.24.png",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/treasure.32.png",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "wheel.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/wheel.16.png",
+    "tags": [
+      "wheel"
+    ]
+  },
+  {
+    "name": "wheel.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/wheel.24.png",
+    "tags": [
+      "wheel"
+    ]
+  },
+  {
+    "name": "wheel.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Pirates-Icons/Favicon/wheel.32.png",
+    "tags": [
+      "wheel"
+    ]
+  },
+  {
+    "name": "mail-in-a-bottle.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/mail-in-a-bottle.128.png",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-in-a-bottle.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/mail-in-a-bottle.256.png",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "mail-in-a-bottle.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/mail-in-a-bottle.48.png",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "skull-empty.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/skull-empty.128.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull-empty.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/skull-empty.256.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull-empty.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/skull-empty.48.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/skull.128.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/skull.256.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/skull.48.png",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "torch.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/torch.128.png",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "torch.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/torch.256.png",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "torch.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/torch.48.png",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "treasure-map.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/treasure-map.128.png",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure-map.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/treasure-map.256.png",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure-map.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/treasure-map.48.png",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/treasure.128.png",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/treasure.256.png",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/treasure.48.png",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "wheel.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/wheel.128.png",
+    "tags": [
+      "wheel"
+    ]
+  },
+  {
+    "name": "wheel.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/wheel.256.png",
+    "tags": [
+      "wheel"
+    ]
+  },
+  {
+    "name": "wheel.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Pirates-Icons/PNG/wheel.48.png",
+    "tags": [
+      "wheel"
+    ]
+  },
+  {
+    "name": "mail-in-a-bottle.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/mail-in-a-bottle.ico",
+    "tags": [
+      "email",
+      "mail",
+      "bottle",
+      "contact"
+    ]
+  },
+  {
+    "name": "skull-empty.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/skull-empty.ico",
+    "tags": [
+      "skull",
+      "halloween",
+      "empty",
+      "erase",
+      "helloween"
+    ]
+  },
+  {
+    "name": "skull.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/skull.ico",
+    "tags": [
+      "skull",
+      "halloween",
+      "helloween"
+    ]
+  },
+  {
+    "name": "torch.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/torch.ico",
+    "tags": [
+      "torch"
+    ]
+  },
+  {
+    "name": "treasure-map.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/treasure-map.ico",
+    "tags": [
+      "map",
+      "plan",
+      "navigation",
+      "contact",
+      "treasure"
+    ]
+  },
+  {
+    "name": "treasure.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/treasure.ico",
+    "tags": [
+      "treasure"
+    ]
+  },
+  {
+    "name": "wheel.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Pirates-Icons/Windows/wheel.ico",
+    "tags": [
+      "wheel"
+    ]
+  }
+]

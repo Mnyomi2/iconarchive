@@ -1,0 +1,915 @@
+[
+  {
+    "name": "calender.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/calender.16.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/calender.24.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/calender.32.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "cut.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/cut.16.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/cut.24.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/cut.32.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "database.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/database.16.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/database.24.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/database.32.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "folder-open.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/folder-open.16.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/folder-open.24.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/folder-open.32.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "paste.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/paste.16.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/paste.24.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/paste.32.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "print.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/print.16.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/print.24.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/print.32.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "user.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/user.16.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/user.24.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/user.32.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "world.16.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/world.16.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.24.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/world.24.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.32.png",
+    "format": "Favicon",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Favicon/world.32.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "calender.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/calender.icns",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "cut.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/cut.icns",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "database.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/database.icns",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "folder-open.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/folder-open.icns",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "paste.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/paste.icns",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "print.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/print.icns",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "user.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/user.icns",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "world.icns",
+    "format": "Mac",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Mac/world.icns",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "calender.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/calender.128.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/calender.256.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/calender.48.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/calender.64.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/calender.72.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "calender.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/calender.96.png",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "cut.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/cut.128.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/cut.256.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/cut.48.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/cut.64.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/cut.72.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "cut.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/cut.96.png",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "database.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/database.128.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/database.256.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/database.48.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/database.64.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/database.72.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "database.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/database.96.png",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "folder-open.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/folder-open.128.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/folder-open.256.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/folder-open.48.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/folder-open.64.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/folder-open.72.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder-open.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/folder-open.96.png",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "paste.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/paste.128.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/paste.256.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/paste.48.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/paste.64.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/paste.72.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/paste.96.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "print.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/print.128.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/print.256.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/print.48.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/print.64.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/print.72.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "print.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/print.96.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "user.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/user.128.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/user.256.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/user.48.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/user.64.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/user.72.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "user.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/user.96.png",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "world.128.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/world.128.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.256.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/world.256.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.48.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/world.48.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.64.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/world.64.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.72.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/world.72.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "world.96.png",
+    "format": "PNG",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/PNG/world.96.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  },
+  {
+    "name": "calender.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/calender.ico",
+    "tags": [
+      "calendar",
+      "date",
+      "organizer",
+      "calender",
+      "event"
+    ]
+  },
+  {
+    "name": "cut.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/cut.ico",
+    "tags": [
+      "cut",
+      "scissor"
+    ]
+  },
+  {
+    "name": "database.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/database.ico",
+    "tags": [
+      "database",
+      "data",
+      "db"
+    ]
+  },
+  {
+    "name": "folder-open.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/folder-open.ico",
+    "tags": [
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "paste.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/paste.ico",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "print.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/print.ico",
+    "tags": [
+      "print",
+      "printer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "user.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/user.ico",
+    "tags": [
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "world.ico",
+    "format": "Windows",
+    "path": "Designer/Avosoft/Warm-Toolbar-Icons/Windows/world.ico",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "internet",
+      "nature",
+      "network"
+    ]
+  }
+]

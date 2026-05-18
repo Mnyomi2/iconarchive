@@ -1,0 +1,28 @@
+{
+  "Toolbox": [
+    "toolbox"
+  ],
+  "Column-Chart": [
+    "chart",
+    "business",
+    "column"
+  ],
+  "Printer": [
+    "printer",
+    "print",
+    "hardware"
+  ],
+  "Disk": [
+    "disc",
+    "disk"
+  ],
+  "Briefcase": [
+    "briefcase"
+  ],
+  "User": [
+    "user",
+    "person",
+    "customer",
+    "face"
+  ]
+}

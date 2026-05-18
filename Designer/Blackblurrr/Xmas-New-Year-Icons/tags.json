@@ -1,0 +1,37 @@
+{
+  "calendar": [
+    "calendar",
+    "date",
+    "event",
+    "organizer"
+  ],
+  "balls": [
+    "ball",
+    "balls",
+    "sport"
+  ],
+  "elf": [
+    "elf"
+  ],
+  "santa": [
+    "santa"
+  ],
+  "candle": [
+    "candle"
+  ],
+  "angel": [
+    "angel",
+    "avatar"
+  ],
+  "home": [
+    "house",
+    "home",
+    "building"
+  ],
+  "wreath": [
+    "wreath"
+  ],
+  "snowman": [
+    "snowman"
+  ]
+}

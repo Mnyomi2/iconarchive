@@ -1,0 +1,42 @@
+{
+  "cupcake-cake-stars": [
+    "cupcake",
+    "cake",
+    "star",
+    "stars",
+    "birthday"
+  ],
+  "cupcake-cake-vanilla": [
+    "cupcake",
+    "cake",
+    "vanilla",
+    "birthday"
+  ],
+  "cupcake-cake": [
+    "cupcake",
+    "cake",
+    "birthday"
+  ],
+  "cupcake-cake-cherry": [
+    "cake",
+    "cupcake",
+    "cherry",
+    "birthday",
+    "food",
+    "fruit",
+    "meal"
+  ],
+  "cupcake-cake-hearts": [
+    "cupcake",
+    "cake",
+    "heart",
+    "hearts",
+    "valentine",
+    "birthday",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "love"
+  ]
+}

@@ -1,0 +1,3302 @@
+[
+  {
+    "name": "Adjustable-Wrench.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Adjustable-Wrench.16.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Adjustable-Wrench.24.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Adjustable-Wrench.32.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Axe.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Axe.16.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Axe.24.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Axe.32.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Chisel.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Chisel.16.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Chisel.24.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Chisel.32.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Circular-Saw.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Circular-Saw.16.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Circular-Saw.24.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Circular-Saw.32.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cordless-Drill.16.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cordless-Drill.24.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cordless-Drill.32.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cutter-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter-2.16.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter-2.24.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter-2.32.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter-3.16.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter-3.24.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter-3.32.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter.16.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter.24.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Cutter.32.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Glue-Gun.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Glue-Gun.16.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Glue-Gun.24.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Glue-Gun.32.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Hammer-Big.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hammer-Big.16.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hammer-Big.24.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hammer-Big.32.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hammer.16.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hammer.24.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hammer.32.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Brace-Tool.16.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Brace-Tool.24.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Brace-Tool.32.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Drill-Machine.16.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Drill-Machine.24.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Drill-Machine.32.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Saw.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Saw.16.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Saw.24.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Hand-Saw.32.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Jig-Saw-Jigsaw.16.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Jig-Saw-Jigsaw.24.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Jig-Saw-Jigsaw.32.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Long-Nose.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Long-Nose.16.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Long-Nose.24.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Long-Nose.32.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Manual-Drill.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Manual-Drill.16.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Manual-Drill.24.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Manual-Drill.32.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Metal-Saw.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Metal-Saw.16.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Metal-Saw.24.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Metal-Saw.32.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Monkey-Wrench.16.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Monkey-Wrench.24.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Monkey-Wrench.32.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Multi-Tool.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Multi-Tool.16.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Multi-Tool.24.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Multi-Tool.32.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Pliers-01.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-01.16.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-01.24.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-01.32.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-2.16.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-2.24.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-2.32.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-3.16.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-3.24.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-3.32.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-4.16.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-4.24.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Pliers-4.32.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Scraper.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Scraper.16.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Scraper.24.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Scraper.32.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Screw-Screwdriver.16.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Screw-Screwdriver.24.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Screw-Screwdriver.32.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Tape-Measure.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Tape-Measure.16.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Tape-Measure.24.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Tape-Measure.32.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Vise-Vice-Clamp.16.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Vise-Vice-Clamp.24.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Vise-Vice-Clamp.32.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Working-Bench.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Working-Bench.16.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Working-Bench.24.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Working-Bench.32.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Wrench.16.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Wrench.16.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.24.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Wrench.24.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.32.png",
+    "format": "Favicon",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Favicon/Wrench.32.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Adjustable-Wrench.icns",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Axe.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Axe.icns",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Chisel.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Chisel.icns",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Circular-Saw.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Circular-Saw.icns",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Cordless-Drill.icns",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cutter-2.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Cutter-2.icns",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Cutter-3.icns",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Cutter.icns",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Glue-Gun.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Glue-Gun.icns",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Hammer-Big.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Hammer-Big.icns",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Hammer.icns",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Hand-Brace-Tool.icns",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Hand-Drill-Machine.icns",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Saw.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Hand-Saw.icns",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Jig-Saw-Jigsaw.icns",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Long-Nose.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Long-Nose.icns",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Manual-Drill.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Manual-Drill.icns",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Metal-Saw.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Metal-Saw.icns",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Monkey-Wrench.icns",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Multi-Tool.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Multi-Tool.icns",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Pliers-01.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Pliers-01.icns",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Pliers-2.icns",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Pliers-3.icns",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Pliers-4.icns",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Scraper.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Scraper.icns",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Screw-Screwdriver.icns",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Tape-Measure.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Tape-Measure.icns",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Vise-Vice-Clamp.icns",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Working-Bench.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Working-Bench.icns",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Wrench.icns",
+    "format": "Mac",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Mac/Wrench.icns",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.128.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.256.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.48.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.512.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.64.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.72.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Adjustable-Wrench.96.png",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Axe.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.128.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.256.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.48.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.512.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.64.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.72.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Axe.96.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Chisel.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.128.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.256.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.48.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.512.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.64.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.72.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Chisel.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Chisel.96.png",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Circular-Saw.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.128.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.256.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.48.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.512.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.64.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.72.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Circular-Saw.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Circular-Saw.96.png",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.128.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.256.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.48.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.512.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.64.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.72.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cordless-Drill.96.png",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cutter-2.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.128.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.256.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.48.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.512.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.64.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.72.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-2.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-2.96.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.128.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.256.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.48.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.512.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.64.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.72.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter-3.96.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.128.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.256.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.48.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.512.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.64.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.72.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Cutter.96.png",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Glue-Gun.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.128.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.256.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.48.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.512.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.64.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.72.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Glue-Gun.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Glue-Gun.96.png",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Hammer-Big.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.128.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.256.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.48.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.512.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.64.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.72.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer-Big.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer-Big.96.png",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.128.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.256.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.48.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.512.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.64.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.72.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hammer.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hammer.96.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.128.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.256.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.48.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.512.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.64.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.72.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Brace-Tool.96.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.128.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.256.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.48.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.512.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.64.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.72.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Drill-Machine.96.png",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Saw.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.128.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.256.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.48.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.512.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.64.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.72.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Hand-Saw.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Hand-Saw.96.png",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.128.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.256.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.48.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.512.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.64.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.72.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Jig-Saw-Jigsaw.96.png",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Long-Nose.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.128.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.256.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.48.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.512.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.64.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.72.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Long-Nose.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Long-Nose.96.png",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Manual-Drill.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.128.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.256.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.48.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.512.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.64.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.72.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Manual-Drill.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Manual-Drill.96.png",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Metal-Saw.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.128.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.256.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.48.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.512.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.64.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.72.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Metal-Saw.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Metal-Saw.96.png",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.128.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.256.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.48.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.512.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.64.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.72.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Monkey-Wrench.96.png",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Multi-Tool.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.128.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.256.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.48.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.512.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.64.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.72.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Multi-Tool.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Multi-Tool.96.png",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Pliers-01.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.128.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.256.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.48.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.512.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.64.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.72.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-01.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-01.96.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.128.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.256.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.48.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.512.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.64.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.72.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-2.96.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.128.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.256.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.48.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.512.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.64.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.72.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-3.96.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.128.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.256.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.48.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.512.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.64.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.72.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Pliers-4.96.png",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Scraper.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.128.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.256.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.48.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.512.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.64.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.72.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Scraper.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Scraper.96.png",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.128.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.256.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.48.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.512.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.64.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.72.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Screw-Screwdriver.96.png",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Tape-Measure.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.128.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.256.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.48.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.512.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.64.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.72.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Tape-Measure.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Tape-Measure.96.png",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.128.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.256.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.48.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.512.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.64.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.72.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Vise-Vice-Clamp.96.png",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Working-Bench.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.128.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.256.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.48.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.512.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.64.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.72.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Working-Bench.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Working-Bench.96.png",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Wrench.128.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.128.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.256.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.256.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.48.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.48.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.512.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.512.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.64.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.64.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.72.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.72.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Wrench.96.png",
+    "format": "PNG",
+    "path": "Designer/Brisbanetanks/Tools-Icons/PNG/Wrench.96.png",
+    "tags": [
+      "wrench"
+    ]
+  },
+  {
+    "name": "Adjustable-Wrench.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Adjustable-Wrench.ico",
+    "tags": [
+      "adjustable",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Axe.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Axe.ico",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Chisel.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Chisel.ico",
+    "tags": [
+      "chisel"
+    ]
+  },
+  {
+    "name": "Circular-Saw.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Circular-Saw.ico",
+    "tags": [
+      "circular",
+      "saw"
+    ]
+  },
+  {
+    "name": "Cordless-Drill.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Cordless-Drill.ico",
+    "tags": [
+      "cordless",
+      "drill"
+    ]
+  },
+  {
+    "name": "Cutter-2.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Cutter-2.ico",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter-3.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Cutter-3.ico",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Cutter.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Cutter.ico",
+    "tags": [
+      "cutter"
+    ]
+  },
+  {
+    "name": "Glue-Gun.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Glue-Gun.ico",
+    "tags": [
+      "glue",
+      "gun",
+      "weapon",
+      "military",
+      "army"
+    ]
+  },
+  {
+    "name": "Hammer-Big.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Hammer-Big.ico",
+    "tags": [
+      "hammer",
+      "big"
+    ]
+  },
+  {
+    "name": "Hammer.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Hammer.ico",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "Hand-Brace-Tool.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Hand-Brace-Tool.ico",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "brace",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Hand-Drill-Machine.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Hand-Drill-Machine.ico",
+    "tags": [
+      "hand",
+      "finger",
+      "vote",
+      "drill",
+      "machine"
+    ]
+  },
+  {
+    "name": "Hand-Saw.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Hand-Saw.ico",
+    "tags": [
+      "finger",
+      "hand",
+      "vote",
+      "saw"
+    ]
+  },
+  {
+    "name": "Jig-Saw-Jigsaw.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Jig-Saw-Jigsaw.ico",
+    "tags": [
+      "jig",
+      "saw",
+      "jigsaw"
+    ]
+  },
+  {
+    "name": "Long-Nose.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Long-Nose.ico",
+    "tags": [
+      "long",
+      "nose"
+    ]
+  },
+  {
+    "name": "Manual-Drill.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Manual-Drill.ico",
+    "tags": [
+      "manual",
+      "drill"
+    ]
+  },
+  {
+    "name": "Metal-Saw.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Metal-Saw.ico",
+    "tags": [
+      "metal",
+      "saw"
+    ]
+  },
+  {
+    "name": "Monkey-Wrench.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Monkey-Wrench.ico",
+    "tags": [
+      "monkey",
+      "wrench"
+    ]
+  },
+  {
+    "name": "Multi-Tool.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Multi-Tool.ico",
+    "tags": [
+      "multi",
+      "tool",
+      "utilities",
+      "utils"
+    ]
+  },
+  {
+    "name": "Pliers-01.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Pliers-01.ico",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-2.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Pliers-2.ico",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-3.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Pliers-3.ico",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Pliers-4.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Pliers-4.ico",
+    "tags": [
+      "pliers"
+    ]
+  },
+  {
+    "name": "Scraper.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Scraper.ico",
+    "tags": [
+      "scraper"
+    ]
+  },
+  {
+    "name": "Screw-Screwdriver.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Screw-Screwdriver.ico",
+    "tags": [
+      "screw",
+      "screwdriver"
+    ]
+  },
+  {
+    "name": "Tape-Measure.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Tape-Measure.ico",
+    "tags": [
+      "tape",
+      "measure"
+    ]
+  },
+  {
+    "name": "Vise-Vice-Clamp.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Vise-Vice-Clamp.ico",
+    "tags": [
+      "vise",
+      "vice",
+      "clamp"
+    ]
+  },
+  {
+    "name": "Working-Bench.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Working-Bench.ico",
+    "tags": [
+      "working",
+      "bench"
+    ]
+  },
+  {
+    "name": "Wrench.ico",
+    "format": "Windows",
+    "path": "Designer/Brisbanetanks/Tools-Icons/Windows/Wrench.ico",
+    "tags": [
+      "wrench"
+    ]
+  }
+]

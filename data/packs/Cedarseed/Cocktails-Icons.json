@@ -1,0 +1,5627 @@
+[
+  {
+    "name": "Americano.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Americano.16.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Americano.24.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Americano.32.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Apple-Martini.16.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Apple-Martini.24.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Apple-Martini.32.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "B-52.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/B-52.16.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "B-52.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/B-52.24.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "B-52.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/B-52.32.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bacardi.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bacardi.16.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bacardi.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bacardi.24.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bacardi.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bacardi.32.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Banana-Daiquiri.16.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Banana-Daiquiri.24.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Banana-Daiquiri.32.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Black-Russian.16.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Black-Russian.24.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Black-Russian.32.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bloody-Mary.16.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bloody-Mary.24.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bloody-Mary.32.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Brandy-Alexander.16.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Brandy-Alexander.24.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Brandy-Alexander.32.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Brandy-Eggnog.16.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Brandy-Eggnog.24.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Brandy-Eggnog.32.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bronx.16.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bronx.24.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bronx.32.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bull-Shot.16.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bull-Shot.24.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Bull-Shot.32.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Caipirinha.16.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Caipirinha.24.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Caipirinha.32.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Cosmopolitan.16.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Cosmopolitan.24.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Cosmopolitan.32.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Cuba-Libre.16.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Cuba-Libre.24.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Cuba-Libre.32.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Daiquiri.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Daiquiri.16.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Daiquiri.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Daiquiri.24.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Daiquiri.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Daiquiri.32.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/French-Connection.16.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/French-Connection.24.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/French-Connection.32.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Frozen-Daiquiri.16.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Frozen-Daiquiri.24.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Frozen-Daiquiri.32.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Gibson.16.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Gibson.24.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Gibson.32.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Gin-Fizz.16.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Gin-Fizz.24.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Gin-Fizz.32.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Godfather.16.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Godfather.24.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Godfather.32.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Godmother.16.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Godmother.24.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Godmother.32.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Golden-Cadillac.16.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Golden-Cadillac.24.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Golden-Cadillac.32.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Golden-Dream.16.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Golden-Dream.24.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Golden-Dream.32.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Grasshopper.16.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Grasshopper.24.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Grasshopper.32.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Harvey-Wallbanger.16.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Harvey-Wallbanger.24.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Harvey-Wallbanger.32.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Horses-Neck.16.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Horses-Neck.24.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Horses-Neck.32.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Irish-Coffee.16.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Irish-Coffee.24.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Irish-Coffee.32.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Japanese-Slipper.16.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Japanese-Slipper.24.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Japanese-Slipper.32.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/John-Collins.16.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/John-Collins.24.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/John-Collins.32.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Kamikaze.16.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Kamikaze.24.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Kamikaze.32.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Long-Island-Iced-Tea.16.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Long-Island-Iced-Tea.24.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Long-Island-Iced-Tea.32.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Mai-Tai.16.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Mai-Tai.24.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Mai-Tai.32.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan-Dry.16.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan-Dry.24.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan-Dry.32.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan-Perfect.16.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan-Perfect.24.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan-Perfect.32.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan.16.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan.24.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Manhattan.32.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Margarita.16.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Margarita.24.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Margarita.32.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Dry.16.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Dry.24.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Dry.32.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Perfect.16.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Perfect.24.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Perfect.32.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Sweet.16.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Sweet.24.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Martini-Sweet.32.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Mojito.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Mojito.16.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mojito.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Mojito.24.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mojito.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Mojito.32.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Negroni.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Negroni.16.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Negroni.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Negroni.24.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Negroni.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Negroni.32.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Old-Fashioned.16.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Old-Fashioned.24.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Old-Fashioned.32.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Orgasm.16.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Orgasm.24.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Orgasm.32.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Paradise.16.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Paradise.24.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Paradise.32.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Pina-Colada.16.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Pina-Colada.24.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Pina-Colada.32.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Planters-Punch.16.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Planters-Punch.24.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Planters-Punch.32.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Porto-Flip.16.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Porto-Flip.24.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Porto-Flip.32.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rob-Roy.16.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rob-Roy.24.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rob-Roy.32.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rose.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rose.16.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rose.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rose.24.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rose.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rose.32.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rusty-Nail.16.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rusty-Nail.24.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Rusty-Nail.32.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Salty-Dog.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Salty-Dog.16.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Salty-Dog.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Salty-Dog.24.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Salty-Dog.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Salty-Dog.32.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Screwdriver.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Screwdriver.16.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Screwdriver.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Screwdriver.24.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Screwdriver.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Screwdriver.32.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Sea-breeze.16.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Sea-breeze.24.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Sea-breeze.32.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Sex-on-the-Beach.16.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Sex-on-the-Beach.24.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Sex-on-the-Beach.32.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Singapore-Sling.16.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Singapore-Sling.24.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Singapore-Sling.32.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Tequila-Sunrise.16.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Tequila-Sunrise.24.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Tequila-Sunrise.32.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Vodka-Martini.16.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Vodka-Martini.24.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Vodka-Martini.32.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Whiskey-Sour.16.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Whiskey-Sour.24.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/Whiskey-Sour.32.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/White-Russian.16.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/White-Russian.24.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Favicon/White-Russian.32.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Americano.icns",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Apple-Martini.icns",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "B-52.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/B-52.icns",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bacardi.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Bacardi.icns",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Banana-Daiquiri.icns",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Black-Russian.icns",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Bloody-Mary.icns",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Brandy-Alexander.icns",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Brandy-Eggnog.icns",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Bronx.icns",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Bull-Shot.icns",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Caipirinha.icns",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Cosmopolitan.icns",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Cuba-Libre.icns",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Daiquiri.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Daiquiri.icns",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/French-Connection.icns",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Frozen-Daiquiri.icns",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Gibson.icns",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Gin-Fizz.icns",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Godfather.icns",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Godmother.icns",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Golden-Cadillac.icns",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Golden-Dream.icns",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Grasshopper.icns",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Harvey-Wallbanger.icns",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Horses-Neck.icns",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Irish-Coffee.icns",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Japanese-Slipper.icns",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/John-Collins.icns",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Kamikaze.icns",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Long-Island-Iced-Tea.icns",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Mai-Tai.icns",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Manhattan-Dry.icns",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Manhattan-Perfect.icns",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Manhattan.icns",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Margarita.icns",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Martini-Dry.icns",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Martini-Perfect.icns",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Martini-Sweet.icns",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Mojito.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Mojito.icns",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Negroni.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Negroni.icns",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Old-Fashioned.icns",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Orgasm.icns",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Paradise.icns",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Pina-Colada.icns",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Planters-Punch.icns",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Porto-Flip.icns",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Rob-Roy.icns",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rose.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Rose.icns",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Rusty-Nail.icns",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Salty-Dog.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Salty-Dog.icns",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Screwdriver.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Screwdriver.icns",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Sea-breeze.icns",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Sex-on-the-Beach.icns",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Singapore-Sling.icns",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Tequila-Sunrise.icns",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Vodka-Martini.icns",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/Whiskey-Sour.icns",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.icns",
+    "format": "Mac",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Mac/White-Russian.icns",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Americano.128.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Americano.48.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Americano.64.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Americano.72.png",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Apple-Martini.128.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Apple-Martini.48.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Apple-Martini.64.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Apple-Martini.72.png",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "B-52.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/B-52.128.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "B-52.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/B-52.48.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "B-52.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/B-52.64.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "B-52.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/B-52.72.png",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bacardi.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bacardi.128.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bacardi.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bacardi.48.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bacardi.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bacardi.64.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bacardi.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bacardi.72.png",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Banana-Daiquiri.128.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Banana-Daiquiri.48.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Banana-Daiquiri.64.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Banana-Daiquiri.72.png",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Black-Russian.128.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Black-Russian.48.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Black-Russian.64.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Black-Russian.72.png",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bloody-Mary.128.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bloody-Mary.48.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bloody-Mary.64.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bloody-Mary.72.png",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Alexander.128.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Alexander.48.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Alexander.64.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Alexander.72.png",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Eggnog.128.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Eggnog.48.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Eggnog.64.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Brandy-Eggnog.72.png",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bronx.128.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bronx.48.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bronx.64.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bronx.72.png",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bull-Shot.128.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bull-Shot.48.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bull-Shot.64.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Bull-Shot.72.png",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Caipirinha.128.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Caipirinha.48.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Caipirinha.64.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Caipirinha.72.png",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cosmopolitan.128.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cosmopolitan.48.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cosmopolitan.64.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cosmopolitan.72.png",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cuba-Libre.128.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cuba-Libre.48.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cuba-Libre.64.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Cuba-Libre.72.png",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Daiquiri.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Daiquiri.128.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Daiquiri.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Daiquiri.48.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Daiquiri.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Daiquiri.64.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Daiquiri.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Daiquiri.72.png",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/French-Connection.128.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/French-Connection.48.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/French-Connection.64.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/French-Connection.72.png",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Frozen-Daiquiri.128.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Frozen-Daiquiri.48.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Frozen-Daiquiri.64.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Frozen-Daiquiri.72.png",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gibson.128.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gibson.48.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gibson.64.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gibson.72.png",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gin-Fizz.128.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gin-Fizz.48.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gin-Fizz.64.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Gin-Fizz.72.png",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godfather.128.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godfather.48.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godfather.64.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godfather.72.png",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godmother.128.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godmother.48.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godmother.64.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Godmother.72.png",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Cadillac.128.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Cadillac.48.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Cadillac.64.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Cadillac.72.png",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Dream.128.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Dream.48.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Dream.64.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Golden-Dream.72.png",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Grasshopper.128.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Grasshopper.48.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Grasshopper.64.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Grasshopper.72.png",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Harvey-Wallbanger.128.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Harvey-Wallbanger.48.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Harvey-Wallbanger.64.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Harvey-Wallbanger.72.png",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Horses-Neck.128.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Horses-Neck.48.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Horses-Neck.64.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Horses-Neck.72.png",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Irish-Coffee.128.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Irish-Coffee.48.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Irish-Coffee.64.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Irish-Coffee.72.png",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Japanese-Slipper.128.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Japanese-Slipper.48.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Japanese-Slipper.64.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Japanese-Slipper.72.png",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/John-Collins.128.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/John-Collins.48.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/John-Collins.64.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/John-Collins.72.png",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Kamikaze.128.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Kamikaze.48.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Kamikaze.64.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Kamikaze.72.png",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Long-Island-Iced-Tea.128.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Long-Island-Iced-Tea.48.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Long-Island-Iced-Tea.64.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Long-Island-Iced-Tea.72.png",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mai-Tai.128.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mai-Tai.48.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mai-Tai.64.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mai-Tai.72.png",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Dry.128.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Dry.48.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Dry.64.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Dry.72.png",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Perfect.128.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Perfect.48.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Perfect.64.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan-Perfect.72.png",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan.128.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan.48.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan.64.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Manhattan.72.png",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Margarita.128.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Margarita.48.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Margarita.64.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Margarita.72.png",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Dry.128.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Dry.48.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Dry.64.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Dry.72.png",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Perfect.128.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Perfect.48.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Perfect.64.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Perfect.72.png",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Sweet.128.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Sweet.48.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Sweet.64.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Martini-Sweet.72.png",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Mojito.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mojito.128.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mojito.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mojito.48.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mojito.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mojito.64.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mojito.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Mojito.72.png",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Negroni.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Negroni.128.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Negroni.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Negroni.48.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Negroni.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Negroni.64.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Negroni.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Negroni.72.png",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Old-Fashioned.128.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Old-Fashioned.48.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Old-Fashioned.64.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Old-Fashioned.72.png",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Orgasm.128.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Orgasm.48.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Orgasm.64.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Orgasm.72.png",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Paradise.128.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Paradise.48.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Paradise.64.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Paradise.72.png",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Pina-Colada.128.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Pina-Colada.48.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Pina-Colada.64.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Pina-Colada.72.png",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Planters-Punch.128.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Planters-Punch.48.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Planters-Punch.64.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Planters-Punch.72.png",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Porto-Flip.128.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Porto-Flip.48.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Porto-Flip.64.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Porto-Flip.72.png",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rob-Roy.128.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rob-Roy.48.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rob-Roy.64.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rob-Roy.72.png",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rose.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rose.128.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rose.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rose.48.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rose.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rose.64.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rose.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rose.72.png",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rusty-Nail.128.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rusty-Nail.48.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rusty-Nail.64.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Rusty-Nail.72.png",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Salty-Dog.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Salty-Dog.128.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Salty-Dog.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Salty-Dog.48.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Salty-Dog.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Salty-Dog.64.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Salty-Dog.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Salty-Dog.72.png",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Screwdriver.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Screwdriver.128.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Screwdriver.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Screwdriver.48.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Screwdriver.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Screwdriver.64.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Screwdriver.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Screwdriver.72.png",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sea-breeze.128.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sea-breeze.48.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sea-breeze.64.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sea-breeze.72.png",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sex-on-the-Beach.128.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sex-on-the-Beach.48.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sex-on-the-Beach.64.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Sex-on-the-Beach.72.png",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Singapore-Sling.128.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Singapore-Sling.48.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Singapore-Sling.64.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Singapore-Sling.72.png",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Tequila-Sunrise.128.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Tequila-Sunrise.48.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Tequila-Sunrise.64.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Tequila-Sunrise.72.png",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Vodka-Martini.128.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Vodka-Martini.48.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Vodka-Martini.64.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Vodka-Martini.72.png",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Whiskey-Sour.128.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Whiskey-Sour.48.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Whiskey-Sour.64.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/Whiskey-Sour.72.png",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.128.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/White-Russian.128.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.48.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/White-Russian.48.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.64.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/White-Russian.64.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.72.png",
+    "format": "PNG",
+    "path": "Designer/Cedarseed/Cocktails-Icons/PNG/White-Russian.72.png",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Americano.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Americano.ico",
+    "tags": [
+      "americano",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Apple-Martini.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Apple-Martini.ico",
+    "tags": [
+      "apple",
+      "martini",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "B-52.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/B-52.ico",
+    "tags": [
+      "cocktail",
+      "drink",
+      "beverage",
+      "layers",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bacardi.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Bacardi.ico",
+    "tags": [
+      "bacardi",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Banana-Daiquiri.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Banana-Daiquiri.ico",
+    "tags": [
+      "banana",
+      "daiquiri",
+      "fruit",
+      "cocktail",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Black-Russian.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Black-Russian.ico",
+    "tags": [
+      "black",
+      "russian",
+      "cocktail",
+      "beverage",
+      "chocolate",
+      "drink",
+      "vodka",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Bloody-Mary.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Bloody-Mary.ico",
+    "tags": [
+      "bloody",
+      "mary",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Alexander.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Brandy-Alexander.ico",
+    "tags": [
+      "brandy",
+      "alexander",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Brandy-Eggnog.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Brandy-Eggnog.ico",
+    "tags": [
+      "brandy",
+      "eggnog",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bronx.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Bronx.ico",
+    "tags": [
+      "bronx",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Bull-Shot.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Bull-Shot.ico",
+    "tags": [
+      "bull",
+      "shot",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Caipirinha.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Caipirinha.ico",
+    "tags": [
+      "caipirinha",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cosmopolitan.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Cosmopolitan.ico",
+    "tags": [
+      "cosmopolitan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Cuba-Libre.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Cuba-Libre.ico",
+    "tags": [
+      "cuba",
+      "libre",
+      "beverage",
+      "cocktail",
+      "lime",
+      "rum",
+      "coke",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Daiquiri.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Daiquiri.ico",
+    "tags": [
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "French-Connection.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/French-Connection.ico",
+    "tags": [
+      "french",
+      "connection",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Frozen-Daiquiri.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Frozen-Daiquiri.ico",
+    "tags": [
+      "frozen",
+      "daiquiri",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gibson.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Gibson.ico",
+    "tags": [
+      "gibson",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Gin-Fizz.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Gin-Fizz.ico",
+    "tags": [
+      "gin",
+      "fizz",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godfather.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Godfather.ico",
+    "tags": [
+      "godfather",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Godmother.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Godmother.ico",
+    "tags": [
+      "godmother",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Cadillac.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Golden-Cadillac.ico",
+    "tags": [
+      "golden",
+      "cadillac",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Golden-Dream.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Golden-Dream.ico",
+    "tags": [
+      "golden",
+      "dream",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Grasshopper.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Grasshopper.ico",
+    "tags": [
+      "grasshopper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Harvey-Wallbanger.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Harvey-Wallbanger.ico",
+    "tags": [
+      "harvey",
+      "wallbanger",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Horses-Neck.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Horses-Neck.ico",
+    "tags": [
+      "horse",
+      "horses",
+      "neck",
+      "animal",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Irish-Coffee.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Irish-Coffee.ico",
+    "tags": [
+      "irish",
+      "coffee",
+      "java",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Japanese-Slipper.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Japanese-Slipper.ico",
+    "tags": [
+      "japanese",
+      "slipper",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "John-Collins.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/John-Collins.ico",
+    "tags": [
+      "john",
+      "collins",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Kamikaze.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Kamikaze.ico",
+    "tags": [
+      "kamikaze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Long-Island-Iced-Tea.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Long-Island-Iced-Tea.ico",
+    "tags": [
+      "long",
+      "island",
+      "iced",
+      "tea",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Mai-Tai.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Mai-Tai.ico",
+    "tags": [
+      "mai",
+      "tai",
+      "cocktail",
+      "tropical",
+      "beverage",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Manhattan-Dry.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Manhattan-Dry.ico",
+    "tags": [
+      "manhattan",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan-Perfect.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Manhattan-Perfect.ico",
+    "tags": [
+      "manhattan",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Manhattan.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Manhattan.ico",
+    "tags": [
+      "manhattan",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Margarita.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Margarita.ico",
+    "tags": [
+      "margarita",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Dry.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Martini-Dry.ico",
+    "tags": [
+      "martini",
+      "dry",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Perfect.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Martini-Perfect.ico",
+    "tags": [
+      "martini",
+      "perfect",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Martini-Sweet.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Martini-Sweet.ico",
+    "tags": [
+      "martini",
+      "sweet",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Mojito.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Mojito.ico",
+    "tags": [
+      "mojito",
+      "cocktail",
+      "drink",
+      "food",
+      "meal"
+    ]
+  },
+  {
+    "name": "Negroni.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Negroni.ico",
+    "tags": [
+      "negroni",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Old-Fashioned.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Old-Fashioned.ico",
+    "tags": [
+      "old",
+      "fashioned",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Orgasm.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Orgasm.ico",
+    "tags": [
+      "orgasm",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Paradise.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Paradise.ico",
+    "tags": [
+      "paradise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Pina-Colada.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Pina-Colada.ico",
+    "tags": [
+      "pina",
+      "colada",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Planters-Punch.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Planters-Punch.ico",
+    "tags": [
+      "planters",
+      "punch",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Porto-Flip.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Porto-Flip.ico",
+    "tags": [
+      "porto",
+      "flip",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rob-Roy.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Rob-Roy.ico",
+    "tags": [
+      "rob",
+      "roy",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Rose.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Rose.ico",
+    "tags": [
+      "rose",
+      "cocktail",
+      "love",
+      "valentine",
+      "birthday",
+      "cherry",
+      "flower",
+      "pink",
+      "food",
+      "fruit",
+      "meal"
+    ]
+  },
+  {
+    "name": "Rusty-Nail.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Rusty-Nail.ico",
+    "tags": [
+      "rusty",
+      "nail",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Salty-Dog.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Salty-Dog.ico",
+    "tags": [
+      "salty",
+      "dog",
+      "hound",
+      "cocktail",
+      "pet",
+      "animal"
+    ]
+  },
+  {
+    "name": "Screwdriver.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Screwdriver.ico",
+    "tags": [
+      "screwdriver",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sea-breeze.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Sea-breeze.ico",
+    "tags": [
+      "sea",
+      "breeze",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Sex-on-the-Beach.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Sex-on-the-Beach.ico",
+    "tags": [
+      "sex",
+      "cocktail",
+      "beach"
+    ]
+  },
+  {
+    "name": "Singapore-Sling.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Singapore-Sling.ico",
+    "tags": [
+      "singapore",
+      "sling",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Tequila-Sunrise.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Tequila-Sunrise.ico",
+    "tags": [
+      "tequila",
+      "sunrise",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "Vodka-Martini.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Vodka-Martini.ico",
+    "tags": [
+      "vodka",
+      "martini",
+      "cocktail",
+      "beverage",
+      "drinks",
+      "glass",
+      "olive"
+    ]
+  },
+  {
+    "name": "Whiskey-Sour.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/Whiskey-Sour.ico",
+    "tags": [
+      "whiskey",
+      "sour",
+      "cocktail"
+    ]
+  },
+  {
+    "name": "White-Russian.ico",
+    "format": "Windows",
+    "path": "Designer/Cedarseed/Cocktails-Icons/Windows/White-Russian.ico",
+    "tags": [
+      "white",
+      "russian",
+      "cocktail"
+    ]
+  }
+]

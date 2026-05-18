@@ -1,0 +1,396 @@
+[
+  {
+    "name": "Alice.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Alice.32.png",
+    "tags": [
+      "alice"
+    ]
+  },
+  {
+    "name": "Asok.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Asok.32.png",
+    "tags": [
+      "asok"
+    ]
+  },
+  {
+    "name": "Bob.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Bob.32.png",
+    "tags": [
+      "bob"
+    ]
+  },
+  {
+    "name": "Bos-Dilbert-Icons-Folder.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Bos-Dilbert-Icons-Folder.32.png",
+    "tags": [
+      "bos",
+      "dilbert",
+      "icons",
+      "folder"
+    ]
+  },
+  {
+    "name": "Boss.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Boss.32.png",
+    "tags": [
+      "boss",
+      "business"
+    ]
+  },
+  {
+    "name": "Catbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Catbert.32.png",
+    "tags": [
+      "catbert"
+    ]
+  },
+  {
+    "name": "Dilbert-Garbage-Man-Yoda.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Dilbert-Garbage-Man-Yoda.32.png",
+    "tags": [
+      "dilbert",
+      "bin",
+      "trash",
+      "recycled",
+      "garbage",
+      "recyclebin",
+      "recycle",
+      "man",
+      "male",
+      "boy",
+      "guy",
+      "joda",
+      "yoda",
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Dilbert-Mom.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Dilbert-Mom.32.png",
+    "tags": [
+      "dilbert",
+      "mom"
+    ]
+  },
+  {
+    "name": "Dilbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Dilbert.32.png",
+    "tags": [
+      "dilbert"
+    ]
+  },
+  {
+    "name": "HuhBoss.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/HuhBoss.32.png",
+    "tags": [
+      "huhboss"
+    ]
+  },
+  {
+    "name": "King-Dogbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/King-Dogbert.32.png",
+    "tags": [
+      "dogbert",
+      "king"
+    ]
+  },
+  {
+    "name": "Old-Alice.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Old-Alice.32.png",
+    "tags": [
+      "old",
+      "alice"
+    ]
+  },
+  {
+    "name": "Old-Catbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Old-Catbert.32.png",
+    "tags": [
+      "old",
+      "catbert"
+    ]
+  },
+  {
+    "name": "Phil-Ruler-of-Heck.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Phil-Ruler-of-Heck.32.png",
+    "tags": [
+      "phil",
+      "ruler",
+      "heck"
+    ]
+  },
+  {
+    "name": "Profile-Dilbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Profile-Dilbert.32.png",
+    "tags": [
+      "dilbert",
+      "profile"
+    ]
+  },
+  {
+    "name": "Ratbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Ratbert.32.png",
+    "tags": [
+      "ratbert"
+    ]
+  },
+  {
+    "name": "Security.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Security.32.png",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "name": "Sit-Dogbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Sit-Dogbert.32.png",
+    "tags": [
+      "sit",
+      "dogbert"
+    ]
+  },
+  {
+    "name": "Tie-Dogbert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Tie-Dogbert.32.png",
+    "tags": [
+      "tie",
+      "dogbert"
+    ]
+  },
+  {
+    "name": "Tina.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Tina.32.png",
+    "tags": [
+      "tina"
+    ]
+  },
+  {
+    "name": "Wally.32.png",
+    "format": "PNG",
+    "path": "Designer/Bo/Dilbert-Icons/PNG/Wally.32.png",
+    "tags": [
+      "wally"
+    ]
+  },
+  {
+    "name": "Alice.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Alice.ico",
+    "tags": [
+      "alice"
+    ]
+  },
+  {
+    "name": "Asok.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Asok.ico",
+    "tags": [
+      "asok"
+    ]
+  },
+  {
+    "name": "Bob.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Bob.ico",
+    "tags": [
+      "bob"
+    ]
+  },
+  {
+    "name": "Bos-Dilbert-Icons-Folder.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Bos-Dilbert-Icons-Folder.ico",
+    "tags": [
+      "bos",
+      "dilbert",
+      "icons",
+      "folder"
+    ]
+  },
+  {
+    "name": "Boss.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Boss.ico",
+    "tags": [
+      "boss",
+      "business"
+    ]
+  },
+  {
+    "name": "Catbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Catbert.ico",
+    "tags": [
+      "catbert"
+    ]
+  },
+  {
+    "name": "Dilbert-Garbage-Man-Yoda.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Dilbert-Garbage-Man-Yoda.ico",
+    "tags": [
+      "dilbert",
+      "bin",
+      "trash",
+      "recycled",
+      "garbage",
+      "recyclebin",
+      "recycle",
+      "man",
+      "male",
+      "boy",
+      "guy",
+      "joda",
+      "yoda",
+      "person",
+      "customer",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Dilbert-Mom.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Dilbert-Mom.ico",
+    "tags": [
+      "dilbert",
+      "mom"
+    ]
+  },
+  {
+    "name": "Dilbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Dilbert.ico",
+    "tags": [
+      "dilbert"
+    ]
+  },
+  {
+    "name": "HuhBoss.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/HuhBoss.ico",
+    "tags": [
+      "huhboss"
+    ]
+  },
+  {
+    "name": "King-Dogbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/King-Dogbert.ico",
+    "tags": [
+      "dogbert",
+      "king"
+    ]
+  },
+  {
+    "name": "Old-Alice.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Old-Alice.ico",
+    "tags": [
+      "old",
+      "alice"
+    ]
+  },
+  {
+    "name": "Old-Catbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Old-Catbert.ico",
+    "tags": [
+      "old",
+      "catbert"
+    ]
+  },
+  {
+    "name": "Phil-Ruler-of-Heck.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Phil-Ruler-of-Heck.ico",
+    "tags": [
+      "phil",
+      "ruler",
+      "heck"
+    ]
+  },
+  {
+    "name": "Profile-Dilbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Profile-Dilbert.ico",
+    "tags": [
+      "dilbert",
+      "profile"
+    ]
+  },
+  {
+    "name": "Ratbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Ratbert.ico",
+    "tags": [
+      "ratbert"
+    ]
+  },
+  {
+    "name": "Security.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Security.ico",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "name": "Sit-Dogbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Sit-Dogbert.ico",
+    "tags": [
+      "sit",
+      "dogbert"
+    ]
+  },
+  {
+    "name": "Tie-Dogbert.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Tie-Dogbert.ico",
+    "tags": [
+      "tie",
+      "dogbert"
+    ]
+  },
+  {
+    "name": "Tina.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Tina.ico",
+    "tags": [
+      "tina"
+    ]
+  },
+  {
+    "name": "Wally.ico",
+    "format": "Windows",
+    "path": "Designer/Bo/Dilbert-Icons/Windows/Wally.ico",
+    "tags": [
+      "wally"
+    ]
+  }
+]

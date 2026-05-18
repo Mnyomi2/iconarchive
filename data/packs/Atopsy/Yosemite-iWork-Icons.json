@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Keynote.16.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Keynote.16.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.24.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Keynote.24.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.32.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Keynote.32.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Numbers.16.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Numbers.16.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.24.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Numbers.24.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.32.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Numbers.32.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Pages.16.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Pages.16.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.24.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Pages.24.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.32.png",
+    "format": "Favicon",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Favicon/Pages.32.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Keynote.icns",
+    "format": "Mac",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Mac/Keynote.icns",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Numbers.icns",
+    "format": "Mac",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Mac/Numbers.icns",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Pages.icns",
+    "format": "Mac",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Mac/Pages.icns",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Keynote.1024.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.1024.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.128.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.128.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.256.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.256.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.48.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.48.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.512.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.512.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.64.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.64.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.72.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.72.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Keynote.96.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Keynote.96.png",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Numbers.1024.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.1024.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.128.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.128.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.256.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.256.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.48.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.48.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.512.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.512.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.64.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.64.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.72.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.72.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Numbers.96.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Numbers.96.png",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Pages.1024.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.1024.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.128.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.128.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.256.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.256.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.48.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.48.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.512.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.512.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.64.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.64.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.72.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.72.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Pages.96.png",
+    "format": "PNG",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/PNG/Pages.96.png",
+    "tags": [
+      "pages"
+    ]
+  },
+  {
+    "name": "Keynote.ico",
+    "format": "Windows",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Windows/Keynote.ico",
+    "tags": [
+      "keynote"
+    ]
+  },
+  {
+    "name": "Numbers.ico",
+    "format": "Windows",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Windows/Numbers.ico",
+    "tags": [
+      "number",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Pages.ico",
+    "format": "Windows",
+    "path": "Designer/Atopsy/Yosemite-iWork-Icons/Windows/Pages.ico",
+    "tags": [
+      "pages"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "Strong-box-robbed": [
+    "strong",
+    "box",
+    "robbed"
+  ],
+  "Coins": [
+    "money",
+    "cash",
+    "coins",
+    "dollar",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Strong-box-money": [
+    "strong",
+    "box",
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Money": [
+    "money",
+    "dollar",
+    "coins",
+    "bank",
+    "cash",
+    "finance",
+    "business"
+  ],
+  "Strong-box-closed": [
+    "strong",
+    "box",
+    "closed"
+  ]
+}

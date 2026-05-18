@@ -1,5 +1,801 @@
 [
   {
+    "name": "AMD-Barcelona-CPU.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/AMD-Barcelona-CPU.16.png",
+    "tags": [
+      "amd",
+      "barcelona",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Barcelona-CPU.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/AMD-Barcelona-CPU.24.png",
+    "tags": [
+      "amd",
+      "barcelona",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Barcelona-CPU.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/AMD-Barcelona-CPU.32.png",
+    "tags": [
+      "amd",
+      "barcelona",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Sempron-CPU.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/AMD-Sempron-CPU.16.png",
+    "tags": [
+      "amd",
+      "sempron",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Sempron-CPU.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/AMD-Sempron-CPU.24.png",
+    "tags": [
+      "amd",
+      "sempron",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Sempron-CPU.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/AMD-Sempron-CPU.32.png",
+    "tags": [
+      "amd",
+      "sempron",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "American-Audio-HP-700-Headset.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/American-Audio-HP-700-Headset.16.png",
+    "tags": [
+      "audio",
+      "american",
+      "music",
+      "sound",
+      "headphone",
+      "headset",
+      "earphone"
+    ]
+  },
+  {
+    "name": "American-Audio-HP-700-Headset.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/American-Audio-HP-700-Headset.24.png",
+    "tags": [
+      "audio",
+      "american",
+      "music",
+      "sound",
+      "headphone",
+      "headset",
+      "earphone"
+    ]
+  },
+  {
+    "name": "American-Audio-HP-700-Headset.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/American-Audio-HP-700-Headset.32.png",
+    "tags": [
+      "audio",
+      "american",
+      "music",
+      "sound",
+      "headphone",
+      "headset",
+      "earphone"
+    ]
+  },
+  {
+    "name": "CPU-AMD.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-AMD.16.png",
+    "tags": [
+      "processor",
+      "cpu",
+      "amd"
+    ]
+  },
+  {
+    "name": "CPU-AMD.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-AMD.24.png",
+    "tags": [
+      "processor",
+      "cpu",
+      "amd"
+    ]
+  },
+  {
+    "name": "CPU-AMD.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-AMD.32.png",
+    "tags": [
+      "processor",
+      "cpu",
+      "amd"
+    ]
+  },
+  {
+    "name": "CPU-Intel.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-Intel.16.png",
+    "tags": [
+      "cpu",
+      "intel",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Intel.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-Intel.24.png",
+    "tags": [
+      "cpu",
+      "intel",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Intel.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-Intel.32.png",
+    "tags": [
+      "cpu",
+      "intel",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Z.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-Z.16.png",
+    "tags": [
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Z.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-Z.24.png",
+    "tags": [
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Z.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/CPU-Z.32.png",
+    "tags": [
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "Creative-Aurvana-X-Fi-Headphones.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Creative-Aurvana-X-Fi-Headphones.16.png",
+    "tags": [
+      "creative",
+      "aurvana",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Creative-Aurvana-X-Fi-Headphones.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Creative-Aurvana-X-Fi-Headphones.24.png",
+    "tags": [
+      "creative",
+      "aurvana",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Creative-Aurvana-X-Fi-Headphones.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Creative-Aurvana-X-Fi-Headphones.32.png",
+    "tags": [
+      "creative",
+      "aurvana",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Creative-Fatal1ty-Gaming-Headset.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Creative-Fatal1ty-Gaming-Headset.16.png",
+    "tags": [
+      "creative",
+      "fatalty",
+      "gaming",
+      "earphone",
+      "headphone",
+      "headset"
+    ]
+  },
+  {
+    "name": "Creative-Fatal1ty-Gaming-Headset.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Creative-Fatal1ty-Gaming-Headset.24.png",
+    "tags": [
+      "creative",
+      "fatalty",
+      "gaming",
+      "earphone",
+      "headphone",
+      "headset"
+    ]
+  },
+  {
+    "name": "Creative-Fatal1ty-Gaming-Headset.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Creative-Fatal1ty-Gaming-Headset.32.png",
+    "tags": [
+      "creative",
+      "fatalty",
+      "gaming",
+      "earphone",
+      "headphone",
+      "headset"
+    ]
+  },
+  {
+    "name": "Genius-HS04A.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Genius-HS04A.16.png",
+    "tags": [
+      "genius",
+      "hsa"
+    ]
+  },
+  {
+    "name": "Genius-HS04A.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Genius-HS04A.24.png",
+    "tags": [
+      "genius",
+      "hsa"
+    ]
+  },
+  {
+    "name": "Genius-HS04A.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Genius-HS04A.32.png",
+    "tags": [
+      "genius",
+      "hsa"
+    ]
+  },
+  {
+    "name": "MiniSD.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/MiniSD.16.png",
+    "tags": [
+      "minisd"
+    ]
+  },
+  {
+    "name": "MiniSD.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/MiniSD.24.png",
+    "tags": [
+      "minisd"
+    ]
+  },
+  {
+    "name": "MiniSD.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/MiniSD.32.png",
+    "tags": [
+      "minisd"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/PNY-USB-Stick-2GB-1.16.png",
+    "tags": [
+      "pny",
+      "stick",
+      "usb"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/PNY-USB-Stick-2GB-1.24.png",
+    "tags": [
+      "pny",
+      "stick",
+      "usb"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/PNY-USB-Stick-2GB-1.32.png",
+    "tags": [
+      "pny",
+      "stick",
+      "usb"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/PNY-USB-Stick-2GB.16.png",
+    "tags": [
+      "pny",
+      "usb",
+      "stick"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/PNY-USB-Stick-2GB.24.png",
+    "tags": [
+      "pny",
+      "usb",
+      "stick"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/PNY-USB-Stick-2GB.32.png",
+    "tags": [
+      "pny",
+      "usb",
+      "stick"
+    ]
+  },
+  {
+    "name": "Plantronics-Headphones.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Plantronics-Headphones.16.png",
+    "tags": [
+      "earphone",
+      "headphone",
+      "headset",
+      "plantronics",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Plantronics-Headphones.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Plantronics-Headphones.24.png",
+    "tags": [
+      "earphone",
+      "headphone",
+      "headset",
+      "plantronics",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Plantronics-Headphones.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Plantronics-Headphones.32.png",
+    "tags": [
+      "earphone",
+      "headphone",
+      "headset",
+      "plantronics",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Sennheiser-PXC-450-Headphones.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Sennheiser-PXC-450-Headphones.16.png",
+    "tags": [
+      "pxc",
+      "sennheiser",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Sennheiser-PXC-450-Headphones.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Sennheiser-PXC-450-Headphones.24.png",
+    "tags": [
+      "pxc",
+      "sennheiser",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Sennheiser-PXC-450-Headphones.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/Sennheiser-PXC-450-Headphones.32.png",
+    "tags": [
+      "pxc",
+      "sennheiser",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "TFT-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT-1.16.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT-1.24.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT-1.32.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT-2.16.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT-2.24.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT-2.32.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT.16.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT.24.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/TFT.32.png",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "nVidia-Gforce8800GT.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/nVidia-Gforce8800GT.16.png",
+    "tags": [
+      "nvidia",
+      "gforcegt"
+    ]
+  },
+  {
+    "name": "nVidia-Gforce8800GT.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/nVidia-Gforce8800GT.24.png",
+    "tags": [
+      "nvidia",
+      "gforcegt"
+    ]
+  },
+  {
+    "name": "nVidia-Gforce8800GT.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/nVidia-Gforce8800GT.32.png",
+    "tags": [
+      "nvidia",
+      "gforcegt"
+    ]
+  },
+  {
+    "name": "nVidia-Speaker-Tray.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/nVidia-Speaker-Tray.16.png",
+    "tags": [
+      "nvidia",
+      "speaker",
+      "tray",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "nVidia-Speaker-Tray.24.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/nVidia-Speaker-Tray.24.png",
+    "tags": [
+      "nvidia",
+      "speaker",
+      "tray",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "nVidia-Speaker-Tray.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Favicon/nVidia-Speaker-Tray.32.png",
+    "tags": [
+      "nvidia",
+      "speaker",
+      "tray",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "AMD-Barcelona-CPU.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/AMD-Barcelona-CPU.icns",
+    "tags": [
+      "amd",
+      "barcelona",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Sempron-CPU.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/AMD-Sempron-CPU.icns",
+    "tags": [
+      "amd",
+      "sempron",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "American-Audio-HP-700-Headset.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/American-Audio-HP-700-Headset.icns",
+    "tags": [
+      "audio",
+      "american",
+      "music",
+      "sound",
+      "headphone",
+      "headset",
+      "earphone"
+    ]
+  },
+  {
+    "name": "CPU-AMD.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/CPU-AMD.icns",
+    "tags": [
+      "processor",
+      "cpu",
+      "amd"
+    ]
+  },
+  {
+    "name": "CPU-Intel.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/CPU-Intel.icns",
+    "tags": [
+      "cpu",
+      "intel",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Z.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/CPU-Z.icns",
+    "tags": [
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "Creative-Aurvana-X-Fi-Headphones.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/Creative-Aurvana-X-Fi-Headphones.icns",
+    "tags": [
+      "creative",
+      "aurvana",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Creative-Fatal1ty-Gaming-Headset.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/Creative-Fatal1ty-Gaming-Headset.icns",
+    "tags": [
+      "creative",
+      "fatalty",
+      "gaming",
+      "earphone",
+      "headphone",
+      "headset"
+    ]
+  },
+  {
+    "name": "Genius-HS04A.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/Genius-HS04A.icns",
+    "tags": [
+      "genius",
+      "hsa"
+    ]
+  },
+  {
+    "name": "MiniSD.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/MiniSD.icns",
+    "tags": [
+      "minisd"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB-1.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/PNY-USB-Stick-2GB-1.icns",
+    "tags": [
+      "pny",
+      "stick",
+      "usb"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/PNY-USB-Stick-2GB.icns",
+    "tags": [
+      "pny",
+      "usb",
+      "stick"
+    ]
+  },
+  {
+    "name": "Plantronics-Headphones.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/Plantronics-Headphones.icns",
+    "tags": [
+      "earphone",
+      "headphone",
+      "headset",
+      "plantronics",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Sennheiser-PXC-450-Headphones.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/Sennheiser-PXC-450-Headphones.icns",
+    "tags": [
+      "pxc",
+      "sennheiser",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "TFT-1.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/TFT-1.icns",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/TFT-2.icns",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/TFT.icns",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "nVidia-Gforce8800GT.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/nVidia-Gforce8800GT.icns",
+    "tags": [
+      "nvidia",
+      "gforcegt"
+    ]
+  },
+  {
+    "name": "nVidia-Speaker-Tray.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Mac/nVidia-Speaker-Tray.icns",
+    "tags": [
+      "nvidia",
+      "speaker",
+      "tray",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
     "name": "AMD-Barcelona-CPU.128.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/PNG/AMD-Barcelona-CPU.128.png",
@@ -1184,6 +1980,205 @@
     "name": "nVidia-Speaker-Tray.96.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/PNG/nVidia-Speaker-Tray.96.png",
+    "tags": [
+      "nvidia",
+      "speaker",
+      "tray",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "AMD-Barcelona-CPU.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/AMD-Barcelona-CPU.ico",
+    "tags": [
+      "amd",
+      "barcelona",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "AMD-Sempron-CPU.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/AMD-Sempron-CPU.ico",
+    "tags": [
+      "amd",
+      "sempron",
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "American-Audio-HP-700-Headset.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/American-Audio-HP-700-Headset.ico",
+    "tags": [
+      "audio",
+      "american",
+      "music",
+      "sound",
+      "headphone",
+      "headset",
+      "earphone"
+    ]
+  },
+  {
+    "name": "CPU-AMD.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/CPU-AMD.ico",
+    "tags": [
+      "processor",
+      "cpu",
+      "amd"
+    ]
+  },
+  {
+    "name": "CPU-Intel.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/CPU-Intel.ico",
+    "tags": [
+      "cpu",
+      "intel",
+      "processor"
+    ]
+  },
+  {
+    "name": "CPU-Z.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/CPU-Z.ico",
+    "tags": [
+      "cpu",
+      "processor"
+    ]
+  },
+  {
+    "name": "Creative-Aurvana-X-Fi-Headphones.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/Creative-Aurvana-X-Fi-Headphones.ico",
+    "tags": [
+      "creative",
+      "aurvana",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Creative-Fatal1ty-Gaming-Headset.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/Creative-Fatal1ty-Gaming-Headset.ico",
+    "tags": [
+      "creative",
+      "fatalty",
+      "gaming",
+      "earphone",
+      "headphone",
+      "headset"
+    ]
+  },
+  {
+    "name": "Genius-HS04A.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/Genius-HS04A.ico",
+    "tags": [
+      "genius",
+      "hsa"
+    ]
+  },
+  {
+    "name": "MiniSD.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/MiniSD.ico",
+    "tags": [
+      "minisd"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB-1.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/PNY-USB-Stick-2GB-1.ico",
+    "tags": [
+      "pny",
+      "stick",
+      "usb"
+    ]
+  },
+  {
+    "name": "PNY-USB-Stick-2GB.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/PNY-USB-Stick-2GB.ico",
+    "tags": [
+      "pny",
+      "usb",
+      "stick"
+    ]
+  },
+  {
+    "name": "Plantronics-Headphones.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/Plantronics-Headphones.ico",
+    "tags": [
+      "earphone",
+      "headphone",
+      "headset",
+      "plantronics",
+      "headphones"
+    ]
+  },
+  {
+    "name": "Sennheiser-PXC-450-Headphones.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/Sennheiser-PXC-450-Headphones.ico",
+    "tags": [
+      "pxc",
+      "sennheiser",
+      "earphone",
+      "headphone",
+      "headset",
+      "headphones"
+    ]
+  },
+  {
+    "name": "TFT-1.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/TFT-1.ico",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/TFT-2.ico",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "TFT.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/TFT.ico",
+    "tags": [
+      "tft"
+    ]
+  },
+  {
+    "name": "nVidia-Gforce8800GT.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/nVidia-Gforce8800GT.ico",
+    "tags": [
+      "nvidia",
+      "gforcegt"
+    ]
+  },
+  {
+    "name": "nVidia-Speaker-Tray.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Tools-Hardware-Pack-4-Icons/Windows/nVidia-Speaker-Tray.ico",
     "tags": [
       "nvidia",
       "speaker",

@@ -1,0 +1,34 @@
+{
+  "Stapler": [
+    "stapler"
+  ],
+  "Hole-punch": [
+    "hole",
+    "punch"
+  ],
+  "cutter": [
+    "cutter"
+  ],
+  "Paperclip": [
+    "paperclip"
+  ],
+  "Mail": [
+    "email",
+    "mail",
+    "contact",
+    "envelope"
+  ],
+  "Carries-pencil": [
+    "carries",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "Scissors": [
+    "scissors"
+  ],
+  "Pen": [
+    "pen",
+    "design"
+  ]
+}

@@ -1,5 +1,489 @@
 [
   {
+    "name": "bar-stool.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/bar-stool.16.png",
+    "tags": [
+      "bar",
+      "stool"
+    ]
+  },
+  {
+    "name": "bar-stool.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/bar-stool.24.png",
+    "tags": [
+      "bar",
+      "stool"
+    ]
+  },
+  {
+    "name": "bar-stool.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/bar-stool.32.png",
+    "tags": [
+      "bar",
+      "stool"
+    ]
+  },
+  {
+    "name": "blog.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/blog.16.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "blog.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/blog.24.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "blog.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/blog.32.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "dice.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/dice.16.png",
+    "tags": [
+      "dice"
+    ]
+  },
+  {
+    "name": "dice.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/dice.24.png",
+    "tags": [
+      "dice"
+    ]
+  },
+  {
+    "name": "dice.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/dice.32.png",
+    "tags": [
+      "dice"
+    ]
+  },
+  {
+    "name": "gear-wheel.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/gear-wheel.16.png",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "wheel",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "config",
+      "conf",
+      "preferences",
+      "setting",
+      "development",
+      "settings",
+      "developer",
+      "prefs",
+      "system"
+    ]
+  },
+  {
+    "name": "gear-wheel.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/gear-wheel.24.png",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "wheel",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "config",
+      "conf",
+      "preferences",
+      "setting",
+      "development",
+      "settings",
+      "developer",
+      "prefs",
+      "system"
+    ]
+  },
+  {
+    "name": "gear-wheel.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/gear-wheel.32.png",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "wheel",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "config",
+      "conf",
+      "preferences",
+      "setting",
+      "development",
+      "settings",
+      "developer",
+      "prefs",
+      "system"
+    ]
+  },
+  {
+    "name": "lock.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/lock.16.png",
+    "tags": [
+      "lock",
+      "encrypt",
+      "unlock",
+      "decrypted",
+      "encrypted",
+      "padlock",
+      "access",
+      "decrypt",
+      "private"
+    ]
+  },
+  {
+    "name": "lock.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/lock.24.png",
+    "tags": [
+      "lock",
+      "encrypt",
+      "unlock",
+      "decrypted",
+      "encrypted",
+      "padlock",
+      "access",
+      "decrypt",
+      "private"
+    ]
+  },
+  {
+    "name": "lock.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/lock.32.png",
+    "tags": [
+      "lock",
+      "encrypt",
+      "unlock",
+      "decrypted",
+      "encrypted",
+      "padlock",
+      "access",
+      "decrypt",
+      "private"
+    ]
+  },
+  {
+    "name": "magnifying-glass.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/magnifying-glass.16.png",
+    "tags": [
+      "loupe",
+      "find",
+      "glass",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "zoom",
+      "search",
+      "look"
+    ]
+  },
+  {
+    "name": "magnifying-glass.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/magnifying-glass.24.png",
+    "tags": [
+      "loupe",
+      "find",
+      "glass",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "zoom",
+      "search",
+      "look"
+    ]
+  },
+  {
+    "name": "magnifying-glass.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/magnifying-glass.32.png",
+    "tags": [
+      "loupe",
+      "find",
+      "glass",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "zoom",
+      "search",
+      "look"
+    ]
+  },
+  {
+    "name": "mailbox.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/mailbox.16.png",
+    "tags": [
+      "mailbox"
+    ]
+  },
+  {
+    "name": "mailbox.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/mailbox.24.png",
+    "tags": [
+      "mailbox"
+    ]
+  },
+  {
+    "name": "mailbox.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/mailbox.32.png",
+    "tags": [
+      "mailbox"
+    ]
+  },
+  {
+    "name": "pensil.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/pensil.16.png",
+    "tags": [
+      "pensil"
+    ]
+  },
+  {
+    "name": "pensil.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/pensil.24.png",
+    "tags": [
+      "pensil"
+    ]
+  },
+  {
+    "name": "pensil.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/pensil.32.png",
+    "tags": [
+      "pensil"
+    ]
+  },
+  {
+    "name": "rims.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/rims.16.png",
+    "tags": [
+      "rims"
+    ]
+  },
+  {
+    "name": "rims.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/rims.24.png",
+    "tags": [
+      "rims"
+    ]
+  },
+  {
+    "name": "rims.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/rims.32.png",
+    "tags": [
+      "rims"
+    ]
+  },
+  {
+    "name": "telescope.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/telescope.16.png",
+    "tags": [
+      "telescope"
+    ]
+  },
+  {
+    "name": "telescope.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/telescope.24.png",
+    "tags": [
+      "telescope"
+    ]
+  },
+  {
+    "name": "telescope.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/telescope.32.png",
+    "tags": [
+      "telescope"
+    ]
+  },
+  {
+    "name": "usb.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/usb.16.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "usb.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/usb.24.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "usb.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Icons/Favicon/usb.32.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "bar-stool.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/bar-stool.icns",
+    "tags": [
+      "bar",
+      "stool"
+    ]
+  },
+  {
+    "name": "blog.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/blog.icns",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "dice.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/dice.icns",
+    "tags": [
+      "dice"
+    ]
+  },
+  {
+    "name": "gear-wheel.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/gear-wheel.icns",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "wheel",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "config",
+      "conf",
+      "preferences",
+      "setting",
+      "development",
+      "settings",
+      "developer",
+      "prefs",
+      "system"
+    ]
+  },
+  {
+    "name": "lock.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/lock.icns",
+    "tags": [
+      "lock",
+      "encrypt",
+      "unlock",
+      "decrypted",
+      "encrypted",
+      "padlock",
+      "access",
+      "decrypt",
+      "private"
+    ]
+  },
+  {
+    "name": "magnifying-glass.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/magnifying-glass.icns",
+    "tags": [
+      "loupe",
+      "find",
+      "glass",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "zoom",
+      "search",
+      "look"
+    ]
+  },
+  {
+    "name": "mailbox.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/mailbox.icns",
+    "tags": [
+      "mailbox"
+    ]
+  },
+  {
+    "name": "pensil.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/pensil.icns",
+    "tags": [
+      "pensil"
+    ]
+  },
+  {
+    "name": "rims.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/rims.icns",
+    "tags": [
+      "rims"
+    ]
+  },
+  {
+    "name": "telescope.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/telescope.icns",
+    "tags": [
+      "telescope"
+    ]
+  },
+  {
+    "name": "usb.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Icons/Mac/usb.icns",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
     "name": "bar-stool.128.png",
     "format": "PNG",
     "path": "Designer/3dlb/3D-Icons/PNG/bar-stool.128.png",
@@ -600,6 +1084,127 @@
     "name": "usb.72.png",
     "format": "PNG",
     "path": "Designer/3dlb/3D-Icons/PNG/usb.72.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "bar-stool.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/bar-stool.ico",
+    "tags": [
+      "bar",
+      "stool"
+    ]
+  },
+  {
+    "name": "blog.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/blog.ico",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "dice.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/dice.ico",
+    "tags": [
+      "dice"
+    ]
+  },
+  {
+    "name": "gear-wheel.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/gear-wheel.ico",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "wheel",
+      "configuration",
+      "configure",
+      "customise",
+      "customization",
+      "config",
+      "conf",
+      "preferences",
+      "setting",
+      "development",
+      "settings",
+      "developer",
+      "prefs",
+      "system"
+    ]
+  },
+  {
+    "name": "lock.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/lock.ico",
+    "tags": [
+      "lock",
+      "encrypt",
+      "unlock",
+      "decrypted",
+      "encrypted",
+      "padlock",
+      "access",
+      "decrypt",
+      "private"
+    ]
+  },
+  {
+    "name": "magnifying-glass.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/magnifying-glass.ico",
+    "tags": [
+      "loupe",
+      "find",
+      "glass",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "zoom",
+      "search",
+      "look"
+    ]
+  },
+  {
+    "name": "mailbox.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/mailbox.ico",
+    "tags": [
+      "mailbox"
+    ]
+  },
+  {
+    "name": "pensil.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/pensil.ico",
+    "tags": [
+      "pensil"
+    ]
+  },
+  {
+    "name": "rims.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/rims.ico",
+    "tags": [
+      "rims"
+    ]
+  },
+  {
+    "name": "telescope.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/telescope.ico",
+    "tags": [
+      "telescope"
+    ]
+  },
+  {
+    "name": "usb.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Icons/Windows/usb.ico",
     "tags": [
       "usb"
     ]

@@ -1,0 +1,26 @@
+{
+  "Drive-SCSI": [
+    "drive",
+    "scsi"
+  ],
+  "Drive-Internal": [
+    "internal",
+    "drive"
+  ],
+  "Drive-Generic": [
+    "drive",
+    "generic"
+  ],
+  "Drive-USB": [
+    "drive",
+    "usb"
+  ],
+  "Drive-Removable": [
+    "drive",
+    "removable"
+  ],
+  "Drive-Firewire": [
+    "drive",
+    "firewire"
+  ]
+}

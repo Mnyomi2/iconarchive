@@ -1,0 +1,45 @@
+{
+  "print": [
+    "print",
+    "printer",
+    "hardware"
+  ],
+  "database": [
+    "database",
+    "data",
+    "db"
+  ],
+  "user": [
+    "person",
+    "customer",
+    "user",
+    "face"
+  ],
+  "paste": [
+    "paste"
+  ],
+  "world": [
+    "earth",
+    "globe",
+    "world",
+    "hosting",
+    "internet",
+    "nature",
+    "network"
+  ],
+  "folder-open": [
+    "folder",
+    "open"
+  ],
+  "cut": [
+    "cut",
+    "scissor"
+  ],
+  "calender": [
+    "calendar",
+    "date",
+    "organizer",
+    "calender",
+    "event"
+  ]
+}

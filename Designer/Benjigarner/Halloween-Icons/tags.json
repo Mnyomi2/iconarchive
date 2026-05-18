@@ -1,0 +1,21 @@
+{
+  "Witch-Hat": [
+    "witch",
+    "hat"
+  ],
+  "Pumpkin": [
+    "pumpkin"
+  ],
+  "Halloween-Pumpkin": [
+    "halloween",
+    "pumpkin",
+    "evil",
+    "happy",
+    "scary",
+    "smile"
+  ],
+  "Bloody-Pumpkin": [
+    "bloody",
+    "pumpkin"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "Packers": [
+    "packers"
+  ],
+  "Chiefs": [
+    "chiefs"
+  ],
+  "Bengals": [
+    "bengals"
+  ],
+  "Redskins": [
+    "redskins"
+  ],
+  "Vikings": [
+    "vikings"
+  ],
+  "Bills": [
+    "bills"
+  ],
+  "NFC": [
+    "nfc"
+  ],
+  "NFL": [
+    "nfl"
+  ],
+  "Eagles": [
+    "eagles"
+  ],
+  "Seahawks": [
+    "seahawks"
+  ],
+  "Ravens": [
+    "ravens"
+  ],
+  "Broncos": [
+    "broncos"
+  ],
+  "Dolphins": [
+    "dolphins"
+  ],
+  "Steelers": [
+    "steelers"
+  ],
+  "Jaguars": [
+    "jaguars"
+  ],
+  "AFC": [
+    "afc"
+  ],
+  "Saints": [
+    "saints"
+  ],
+  "Rams": [
+    "rams"
+  ],
+  "Panthers": [
+    "panthers"
+  ],
+  "Colts": [
+    "colts"
+  ],
+  "Patriots": [
+    "patriots"
+  ],
+  "Chargers": [
+    "chargers"
+  ],
+  "Cowboys": [
+    "cowboys"
+  ],
+  "Buccaneers": [
+    "buccaneers"
+  ],
+  "Titans": [
+    "titans"
+  ],
+  "Cardinals": [
+    "cardinals"
+  ],
+  "49ers": [
+    "ers"
+  ],
+  "Texans": [
+    "texans"
+  ],
+  "Falcons": [
+    "falcons"
+  ],
+  "Raiders": [
+    "raiders"
+  ],
+  "Lions": [
+    "lions"
+  ],
+  "Bears": [
+    "bears"
+  ],
+  "Jets": [
+    "jets"
+  ]
+}

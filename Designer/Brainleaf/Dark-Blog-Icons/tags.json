@@ -1,0 +1,107 @@
+{
+  "home": [
+    "house",
+    "home",
+    "building"
+  ],
+  "email": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "heart": [
+    "heart",
+    "valentine",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite",
+    "love"
+  ],
+  "play": [
+    "play"
+  ],
+  "reflex": [
+    "reflex"
+  ],
+  "pause": [
+    "pause"
+  ],
+  "phone": [
+    "telephone",
+    "phone",
+    "call",
+    "contact"
+  ],
+  "skull": [
+    "skull",
+    "halloween",
+    "helloween"
+  ],
+  "agenda": [
+    "agenda"
+  ],
+  "check": [
+    "tick",
+    "accept",
+    "check",
+    "ok",
+    "yes"
+  ],
+  "map": [
+    "map",
+    "plan",
+    "contact",
+    "navigation"
+  ],
+  "stop": [
+    "stop"
+  ],
+  "plus": [
+    "plus"
+  ],
+  "delete": [
+    "cancel",
+    "close",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate",
+    "cross"
+  ],
+  "shop": [
+    "basket",
+    "buy",
+    "cart",
+    "shop",
+    "shopping",
+    "shoppingcart",
+    "building"
+  ],
+  "cup": [
+    "cup"
+  ],
+  "comment": [
+    "comment"
+  ],
+  "download": [
+    "download",
+    "down",
+    "decrease",
+    "arrow"
+  ],
+  "search": [
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "star": [
+    "star"
+  ]
+}

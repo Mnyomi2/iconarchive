@@ -1,5 +1,645 @@
 [
   {
+    "name": "bin.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/bin.16.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "bin.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/bin.24.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "bin.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/bin.32.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "c-panel.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/c-panel.16.png",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "c-panel.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/c-panel.24.png",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "c-panel.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/c-panel.32.png",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "dowload.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/dowload.16.png",
+    "tags": [
+      "dowload"
+    ]
+  },
+  {
+    "name": "dowload.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/dowload.24.png",
+    "tags": [
+      "dowload"
+    ]
+  },
+  {
+    "name": "dowload.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/dowload.32.png",
+    "tags": [
+      "dowload"
+    ]
+  },
+  {
+    "name": "draw.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/draw.16.png",
+    "tags": [
+      "draw",
+      "pencil",
+      "design",
+      "edit",
+      "sketch",
+      "update"
+    ]
+  },
+  {
+    "name": "draw.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/draw.24.png",
+    "tags": [
+      "draw",
+      "pencil",
+      "design",
+      "edit",
+      "sketch",
+      "update"
+    ]
+  },
+  {
+    "name": "draw.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/draw.32.png",
+    "tags": [
+      "draw",
+      "pencil",
+      "design",
+      "edit",
+      "sketch",
+      "update"
+    ]
+  },
+  {
+    "name": "dream-weaver.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/dream-weaver.16.png",
+    "tags": [
+      "dream",
+      "weaver"
+    ]
+  },
+  {
+    "name": "dream-weaver.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/dream-weaver.24.png",
+    "tags": [
+      "dream",
+      "weaver"
+    ]
+  },
+  {
+    "name": "dream-weaver.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/dream-weaver.32.png",
+    "tags": [
+      "dream",
+      "weaver"
+    ]
+  },
+  {
+    "name": "finder.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/finder.16.png",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "finder.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/finder.24.png",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "finder.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/finder.32.png",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "firefox.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/firefox.16.png",
+    "tags": [
+      "firefox",
+      "browser"
+    ]
+  },
+  {
+    "name": "firefox.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/firefox.24.png",
+    "tags": [
+      "firefox",
+      "browser"
+    ]
+  },
+  {
+    "name": "firefox.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/firefox.32.png",
+    "tags": [
+      "firefox",
+      "browser"
+    ]
+  },
+  {
+    "name": "flash.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/flash.16.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "flash.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/flash.24.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "flash.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/flash.32.png",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "freehand.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/freehand.16.png",
+    "tags": [
+      "freehand"
+    ]
+  },
+  {
+    "name": "freehand.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/freehand.24.png",
+    "tags": [
+      "freehand"
+    ]
+  },
+  {
+    "name": "freehand.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/freehand.32.png",
+    "tags": [
+      "freehand"
+    ]
+  },
+  {
+    "name": "halo.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/halo.16.png",
+    "tags": [
+      "halo"
+    ]
+  },
+  {
+    "name": "halo.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/halo.24.png",
+    "tags": [
+      "halo"
+    ]
+  },
+  {
+    "name": "halo.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/halo.32.png",
+    "tags": [
+      "halo"
+    ]
+  },
+  {
+    "name": "ill.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ill.16.png",
+    "tags": [
+      "ill"
+    ]
+  },
+  {
+    "name": "ill.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ill.24.png",
+    "tags": [
+      "ill"
+    ]
+  },
+  {
+    "name": "ill.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ill.32.png",
+    "tags": [
+      "ill"
+    ]
+  },
+  {
+    "name": "ir.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ir.16.png",
+    "tags": [
+      "ir"
+    ]
+  },
+  {
+    "name": "ir.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ir.24.png",
+    "tags": [
+      "ir"
+    ]
+  },
+  {
+    "name": "ir.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ir.32.png",
+    "tags": [
+      "ir"
+    ]
+  },
+  {
+    "name": "paint.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/paint.16.png",
+    "tags": [
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "name": "paint.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/paint.24.png",
+    "tags": [
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "name": "paint.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/paint.32.png",
+    "tags": [
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "name": "phone.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/phone.16.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "phone.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/phone.24.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "phone.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/phone.32.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "ps.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ps.16.png",
+    "tags": [
+      "ps"
+    ]
+  },
+  {
+    "name": "ps.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ps.24.png",
+    "tags": [
+      "ps"
+    ]
+  },
+  {
+    "name": "ps.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/ps.32.png",
+    "tags": [
+      "ps"
+    ]
+  },
+  {
+    "name": "quark.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/quark.16.png",
+    "tags": [
+      "quark"
+    ]
+  },
+  {
+    "name": "quark.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/quark.24.png",
+    "tags": [
+      "quark"
+    ]
+  },
+  {
+    "name": "quark.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/quark.32.png",
+    "tags": [
+      "quark"
+    ]
+  },
+  {
+    "name": "usb.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/usb.16.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "usb.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/usb.24.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "usb.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/usb.32.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "vlc.16.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/vlc.16.png",
+    "tags": [
+      "vlc"
+    ]
+  },
+  {
+    "name": "vlc.24.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/vlc.24.png",
+    "tags": [
+      "vlc"
+    ]
+  },
+  {
+    "name": "vlc.32.png",
+    "format": "Favicon",
+    "path": "Designer/7ur/IConPack-Icons/Favicon/vlc.32.png",
+    "tags": [
+      "vlc"
+    ]
+  },
+  {
+    "name": "bin.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/bin.icns",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "c-panel.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/c-panel.icns",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "dowload.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/dowload.icns",
+    "tags": [
+      "dowload"
+    ]
+  },
+  {
+    "name": "draw.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/draw.icns",
+    "tags": [
+      "draw",
+      "pencil",
+      "design",
+      "edit",
+      "sketch",
+      "update"
+    ]
+  },
+  {
+    "name": "dream-weaver.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/dream-weaver.icns",
+    "tags": [
+      "dream",
+      "weaver"
+    ]
+  },
+  {
+    "name": "finder.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/finder.icns",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "firefox.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/firefox.icns",
+    "tags": [
+      "firefox",
+      "browser"
+    ]
+  },
+  {
+    "name": "flash.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/flash.icns",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "freehand.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/freehand.icns",
+    "tags": [
+      "freehand"
+    ]
+  },
+  {
+    "name": "halo.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/halo.icns",
+    "tags": [
+      "halo"
+    ]
+  },
+  {
+    "name": "ill.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/ill.icns",
+    "tags": [
+      "ill"
+    ]
+  },
+  {
+    "name": "ir.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/ir.icns",
+    "tags": [
+      "ir"
+    ]
+  },
+  {
+    "name": "paint.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/paint.icns",
+    "tags": [
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "name": "phone.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/phone.icns",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "ps.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/ps.icns",
+    "tags": [
+      "ps"
+    ]
+  },
+  {
+    "name": "quark.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/quark.icns",
+    "tags": [
+      "quark"
+    ]
+  },
+  {
+    "name": "usb.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/usb.icns",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "vlc.icns",
+    "format": "Mac",
+    "path": "Designer/7ur/IConPack-Icons/Mac/vlc.icns",
+    "tags": [
+      "vlc"
+    ]
+  },
+  {
     "name": "bin.128.png",
     "format": "PNG",
     "path": "Designer/7ur/IConPack-Icons/PNG/bin.128.png",
@@ -635,6 +1275,166 @@
     "name": "vlc.64.png",
     "format": "PNG",
     "path": "Designer/7ur/IConPack-Icons/PNG/vlc.64.png",
+    "tags": [
+      "vlc"
+    ]
+  },
+  {
+    "name": "bin.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/bin.ico",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "c-panel.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/c-panel.ico",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "dowload.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/dowload.ico",
+    "tags": [
+      "dowload"
+    ]
+  },
+  {
+    "name": "draw.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/draw.ico",
+    "tags": [
+      "draw",
+      "pencil",
+      "design",
+      "edit",
+      "sketch",
+      "update"
+    ]
+  },
+  {
+    "name": "dream-weaver.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/dream-weaver.ico",
+    "tags": [
+      "dream",
+      "weaver"
+    ]
+  },
+  {
+    "name": "finder.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/finder.ico",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "firefox.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/firefox.ico",
+    "tags": [
+      "firefox",
+      "browser"
+    ]
+  },
+  {
+    "name": "flash.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/flash.ico",
+    "tags": [
+      "flash"
+    ]
+  },
+  {
+    "name": "freehand.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/freehand.ico",
+    "tags": [
+      "freehand"
+    ]
+  },
+  {
+    "name": "halo.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/halo.ico",
+    "tags": [
+      "halo"
+    ]
+  },
+  {
+    "name": "ill.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/ill.ico",
+    "tags": [
+      "ill"
+    ]
+  },
+  {
+    "name": "ir.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/ir.ico",
+    "tags": [
+      "ir"
+    ]
+  },
+  {
+    "name": "paint.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/paint.ico",
+    "tags": [
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "name": "phone.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/phone.ico",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "ps.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/ps.ico",
+    "tags": [
+      "ps"
+    ]
+  },
+  {
+    "name": "quark.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/quark.ico",
+    "tags": [
+      "quark"
+    ]
+  },
+  {
+    "name": "usb.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/usb.ico",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "vlc.ico",
+    "format": "Windows",
+    "path": "Designer/7ur/IConPack-Icons/Windows/vlc.ico",
     "tags": [
       "vlc"
     ]

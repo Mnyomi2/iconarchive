@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Ghost-Folder-Bombia-Design.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Folder-Bombia-Design.16.png",
+    "tags": [
+      "ghost",
+      "folder",
+      "bombia",
+      "design"
+    ]
+  },
+  {
+    "name": "Ghost-Folder-Bombia-Design.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Folder-Bombia-Design.32.png",
+    "tags": [
+      "ghost",
+      "folder",
+      "bombia",
+      "design"
+    ]
+  },
+  {
+    "name": "Ghost-Folder.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Folder.16.png",
+    "tags": [
+      "ghost",
+      "folder"
+    ]
+  },
+  {
+    "name": "Ghost-Folder.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Folder.32.png",
+    "tags": [
+      "ghost",
+      "folder"
+    ]
+  },
+  {
+    "name": "Ghost-Harddisk.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Harddisk.16.png",
+    "tags": [
+      "ghost",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Ghost-Harddisk.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Harddisk.32.png",
+    "tags": [
+      "ghost",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Empty.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Trash-Empty.16.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "ghost",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Empty.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Trash-Empty.32.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "ghost",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Full.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Trash-Full.16.png",
+    "tags": [
+      "ghost",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Full.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Trash-Full.32.png",
+    "tags": [
+      "ghost",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Ghost-Web.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Web.16.png",
+    "tags": [
+      "ghost",
+      "web"
+    ]
+  },
+  {
+    "name": "Ghost-Web.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Favicon/Ghost-Web.32.png",
+    "tags": [
+      "ghost",
+      "web"
+    ]
+  },
+  {
+    "name": "Ghost-Folder-Bombia-Design.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Folder-Bombia-Design.128.png",
+    "tags": [
+      "ghost",
+      "folder",
+      "bombia",
+      "design"
+    ]
+  },
+  {
+    "name": "Ghost-Folder-Bombia-Design.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Folder-Bombia-Design.48.png",
+    "tags": [
+      "ghost",
+      "folder",
+      "bombia",
+      "design"
+    ]
+  },
+  {
+    "name": "Ghost-Folder.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Folder.128.png",
+    "tags": [
+      "ghost",
+      "folder"
+    ]
+  },
+  {
+    "name": "Ghost-Folder.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Folder.48.png",
+    "tags": [
+      "ghost",
+      "folder"
+    ]
+  },
+  {
+    "name": "Ghost-Harddisk.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Harddisk.128.png",
+    "tags": [
+      "ghost",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Ghost-Harddisk.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Harddisk.48.png",
+    "tags": [
+      "ghost",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Empty.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Trash-Empty.128.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "ghost",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Empty.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Trash-Empty.48.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "ghost",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Full.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Trash-Full.128.png",
+    "tags": [
+      "ghost",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Full.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Trash-Full.48.png",
+    "tags": [
+      "ghost",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Ghost-Web.128.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Web.128.png",
+    "tags": [
+      "ghost",
+      "web"
+    ]
+  },
+  {
+    "name": "Ghost-Web.48.png",
+    "format": "PNG",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/PNG/Ghost-Web.48.png",
+    "tags": [
+      "ghost",
+      "web"
+    ]
+  },
+  {
+    "name": "Ghost-Folder-Bombia-Design.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Windows/Ghost-Folder-Bombia-Design.ico",
+    "tags": [
+      "ghost",
+      "folder",
+      "bombia",
+      "design"
+    ]
+  },
+  {
+    "name": "Ghost-Folder.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Windows/Ghost-Folder.ico",
+    "tags": [
+      "ghost",
+      "folder"
+    ]
+  },
+  {
+    "name": "Ghost-Harddisk.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Windows/Ghost-Harddisk.ico",
+    "tags": [
+      "ghost",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Windows/Ghost-Trash-Empty.ico",
+    "tags": [
+      "bin",
+      "garbage",
+      "ghost",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Ghost-Trash-Full.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Windows/Ghost-Trash-Full.ico",
+    "tags": [
+      "ghost",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Ghost-Web.ico",
+    "format": "Windows",
+    "path": "Designer/Bombiadesign/Ghost-System-Icons/Windows/Ghost-Web.ico",
+    "tags": [
+      "ghost",
+      "web"
+    ]
+  }
+]

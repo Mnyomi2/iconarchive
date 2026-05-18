@@ -1,0 +1,1854 @@
+[
+  {
+    "name": "Arrow-Flaming.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Arrow-Flaming.icns",
+    "tags": [
+      "arrow",
+      "flaming"
+    ]
+  },
+  {
+    "name": "Arrow.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Arrow.icns",
+    "tags": [
+      "arrow"
+    ]
+  },
+  {
+    "name": "Axe-Major.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Axe-Major.icns",
+    "tags": [
+      "axe",
+      "major"
+    ]
+  },
+  {
+    "name": "Axe.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Axe.icns",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Bow-Major-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Bow-Major-Empty.icns",
+    "tags": [
+      "bow",
+      "major",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bow-Major.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Bow-Major.icns",
+    "tags": [
+      "bow",
+      "major"
+    ]
+  },
+  {
+    "name": "Bow.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Bow.icns",
+    "tags": [
+      "bow"
+    ]
+  },
+  {
+    "name": "Breastplate-Major.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Breastplate-Major.icns",
+    "tags": [
+      "breastplate",
+      "major"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal-Cape.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Breastplate-Royal-Cape.icns",
+    "tags": [
+      "breastplate",
+      "royal",
+      "cape"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Breastplate-Royal.icns",
+    "tags": [
+      "breastplate",
+      "royal"
+    ]
+  },
+  {
+    "name": "Breastplate.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Breastplate.icns",
+    "tags": [
+      "breastplate"
+    ]
+  },
+  {
+    "name": "Cauldron.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Cauldron.icns",
+    "tags": [
+      "cauldron"
+    ]
+  },
+  {
+    "name": "Crown-Royal.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Crown-Royal.icns",
+    "tags": [
+      "crown",
+      "royal"
+    ]
+  },
+  {
+    "name": "Crown.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Crown.icns",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Crystal.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Crystal.icns",
+    "tags": [
+      "crystal"
+    ]
+  },
+  {
+    "name": "Druid-Bow-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Druid-Bow-Magic.icns",
+    "tags": [
+      "druid",
+      "bow",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Bow.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Druid-Bow.icns",
+    "tags": [
+      "druid",
+      "bow"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Druid-Wand-Magic.icns",
+    "tags": [
+      "druid",
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Major.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Druid-Wand-Major.icns",
+    "tags": [
+      "druid",
+      "wand",
+      "major"
+    ]
+  },
+  {
+    "name": "Druid-Wand.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Druid-Wand.icns",
+    "tags": [
+      "druid",
+      "wand"
+    ]
+  },
+  {
+    "name": "Flames-Defender.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Flames-Defender.icns",
+    "tags": [
+      "flames",
+      "defender"
+    ]
+  },
+  {
+    "name": "Flames-Edge.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Flames-Edge.icns",
+    "tags": [
+      "flames",
+      "edge"
+    ]
+  },
+  {
+    "name": "Frost-Edge.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Frost-Edge.icns",
+    "tags": [
+      "frost",
+      "edge"
+    ]
+  },
+  {
+    "name": "Gemstone.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Gemstone.icns",
+    "tags": [
+      "gemstone"
+    ]
+  },
+  {
+    "name": "Money-Glowing.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Money-Glowing.icns",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Money.icns",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Ring.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Ring.icns",
+    "tags": [
+      "ring"
+    ]
+  },
+  {
+    "name": "Scepter.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Scepter.icns",
+    "tags": [
+      "scepter"
+    ]
+  },
+  {
+    "name": "Scimitar.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Scimitar.icns",
+    "tags": [
+      "scimitar"
+    ]
+  },
+  {
+    "name": "Shield-Magical-Wand.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Magical-Wand.icns",
+    "tags": [
+      "shield",
+      "magical",
+      "wand"
+    ]
+  },
+  {
+    "name": "Shield-Magical.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Magical.icns",
+    "tags": [
+      "shield",
+      "magical"
+    ]
+  },
+  {
+    "name": "Shield-Major-Swords.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Major-Swords.icns",
+    "tags": [
+      "shield",
+      "major",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Major.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Major.icns",
+    "tags": [
+      "shield",
+      "major"
+    ]
+  },
+  {
+    "name": "Shield-Minor-Swords.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Minor-Swords.icns",
+    "tags": [
+      "shield",
+      "minor",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Minor.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Minor.icns",
+    "tags": [
+      "minor",
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield-Royal-Swords.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Royal-Swords.icns",
+    "tags": [
+      "shield",
+      "royal",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Royal.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield-Royal.icns",
+    "tags": [
+      "shield",
+      "royal"
+    ]
+  },
+  {
+    "name": "Shield.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Shield.icns",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Spellbook-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Spellbook-Magic.icns",
+    "tags": [
+      "spellbook",
+      "magic"
+    ]
+  },
+  {
+    "name": "Spellbook.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Spellbook.icns",
+    "tags": [
+      "spellbook"
+    ]
+  },
+  {
+    "name": "Sword-Magical.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Sword-Magical.icns",
+    "tags": [
+      "sword",
+      "magical"
+    ]
+  },
+  {
+    "name": "Sword-Scimitar.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Sword-Scimitar.icns",
+    "tags": [
+      "scimitar",
+      "sword"
+    ]
+  },
+  {
+    "name": "Sword.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Sword.icns",
+    "tags": [
+      "sword"
+    ]
+  },
+  {
+    "name": "Swords.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Swords.icns",
+    "tags": [
+      "swords"
+    ]
+  },
+  {
+    "name": "Wand-Air.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Wand-Air.icns",
+    "tags": [
+      "wand",
+      "air"
+    ]
+  },
+  {
+    "name": "Wand-Fire.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Wand-Fire.icns",
+    "tags": [
+      "wand",
+      "fire"
+    ]
+  },
+  {
+    "name": "Wand-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Wand-Magic.icns",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand-Water.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Wand-Water.icns",
+    "tags": [
+      "wand",
+      "water"
+    ]
+  },
+  {
+    "name": "Wand.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Wand.icns",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Weapons.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Weapons.icns",
+    "tags": [
+      "weapons"
+    ]
+  },
+  {
+    "name": "Wizard-Hat.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Mac/Wizard-Hat.icns",
+    "tags": [
+      "wizard",
+      "hat"
+    ]
+  },
+  {
+    "name": "Arrow-Flaming.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Arrow-Flaming.16.png",
+    "tags": [
+      "arrow",
+      "flaming"
+    ]
+  },
+  {
+    "name": "Arrow-Flaming.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Arrow-Flaming.32.png",
+    "tags": [
+      "arrow",
+      "flaming"
+    ]
+  },
+  {
+    "name": "Arrow.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Arrow.16.png",
+    "tags": [
+      "arrow"
+    ]
+  },
+  {
+    "name": "Arrow.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Arrow.32.png",
+    "tags": [
+      "arrow"
+    ]
+  },
+  {
+    "name": "Axe-Major.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Axe-Major.16.png",
+    "tags": [
+      "axe",
+      "major"
+    ]
+  },
+  {
+    "name": "Axe-Major.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Axe-Major.32.png",
+    "tags": [
+      "axe",
+      "major"
+    ]
+  },
+  {
+    "name": "Axe.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Axe.16.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Axe.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Axe.32.png",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Bow-Major-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Bow-Major-Empty.16.png",
+    "tags": [
+      "bow",
+      "major",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bow-Major-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Bow-Major-Empty.32.png",
+    "tags": [
+      "bow",
+      "major",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bow-Major.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Bow-Major.16.png",
+    "tags": [
+      "bow",
+      "major"
+    ]
+  },
+  {
+    "name": "Bow-Major.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Bow-Major.32.png",
+    "tags": [
+      "bow",
+      "major"
+    ]
+  },
+  {
+    "name": "Bow.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Bow.16.png",
+    "tags": [
+      "bow"
+    ]
+  },
+  {
+    "name": "Bow.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Bow.32.png",
+    "tags": [
+      "bow"
+    ]
+  },
+  {
+    "name": "Breastplate-Major.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate-Major.16.png",
+    "tags": [
+      "breastplate",
+      "major"
+    ]
+  },
+  {
+    "name": "Breastplate-Major.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate-Major.32.png",
+    "tags": [
+      "breastplate",
+      "major"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal-Cape.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate-Royal-Cape.16.png",
+    "tags": [
+      "breastplate",
+      "royal",
+      "cape"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal-Cape.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate-Royal-Cape.32.png",
+    "tags": [
+      "breastplate",
+      "royal",
+      "cape"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate-Royal.16.png",
+    "tags": [
+      "breastplate",
+      "royal"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate-Royal.32.png",
+    "tags": [
+      "breastplate",
+      "royal"
+    ]
+  },
+  {
+    "name": "Breastplate.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate.16.png",
+    "tags": [
+      "breastplate"
+    ]
+  },
+  {
+    "name": "Breastplate.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Breastplate.32.png",
+    "tags": [
+      "breastplate"
+    ]
+  },
+  {
+    "name": "Cauldron.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Cauldron.16.png",
+    "tags": [
+      "cauldron"
+    ]
+  },
+  {
+    "name": "Cauldron.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Cauldron.32.png",
+    "tags": [
+      "cauldron"
+    ]
+  },
+  {
+    "name": "Crown-Royal.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Crown-Royal.16.png",
+    "tags": [
+      "crown",
+      "royal"
+    ]
+  },
+  {
+    "name": "Crown-Royal.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Crown-Royal.32.png",
+    "tags": [
+      "crown",
+      "royal"
+    ]
+  },
+  {
+    "name": "Crown.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Crown.16.png",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Crown.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Crown.32.png",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Crystal.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Crystal.16.png",
+    "tags": [
+      "crystal"
+    ]
+  },
+  {
+    "name": "Crystal.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Crystal.32.png",
+    "tags": [
+      "crystal"
+    ]
+  },
+  {
+    "name": "Druid-Bow-Magic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Bow-Magic.16.png",
+    "tags": [
+      "druid",
+      "bow",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Bow-Magic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Bow-Magic.32.png",
+    "tags": [
+      "druid",
+      "bow",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Bow.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Bow.16.png",
+    "tags": [
+      "druid",
+      "bow"
+    ]
+  },
+  {
+    "name": "Druid-Bow.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Bow.32.png",
+    "tags": [
+      "druid",
+      "bow"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Magic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Wand-Magic.16.png",
+    "tags": [
+      "druid",
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Magic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Wand-Magic.32.png",
+    "tags": [
+      "druid",
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Major.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Wand-Major.16.png",
+    "tags": [
+      "druid",
+      "wand",
+      "major"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Major.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Wand-Major.32.png",
+    "tags": [
+      "druid",
+      "wand",
+      "major"
+    ]
+  },
+  {
+    "name": "Druid-Wand.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Wand.16.png",
+    "tags": [
+      "druid",
+      "wand"
+    ]
+  },
+  {
+    "name": "Druid-Wand.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Druid-Wand.32.png",
+    "tags": [
+      "druid",
+      "wand"
+    ]
+  },
+  {
+    "name": "Flames-Defender.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Flames-Defender.16.png",
+    "tags": [
+      "flames",
+      "defender"
+    ]
+  },
+  {
+    "name": "Flames-Defender.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Flames-Defender.32.png",
+    "tags": [
+      "flames",
+      "defender"
+    ]
+  },
+  {
+    "name": "Flames-Edge.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Flames-Edge.16.png",
+    "tags": [
+      "flames",
+      "edge"
+    ]
+  },
+  {
+    "name": "Flames-Edge.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Flames-Edge.32.png",
+    "tags": [
+      "flames",
+      "edge"
+    ]
+  },
+  {
+    "name": "Frost-Edge.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Frost-Edge.16.png",
+    "tags": [
+      "frost",
+      "edge"
+    ]
+  },
+  {
+    "name": "Frost-Edge.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Frost-Edge.32.png",
+    "tags": [
+      "frost",
+      "edge"
+    ]
+  },
+  {
+    "name": "Gemstone.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Gemstone.16.png",
+    "tags": [
+      "gemstone"
+    ]
+  },
+  {
+    "name": "Gemstone.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Gemstone.32.png",
+    "tags": [
+      "gemstone"
+    ]
+  },
+  {
+    "name": "Money-Glowing.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Money-Glowing.16.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money-Glowing.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Money-Glowing.32.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Money.16.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Money.32.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Ring.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Ring.16.png",
+    "tags": [
+      "ring"
+    ]
+  },
+  {
+    "name": "Ring.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Ring.32.png",
+    "tags": [
+      "ring"
+    ]
+  },
+  {
+    "name": "Scepter.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Scepter.16.png",
+    "tags": [
+      "scepter"
+    ]
+  },
+  {
+    "name": "Scepter.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Scepter.32.png",
+    "tags": [
+      "scepter"
+    ]
+  },
+  {
+    "name": "Scimitar.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Scimitar.16.png",
+    "tags": [
+      "scimitar"
+    ]
+  },
+  {
+    "name": "Scimitar.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Scimitar.32.png",
+    "tags": [
+      "scimitar"
+    ]
+  },
+  {
+    "name": "Shield-Magical-Wand.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Magical-Wand.16.png",
+    "tags": [
+      "shield",
+      "magical",
+      "wand"
+    ]
+  },
+  {
+    "name": "Shield-Magical-Wand.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Magical-Wand.32.png",
+    "tags": [
+      "shield",
+      "magical",
+      "wand"
+    ]
+  },
+  {
+    "name": "Shield-Magical.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Magical.16.png",
+    "tags": [
+      "shield",
+      "magical"
+    ]
+  },
+  {
+    "name": "Shield-Magical.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Magical.32.png",
+    "tags": [
+      "shield",
+      "magical"
+    ]
+  },
+  {
+    "name": "Shield-Major-Swords.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Major-Swords.16.png",
+    "tags": [
+      "shield",
+      "major",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Major-Swords.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Major-Swords.32.png",
+    "tags": [
+      "shield",
+      "major",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Major.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Major.16.png",
+    "tags": [
+      "shield",
+      "major"
+    ]
+  },
+  {
+    "name": "Shield-Major.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Major.32.png",
+    "tags": [
+      "shield",
+      "major"
+    ]
+  },
+  {
+    "name": "Shield-Minor-Swords.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Minor-Swords.16.png",
+    "tags": [
+      "shield",
+      "minor",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Minor-Swords.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Minor-Swords.32.png",
+    "tags": [
+      "shield",
+      "minor",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Minor.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Minor.16.png",
+    "tags": [
+      "minor",
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield-Minor.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Minor.32.png",
+    "tags": [
+      "minor",
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield-Royal-Swords.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Royal-Swords.16.png",
+    "tags": [
+      "shield",
+      "royal",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Royal-Swords.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Royal-Swords.32.png",
+    "tags": [
+      "shield",
+      "royal",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Royal.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Royal.16.png",
+    "tags": [
+      "shield",
+      "royal"
+    ]
+  },
+  {
+    "name": "Shield-Royal.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield-Royal.32.png",
+    "tags": [
+      "shield",
+      "royal"
+    ]
+  },
+  {
+    "name": "Shield.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield.16.png",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Shield.32.png",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Spellbook-Magic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Spellbook-Magic.16.png",
+    "tags": [
+      "spellbook",
+      "magic"
+    ]
+  },
+  {
+    "name": "Spellbook-Magic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Spellbook-Magic.32.png",
+    "tags": [
+      "spellbook",
+      "magic"
+    ]
+  },
+  {
+    "name": "Spellbook.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Spellbook.16.png",
+    "tags": [
+      "spellbook"
+    ]
+  },
+  {
+    "name": "Spellbook.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Spellbook.32.png",
+    "tags": [
+      "spellbook"
+    ]
+  },
+  {
+    "name": "Sword-Magical.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Sword-Magical.16.png",
+    "tags": [
+      "sword",
+      "magical"
+    ]
+  },
+  {
+    "name": "Sword-Magical.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Sword-Magical.32.png",
+    "tags": [
+      "sword",
+      "magical"
+    ]
+  },
+  {
+    "name": "Sword-Scimitar.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Sword-Scimitar.16.png",
+    "tags": [
+      "scimitar",
+      "sword"
+    ]
+  },
+  {
+    "name": "Sword-Scimitar.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Sword-Scimitar.32.png",
+    "tags": [
+      "scimitar",
+      "sword"
+    ]
+  },
+  {
+    "name": "Sword.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Sword.16.png",
+    "tags": [
+      "sword"
+    ]
+  },
+  {
+    "name": "Sword.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Sword.32.png",
+    "tags": [
+      "sword"
+    ]
+  },
+  {
+    "name": "Swords.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Swords.16.png",
+    "tags": [
+      "swords"
+    ]
+  },
+  {
+    "name": "Swords.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Swords.32.png",
+    "tags": [
+      "swords"
+    ]
+  },
+  {
+    "name": "Wand-Air.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Air.16.png",
+    "tags": [
+      "wand",
+      "air"
+    ]
+  },
+  {
+    "name": "Wand-Air.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Air.32.png",
+    "tags": [
+      "wand",
+      "air"
+    ]
+  },
+  {
+    "name": "Wand-Fire.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Fire.16.png",
+    "tags": [
+      "wand",
+      "fire"
+    ]
+  },
+  {
+    "name": "Wand-Fire.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Fire.32.png",
+    "tags": [
+      "wand",
+      "fire"
+    ]
+  },
+  {
+    "name": "Wand-Magic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Magic.16.png",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand-Magic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Magic.32.png",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand-Water.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Water.16.png",
+    "tags": [
+      "wand",
+      "water"
+    ]
+  },
+  {
+    "name": "Wand-Water.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand-Water.32.png",
+    "tags": [
+      "wand",
+      "water"
+    ]
+  },
+  {
+    "name": "Wand.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand.16.png",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Wand.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wand.32.png",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Weapons.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Weapons.16.png",
+    "tags": [
+      "weapons"
+    ]
+  },
+  {
+    "name": "Weapons.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Weapons.32.png",
+    "tags": [
+      "weapons"
+    ]
+  },
+  {
+    "name": "Wizard-Hat.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wizard-Hat.16.png",
+    "tags": [
+      "wizard",
+      "hat"
+    ]
+  },
+  {
+    "name": "Wizard-Hat.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Kingdom-Icons/PNG/Wizard-Hat.32.png",
+    "tags": [
+      "wizard",
+      "hat"
+    ]
+  },
+  {
+    "name": "Arrow-Flaming.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Arrow-Flaming.ico",
+    "tags": [
+      "arrow",
+      "flaming"
+    ]
+  },
+  {
+    "name": "Arrow.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Arrow.ico",
+    "tags": [
+      "arrow"
+    ]
+  },
+  {
+    "name": "Axe-Major.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Axe-Major.ico",
+    "tags": [
+      "axe",
+      "major"
+    ]
+  },
+  {
+    "name": "Axe.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Axe.ico",
+    "tags": [
+      "axe"
+    ]
+  },
+  {
+    "name": "Bow-Major-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Bow-Major-Empty.ico",
+    "tags": [
+      "bow",
+      "major",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bow-Major.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Bow-Major.ico",
+    "tags": [
+      "bow",
+      "major"
+    ]
+  },
+  {
+    "name": "Bow.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Bow.ico",
+    "tags": [
+      "bow"
+    ]
+  },
+  {
+    "name": "Breastplate-Major.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Breastplate-Major.ico",
+    "tags": [
+      "breastplate",
+      "major"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal-Cape.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Breastplate-Royal-Cape.ico",
+    "tags": [
+      "breastplate",
+      "royal",
+      "cape"
+    ]
+  },
+  {
+    "name": "Breastplate-Royal.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Breastplate-Royal.ico",
+    "tags": [
+      "breastplate",
+      "royal"
+    ]
+  },
+  {
+    "name": "Breastplate.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Breastplate.ico",
+    "tags": [
+      "breastplate"
+    ]
+  },
+  {
+    "name": "Cauldron.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Cauldron.ico",
+    "tags": [
+      "cauldron"
+    ]
+  },
+  {
+    "name": "Crown-Royal.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Crown-Royal.ico",
+    "tags": [
+      "crown",
+      "royal"
+    ]
+  },
+  {
+    "name": "Crown.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Crown.ico",
+    "tags": [
+      "crown"
+    ]
+  },
+  {
+    "name": "Crystal.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Crystal.ico",
+    "tags": [
+      "crystal"
+    ]
+  },
+  {
+    "name": "Druid-Bow-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Druid-Bow-Magic.ico",
+    "tags": [
+      "druid",
+      "bow",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Bow.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Druid-Bow.ico",
+    "tags": [
+      "druid",
+      "bow"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Druid-Wand-Magic.ico",
+    "tags": [
+      "druid",
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Druid-Wand-Major.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Druid-Wand-Major.ico",
+    "tags": [
+      "druid",
+      "wand",
+      "major"
+    ]
+  },
+  {
+    "name": "Druid-Wand.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Druid-Wand.ico",
+    "tags": [
+      "druid",
+      "wand"
+    ]
+  },
+  {
+    "name": "Flames-Defender.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Flames-Defender.ico",
+    "tags": [
+      "flames",
+      "defender"
+    ]
+  },
+  {
+    "name": "Flames-Edge.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Flames-Edge.ico",
+    "tags": [
+      "flames",
+      "edge"
+    ]
+  },
+  {
+    "name": "Frost-Edge.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Frost-Edge.ico",
+    "tags": [
+      "frost",
+      "edge"
+    ]
+  },
+  {
+    "name": "Gemstone.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Gemstone.ico",
+    "tags": [
+      "gemstone"
+    ]
+  },
+  {
+    "name": "Money-Glowing.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Money-Glowing.ico",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Money.ico",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Ring.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Ring.ico",
+    "tags": [
+      "ring"
+    ]
+  },
+  {
+    "name": "Scepter.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Scepter.ico",
+    "tags": [
+      "scepter"
+    ]
+  },
+  {
+    "name": "Scimitar.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Scimitar.ico",
+    "tags": [
+      "scimitar"
+    ]
+  },
+  {
+    "name": "Shield-Magical-Wand.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Magical-Wand.ico",
+    "tags": [
+      "shield",
+      "magical",
+      "wand"
+    ]
+  },
+  {
+    "name": "Shield-Magical.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Magical.ico",
+    "tags": [
+      "shield",
+      "magical"
+    ]
+  },
+  {
+    "name": "Shield-Major-Swords.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Major-Swords.ico",
+    "tags": [
+      "shield",
+      "major",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Major.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Major.ico",
+    "tags": [
+      "shield",
+      "major"
+    ]
+  },
+  {
+    "name": "Shield-Minor-Swords.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Minor-Swords.ico",
+    "tags": [
+      "shield",
+      "minor",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Minor.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Minor.ico",
+    "tags": [
+      "minor",
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield-Royal-Swords.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Royal-Swords.ico",
+    "tags": [
+      "shield",
+      "royal",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Royal.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield-Royal.ico",
+    "tags": [
+      "shield",
+      "royal"
+    ]
+  },
+  {
+    "name": "Shield.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Shield.ico",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Spellbook-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Spellbook-Magic.ico",
+    "tags": [
+      "spellbook",
+      "magic"
+    ]
+  },
+  {
+    "name": "Spellbook.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Spellbook.ico",
+    "tags": [
+      "spellbook"
+    ]
+  },
+  {
+    "name": "Sword-Magical.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Sword-Magical.ico",
+    "tags": [
+      "sword",
+      "magical"
+    ]
+  },
+  {
+    "name": "Sword-Scimitar.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Sword-Scimitar.ico",
+    "tags": [
+      "scimitar",
+      "sword"
+    ]
+  },
+  {
+    "name": "Sword.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Sword.ico",
+    "tags": [
+      "sword"
+    ]
+  },
+  {
+    "name": "Swords.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Swords.ico",
+    "tags": [
+      "swords"
+    ]
+  },
+  {
+    "name": "Wand-Air.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Wand-Air.ico",
+    "tags": [
+      "wand",
+      "air"
+    ]
+  },
+  {
+    "name": "Wand-Fire.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Wand-Fire.ico",
+    "tags": [
+      "wand",
+      "fire"
+    ]
+  },
+  {
+    "name": "Wand-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Wand-Magic.ico",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand-Water.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Wand-Water.ico",
+    "tags": [
+      "wand",
+      "water"
+    ]
+  },
+  {
+    "name": "Wand.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Wand.ico",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Weapons.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Weapons.ico",
+    "tags": [
+      "weapons"
+    ]
+  },
+  {
+    "name": "Wizard-Hat.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Kingdom-Icons/Windows/Wizard-Hat.ico",
+    "tags": [
+      "wizard",
+      "hat"
+    ]
+  }
+]

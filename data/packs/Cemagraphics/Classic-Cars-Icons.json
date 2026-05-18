@@ -1,0 +1,950 @@
+[
+  {
+    "name": "bmw-mini.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/bmw-mini.16.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/bmw-mini.24.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/bmw-mini.32.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/camaro.16.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/camaro.24.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/camaro.32.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/chevrolet-impala.16.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/chevrolet-impala.24.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/chevrolet-impala.32.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "ferrari.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/ferrari.16.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/ferrari.24.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/ferrari.32.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "vw-beetle.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/vw-beetle.16.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/vw-beetle.24.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/vw-beetle.32.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "yellow-pickup.16.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/yellow-pickup.16.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.24.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/yellow-pickup.24.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.32.png",
+    "format": "Favicon",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Favicon/yellow-pickup.32.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "bmw-mini.icns",
+    "format": "Mac",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Mac/bmw-mini.icns",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.icns",
+    "format": "Mac",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Mac/camaro.icns",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.icns",
+    "format": "Mac",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Mac/chevrolet-impala.icns",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "ferrari.icns",
+    "format": "Mac",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Mac/ferrari.icns",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "vw-beetle.icns",
+    "format": "Mac",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Mac/vw-beetle.icns",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "yellow-pickup.icns",
+    "format": "Mac",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Mac/yellow-pickup.icns",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "bmw-mini.128.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.128.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.256.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.256.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.48.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.48.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.512.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.512.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.64.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.64.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.72.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.72.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "bmw-mini.96.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/bmw-mini.96.png",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.128.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.128.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.256.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.256.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.48.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.48.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.512.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.512.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.64.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.64.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.72.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.72.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.96.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/camaro.96.png",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.128.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.128.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.256.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.256.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.48.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.48.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.512.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.512.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.64.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.64.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.72.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.72.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.96.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/chevrolet-impala.96.png",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "ferrari.128.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.128.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.256.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.256.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.48.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.48.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.512.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.512.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.64.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.64.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.72.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.72.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "ferrari.96.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/ferrari.96.png",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "vw-beetle.128.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.128.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.256.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.256.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.48.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.48.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.512.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.512.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.64.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.64.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.72.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.72.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "vw-beetle.96.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/vw-beetle.96.png",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "yellow-pickup.128.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.128.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.256.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.256.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.48.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.48.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.512.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.512.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.64.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.64.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.72.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.72.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "yellow-pickup.96.png",
+    "format": "PNG",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/PNG/yellow-pickup.96.png",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  },
+  {
+    "name": "bmw-mini.ico",
+    "format": "Windows",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Windows/bmw-mini.ico",
+    "tags": [
+      "bmw",
+      "mini",
+      "car",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "camaro.ico",
+    "format": "Windows",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Windows/camaro.ico",
+    "tags": [
+      "camaro",
+      "car",
+      "transport",
+      "auto",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "chevrolet-impala.ico",
+    "format": "Windows",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Windows/chevrolet-impala.ico",
+    "tags": [
+      "chevrolet",
+      "car",
+      "impala",
+      "auto",
+      "vehicle",
+      "transport"
+    ]
+  },
+  {
+    "name": "ferrari.ico",
+    "format": "Windows",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Windows/ferrari.ico",
+    "tags": [
+      "ferrari",
+      "car",
+      "red",
+      "auto",
+      "transport",
+      "vehicle"
+    ]
+  },
+  {
+    "name": "vw-beetle.ico",
+    "format": "Windows",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Windows/vw-beetle.ico",
+    "tags": [
+      "beetle",
+      "vehicle",
+      "car",
+      "auto",
+      "transport"
+    ]
+  },
+  {
+    "name": "yellow-pickup.ico",
+    "format": "Windows",
+    "path": "Designer/Cemagraphics/Classic-Cars-Icons/Windows/yellow-pickup.ico",
+    "tags": [
+      "pickup",
+      "yellow",
+      "van",
+      "vehicle",
+      "lorry",
+      "truck",
+      "car",
+      "transport",
+      "auto"
+    ]
+  }
+]

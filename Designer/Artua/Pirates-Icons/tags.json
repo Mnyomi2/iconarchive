@@ -1,0 +1,36 @@
+{
+  "wheel": [
+    "wheel"
+  ],
+  "skull-empty": [
+    "skull",
+    "halloween",
+    "empty",
+    "erase",
+    "helloween"
+  ],
+  "torch": [
+    "torch"
+  ],
+  "treasure-map": [
+    "map",
+    "plan",
+    "navigation",
+    "contact",
+    "treasure"
+  ],
+  "skull": [
+    "skull",
+    "halloween",
+    "helloween"
+  ],
+  "treasure": [
+    "treasure"
+  ],
+  "mail-in-a-bottle": [
+    "email",
+    "mail",
+    "bottle",
+    "contact"
+  ]
+}

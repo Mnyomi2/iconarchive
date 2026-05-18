@@ -1,0 +1,482 @@
+[
+  {
+    "name": "House-1.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/House-1.16.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-1.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/House-1.32.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-2.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/House-2.16.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-2.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/House-2.32.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-3.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/House-3.16.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-3.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/House-3.32.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "Joes-Bar.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Joes-Bar.16.png",
+    "tags": [
+      "joes",
+      "bar"
+    ]
+  },
+  {
+    "name": "Joes-Bar.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Joes-Bar.32.png",
+    "tags": [
+      "joes",
+      "bar"
+    ]
+  },
+  {
+    "name": "Joes-Garage.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Joes-Garage.16.png",
+    "tags": [
+      "joes",
+      "garage"
+    ]
+  },
+  {
+    "name": "Joes-Garage.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Joes-Garage.32.png",
+    "tags": [
+      "joes",
+      "garage"
+    ]
+  },
+  {
+    "name": "My-Pavillion.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/My-Pavillion.16.png",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "My-Pavillion.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/My-Pavillion.32.png",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Outhouse.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Outhouse.16.png",
+    "tags": [
+      "outhouse"
+    ]
+  },
+  {
+    "name": "Outhouse.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Outhouse.32.png",
+    "tags": [
+      "outhouse"
+    ]
+  },
+  {
+    "name": "Pavillion-1.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Pavillion-1.16.png",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Pavillion-1.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Pavillion-1.32.png",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Pavillion-2.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Pavillion-2.16.png",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Pavillion-2.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Pavillion-2.32.png",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Read-Me.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Read-Me.16.png",
+    "tags": [
+      "read"
+    ]
+  },
+  {
+    "name": "Read-Me.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Read-Me.32.png",
+    "tags": [
+      "read"
+    ]
+  },
+  {
+    "name": "Shop-1.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Shop-1.16.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Shop-1.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Shop-1.32.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Shop-2.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Shop-2.16.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Shop-2.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Shop-2.32.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Stable.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Stable.16.png",
+    "tags": [
+      "stable"
+    ]
+  },
+  {
+    "name": "Stable.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Stable.32.png",
+    "tags": [
+      "stable"
+    ]
+  },
+  {
+    "name": "Stage-in-park.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Stage-in-park.16.png",
+    "tags": [
+      "stage",
+      "park"
+    ]
+  },
+  {
+    "name": "Stage-in-park.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Stage-in-park.32.png",
+    "tags": [
+      "stage",
+      "park"
+    ]
+  },
+  {
+    "name": "Swedish-Cottage-1.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Swedish-Cottage-1.16.png",
+    "tags": [
+      "swedish",
+      "cottage"
+    ]
+  },
+  {
+    "name": "Swedish-Cottage-1.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Swedish-Cottage-1.32.png",
+    "tags": [
+      "swedish",
+      "cottage"
+    ]
+  },
+  {
+    "name": "Swedish-Cottage-2.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Swedish-Cottage-2.16.png",
+    "tags": [
+      "swedish",
+      "cottage"
+    ]
+  },
+  {
+    "name": "Swedish-Cottage-2.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/Swedish-Cottage-2.32.png",
+    "tags": [
+      "swedish",
+      "cottage"
+    ]
+  },
+  {
+    "name": "The-Village-Icons.16.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/The-Village-Icons.16.png",
+    "tags": [
+      "village",
+      "icons"
+    ]
+  },
+  {
+    "name": "The-Village-Icons.32.png",
+    "format": "PNG",
+    "path": "Designer/Calle/The-Village-Icons/PNG/The-Village-Icons.32.png",
+    "tags": [
+      "village",
+      "icons"
+    ]
+  },
+  {
+    "name": "House-1.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/House-1.ico",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-2.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/House-2.ico",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House-3.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/House-3.ico",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "Joes-Bar.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Joes-Bar.ico",
+    "tags": [
+      "joes",
+      "bar"
+    ]
+  },
+  {
+    "name": "Joes-Garage.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Joes-Garage.ico",
+    "tags": [
+      "joes",
+      "garage"
+    ]
+  },
+  {
+    "name": "My-Pavillion.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/My-Pavillion.ico",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Outhouse.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Outhouse.ico",
+    "tags": [
+      "outhouse"
+    ]
+  },
+  {
+    "name": "Pavillion-1.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Pavillion-1.ico",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Pavillion-2.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Pavillion-2.ico",
+    "tags": [
+      "pavillion"
+    ]
+  },
+  {
+    "name": "Read-Me.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Read-Me.ico",
+    "tags": [
+      "read"
+    ]
+  },
+  {
+    "name": "Shop-1.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Shop-1.ico",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Shop-2.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Shop-2.ico",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Stable.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Stable.ico",
+    "tags": [
+      "stable"
+    ]
+  },
+  {
+    "name": "Stage-in-park.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Stage-in-park.ico",
+    "tags": [
+      "stage",
+      "park"
+    ]
+  },
+  {
+    "name": "Swedish-Cottage-1.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Swedish-Cottage-1.ico",
+    "tags": [
+      "swedish",
+      "cottage"
+    ]
+  },
+  {
+    "name": "Swedish-Cottage-2.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/Swedish-Cottage-2.ico",
+    "tags": [
+      "swedish",
+      "cottage"
+    ]
+  },
+  {
+    "name": "The-Village-Icons.ico",
+    "format": "Windows",
+    "path": "Designer/Calle/The-Village-Icons/Windows/The-Village-Icons.ico",
+    "tags": [
+      "village",
+      "icons"
+    ]
+  }
+]

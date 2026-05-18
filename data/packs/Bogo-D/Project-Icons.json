@@ -1,0 +1,9326 @@
+[
+  {
+    "name": "Address-Book.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Address-Book.icns",
+    "tags": [
+      "address",
+      "addressbook",
+      "phonebook",
+      "book",
+      "contact"
+    ]
+  },
+  {
+    "name": "Aero-Window-Explorer.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Aero-Window-Explorer.icns",
+    "tags": [
+      "aero",
+      "window",
+      "explorer",
+      "microsoft"
+    ]
+  },
+  {
+    "name": "Aero-Window-List.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Aero-Window-List.icns",
+    "tags": [
+      "aero",
+      "window",
+      "list"
+    ]
+  },
+  {
+    "name": "Alert.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Alert.icns",
+    "tags": [
+      "alarm",
+      "alert"
+    ]
+  },
+  {
+    "name": "Applications.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Applications.icns",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "applications"
+    ]
+  },
+  {
+    "name": "Battery-Display-Charging.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Battery-Display-Charging.icns",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "charging",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Full.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Battery-Display-Full.icns",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "full",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Low.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Battery-Display-Low.icns",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "low",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Battery-Display.icns",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Battery.icns",
+    "tags": [
+      "battery",
+      "power"
+    ]
+  },
+  {
+    "name": "Bell.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Bell.icns",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "Book-Bookmark.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Book-Bookmark.icns",
+    "tags": [
+      "book",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite"
+    ]
+  },
+  {
+    "name": "Book.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Book.icns",
+    "tags": [
+      "book"
+    ]
+  },
+  {
+    "name": "Bookshelf-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Bookshelf-Empty.icns",
+    "tags": [
+      "bookshelf",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bookshelf.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Bookshelf.icns",
+    "tags": [
+      "bookshelf"
+    ]
+  },
+  {
+    "name": "Box-This-Side-Up.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Box-This-Side-Up.icns",
+    "tags": [
+      "box",
+      "this",
+      "side",
+      "increase",
+      "up",
+      "upload",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Box.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Box.icns",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "Burn.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Burn.icns",
+    "tags": [
+      "burn"
+    ]
+  },
+  {
+    "name": "CD-Burn.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/CD-Burn.icns",
+    "tags": [
+      "burn",
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "CD.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/CD.icns",
+    "tags": [
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Calendar-Blue.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Calendar-Blue.icns",
+    "tags": [
+      "blue",
+      "calendar",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Calendar-Day-View.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Calendar-Day-View.icns",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "day",
+      "view"
+    ]
+  },
+  {
+    "name": "Calendar-Month-View.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Calendar-Month-View.icns",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "month",
+      "view"
+    ]
+  },
+  {
+    "name": "Camera.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Camera.icns",
+    "tags": [
+      "cam",
+      "camera",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Chalkboard-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Chalkboard-Empty.icns",
+    "tags": [
+      "chalkboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Chalkboard.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Chalkboard.icns",
+    "tags": [
+      "chalkboard"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open-Files.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Chest-of-Drawers-Open-Files.icns",
+    "tags": [
+      "chest",
+      "drawers",
+      "doc",
+      "document",
+      "file",
+      "open",
+      "files",
+      "paper"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Chest-of-Drawers-Open.icns",
+    "tags": [
+      "chest",
+      "drawers",
+      "open"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Chest-of-Drawers.icns",
+    "tags": [
+      "chest",
+      "drawers"
+    ]
+  },
+  {
+    "name": "Chip.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Chip.icns",
+    "tags": [
+      "chip"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Lit.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Christmas-Tree-Lit.icns",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "lit"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Undecorated.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Christmas-Tree-Undecorated.icns",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "undecorated"
+    ]
+  },
+  {
+    "name": "Christmas-Tree.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Christmas-Tree.icns",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "Clapperboard-Blank.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clapperboard-Blank.icns",
+    "tags": [
+      "blank",
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clapperboard-Closed.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clapperboard-Closed.icns",
+    "tags": [
+      "clapperboard",
+      "closed"
+    ]
+  },
+  {
+    "name": "Clapperboard-Picture.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clapperboard-Picture.icns",
+    "tags": [
+      "clapperboard",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Clapperboard.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clapperboard.icns",
+    "tags": [
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clipboard-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clipboard-Empty.icns",
+    "tags": [
+      "clipboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Clipboard-Fold.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clipboard-Fold.icns",
+    "tags": [
+      "clipboard",
+      "fold"
+    ]
+  },
+  {
+    "name": "Clipboard-Text.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clipboard-Text.icns",
+    "tags": [
+      "clipboard",
+      "text"
+    ]
+  },
+  {
+    "name": "Clipboard-Torn.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clipboard-Torn.icns",
+    "tags": [
+      "clipboard",
+      "torn"
+    ]
+  },
+  {
+    "name": "Clipboard.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Clipboard.icns",
+    "tags": [
+      "clipboard",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Color-Wheel.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Color-Wheel.icns",
+    "tags": [
+      "color",
+      "colour",
+      "wheel"
+    ]
+  },
+  {
+    "name": "Contact-Card.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Contact-Card.icns",
+    "tags": [
+      "contact",
+      "card"
+    ]
+  },
+  {
+    "name": "Curtains.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Curtains.icns",
+    "tags": [
+      "curtains"
+    ]
+  },
+  {
+    "name": "Dashboard.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Dashboard.icns",
+    "tags": [
+      "dashboard"
+    ]
+  },
+  {
+    "name": "Decoration-Branch.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Decoration-Branch.icns",
+    "tags": [
+      "branch",
+      "decoration"
+    ]
+  },
+  {
+    "name": "Decoration.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Decoration.icns",
+    "tags": [
+      "decoration"
+    ]
+  },
+  {
+    "name": "Delete.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Delete.icns",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Design-Blueprint.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Design-Blueprint.icns",
+    "tags": [
+      "design",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Design.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Design.icns",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "name": "Desktop.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Desktop.icns",
+    "tags": [
+      "desk",
+      "desktop"
+    ]
+  },
+  {
+    "name": "Dictionary.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Dictionary.icns",
+    "tags": [
+      "dictionary"
+    ]
+  },
+  {
+    "name": "Digsby.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Digsby.icns",
+    "tags": [
+      "digsby"
+    ]
+  },
+  {
+    "name": "Disk-Hard-Disk.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Disk-Hard-Disk.icns",
+    "tags": [
+      "disc",
+      "disk",
+      "hard"
+    ]
+  },
+  {
+    "name": "Disk-Removable.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Disk-Removable.icns",
+    "tags": [
+      "disc",
+      "disk",
+      "removable"
+    ]
+  },
+  {
+    "name": "Disk-Time-Machine.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Disk-Time-Machine.icns",
+    "tags": [
+      "disc",
+      "disk",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Disk-iDisk.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Disk-iDisk.icns",
+    "tags": [
+      "disc",
+      "disk",
+      "idisk"
+    ]
+  },
+  {
+    "name": "Door-Chat-Room.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Door-Chat-Room.icns",
+    "tags": [
+      "door",
+      "logout",
+      "chat",
+      "messenger",
+      "room",
+      "social",
+      "contact",
+      "logo"
+    ]
+  },
+  {
+    "name": "Door.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Door.icns",
+    "tags": [
+      "door",
+      "logout"
+    ]
+  },
+  {
+    "name": "Download-High-Speed.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Download-High-Speed.icns",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "high",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download-Turbo-Speed.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Download-Turbo-Speed.icns",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "turbo",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Download.icns",
+    "tags": [
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "E-Mail.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/E-Mail.icns",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Emoticon-Sleep.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Emoticon-Sleep.icns",
+    "tags": [
+      "emoticon",
+      "sleep"
+    ]
+  },
+  {
+    "name": "Emoticon.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Emoticon.icns",
+    "tags": [
+      "emoticon"
+    ]
+  },
+  {
+    "name": "Envelope-Airmail.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Envelope-Airmail.icns",
+    "tags": [
+      "envelope",
+      "airmail",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Envelope.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Envelope.icns",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Error.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Error.icns",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Face-Book.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Face-Book.icns",
+    "tags": [
+      "face",
+      "book"
+    ]
+  },
+  {
+    "name": "File.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/File.icns",
+    "tags": [
+      "doc",
+      "document",
+      "file",
+      "paper"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint-Under-Construction.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-Blueprint-Under-Construction.icns",
+    "tags": [
+      "filetype",
+      "blueprint",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-Blueprint.icns",
+    "tags": [
+      "filetype",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Filetype-RSS-Orange.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-RSS-Orange.icns",
+    "tags": [
+      "filetype",
+      "rss",
+      "orange",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-RSS.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-RSS.icns",
+    "tags": [
+      "filetype",
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-Script.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-Script.icns",
+    "tags": [
+      "filetype",
+      "script"
+    ]
+  },
+  {
+    "name": "Filetype-Under-Construction.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-Under-Construction.icns",
+    "tags": [
+      "filetype",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Video.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype-Video.icns",
+    "tags": [
+      "filetype",
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "Filetype.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filetype.icns",
+    "tags": [
+      "filetype"
+    ]
+  },
+  {
+    "name": "Film-Roll.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Film-Roll.icns",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "roll",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Filmstrip.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Filmstrip.icns",
+    "tags": [
+      "filmstrip"
+    ]
+  },
+  {
+    "name": "Folder-Blue.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Folder-Blue.icns",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Blue.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Folder-Classic-Blue.icns",
+    "tags": [
+      "folder",
+      "classic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Recycled.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Folder-Classic-Recycled.icns",
+    "tags": [
+      "folder",
+      "classic",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Yellow.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Folder-Classic-Yellow.icns",
+    "tags": [
+      "folder",
+      "classic",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Folder-Recycled.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Folder-Recycled.icns",
+    "tags": [
+      "folder",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Yellow.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Folder-Yellow.icns",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Gear.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Gear.icns",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Get-Info.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Get-Info.icns",
+    "tags": [
+      "get",
+      "info",
+      "information"
+    ]
+  },
+  {
+    "name": "Gift-Box-Blue.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Gift-Box-Blue.icns",
+    "tags": [
+      "gift",
+      "box",
+      "blue",
+      "birthday",
+      "christmas",
+      "xmas",
+      "present",
+      "ribbon"
+    ]
+  },
+  {
+    "name": "Gift-Box.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Gift-Box.icns",
+    "tags": [
+      "gift",
+      "present",
+      "box",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Glass-Cola-Ice.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Glass-Cola-Ice.icns",
+    "tags": [
+      "glass",
+      "cola",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Cola.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Glass-Cola.icns",
+    "tags": [
+      "glass",
+      "cola"
+    ]
+  },
+  {
+    "name": "Glass-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Glass-Empty.icns",
+    "tags": [
+      "glass",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Glass-Water-Ice.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Glass-Water-Ice.icns",
+    "tags": [
+      "glass",
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Water.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Glass-Water.icns",
+    "tags": [
+      "glass",
+      "water"
+    ]
+  },
+  {
+    "name": "Hard-Disk-Installation.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Hard-Disk-Installation.icns",
+    "tags": [
+      "hard",
+      "disc",
+      "disk",
+      "installation"
+    ]
+  },
+  {
+    "name": "House.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/House.icns",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "Inkwell.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Inkwell.icns",
+    "tags": [
+      "inkwell"
+    ]
+  },
+  {
+    "name": "Instant-Messaging.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Instant-Messaging.icns",
+    "tags": [
+      "instant",
+      "messaging"
+    ]
+  },
+  {
+    "name": "Jewel-Case-CD.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Jewel-Case-CD.icns",
+    "tags": [
+      "jewel",
+      "case",
+      "cd",
+      "bag",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Cover.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Jewel-Case-Cover.icns",
+    "tags": [
+      "jewel",
+      "case",
+      "cover",
+      "bag"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Jewel-Case-Empty.icns",
+    "tags": [
+      "jewel",
+      "case",
+      "empty",
+      "erase",
+      "bag"
+    ]
+  },
+  {
+    "name": "Key-Command.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Key-Command.icns",
+    "tags": [
+      "opener",
+      "key",
+      "command",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Key-Windows.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Key-Windows.icns",
+    "tags": [
+      "key",
+      "opener",
+      "windows",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "os"
+    ]
+  },
+  {
+    "name": "Library.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Library.icns",
+    "tags": [
+      "library"
+    ]
+  },
+  {
+    "name": "Lock-Unlocked.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Lock-Unlocked.icns",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "unlocked"
+    ]
+  },
+  {
+    "name": "Lock.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Lock.icns",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Magnifying-Glass.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Magnifying-Glass.icns",
+    "tags": [
+      "find",
+      "glass",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Microphone-Classic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Microphone-Classic.icns",
+    "tags": [
+      "classic",
+      "microphone"
+    ]
+  },
+  {
+    "name": "Microphone.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Microphone.icns",
+    "tags": [
+      "microphone"
+    ]
+  },
+  {
+    "name": "Money-Glowing.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Money-Glowing.icns",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Money.icns",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Monitor-Film.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Monitor-Film.icns",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Music-Video.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Monitor-Music-Video.icns",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "audio",
+      "music",
+      "sound",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Wallpaper.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Monitor-Wallpaper.icns",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "wallpaper",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Monitor.icns",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mug-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Mug-Empty.icns",
+    "tags": [
+      "mug",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Mug.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Mug.icns",
+    "tags": [
+      "mug"
+    ]
+  },
+  {
+    "name": "Musical-Note.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Musical-Note.icns",
+    "tags": [
+      "musical",
+      "note"
+    ]
+  },
+  {
+    "name": "Newspaper-RSS.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Newspaper-RSS.icns",
+    "tags": [
+      "newspaper",
+      "rss",
+      "news",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Newspaper.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Newspaper.icns",
+    "tags": [
+      "newspaper",
+      "news"
+    ]
+  },
+  {
+    "name": "Newsreader.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Newsreader.icns",
+    "tags": [
+      "newsreader"
+    ]
+  },
+  {
+    "name": "Note-White.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Note-White.icns",
+    "tags": [
+      "note",
+      "white"
+    ]
+  },
+  {
+    "name": "Note-Yellow.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Note-Yellow.icns",
+    "tags": [
+      "note",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Notification.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Notification.icns",
+    "tags": [
+      "notification"
+    ]
+  },
+  {
+    "name": "OS-Mac-OS-X.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/OS-Mac-OS-X.icns",
+    "tags": [
+      "mac",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "OS-Windows-7.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/OS-Windows-7.icns",
+    "tags": [
+      "windows",
+      "os"
+    ]
+  },
+  {
+    "name": "OS-Windows-Vista.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/OS-Windows-Vista.icns",
+    "tags": [
+      "windows",
+      "vista",
+      "os"
+    ]
+  },
+  {
+    "name": "Panel-Colors.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Panel-Colors.icns",
+    "tags": [
+      "color",
+      "colour",
+      "panel",
+      "colors"
+    ]
+  },
+  {
+    "name": "Panel-Find.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Panel-Find.icns",
+    "tags": [
+      "panel",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Panel-Inspector.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Panel-Inspector.icns",
+    "tags": [
+      "panel",
+      "inspector"
+    ]
+  },
+  {
+    "name": "Panel.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Panel.icns",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "Pen.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Pen.icns",
+    "tags": [
+      "pen"
+    ]
+  },
+  {
+    "name": "Pencil-and-Ruler.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Pencil-and-Ruler.icns",
+    "tags": [
+      "edit",
+      "pencil",
+      "update",
+      "ruler"
+    ]
+  },
+  {
+    "name": "Pencil.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Pencil.icns",
+    "tags": [
+      "edit",
+      "pencil",
+      "update"
+    ]
+  },
+  {
+    "name": "Photo-Polaroid.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Photo-Polaroid.icns",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "polaroid"
+    ]
+  },
+  {
+    "name": "Photo.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Photo.icns",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Pie-Chart.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Pie-Chart.icns",
+    "tags": [
+      "pie",
+      "chart",
+      "business"
+    ]
+  },
+  {
+    "name": "Pin.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Pin.icns",
+    "tags": [
+      "pin"
+    ]
+  },
+  {
+    "name": "Plant.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Plant.icns",
+    "tags": [
+      "plant"
+    ]
+  },
+  {
+    "name": "Preferences-Panel.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Preferences-Panel.icns",
+    "tags": [
+      "panel",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Presentation.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Presentation.icns",
+    "tags": [
+      "presentation"
+    ]
+  },
+  {
+    "name": "Project-Blueprints.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Project-Blueprints.icns",
+    "tags": [
+      "project",
+      "blueprints"
+    ]
+  },
+  {
+    "name": "Project.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Project.icns",
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "name": "RAM.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/RAM.icns",
+    "tags": [
+      "ram"
+    ]
+  },
+  {
+    "name": "RSS.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/RSS.icns",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Reception-Bell-Gold.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Reception-Bell-Gold.icns",
+    "tags": [
+      "reception",
+      "bell",
+      "gold"
+    ]
+  },
+  {
+    "name": "Reception-Bell.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Reception-Bell.icns",
+    "tags": [
+      "reception",
+      "bell"
+    ]
+  },
+  {
+    "name": "Ruler.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Ruler.icns",
+    "tags": [
+      "ruler"
+    ]
+  },
+  {
+    "name": "Safari.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Safari.icns",
+    "tags": [
+      "safari",
+      "browser"
+    ]
+  },
+  {
+    "name": "Safe-Dark.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Safe-Dark.icns",
+    "tags": [
+      "safe",
+      "dark"
+    ]
+  },
+  {
+    "name": "Safe-Open-Money.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Safe-Open-Money.icns",
+    "tags": [
+      "safe",
+      "open",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "name": "Safe-Open.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Safe-Open.icns",
+    "tags": [
+      "safe",
+      "open"
+    ]
+  },
+  {
+    "name": "Safe.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Safe.icns",
+    "tags": [
+      "safe"
+    ]
+  },
+  {
+    "name": "School-Bell.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/School-Bell.icns",
+    "tags": [
+      "school",
+      "bell",
+      "education"
+    ]
+  },
+  {
+    "name": "Shield-Swords.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Shield-Swords.icns",
+    "tags": [
+      "shield",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Shield.icns",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Black.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Shopping-Bag-Black.icns",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "black",
+      "building"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Paperboard.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Shopping-Bag-Paperboard.icns",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building",
+      "paperboard"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Price-Tag.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Shopping-Bag-Price-Tag.icns",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "price",
+      "building",
+      "tag"
+    ]
+  },
+  {
+    "name": "Shopping-Bag.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Shopping-Bag.icns",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building"
+    ]
+  },
+  {
+    "name": "Sign-Post-Alternate.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Sign-Post-Alternate.icns",
+    "tags": [
+      "sign",
+      "post",
+      "alternate"
+    ]
+  },
+  {
+    "name": "Sign-Post.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Sign-Post.icns",
+    "tags": [
+      "sign",
+      "post"
+    ]
+  },
+  {
+    "name": "Slide-Show.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Slide-Show.icns",
+    "tags": [
+      "slide",
+      "show"
+    ]
+  },
+  {
+    "name": "Spinning-Beach-Ball.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Spinning-Beach-Ball.icns",
+    "tags": [
+      "spinning",
+      "beach",
+      "ball",
+      "sport"
+    ]
+  },
+  {
+    "name": "Status.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Status.icns",
+    "tags": [
+      "status"
+    ]
+  },
+  {
+    "name": "Stoplight.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Stoplight.icns",
+    "tags": [
+      "stoplight"
+    ]
+  },
+  {
+    "name": "Stopwatch-Off.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Stopwatch-Off.icns",
+    "tags": [
+      "stopwatch",
+      "off"
+    ]
+  },
+  {
+    "name": "Stopwatch-On.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Stopwatch-On.icns",
+    "tags": [
+      "stopwatch"
+    ]
+  },
+  {
+    "name": "Suit.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Suit.icns",
+    "tags": [
+      "suit"
+    ]
+  },
+  {
+    "name": "Time-Machine.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Time-Machine.icns",
+    "tags": [
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic-Wand.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Top-Hat-Magic-Wand.icns",
+    "tags": [
+      "top",
+      "hat",
+      "magic",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Top-Hat-Magic.icns",
+    "tags": [
+      "top",
+      "hat",
+      "magic"
+    ]
+  },
+  {
+    "name": "Top-Hat-Wand.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Top-Hat-Wand.icns",
+    "tags": [
+      "top",
+      "hat",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Top-Hat.icns",
+    "tags": [
+      "top",
+      "hat"
+    ]
+  },
+  {
+    "name": "Traffic-Link.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Traffic-Link.icns",
+    "tags": [
+      "traffic",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Traffic-No-Entry.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Traffic-No-Entry.icns",
+    "tags": [
+      "traffic",
+      "entry",
+      "no"
+    ]
+  },
+  {
+    "name": "Traffic-Stop.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Traffic-Stop.icns",
+    "tags": [
+      "traffic",
+      "stop"
+    ]
+  },
+  {
+    "name": "Traffic-Warning.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Traffic-Warning.icns",
+    "tags": [
+      "traffic",
+      "warning"
+    ]
+  },
+  {
+    "name": "Traffic-Yield.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Traffic-Yield.icns",
+    "tags": [
+      "traffic",
+      "yield"
+    ]
+  },
+  {
+    "name": "Trash-Empty.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Trash-Empty.icns",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Trash-Full.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Trash-Full.icns",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Trash.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Trash.icns",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Trees.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Trees.icns",
+    "tags": [
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "name": "Twitter-Mention.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Twitter-Mention.icns",
+    "tags": [
+      "twitter",
+      "mention",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter-Retweet.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Twitter-Retweet.icns",
+    "tags": [
+      "twitter",
+      "retweet",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Twitter.icns",
+    "tags": [
+      "twitter",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "UI-Appearance.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Appearance.icns",
+    "tags": [
+      "appearance"
+    ]
+  },
+  {
+    "name": "UI-Debug.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Debug.icns",
+    "tags": [
+      "debug"
+    ]
+  },
+  {
+    "name": "UI-Drawer.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Drawer.icns",
+    "tags": [
+      "drawer"
+    ]
+  },
+  {
+    "name": "UI-Finder.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Finder.icns",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "UI-Inspector.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Inspector.icns",
+    "tags": [
+      "inspector"
+    ]
+  },
+  {
+    "name": "UI-List-Window.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-List-Window.icns",
+    "tags": [
+      "list",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie-Window.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Movie-Window.icns",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Movie.icns",
+    "tags": [
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "UI-Rulers.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Rulers.icns",
+    "tags": [
+      "ruler",
+      "rulers"
+    ]
+  },
+  {
+    "name": "UI-Sidebar.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Sidebar.icns",
+    "tags": [
+      "sidebar"
+    ]
+  },
+  {
+    "name": "UI-Text.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Text.icns",
+    "tags": [
+      "text"
+    ]
+  },
+  {
+    "name": "UI-Window.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/UI-Window.icns",
+    "tags": [
+      "window"
+    ]
+  },
+  {
+    "name": "User.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/User.icns",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Users.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Users.icns",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "users",
+      "face"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Past.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wall-Clock-Past.icns",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "past"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Time-Machine.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wall-Clock-Time-Machine.icns",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Wall-Clock.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wall-Clock.icns",
+    "tags": [
+      "wall",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "Wallet-Money.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wallet-Money.icns",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wallet.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wallet.icns",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wand-Magic.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wand-Magic.icns",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Wand.icns",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Website-Alias.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Website-Alias.icns",
+    "tags": [
+      "website",
+      "alias"
+    ]
+  },
+  {
+    "name": "Website-Download.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Website-Download.icns",
+    "tags": [
+      "website",
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Website-Link.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Website-Link.icns",
+    "tags": [
+      "website",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Website.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/Website.icns",
+    "tags": [
+      "website"
+    ]
+  },
+  {
+    "name": "iCal.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/iCal.icns",
+    "tags": [
+      "ical"
+    ]
+  },
+  {
+    "name": "iPhone-Application.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/iPhone-Application.icns",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "app",
+      "application",
+      "call",
+      "software",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone-Locked.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/iPhone-Locked.icns",
+    "tags": [
+      "iphone",
+      "locked",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/iPhone.icns",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iSight.icns",
+    "format": "Mac",
+    "path": "Designer/Bogo-D/Project-Icons/Mac/iSight.icns",
+    "tags": [
+      "isight"
+    ]
+  },
+  {
+    "name": "Address-Book.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Address-Book.16.png",
+    "tags": [
+      "address",
+      "addressbook",
+      "phonebook",
+      "book",
+      "contact"
+    ]
+  },
+  {
+    "name": "Address-Book.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Address-Book.32.png",
+    "tags": [
+      "address",
+      "addressbook",
+      "phonebook",
+      "book",
+      "contact"
+    ]
+  },
+  {
+    "name": "Aero-Window-Explorer.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Aero-Window-Explorer.16.png",
+    "tags": [
+      "aero",
+      "window",
+      "explorer",
+      "microsoft"
+    ]
+  },
+  {
+    "name": "Aero-Window-Explorer.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Aero-Window-Explorer.32.png",
+    "tags": [
+      "aero",
+      "window",
+      "explorer",
+      "microsoft"
+    ]
+  },
+  {
+    "name": "Aero-Window-List.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Aero-Window-List.16.png",
+    "tags": [
+      "aero",
+      "window",
+      "list"
+    ]
+  },
+  {
+    "name": "Aero-Window-List.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Aero-Window-List.32.png",
+    "tags": [
+      "aero",
+      "window",
+      "list"
+    ]
+  },
+  {
+    "name": "Alert.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Alert.16.png",
+    "tags": [
+      "alarm",
+      "alert"
+    ]
+  },
+  {
+    "name": "Alert.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Alert.32.png",
+    "tags": [
+      "alarm",
+      "alert"
+    ]
+  },
+  {
+    "name": "Applications.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Applications.16.png",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "applications"
+    ]
+  },
+  {
+    "name": "Applications.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Applications.32.png",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "applications"
+    ]
+  },
+  {
+    "name": "Battery-Display-Charging.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display-Charging.16.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "charging",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Charging.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display-Charging.32.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "charging",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Full.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display-Full.16.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "full",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Full.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display-Full.32.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "full",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Low.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display-Low.16.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "low",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Low.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display-Low.32.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "low",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display.16.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery-Display.32.png",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery.16.png",
+    "tags": [
+      "battery",
+      "power"
+    ]
+  },
+  {
+    "name": "Battery.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Battery.32.png",
+    "tags": [
+      "battery",
+      "power"
+    ]
+  },
+  {
+    "name": "Bell.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Bell.16.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "Bell.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Bell.32.png",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "Book-Bookmark.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Book-Bookmark.16.png",
+    "tags": [
+      "book",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite"
+    ]
+  },
+  {
+    "name": "Book-Bookmark.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Book-Bookmark.32.png",
+    "tags": [
+      "book",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite"
+    ]
+  },
+  {
+    "name": "Book.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Book.16.png",
+    "tags": [
+      "book"
+    ]
+  },
+  {
+    "name": "Book.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Book.32.png",
+    "tags": [
+      "book"
+    ]
+  },
+  {
+    "name": "Bookshelf-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Bookshelf-Empty.16.png",
+    "tags": [
+      "bookshelf",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bookshelf-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Bookshelf-Empty.32.png",
+    "tags": [
+      "bookshelf",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bookshelf.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Bookshelf.16.png",
+    "tags": [
+      "bookshelf"
+    ]
+  },
+  {
+    "name": "Bookshelf.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Bookshelf.32.png",
+    "tags": [
+      "bookshelf"
+    ]
+  },
+  {
+    "name": "Box-This-Side-Up.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Box-This-Side-Up.16.png",
+    "tags": [
+      "box",
+      "this",
+      "side",
+      "increase",
+      "up",
+      "upload",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Box-This-Side-Up.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Box-This-Side-Up.32.png",
+    "tags": [
+      "box",
+      "this",
+      "side",
+      "increase",
+      "up",
+      "upload",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Box.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Box.16.png",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "Box.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Box.32.png",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "Burn.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Burn.16.png",
+    "tags": [
+      "burn"
+    ]
+  },
+  {
+    "name": "Burn.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Burn.32.png",
+    "tags": [
+      "burn"
+    ]
+  },
+  {
+    "name": "CD-Burn.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/CD-Burn.16.png",
+    "tags": [
+      "burn",
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "CD-Burn.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/CD-Burn.32.png",
+    "tags": [
+      "burn",
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "CD.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/CD.16.png",
+    "tags": [
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "CD.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/CD.32.png",
+    "tags": [
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Calendar-Blue.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Calendar-Blue.16.png",
+    "tags": [
+      "blue",
+      "calendar",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Calendar-Blue.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Calendar-Blue.32.png",
+    "tags": [
+      "blue",
+      "calendar",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Calendar-Day-View.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Calendar-Day-View.16.png",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "day",
+      "view"
+    ]
+  },
+  {
+    "name": "Calendar-Day-View.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Calendar-Day-View.32.png",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "day",
+      "view"
+    ]
+  },
+  {
+    "name": "Calendar-Month-View.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Calendar-Month-View.16.png",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "month",
+      "view"
+    ]
+  },
+  {
+    "name": "Calendar-Month-View.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Calendar-Month-View.32.png",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "month",
+      "view"
+    ]
+  },
+  {
+    "name": "Camera.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Camera.16.png",
+    "tags": [
+      "cam",
+      "camera",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Camera.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Camera.32.png",
+    "tags": [
+      "cam",
+      "camera",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Chalkboard-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chalkboard-Empty.16.png",
+    "tags": [
+      "chalkboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Chalkboard-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chalkboard-Empty.32.png",
+    "tags": [
+      "chalkboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Chalkboard.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chalkboard.16.png",
+    "tags": [
+      "chalkboard"
+    ]
+  },
+  {
+    "name": "Chalkboard.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chalkboard.32.png",
+    "tags": [
+      "chalkboard"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open-Files.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chest-of-Drawers-Open-Files.16.png",
+    "tags": [
+      "chest",
+      "drawers",
+      "doc",
+      "document",
+      "file",
+      "open",
+      "files",
+      "paper"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open-Files.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chest-of-Drawers-Open-Files.32.png",
+    "tags": [
+      "chest",
+      "drawers",
+      "doc",
+      "document",
+      "file",
+      "open",
+      "files",
+      "paper"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chest-of-Drawers-Open.16.png",
+    "tags": [
+      "chest",
+      "drawers",
+      "open"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chest-of-Drawers-Open.32.png",
+    "tags": [
+      "chest",
+      "drawers",
+      "open"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chest-of-Drawers.16.png",
+    "tags": [
+      "chest",
+      "drawers"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chest-of-Drawers.32.png",
+    "tags": [
+      "chest",
+      "drawers"
+    ]
+  },
+  {
+    "name": "Chip.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chip.16.png",
+    "tags": [
+      "chip"
+    ]
+  },
+  {
+    "name": "Chip.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Chip.32.png",
+    "tags": [
+      "chip"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Lit.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Christmas-Tree-Lit.16.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "lit"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Lit.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Christmas-Tree-Lit.32.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "lit"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Undecorated.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Christmas-Tree-Undecorated.16.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "undecorated"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Undecorated.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Christmas-Tree-Undecorated.32.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "undecorated"
+    ]
+  },
+  {
+    "name": "Christmas-Tree.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Christmas-Tree.16.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "Christmas-Tree.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Christmas-Tree.32.png",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "Clapperboard-Blank.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard-Blank.16.png",
+    "tags": [
+      "blank",
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clapperboard-Blank.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard-Blank.32.png",
+    "tags": [
+      "blank",
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clapperboard-Closed.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard-Closed.16.png",
+    "tags": [
+      "clapperboard",
+      "closed"
+    ]
+  },
+  {
+    "name": "Clapperboard-Closed.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard-Closed.32.png",
+    "tags": [
+      "clapperboard",
+      "closed"
+    ]
+  },
+  {
+    "name": "Clapperboard-Picture.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard-Picture.16.png",
+    "tags": [
+      "clapperboard",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Clapperboard-Picture.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard-Picture.32.png",
+    "tags": [
+      "clapperboard",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Clapperboard.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard.16.png",
+    "tags": [
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clapperboard.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clapperboard.32.png",
+    "tags": [
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clipboard-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Empty.16.png",
+    "tags": [
+      "clipboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Clipboard-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Empty.32.png",
+    "tags": [
+      "clipboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Clipboard-Fold.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Fold.16.png",
+    "tags": [
+      "clipboard",
+      "fold"
+    ]
+  },
+  {
+    "name": "Clipboard-Fold.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Fold.32.png",
+    "tags": [
+      "clipboard",
+      "fold"
+    ]
+  },
+  {
+    "name": "Clipboard-Text.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Text.16.png",
+    "tags": [
+      "clipboard",
+      "text"
+    ]
+  },
+  {
+    "name": "Clipboard-Text.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Text.32.png",
+    "tags": [
+      "clipboard",
+      "text"
+    ]
+  },
+  {
+    "name": "Clipboard-Torn.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Torn.16.png",
+    "tags": [
+      "clipboard",
+      "torn"
+    ]
+  },
+  {
+    "name": "Clipboard-Torn.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard-Torn.32.png",
+    "tags": [
+      "clipboard",
+      "torn"
+    ]
+  },
+  {
+    "name": "Clipboard.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard.16.png",
+    "tags": [
+      "clipboard",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Clipboard.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Clipboard.32.png",
+    "tags": [
+      "clipboard",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Color-Wheel.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Color-Wheel.16.png",
+    "tags": [
+      "color",
+      "colour",
+      "wheel"
+    ]
+  },
+  {
+    "name": "Color-Wheel.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Color-Wheel.32.png",
+    "tags": [
+      "color",
+      "colour",
+      "wheel"
+    ]
+  },
+  {
+    "name": "Contact-Card.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Contact-Card.16.png",
+    "tags": [
+      "contact",
+      "card"
+    ]
+  },
+  {
+    "name": "Contact-Card.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Contact-Card.32.png",
+    "tags": [
+      "contact",
+      "card"
+    ]
+  },
+  {
+    "name": "Curtains.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Curtains.16.png",
+    "tags": [
+      "curtains"
+    ]
+  },
+  {
+    "name": "Curtains.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Curtains.32.png",
+    "tags": [
+      "curtains"
+    ]
+  },
+  {
+    "name": "Dashboard.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Dashboard.16.png",
+    "tags": [
+      "dashboard"
+    ]
+  },
+  {
+    "name": "Dashboard.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Dashboard.32.png",
+    "tags": [
+      "dashboard"
+    ]
+  },
+  {
+    "name": "Decoration-Branch.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Decoration-Branch.16.png",
+    "tags": [
+      "branch",
+      "decoration"
+    ]
+  },
+  {
+    "name": "Decoration-Branch.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Decoration-Branch.32.png",
+    "tags": [
+      "branch",
+      "decoration"
+    ]
+  },
+  {
+    "name": "Decoration.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Decoration.16.png",
+    "tags": [
+      "decoration"
+    ]
+  },
+  {
+    "name": "Decoration.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Decoration.32.png",
+    "tags": [
+      "decoration"
+    ]
+  },
+  {
+    "name": "Delete.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Delete.16.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Delete.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Delete.32.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Design-Blueprint.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Design-Blueprint.16.png",
+    "tags": [
+      "design",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Design-Blueprint.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Design-Blueprint.32.png",
+    "tags": [
+      "design",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Design.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Design.16.png",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "name": "Design.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Design.32.png",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "name": "Desktop.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Desktop.16.png",
+    "tags": [
+      "desk",
+      "desktop"
+    ]
+  },
+  {
+    "name": "Desktop.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Desktop.32.png",
+    "tags": [
+      "desk",
+      "desktop"
+    ]
+  },
+  {
+    "name": "Dictionary.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Dictionary.16.png",
+    "tags": [
+      "dictionary"
+    ]
+  },
+  {
+    "name": "Dictionary.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Dictionary.32.png",
+    "tags": [
+      "dictionary"
+    ]
+  },
+  {
+    "name": "Digsby.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Digsby.16.png",
+    "tags": [
+      "digsby"
+    ]
+  },
+  {
+    "name": "Digsby.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Digsby.32.png",
+    "tags": [
+      "digsby"
+    ]
+  },
+  {
+    "name": "Disk-Hard-Disk.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-Hard-Disk.16.png",
+    "tags": [
+      "disc",
+      "disk",
+      "hard"
+    ]
+  },
+  {
+    "name": "Disk-Hard-Disk.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-Hard-Disk.32.png",
+    "tags": [
+      "disc",
+      "disk",
+      "hard"
+    ]
+  },
+  {
+    "name": "Disk-Removable.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-Removable.16.png",
+    "tags": [
+      "disc",
+      "disk",
+      "removable"
+    ]
+  },
+  {
+    "name": "Disk-Removable.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-Removable.32.png",
+    "tags": [
+      "disc",
+      "disk",
+      "removable"
+    ]
+  },
+  {
+    "name": "Disk-Time-Machine.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-Time-Machine.16.png",
+    "tags": [
+      "disc",
+      "disk",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Disk-Time-Machine.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-Time-Machine.32.png",
+    "tags": [
+      "disc",
+      "disk",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Disk-iDisk.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-iDisk.16.png",
+    "tags": [
+      "disc",
+      "disk",
+      "idisk"
+    ]
+  },
+  {
+    "name": "Disk-iDisk.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Disk-iDisk.32.png",
+    "tags": [
+      "disc",
+      "disk",
+      "idisk"
+    ]
+  },
+  {
+    "name": "Door-Chat-Room.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Door-Chat-Room.16.png",
+    "tags": [
+      "door",
+      "logout",
+      "chat",
+      "messenger",
+      "room",
+      "social",
+      "contact",
+      "logo"
+    ]
+  },
+  {
+    "name": "Door-Chat-Room.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Door-Chat-Room.32.png",
+    "tags": [
+      "door",
+      "logout",
+      "chat",
+      "messenger",
+      "room",
+      "social",
+      "contact",
+      "logo"
+    ]
+  },
+  {
+    "name": "Door.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Door.16.png",
+    "tags": [
+      "door",
+      "logout"
+    ]
+  },
+  {
+    "name": "Door.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Door.32.png",
+    "tags": [
+      "door",
+      "logout"
+    ]
+  },
+  {
+    "name": "Download-High-Speed.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Download-High-Speed.16.png",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "high",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download-High-Speed.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Download-High-Speed.32.png",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "high",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download-Turbo-Speed.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Download-Turbo-Speed.16.png",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "turbo",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download-Turbo-Speed.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Download-Turbo-Speed.32.png",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "turbo",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Download.16.png",
+    "tags": [
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Download.32.png",
+    "tags": [
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "E-Mail.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/E-Mail.16.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "E-Mail.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/E-Mail.32.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Emoticon-Sleep.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Emoticon-Sleep.16.png",
+    "tags": [
+      "emoticon",
+      "sleep"
+    ]
+  },
+  {
+    "name": "Emoticon-Sleep.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Emoticon-Sleep.32.png",
+    "tags": [
+      "emoticon",
+      "sleep"
+    ]
+  },
+  {
+    "name": "Emoticon.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Emoticon.16.png",
+    "tags": [
+      "emoticon"
+    ]
+  },
+  {
+    "name": "Emoticon.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Emoticon.32.png",
+    "tags": [
+      "emoticon"
+    ]
+  },
+  {
+    "name": "Envelope-Airmail.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Envelope-Airmail.16.png",
+    "tags": [
+      "envelope",
+      "airmail",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Envelope-Airmail.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Envelope-Airmail.32.png",
+    "tags": [
+      "envelope",
+      "airmail",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Envelope.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Envelope.16.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Envelope.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Envelope.32.png",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Error.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Error.16.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Error.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Error.32.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Face-Book.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Face-Book.16.png",
+    "tags": [
+      "face",
+      "book"
+    ]
+  },
+  {
+    "name": "Face-Book.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Face-Book.32.png",
+    "tags": [
+      "face",
+      "book"
+    ]
+  },
+  {
+    "name": "File.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/File.16.png",
+    "tags": [
+      "doc",
+      "document",
+      "file",
+      "paper"
+    ]
+  },
+  {
+    "name": "File.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/File.32.png",
+    "tags": [
+      "doc",
+      "document",
+      "file",
+      "paper"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint-Under-Construction.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Blueprint-Under-Construction.16.png",
+    "tags": [
+      "filetype",
+      "blueprint",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint-Under-Construction.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Blueprint-Under-Construction.32.png",
+    "tags": [
+      "filetype",
+      "blueprint",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Blueprint.16.png",
+    "tags": [
+      "filetype",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Blueprint.32.png",
+    "tags": [
+      "filetype",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Filetype-RSS-Orange.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-RSS-Orange.16.png",
+    "tags": [
+      "filetype",
+      "rss",
+      "orange",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-RSS-Orange.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-RSS-Orange.32.png",
+    "tags": [
+      "filetype",
+      "rss",
+      "orange",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-RSS.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-RSS.16.png",
+    "tags": [
+      "filetype",
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-RSS.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-RSS.32.png",
+    "tags": [
+      "filetype",
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-Script.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Script.16.png",
+    "tags": [
+      "filetype",
+      "script"
+    ]
+  },
+  {
+    "name": "Filetype-Script.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Script.32.png",
+    "tags": [
+      "filetype",
+      "script"
+    ]
+  },
+  {
+    "name": "Filetype-Under-Construction.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Under-Construction.16.png",
+    "tags": [
+      "filetype",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Under-Construction.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Under-Construction.32.png",
+    "tags": [
+      "filetype",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Video.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Video.16.png",
+    "tags": [
+      "filetype",
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "Filetype-Video.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype-Video.32.png",
+    "tags": [
+      "filetype",
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "Filetype.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype.16.png",
+    "tags": [
+      "filetype"
+    ]
+  },
+  {
+    "name": "Filetype.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filetype.32.png",
+    "tags": [
+      "filetype"
+    ]
+  },
+  {
+    "name": "Film-Roll.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Film-Roll.16.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "roll",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Film-Roll.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Film-Roll.32.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "roll",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Filmstrip.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filmstrip.16.png",
+    "tags": [
+      "filmstrip"
+    ]
+  },
+  {
+    "name": "Filmstrip.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Filmstrip.32.png",
+    "tags": [
+      "filmstrip"
+    ]
+  },
+  {
+    "name": "Folder-Blue.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Blue.16.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Blue.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Blue.32.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Blue.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Classic-Blue.16.png",
+    "tags": [
+      "folder",
+      "classic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Blue.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Classic-Blue.32.png",
+    "tags": [
+      "folder",
+      "classic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Recycled.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Classic-Recycled.16.png",
+    "tags": [
+      "folder",
+      "classic",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Recycled.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Classic-Recycled.32.png",
+    "tags": [
+      "folder",
+      "classic",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Yellow.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Classic-Yellow.16.png",
+    "tags": [
+      "folder",
+      "classic",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Yellow.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Classic-Yellow.32.png",
+    "tags": [
+      "folder",
+      "classic",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Folder-Recycled.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Recycled.16.png",
+    "tags": [
+      "folder",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Recycled.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Recycled.32.png",
+    "tags": [
+      "folder",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Yellow.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Yellow.16.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Folder-Yellow.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Folder-Yellow.32.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Gear.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Gear.16.png",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Gear.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Gear.32.png",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Get-Info.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Get-Info.16.png",
+    "tags": [
+      "get",
+      "info",
+      "information"
+    ]
+  },
+  {
+    "name": "Get-Info.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Get-Info.32.png",
+    "tags": [
+      "get",
+      "info",
+      "information"
+    ]
+  },
+  {
+    "name": "Gift-Box-Blue.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Gift-Box-Blue.16.png",
+    "tags": [
+      "gift",
+      "box",
+      "blue",
+      "birthday",
+      "christmas",
+      "xmas",
+      "present",
+      "ribbon"
+    ]
+  },
+  {
+    "name": "Gift-Box-Blue.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Gift-Box-Blue.32.png",
+    "tags": [
+      "gift",
+      "box",
+      "blue",
+      "birthday",
+      "christmas",
+      "xmas",
+      "present",
+      "ribbon"
+    ]
+  },
+  {
+    "name": "Gift-Box.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Gift-Box.16.png",
+    "tags": [
+      "gift",
+      "present",
+      "box",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Gift-Box.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Gift-Box.32.png",
+    "tags": [
+      "gift",
+      "present",
+      "box",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Glass-Cola-Ice.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Cola-Ice.16.png",
+    "tags": [
+      "glass",
+      "cola",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Cola-Ice.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Cola-Ice.32.png",
+    "tags": [
+      "glass",
+      "cola",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Cola.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Cola.16.png",
+    "tags": [
+      "glass",
+      "cola"
+    ]
+  },
+  {
+    "name": "Glass-Cola.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Cola.32.png",
+    "tags": [
+      "glass",
+      "cola"
+    ]
+  },
+  {
+    "name": "Glass-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Empty.16.png",
+    "tags": [
+      "glass",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Glass-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Empty.32.png",
+    "tags": [
+      "glass",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Glass-Water-Ice.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Water-Ice.16.png",
+    "tags": [
+      "glass",
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Water-Ice.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Water-Ice.32.png",
+    "tags": [
+      "glass",
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Water.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Water.16.png",
+    "tags": [
+      "glass",
+      "water"
+    ]
+  },
+  {
+    "name": "Glass-Water.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Glass-Water.32.png",
+    "tags": [
+      "glass",
+      "water"
+    ]
+  },
+  {
+    "name": "Hard-Disk-Installation.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Hard-Disk-Installation.16.png",
+    "tags": [
+      "hard",
+      "disc",
+      "disk",
+      "installation"
+    ]
+  },
+  {
+    "name": "Hard-Disk-Installation.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Hard-Disk-Installation.32.png",
+    "tags": [
+      "hard",
+      "disc",
+      "disk",
+      "installation"
+    ]
+  },
+  {
+    "name": "House.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/House.16.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "House.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/House.32.png",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "Inkwell.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Inkwell.16.png",
+    "tags": [
+      "inkwell"
+    ]
+  },
+  {
+    "name": "Inkwell.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Inkwell.32.png",
+    "tags": [
+      "inkwell"
+    ]
+  },
+  {
+    "name": "Instant-Messaging.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Instant-Messaging.16.png",
+    "tags": [
+      "instant",
+      "messaging"
+    ]
+  },
+  {
+    "name": "Instant-Messaging.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Instant-Messaging.32.png",
+    "tags": [
+      "instant",
+      "messaging"
+    ]
+  },
+  {
+    "name": "Jewel-Case-CD.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Jewel-Case-CD.16.png",
+    "tags": [
+      "jewel",
+      "case",
+      "cd",
+      "bag",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Jewel-Case-CD.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Jewel-Case-CD.32.png",
+    "tags": [
+      "jewel",
+      "case",
+      "cd",
+      "bag",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Cover.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Jewel-Case-Cover.16.png",
+    "tags": [
+      "jewel",
+      "case",
+      "cover",
+      "bag"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Cover.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Jewel-Case-Cover.32.png",
+    "tags": [
+      "jewel",
+      "case",
+      "cover",
+      "bag"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Jewel-Case-Empty.16.png",
+    "tags": [
+      "jewel",
+      "case",
+      "empty",
+      "erase",
+      "bag"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Jewel-Case-Empty.32.png",
+    "tags": [
+      "jewel",
+      "case",
+      "empty",
+      "erase",
+      "bag"
+    ]
+  },
+  {
+    "name": "Key-Command.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Key-Command.16.png",
+    "tags": [
+      "opener",
+      "key",
+      "command",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Key-Command.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Key-Command.32.png",
+    "tags": [
+      "opener",
+      "key",
+      "command",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Key-Windows.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Key-Windows.16.png",
+    "tags": [
+      "key",
+      "opener",
+      "windows",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "os"
+    ]
+  },
+  {
+    "name": "Key-Windows.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Key-Windows.32.png",
+    "tags": [
+      "key",
+      "opener",
+      "windows",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "os"
+    ]
+  },
+  {
+    "name": "Library.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Library.16.png",
+    "tags": [
+      "library"
+    ]
+  },
+  {
+    "name": "Library.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Library.32.png",
+    "tags": [
+      "library"
+    ]
+  },
+  {
+    "name": "Lock-Unlocked.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Lock-Unlocked.16.png",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "unlocked"
+    ]
+  },
+  {
+    "name": "Lock-Unlocked.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Lock-Unlocked.32.png",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "unlocked"
+    ]
+  },
+  {
+    "name": "Lock.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Lock.16.png",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Lock.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Lock.32.png",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Magnifying-Glass.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Magnifying-Glass.16.png",
+    "tags": [
+      "find",
+      "glass",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Magnifying-Glass.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Magnifying-Glass.32.png",
+    "tags": [
+      "find",
+      "glass",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Microphone-Classic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Microphone-Classic.16.png",
+    "tags": [
+      "classic",
+      "microphone"
+    ]
+  },
+  {
+    "name": "Microphone-Classic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Microphone-Classic.32.png",
+    "tags": [
+      "classic",
+      "microphone"
+    ]
+  },
+  {
+    "name": "Microphone.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Microphone.16.png",
+    "tags": [
+      "microphone"
+    ]
+  },
+  {
+    "name": "Microphone.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Microphone.32.png",
+    "tags": [
+      "microphone"
+    ]
+  },
+  {
+    "name": "Money-Glowing.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Money-Glowing.16.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money-Glowing.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Money-Glowing.32.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Money.16.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Money.32.png",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Monitor-Film.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor-Film.16.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Film.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor-Film.32.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Music-Video.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor-Music-Video.16.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "audio",
+      "music",
+      "sound",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Music-Video.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor-Music-Video.32.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "audio",
+      "music",
+      "sound",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Wallpaper.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor-Wallpaper.16.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "wallpaper",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Wallpaper.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor-Wallpaper.32.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "wallpaper",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor.16.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Monitor.32.png",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mug-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Mug-Empty.16.png",
+    "tags": [
+      "mug",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Mug-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Mug-Empty.32.png",
+    "tags": [
+      "mug",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Mug.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Mug.16.png",
+    "tags": [
+      "mug"
+    ]
+  },
+  {
+    "name": "Mug.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Mug.32.png",
+    "tags": [
+      "mug"
+    ]
+  },
+  {
+    "name": "Musical-Note.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Musical-Note.16.png",
+    "tags": [
+      "musical",
+      "note"
+    ]
+  },
+  {
+    "name": "Musical-Note.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Musical-Note.32.png",
+    "tags": [
+      "musical",
+      "note"
+    ]
+  },
+  {
+    "name": "Newspaper-RSS.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Newspaper-RSS.16.png",
+    "tags": [
+      "newspaper",
+      "rss",
+      "news",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Newspaper-RSS.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Newspaper-RSS.32.png",
+    "tags": [
+      "newspaper",
+      "rss",
+      "news",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Newspaper.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Newspaper.16.png",
+    "tags": [
+      "newspaper",
+      "news"
+    ]
+  },
+  {
+    "name": "Newspaper.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Newspaper.32.png",
+    "tags": [
+      "newspaper",
+      "news"
+    ]
+  },
+  {
+    "name": "Newsreader.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Newsreader.16.png",
+    "tags": [
+      "newsreader"
+    ]
+  },
+  {
+    "name": "Newsreader.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Newsreader.32.png",
+    "tags": [
+      "newsreader"
+    ]
+  },
+  {
+    "name": "Note-White.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Note-White.16.png",
+    "tags": [
+      "note",
+      "white"
+    ]
+  },
+  {
+    "name": "Note-White.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Note-White.32.png",
+    "tags": [
+      "note",
+      "white"
+    ]
+  },
+  {
+    "name": "Note-Yellow.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Note-Yellow.16.png",
+    "tags": [
+      "note",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Note-Yellow.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Note-Yellow.32.png",
+    "tags": [
+      "note",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Notification.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Notification.16.png",
+    "tags": [
+      "notification"
+    ]
+  },
+  {
+    "name": "Notification.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Notification.32.png",
+    "tags": [
+      "notification"
+    ]
+  },
+  {
+    "name": "OS-Mac-OS-X.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/OS-Mac-OS-X.16.png",
+    "tags": [
+      "mac",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "OS-Mac-OS-X.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/OS-Mac-OS-X.32.png",
+    "tags": [
+      "mac",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "OS-Windows-7.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/OS-Windows-7.16.png",
+    "tags": [
+      "windows",
+      "os"
+    ]
+  },
+  {
+    "name": "OS-Windows-7.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/OS-Windows-7.32.png",
+    "tags": [
+      "windows",
+      "os"
+    ]
+  },
+  {
+    "name": "OS-Windows-Vista.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/OS-Windows-Vista.16.png",
+    "tags": [
+      "windows",
+      "vista",
+      "os"
+    ]
+  },
+  {
+    "name": "OS-Windows-Vista.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/OS-Windows-Vista.32.png",
+    "tags": [
+      "windows",
+      "vista",
+      "os"
+    ]
+  },
+  {
+    "name": "Panel-Colors.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel-Colors.16.png",
+    "tags": [
+      "color",
+      "colour",
+      "panel",
+      "colors"
+    ]
+  },
+  {
+    "name": "Panel-Colors.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel-Colors.32.png",
+    "tags": [
+      "color",
+      "colour",
+      "panel",
+      "colors"
+    ]
+  },
+  {
+    "name": "Panel-Find.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel-Find.16.png",
+    "tags": [
+      "panel",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Panel-Find.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel-Find.32.png",
+    "tags": [
+      "panel",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Panel-Inspector.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel-Inspector.16.png",
+    "tags": [
+      "panel",
+      "inspector"
+    ]
+  },
+  {
+    "name": "Panel-Inspector.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel-Inspector.32.png",
+    "tags": [
+      "panel",
+      "inspector"
+    ]
+  },
+  {
+    "name": "Panel.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel.16.png",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "Panel.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Panel.32.png",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "Pen.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pen.16.png",
+    "tags": [
+      "pen"
+    ]
+  },
+  {
+    "name": "Pen.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pen.32.png",
+    "tags": [
+      "pen"
+    ]
+  },
+  {
+    "name": "Pencil-and-Ruler.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pencil-and-Ruler.16.png",
+    "tags": [
+      "edit",
+      "pencil",
+      "update",
+      "ruler"
+    ]
+  },
+  {
+    "name": "Pencil-and-Ruler.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pencil-and-Ruler.32.png",
+    "tags": [
+      "edit",
+      "pencil",
+      "update",
+      "ruler"
+    ]
+  },
+  {
+    "name": "Pencil.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pencil.16.png",
+    "tags": [
+      "edit",
+      "pencil",
+      "update"
+    ]
+  },
+  {
+    "name": "Pencil.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pencil.32.png",
+    "tags": [
+      "edit",
+      "pencil",
+      "update"
+    ]
+  },
+  {
+    "name": "Photo-Polaroid.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Photo-Polaroid.16.png",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "polaroid"
+    ]
+  },
+  {
+    "name": "Photo-Polaroid.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Photo-Polaroid.32.png",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "polaroid"
+    ]
+  },
+  {
+    "name": "Photo.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Photo.16.png",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Photo.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Photo.32.png",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Pie-Chart.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pie-Chart.16.png",
+    "tags": [
+      "pie",
+      "chart",
+      "business"
+    ]
+  },
+  {
+    "name": "Pie-Chart.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pie-Chart.32.png",
+    "tags": [
+      "pie",
+      "chart",
+      "business"
+    ]
+  },
+  {
+    "name": "Pin.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pin.16.png",
+    "tags": [
+      "pin"
+    ]
+  },
+  {
+    "name": "Pin.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Pin.32.png",
+    "tags": [
+      "pin"
+    ]
+  },
+  {
+    "name": "Plant.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Plant.16.png",
+    "tags": [
+      "plant"
+    ]
+  },
+  {
+    "name": "Plant.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Plant.32.png",
+    "tags": [
+      "plant"
+    ]
+  },
+  {
+    "name": "Preferences-Panel.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Preferences-Panel.16.png",
+    "tags": [
+      "panel",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Preferences-Panel.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Preferences-Panel.32.png",
+    "tags": [
+      "panel",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Presentation.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Presentation.16.png",
+    "tags": [
+      "presentation"
+    ]
+  },
+  {
+    "name": "Presentation.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Presentation.32.png",
+    "tags": [
+      "presentation"
+    ]
+  },
+  {
+    "name": "Project-Blueprints.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Project-Blueprints.16.png",
+    "tags": [
+      "project",
+      "blueprints"
+    ]
+  },
+  {
+    "name": "Project-Blueprints.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Project-Blueprints.32.png",
+    "tags": [
+      "project",
+      "blueprints"
+    ]
+  },
+  {
+    "name": "Project.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Project.16.png",
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "name": "Project.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Project.32.png",
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "name": "RAM.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/RAM.16.png",
+    "tags": [
+      "ram"
+    ]
+  },
+  {
+    "name": "RAM.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/RAM.32.png",
+    "tags": [
+      "ram"
+    ]
+  },
+  {
+    "name": "RSS.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/RSS.16.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "RSS.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/RSS.32.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Reception-Bell-Gold.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Reception-Bell-Gold.16.png",
+    "tags": [
+      "reception",
+      "bell",
+      "gold"
+    ]
+  },
+  {
+    "name": "Reception-Bell-Gold.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Reception-Bell-Gold.32.png",
+    "tags": [
+      "reception",
+      "bell",
+      "gold"
+    ]
+  },
+  {
+    "name": "Reception-Bell.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Reception-Bell.16.png",
+    "tags": [
+      "reception",
+      "bell"
+    ]
+  },
+  {
+    "name": "Reception-Bell.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Reception-Bell.32.png",
+    "tags": [
+      "reception",
+      "bell"
+    ]
+  },
+  {
+    "name": "Ruler.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Ruler.16.png",
+    "tags": [
+      "ruler"
+    ]
+  },
+  {
+    "name": "Ruler.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Ruler.32.png",
+    "tags": [
+      "ruler"
+    ]
+  },
+  {
+    "name": "Safari.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safari.16.png",
+    "tags": [
+      "safari",
+      "browser"
+    ]
+  },
+  {
+    "name": "Safari.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safari.32.png",
+    "tags": [
+      "safari",
+      "browser"
+    ]
+  },
+  {
+    "name": "Safe-Dark.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe-Dark.16.png",
+    "tags": [
+      "safe",
+      "dark"
+    ]
+  },
+  {
+    "name": "Safe-Dark.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe-Dark.32.png",
+    "tags": [
+      "safe",
+      "dark"
+    ]
+  },
+  {
+    "name": "Safe-Open-Money.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe-Open-Money.16.png",
+    "tags": [
+      "safe",
+      "open",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "name": "Safe-Open-Money.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe-Open-Money.32.png",
+    "tags": [
+      "safe",
+      "open",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "name": "Safe-Open.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe-Open.16.png",
+    "tags": [
+      "safe",
+      "open"
+    ]
+  },
+  {
+    "name": "Safe-Open.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe-Open.32.png",
+    "tags": [
+      "safe",
+      "open"
+    ]
+  },
+  {
+    "name": "Safe.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe.16.png",
+    "tags": [
+      "safe"
+    ]
+  },
+  {
+    "name": "Safe.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Safe.32.png",
+    "tags": [
+      "safe"
+    ]
+  },
+  {
+    "name": "School-Bell.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/School-Bell.16.png",
+    "tags": [
+      "school",
+      "bell",
+      "education"
+    ]
+  },
+  {
+    "name": "School-Bell.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/School-Bell.32.png",
+    "tags": [
+      "school",
+      "bell",
+      "education"
+    ]
+  },
+  {
+    "name": "Shield-Swords.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shield-Swords.16.png",
+    "tags": [
+      "shield",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield-Swords.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shield-Swords.32.png",
+    "tags": [
+      "shield",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shield.16.png",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Shield.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shield.32.png",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Black.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag-Black.16.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "black",
+      "building"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Black.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag-Black.32.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "black",
+      "building"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Paperboard.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag-Paperboard.16.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building",
+      "paperboard"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Paperboard.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag-Paperboard.32.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building",
+      "paperboard"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Price-Tag.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag-Price-Tag.16.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "price",
+      "building",
+      "tag"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Price-Tag.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag-Price-Tag.32.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "price",
+      "building",
+      "tag"
+    ]
+  },
+  {
+    "name": "Shopping-Bag.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag.16.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building"
+    ]
+  },
+  {
+    "name": "Shopping-Bag.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Shopping-Bag.32.png",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building"
+    ]
+  },
+  {
+    "name": "Sign-Post-Alternate.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Sign-Post-Alternate.16.png",
+    "tags": [
+      "sign",
+      "post",
+      "alternate"
+    ]
+  },
+  {
+    "name": "Sign-Post-Alternate.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Sign-Post-Alternate.32.png",
+    "tags": [
+      "sign",
+      "post",
+      "alternate"
+    ]
+  },
+  {
+    "name": "Sign-Post.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Sign-Post.16.png",
+    "tags": [
+      "sign",
+      "post"
+    ]
+  },
+  {
+    "name": "Sign-Post.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Sign-Post.32.png",
+    "tags": [
+      "sign",
+      "post"
+    ]
+  },
+  {
+    "name": "Slide-Show.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Slide-Show.16.png",
+    "tags": [
+      "slide",
+      "show"
+    ]
+  },
+  {
+    "name": "Slide-Show.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Slide-Show.32.png",
+    "tags": [
+      "slide",
+      "show"
+    ]
+  },
+  {
+    "name": "Spinning-Beach-Ball.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Spinning-Beach-Ball.16.png",
+    "tags": [
+      "spinning",
+      "beach",
+      "ball",
+      "sport"
+    ]
+  },
+  {
+    "name": "Spinning-Beach-Ball.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Spinning-Beach-Ball.32.png",
+    "tags": [
+      "spinning",
+      "beach",
+      "ball",
+      "sport"
+    ]
+  },
+  {
+    "name": "Status.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Status.16.png",
+    "tags": [
+      "status"
+    ]
+  },
+  {
+    "name": "Status.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Status.32.png",
+    "tags": [
+      "status"
+    ]
+  },
+  {
+    "name": "Stoplight.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Stoplight.16.png",
+    "tags": [
+      "stoplight"
+    ]
+  },
+  {
+    "name": "Stoplight.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Stoplight.32.png",
+    "tags": [
+      "stoplight"
+    ]
+  },
+  {
+    "name": "Stopwatch-Off.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Stopwatch-Off.16.png",
+    "tags": [
+      "stopwatch",
+      "off"
+    ]
+  },
+  {
+    "name": "Stopwatch-Off.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Stopwatch-Off.32.png",
+    "tags": [
+      "stopwatch",
+      "off"
+    ]
+  },
+  {
+    "name": "Stopwatch-On.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Stopwatch-On.16.png",
+    "tags": [
+      "stopwatch"
+    ]
+  },
+  {
+    "name": "Stopwatch-On.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Stopwatch-On.32.png",
+    "tags": [
+      "stopwatch"
+    ]
+  },
+  {
+    "name": "Suit.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Suit.16.png",
+    "tags": [
+      "suit"
+    ]
+  },
+  {
+    "name": "Suit.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Suit.32.png",
+    "tags": [
+      "suit"
+    ]
+  },
+  {
+    "name": "Time-Machine.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Time-Machine.16.png",
+    "tags": [
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Time-Machine.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Time-Machine.32.png",
+    "tags": [
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic-Wand.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat-Magic-Wand.16.png",
+    "tags": [
+      "top",
+      "hat",
+      "magic",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic-Wand.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat-Magic-Wand.32.png",
+    "tags": [
+      "top",
+      "hat",
+      "magic",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat-Magic.16.png",
+    "tags": [
+      "top",
+      "hat",
+      "magic"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat-Magic.32.png",
+    "tags": [
+      "top",
+      "hat",
+      "magic"
+    ]
+  },
+  {
+    "name": "Top-Hat-Wand.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat-Wand.16.png",
+    "tags": [
+      "top",
+      "hat",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat-Wand.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat-Wand.32.png",
+    "tags": [
+      "top",
+      "hat",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat.16.png",
+    "tags": [
+      "top",
+      "hat"
+    ]
+  },
+  {
+    "name": "Top-Hat.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Top-Hat.32.png",
+    "tags": [
+      "top",
+      "hat"
+    ]
+  },
+  {
+    "name": "Traffic-Link.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Link.16.png",
+    "tags": [
+      "traffic",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Traffic-Link.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Link.32.png",
+    "tags": [
+      "traffic",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Traffic-No-Entry.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-No-Entry.16.png",
+    "tags": [
+      "traffic",
+      "entry",
+      "no"
+    ]
+  },
+  {
+    "name": "Traffic-No-Entry.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-No-Entry.32.png",
+    "tags": [
+      "traffic",
+      "entry",
+      "no"
+    ]
+  },
+  {
+    "name": "Traffic-Stop.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Stop.16.png",
+    "tags": [
+      "traffic",
+      "stop"
+    ]
+  },
+  {
+    "name": "Traffic-Stop.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Stop.32.png",
+    "tags": [
+      "traffic",
+      "stop"
+    ]
+  },
+  {
+    "name": "Traffic-Warning.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Warning.16.png",
+    "tags": [
+      "traffic",
+      "warning"
+    ]
+  },
+  {
+    "name": "Traffic-Warning.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Warning.32.png",
+    "tags": [
+      "traffic",
+      "warning"
+    ]
+  },
+  {
+    "name": "Traffic-Yield.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Yield.16.png",
+    "tags": [
+      "traffic",
+      "yield"
+    ]
+  },
+  {
+    "name": "Traffic-Yield.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Traffic-Yield.32.png",
+    "tags": [
+      "traffic",
+      "yield"
+    ]
+  },
+  {
+    "name": "Trash-Empty.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trash-Empty.16.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Trash-Empty.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trash-Empty.32.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Trash-Full.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trash-Full.16.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Trash-Full.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trash-Full.32.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Trash.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trash.16.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Trash.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trash.32.png",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Trees.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trees.16.png",
+    "tags": [
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "name": "Trees.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Trees.32.png",
+    "tags": [
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "name": "Twitter-Mention.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Twitter-Mention.16.png",
+    "tags": [
+      "twitter",
+      "mention",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter-Mention.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Twitter-Mention.32.png",
+    "tags": [
+      "twitter",
+      "mention",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter-Retweet.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Twitter-Retweet.16.png",
+    "tags": [
+      "twitter",
+      "retweet",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter-Retweet.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Twitter-Retweet.32.png",
+    "tags": [
+      "twitter",
+      "retweet",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Twitter.16.png",
+    "tags": [
+      "twitter",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Twitter.32.png",
+    "tags": [
+      "twitter",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "UI-Appearance.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Appearance.16.png",
+    "tags": [
+      "appearance"
+    ]
+  },
+  {
+    "name": "UI-Appearance.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Appearance.32.png",
+    "tags": [
+      "appearance"
+    ]
+  },
+  {
+    "name": "UI-Debug.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Debug.16.png",
+    "tags": [
+      "debug"
+    ]
+  },
+  {
+    "name": "UI-Debug.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Debug.32.png",
+    "tags": [
+      "debug"
+    ]
+  },
+  {
+    "name": "UI-Drawer.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Drawer.16.png",
+    "tags": [
+      "drawer"
+    ]
+  },
+  {
+    "name": "UI-Drawer.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Drawer.32.png",
+    "tags": [
+      "drawer"
+    ]
+  },
+  {
+    "name": "UI-Finder.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Finder.16.png",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "UI-Finder.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Finder.32.png",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "UI-Inspector.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Inspector.16.png",
+    "tags": [
+      "inspector"
+    ]
+  },
+  {
+    "name": "UI-Inspector.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Inspector.32.png",
+    "tags": [
+      "inspector"
+    ]
+  },
+  {
+    "name": "UI-List-Window.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-List-Window.16.png",
+    "tags": [
+      "list",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-List-Window.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-List-Window.32.png",
+    "tags": [
+      "list",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie-Window.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Movie-Window.16.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie-Window.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Movie-Window.32.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Movie.16.png",
+    "tags": [
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "UI-Movie.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Movie.32.png",
+    "tags": [
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "UI-Rulers.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Rulers.16.png",
+    "tags": [
+      "ruler",
+      "rulers"
+    ]
+  },
+  {
+    "name": "UI-Rulers.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Rulers.32.png",
+    "tags": [
+      "ruler",
+      "rulers"
+    ]
+  },
+  {
+    "name": "UI-Sidebar.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Sidebar.16.png",
+    "tags": [
+      "sidebar"
+    ]
+  },
+  {
+    "name": "UI-Sidebar.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Sidebar.32.png",
+    "tags": [
+      "sidebar"
+    ]
+  },
+  {
+    "name": "UI-Text.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Text.16.png",
+    "tags": [
+      "text"
+    ]
+  },
+  {
+    "name": "UI-Text.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Text.32.png",
+    "tags": [
+      "text"
+    ]
+  },
+  {
+    "name": "UI-Window.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Window.16.png",
+    "tags": [
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Window.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/UI-Window.32.png",
+    "tags": [
+      "window"
+    ]
+  },
+  {
+    "name": "User.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/User.16.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "User.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/User.32.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Users.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Users.16.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "users",
+      "face"
+    ]
+  },
+  {
+    "name": "Users.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Users.32.png",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "users",
+      "face"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Past.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wall-Clock-Past.16.png",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "past"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Past.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wall-Clock-Past.32.png",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "past"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Time-Machine.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wall-Clock-Time-Machine.16.png",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Time-Machine.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wall-Clock-Time-Machine.32.png",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Wall-Clock.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wall-Clock.16.png",
+    "tags": [
+      "wall",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "Wall-Clock.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wall-Clock.32.png",
+    "tags": [
+      "wall",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "Wallet-Money.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wallet-Money.16.png",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wallet-Money.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wallet-Money.32.png",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wallet.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wallet.16.png",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wallet.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wallet.32.png",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wand-Magic.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wand-Magic.16.png",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand-Magic.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wand-Magic.32.png",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wand.16.png",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Wand.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Wand.32.png",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Website-Alias.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website-Alias.16.png",
+    "tags": [
+      "website",
+      "alias"
+    ]
+  },
+  {
+    "name": "Website-Alias.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website-Alias.32.png",
+    "tags": [
+      "website",
+      "alias"
+    ]
+  },
+  {
+    "name": "Website-Download.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website-Download.16.png",
+    "tags": [
+      "website",
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Website-Download.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website-Download.32.png",
+    "tags": [
+      "website",
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Website-Link.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website-Link.16.png",
+    "tags": [
+      "website",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Website-Link.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website-Link.32.png",
+    "tags": [
+      "website",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Website.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website.16.png",
+    "tags": [
+      "website"
+    ]
+  },
+  {
+    "name": "Website.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/Website.32.png",
+    "tags": [
+      "website"
+    ]
+  },
+  {
+    "name": "iCal.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iCal.16.png",
+    "tags": [
+      "ical"
+    ]
+  },
+  {
+    "name": "iCal.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iCal.32.png",
+    "tags": [
+      "ical"
+    ]
+  },
+  {
+    "name": "iPhone-Application.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iPhone-Application.16.png",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "app",
+      "application",
+      "call",
+      "software",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone-Application.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iPhone-Application.32.png",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "app",
+      "application",
+      "call",
+      "software",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone-Locked.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iPhone-Locked.16.png",
+    "tags": [
+      "iphone",
+      "locked",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone-Locked.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iPhone-Locked.32.png",
+    "tags": [
+      "iphone",
+      "locked",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iPhone.16.png",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iPhone.32.png",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iSight.16.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iSight.16.png",
+    "tags": [
+      "isight"
+    ]
+  },
+  {
+    "name": "iSight.32.png",
+    "format": "PNG",
+    "path": "Designer/Bogo-D/Project-Icons/PNG/iSight.32.png",
+    "tags": [
+      "isight"
+    ]
+  },
+  {
+    "name": "Address-Book.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Address-Book.ico",
+    "tags": [
+      "address",
+      "addressbook",
+      "phonebook",
+      "book",
+      "contact"
+    ]
+  },
+  {
+    "name": "Aero-Window-Explorer.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Aero-Window-Explorer.ico",
+    "tags": [
+      "aero",
+      "window",
+      "explorer",
+      "microsoft"
+    ]
+  },
+  {
+    "name": "Aero-Window-List.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Aero-Window-List.ico",
+    "tags": [
+      "aero",
+      "window",
+      "list"
+    ]
+  },
+  {
+    "name": "Alert.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Alert.ico",
+    "tags": [
+      "alarm",
+      "alert"
+    ]
+  },
+  {
+    "name": "Applications.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Applications.ico",
+    "tags": [
+      "app",
+      "application",
+      "software",
+      "applications"
+    ]
+  },
+  {
+    "name": "Battery-Display-Charging.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Battery-Display-Charging.ico",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "charging",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Full.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Battery-Display-Full.ico",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "full",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display-Low.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Battery-Display-Low.ico",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "low",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery-Display.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Battery-Display.ico",
+    "tags": [
+      "battery",
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "power",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Battery.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Battery.ico",
+    "tags": [
+      "battery",
+      "power"
+    ]
+  },
+  {
+    "name": "Bell.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Bell.ico",
+    "tags": [
+      "bell"
+    ]
+  },
+  {
+    "name": "Book-Bookmark.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Book-Bookmark.ico",
+    "tags": [
+      "book",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite"
+    ]
+  },
+  {
+    "name": "Book.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Book.ico",
+    "tags": [
+      "book"
+    ]
+  },
+  {
+    "name": "Bookshelf-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Bookshelf-Empty.ico",
+    "tags": [
+      "bookshelf",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Bookshelf.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Bookshelf.ico",
+    "tags": [
+      "bookshelf"
+    ]
+  },
+  {
+    "name": "Box-This-Side-Up.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Box-This-Side-Up.ico",
+    "tags": [
+      "box",
+      "this",
+      "side",
+      "increase",
+      "up",
+      "upload",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Box.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Box.ico",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "Burn.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Burn.ico",
+    "tags": [
+      "burn"
+    ]
+  },
+  {
+    "name": "CD-Burn.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/CD-Burn.ico",
+    "tags": [
+      "burn",
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "CD.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/CD.ico",
+    "tags": [
+      "cd",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Calendar-Blue.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Calendar-Blue.ico",
+    "tags": [
+      "blue",
+      "calendar",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Calendar-Day-View.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Calendar-Day-View.ico",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "day",
+      "view"
+    ]
+  },
+  {
+    "name": "Calendar-Month-View.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Calendar-Month-View.ico",
+    "tags": [
+      "calendar",
+      "date",
+      "event",
+      "organizer",
+      "month",
+      "view"
+    ]
+  },
+  {
+    "name": "Camera.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Camera.ico",
+    "tags": [
+      "cam",
+      "camera",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Chalkboard-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Chalkboard-Empty.ico",
+    "tags": [
+      "chalkboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Chalkboard.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Chalkboard.ico",
+    "tags": [
+      "chalkboard"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open-Files.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Chest-of-Drawers-Open-Files.ico",
+    "tags": [
+      "chest",
+      "drawers",
+      "doc",
+      "document",
+      "file",
+      "open",
+      "files",
+      "paper"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers-Open.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Chest-of-Drawers-Open.ico",
+    "tags": [
+      "chest",
+      "drawers",
+      "open"
+    ]
+  },
+  {
+    "name": "Chest-of-Drawers.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Chest-of-Drawers.ico",
+    "tags": [
+      "chest",
+      "drawers"
+    ]
+  },
+  {
+    "name": "Chip.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Chip.ico",
+    "tags": [
+      "chip"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Lit.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Christmas-Tree-Lit.ico",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "lit"
+    ]
+  },
+  {
+    "name": "Christmas-Tree-Undecorated.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Christmas-Tree-Undecorated.ico",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree",
+      "undecorated"
+    ]
+  },
+  {
+    "name": "Christmas-Tree.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Christmas-Tree.ico",
+    "tags": [
+      "christmas",
+      "xmas",
+      "tree"
+    ]
+  },
+  {
+    "name": "Clapperboard-Blank.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clapperboard-Blank.ico",
+    "tags": [
+      "blank",
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clapperboard-Closed.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clapperboard-Closed.ico",
+    "tags": [
+      "clapperboard",
+      "closed"
+    ]
+  },
+  {
+    "name": "Clapperboard-Picture.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clapperboard-Picture.ico",
+    "tags": [
+      "clapperboard",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Clapperboard.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clapperboard.ico",
+    "tags": [
+      "clapperboard"
+    ]
+  },
+  {
+    "name": "Clipboard-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clipboard-Empty.ico",
+    "tags": [
+      "clipboard",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Clipboard-Fold.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clipboard-Fold.ico",
+    "tags": [
+      "clipboard",
+      "fold"
+    ]
+  },
+  {
+    "name": "Clipboard-Text.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clipboard-Text.ico",
+    "tags": [
+      "clipboard",
+      "text"
+    ]
+  },
+  {
+    "name": "Clipboard-Torn.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clipboard-Torn.ico",
+    "tags": [
+      "clipboard",
+      "torn"
+    ]
+  },
+  {
+    "name": "Clipboard.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Clipboard.ico",
+    "tags": [
+      "clipboard",
+      "date",
+      "event",
+      "organizer"
+    ]
+  },
+  {
+    "name": "Color-Wheel.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Color-Wheel.ico",
+    "tags": [
+      "color",
+      "colour",
+      "wheel"
+    ]
+  },
+  {
+    "name": "Contact-Card.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Contact-Card.ico",
+    "tags": [
+      "contact",
+      "card"
+    ]
+  },
+  {
+    "name": "Curtains.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Curtains.ico",
+    "tags": [
+      "curtains"
+    ]
+  },
+  {
+    "name": "Dashboard.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Dashboard.ico",
+    "tags": [
+      "dashboard"
+    ]
+  },
+  {
+    "name": "Decoration-Branch.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Decoration-Branch.ico",
+    "tags": [
+      "branch",
+      "decoration"
+    ]
+  },
+  {
+    "name": "Decoration.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Decoration.ico",
+    "tags": [
+      "decoration"
+    ]
+  },
+  {
+    "name": "Delete.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Delete.ico",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Design-Blueprint.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Design-Blueprint.ico",
+    "tags": [
+      "design",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Design.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Design.ico",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "name": "Desktop.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Desktop.ico",
+    "tags": [
+      "desk",
+      "desktop"
+    ]
+  },
+  {
+    "name": "Dictionary.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Dictionary.ico",
+    "tags": [
+      "dictionary"
+    ]
+  },
+  {
+    "name": "Digsby.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Digsby.ico",
+    "tags": [
+      "digsby"
+    ]
+  },
+  {
+    "name": "Disk-Hard-Disk.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Disk-Hard-Disk.ico",
+    "tags": [
+      "disc",
+      "disk",
+      "hard"
+    ]
+  },
+  {
+    "name": "Disk-Removable.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Disk-Removable.ico",
+    "tags": [
+      "disc",
+      "disk",
+      "removable"
+    ]
+  },
+  {
+    "name": "Disk-Time-Machine.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Disk-Time-Machine.ico",
+    "tags": [
+      "disc",
+      "disk",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Disk-iDisk.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Disk-iDisk.ico",
+    "tags": [
+      "disc",
+      "disk",
+      "idisk"
+    ]
+  },
+  {
+    "name": "Door-Chat-Room.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Door-Chat-Room.ico",
+    "tags": [
+      "door",
+      "logout",
+      "chat",
+      "messenger",
+      "room",
+      "social",
+      "contact",
+      "logo"
+    ]
+  },
+  {
+    "name": "Door.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Door.ico",
+    "tags": [
+      "door",
+      "logout"
+    ]
+  },
+  {
+    "name": "Download-High-Speed.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Download-High-Speed.ico",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "high",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download-Turbo-Speed.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Download-Turbo-Speed.ico",
+    "tags": [
+      "decrease",
+      "down",
+      "download",
+      "turbo",
+      "speed",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Download.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Download.ico",
+    "tags": [
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "E-Mail.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/E-Mail.ico",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "Emoticon-Sleep.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Emoticon-Sleep.ico",
+    "tags": [
+      "emoticon",
+      "sleep"
+    ]
+  },
+  {
+    "name": "Emoticon.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Emoticon.ico",
+    "tags": [
+      "emoticon"
+    ]
+  },
+  {
+    "name": "Envelope-Airmail.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Envelope-Airmail.ico",
+    "tags": [
+      "envelope",
+      "airmail",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Envelope.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Envelope.ico",
+    "tags": [
+      "envelope",
+      "email",
+      "mail",
+      "contact"
+    ]
+  },
+  {
+    "name": "Error.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Error.ico",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "Face-Book.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Face-Book.ico",
+    "tags": [
+      "face",
+      "book"
+    ]
+  },
+  {
+    "name": "File.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/File.ico",
+    "tags": [
+      "doc",
+      "document",
+      "file",
+      "paper"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint-Under-Construction.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-Blueprint-Under-Construction.ico",
+    "tags": [
+      "filetype",
+      "blueprint",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Blueprint.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-Blueprint.ico",
+    "tags": [
+      "filetype",
+      "blueprint"
+    ]
+  },
+  {
+    "name": "Filetype-RSS-Orange.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-RSS-Orange.ico",
+    "tags": [
+      "filetype",
+      "rss",
+      "orange",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-RSS.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-RSS.ico",
+    "tags": [
+      "filetype",
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Filetype-Script.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-Script.ico",
+    "tags": [
+      "filetype",
+      "script"
+    ]
+  },
+  {
+    "name": "Filetype-Under-Construction.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-Under-Construction.ico",
+    "tags": [
+      "filetype",
+      "under",
+      "construction"
+    ]
+  },
+  {
+    "name": "Filetype-Video.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype-Video.ico",
+    "tags": [
+      "filetype",
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "Filetype.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filetype.ico",
+    "tags": [
+      "filetype"
+    ]
+  },
+  {
+    "name": "Film-Roll.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Film-Roll.ico",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "roll",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Filmstrip.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Filmstrip.ico",
+    "tags": [
+      "filmstrip"
+    ]
+  },
+  {
+    "name": "Folder-Blue.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Folder-Blue.ico",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Blue.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Folder-Classic-Blue.ico",
+    "tags": [
+      "folder",
+      "classic",
+      "blue"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Recycled.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Folder-Classic-Recycled.ico",
+    "tags": [
+      "folder",
+      "classic",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Classic-Yellow.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Folder-Classic-Yellow.ico",
+    "tags": [
+      "folder",
+      "classic",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Folder-Recycled.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Folder-Recycled.ico",
+    "tags": [
+      "folder",
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Folder-Yellow.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Folder-Yellow.ico",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Gear.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Gear.ico",
+    "tags": [
+      "cog",
+      "cogwheel",
+      "gear",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Get-Info.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Get-Info.ico",
+    "tags": [
+      "get",
+      "info",
+      "information"
+    ]
+  },
+  {
+    "name": "Gift-Box-Blue.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Gift-Box-Blue.ico",
+    "tags": [
+      "gift",
+      "box",
+      "blue",
+      "birthday",
+      "christmas",
+      "xmas",
+      "present",
+      "ribbon"
+    ]
+  },
+  {
+    "name": "Gift-Box.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Gift-Box.ico",
+    "tags": [
+      "gift",
+      "present",
+      "box",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Glass-Cola-Ice.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Glass-Cola-Ice.ico",
+    "tags": [
+      "glass",
+      "cola",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Cola.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Glass-Cola.ico",
+    "tags": [
+      "glass",
+      "cola"
+    ]
+  },
+  {
+    "name": "Glass-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Glass-Empty.ico",
+    "tags": [
+      "glass",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Glass-Water-Ice.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Glass-Water-Ice.ico",
+    "tags": [
+      "glass",
+      "water",
+      "ice"
+    ]
+  },
+  {
+    "name": "Glass-Water.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Glass-Water.ico",
+    "tags": [
+      "glass",
+      "water"
+    ]
+  },
+  {
+    "name": "Hard-Disk-Installation.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Hard-Disk-Installation.ico",
+    "tags": [
+      "hard",
+      "disc",
+      "disk",
+      "installation"
+    ]
+  },
+  {
+    "name": "House.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/House.ico",
+    "tags": [
+      "house",
+      "home",
+      "building"
+    ]
+  },
+  {
+    "name": "Inkwell.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Inkwell.ico",
+    "tags": [
+      "inkwell"
+    ]
+  },
+  {
+    "name": "Instant-Messaging.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Instant-Messaging.ico",
+    "tags": [
+      "instant",
+      "messaging"
+    ]
+  },
+  {
+    "name": "Jewel-Case-CD.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Jewel-Case-CD.ico",
+    "tags": [
+      "jewel",
+      "case",
+      "cd",
+      "bag",
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Cover.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Jewel-Case-Cover.ico",
+    "tags": [
+      "jewel",
+      "case",
+      "cover",
+      "bag"
+    ]
+  },
+  {
+    "name": "Jewel-Case-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Jewel-Case-Empty.ico",
+    "tags": [
+      "jewel",
+      "case",
+      "empty",
+      "erase",
+      "bag"
+    ]
+  },
+  {
+    "name": "Key-Command.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Key-Command.ico",
+    "tags": [
+      "opener",
+      "key",
+      "command",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Key-Windows.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Key-Windows.ico",
+    "tags": [
+      "key",
+      "opener",
+      "windows",
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "os"
+    ]
+  },
+  {
+    "name": "Library.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Library.ico",
+    "tags": [
+      "library"
+    ]
+  },
+  {
+    "name": "Lock-Unlocked.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Lock-Unlocked.ico",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock",
+      "unlocked"
+    ]
+  },
+  {
+    "name": "Lock.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Lock.ico",
+    "tags": [
+      "access",
+      "decrypt",
+      "decrypted",
+      "encrypt",
+      "encrypted",
+      "lock",
+      "padlock",
+      "private",
+      "unlock"
+    ]
+  },
+  {
+    "name": "Magnifying-Glass.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Magnifying-Glass.ico",
+    "tags": [
+      "find",
+      "glass",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Microphone-Classic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Microphone-Classic.ico",
+    "tags": [
+      "classic",
+      "microphone"
+    ]
+  },
+  {
+    "name": "Microphone.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Microphone.ico",
+    "tags": [
+      "microphone"
+    ]
+  },
+  {
+    "name": "Money-Glowing.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Money-Glowing.ico",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "glowing",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Money.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Money.ico",
+    "tags": [
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Monitor-Film.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Monitor-Film.ico",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Music-Video.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Monitor-Music-Video.ico",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "audio",
+      "music",
+      "sound",
+      "film",
+      "movie",
+      "video",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor-Wallpaper.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Monitor-Wallpaper.ico",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "wallpaper",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Monitor.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Monitor.ico",
+    "tags": [
+      "display",
+      "konsole",
+      "lcd",
+      "monitor",
+      "screen",
+      "terminal",
+      "workstation",
+      "control",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Mug-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Mug-Empty.ico",
+    "tags": [
+      "mug",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Mug.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Mug.ico",
+    "tags": [
+      "mug"
+    ]
+  },
+  {
+    "name": "Musical-Note.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Musical-Note.ico",
+    "tags": [
+      "musical",
+      "note"
+    ]
+  },
+  {
+    "name": "Newspaper-RSS.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Newspaper-RSS.ico",
+    "tags": [
+      "newspaper",
+      "rss",
+      "news",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Newspaper.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Newspaper.ico",
+    "tags": [
+      "newspaper",
+      "news"
+    ]
+  },
+  {
+    "name": "Newsreader.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Newsreader.ico",
+    "tags": [
+      "newsreader"
+    ]
+  },
+  {
+    "name": "Note-White.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Note-White.ico",
+    "tags": [
+      "note",
+      "white"
+    ]
+  },
+  {
+    "name": "Note-Yellow.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Note-Yellow.ico",
+    "tags": [
+      "note",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Notification.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Notification.ico",
+    "tags": [
+      "notification"
+    ]
+  },
+  {
+    "name": "OS-Mac-OS-X.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/OS-Mac-OS-X.ico",
+    "tags": [
+      "mac",
+      "computer",
+      "hardware"
+    ]
+  },
+  {
+    "name": "OS-Windows-7.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/OS-Windows-7.ico",
+    "tags": [
+      "windows",
+      "os"
+    ]
+  },
+  {
+    "name": "OS-Windows-Vista.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/OS-Windows-Vista.ico",
+    "tags": [
+      "windows",
+      "vista",
+      "os"
+    ]
+  },
+  {
+    "name": "Panel-Colors.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Panel-Colors.ico",
+    "tags": [
+      "color",
+      "colour",
+      "panel",
+      "colors"
+    ]
+  },
+  {
+    "name": "Panel-Find.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Panel-Find.ico",
+    "tags": [
+      "panel",
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Panel-Inspector.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Panel-Inspector.ico",
+    "tags": [
+      "panel",
+      "inspector"
+    ]
+  },
+  {
+    "name": "Panel.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Panel.ico",
+    "tags": [
+      "panel"
+    ]
+  },
+  {
+    "name": "Pen.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Pen.ico",
+    "tags": [
+      "pen"
+    ]
+  },
+  {
+    "name": "Pencil-and-Ruler.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Pencil-and-Ruler.ico",
+    "tags": [
+      "edit",
+      "pencil",
+      "update",
+      "ruler"
+    ]
+  },
+  {
+    "name": "Pencil.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Pencil.ico",
+    "tags": [
+      "edit",
+      "pencil",
+      "update"
+    ]
+  },
+  {
+    "name": "Photo-Polaroid.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Photo-Polaroid.ico",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "polaroid"
+    ]
+  },
+  {
+    "name": "Photo.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Photo.ico",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "Pie-Chart.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Pie-Chart.ico",
+    "tags": [
+      "pie",
+      "chart",
+      "business"
+    ]
+  },
+  {
+    "name": "Pin.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Pin.ico",
+    "tags": [
+      "pin"
+    ]
+  },
+  {
+    "name": "Plant.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Plant.ico",
+    "tags": [
+      "plant"
+    ]
+  },
+  {
+    "name": "Preferences-Panel.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Preferences-Panel.ico",
+    "tags": [
+      "panel",
+      "preferences",
+      "prefs"
+    ]
+  },
+  {
+    "name": "Presentation.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Presentation.ico",
+    "tags": [
+      "presentation"
+    ]
+  },
+  {
+    "name": "Project-Blueprints.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Project-Blueprints.ico",
+    "tags": [
+      "project",
+      "blueprints"
+    ]
+  },
+  {
+    "name": "Project.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Project.ico",
+    "tags": [
+      "project"
+    ]
+  },
+  {
+    "name": "RAM.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/RAM.ico",
+    "tags": [
+      "ram"
+    ]
+  },
+  {
+    "name": "RSS.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/RSS.ico",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Reception-Bell-Gold.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Reception-Bell-Gold.ico",
+    "tags": [
+      "reception",
+      "bell",
+      "gold"
+    ]
+  },
+  {
+    "name": "Reception-Bell.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Reception-Bell.ico",
+    "tags": [
+      "reception",
+      "bell"
+    ]
+  },
+  {
+    "name": "Ruler.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Ruler.ico",
+    "tags": [
+      "ruler"
+    ]
+  },
+  {
+    "name": "Safari.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Safari.ico",
+    "tags": [
+      "safari",
+      "browser"
+    ]
+  },
+  {
+    "name": "Safe-Dark.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Safe-Dark.ico",
+    "tags": [
+      "safe",
+      "dark"
+    ]
+  },
+  {
+    "name": "Safe-Open-Money.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Safe-Open-Money.ico",
+    "tags": [
+      "safe",
+      "open",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "name": "Safe-Open.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Safe-Open.ico",
+    "tags": [
+      "safe",
+      "open"
+    ]
+  },
+  {
+    "name": "Safe.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Safe.ico",
+    "tags": [
+      "safe"
+    ]
+  },
+  {
+    "name": "School-Bell.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/School-Bell.ico",
+    "tags": [
+      "school",
+      "bell",
+      "education"
+    ]
+  },
+  {
+    "name": "Shield-Swords.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Shield-Swords.ico",
+    "tags": [
+      "shield",
+      "swords"
+    ]
+  },
+  {
+    "name": "Shield.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Shield.ico",
+    "tags": [
+      "shield"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Black.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Shopping-Bag-Black.ico",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "black",
+      "building"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Paperboard.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Shopping-Bag-Paperboard.ico",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building",
+      "paperboard"
+    ]
+  },
+  {
+    "name": "Shopping-Bag-Price-Tag.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Shopping-Bag-Price-Tag.ico",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "price",
+      "building",
+      "tag"
+    ]
+  },
+  {
+    "name": "Shopping-Bag.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Shopping-Bag.ico",
+    "tags": [
+      "basket",
+      "buy",
+      "cart",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "bag",
+      "building"
+    ]
+  },
+  {
+    "name": "Sign-Post-Alternate.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Sign-Post-Alternate.ico",
+    "tags": [
+      "sign",
+      "post",
+      "alternate"
+    ]
+  },
+  {
+    "name": "Sign-Post.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Sign-Post.ico",
+    "tags": [
+      "sign",
+      "post"
+    ]
+  },
+  {
+    "name": "Slide-Show.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Slide-Show.ico",
+    "tags": [
+      "slide",
+      "show"
+    ]
+  },
+  {
+    "name": "Spinning-Beach-Ball.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Spinning-Beach-Ball.ico",
+    "tags": [
+      "spinning",
+      "beach",
+      "ball",
+      "sport"
+    ]
+  },
+  {
+    "name": "Status.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Status.ico",
+    "tags": [
+      "status"
+    ]
+  },
+  {
+    "name": "Stoplight.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Stoplight.ico",
+    "tags": [
+      "stoplight"
+    ]
+  },
+  {
+    "name": "Stopwatch-Off.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Stopwatch-Off.ico",
+    "tags": [
+      "stopwatch",
+      "off"
+    ]
+  },
+  {
+    "name": "Stopwatch-On.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Stopwatch-On.ico",
+    "tags": [
+      "stopwatch"
+    ]
+  },
+  {
+    "name": "Suit.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Suit.ico",
+    "tags": [
+      "suit"
+    ]
+  },
+  {
+    "name": "Time-Machine.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Time-Machine.ico",
+    "tags": [
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic-Wand.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Top-Hat-Magic-Wand.ico",
+    "tags": [
+      "top",
+      "hat",
+      "magic",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Top-Hat-Magic.ico",
+    "tags": [
+      "top",
+      "hat",
+      "magic"
+    ]
+  },
+  {
+    "name": "Top-Hat-Wand.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Top-Hat-Wand.ico",
+    "tags": [
+      "top",
+      "hat",
+      "wand"
+    ]
+  },
+  {
+    "name": "Top-Hat.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Top-Hat.ico",
+    "tags": [
+      "top",
+      "hat"
+    ]
+  },
+  {
+    "name": "Traffic-Link.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Traffic-Link.ico",
+    "tags": [
+      "traffic",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Traffic-No-Entry.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Traffic-No-Entry.ico",
+    "tags": [
+      "traffic",
+      "entry",
+      "no"
+    ]
+  },
+  {
+    "name": "Traffic-Stop.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Traffic-Stop.ico",
+    "tags": [
+      "traffic",
+      "stop"
+    ]
+  },
+  {
+    "name": "Traffic-Warning.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Traffic-Warning.ico",
+    "tags": [
+      "traffic",
+      "warning"
+    ]
+  },
+  {
+    "name": "Traffic-Yield.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Traffic-Yield.ico",
+    "tags": [
+      "traffic",
+      "yield"
+    ]
+  },
+  {
+    "name": "Trash-Empty.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Trash-Empty.ico",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "empty",
+      "erase"
+    ]
+  },
+  {
+    "name": "Trash-Full.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Trash-Full.ico",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash",
+      "full"
+    ]
+  },
+  {
+    "name": "Trash.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Trash.ico",
+    "tags": [
+      "bin",
+      "garbage",
+      "recycle",
+      "recyclebin",
+      "recycled",
+      "trash"
+    ]
+  },
+  {
+    "name": "Trees.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Trees.ico",
+    "tags": [
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "name": "Twitter-Mention.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Twitter-Mention.ico",
+    "tags": [
+      "twitter",
+      "mention",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter-Retweet.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Twitter-Retweet.ico",
+    "tags": [
+      "twitter",
+      "retweet",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "Twitter.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Twitter.ico",
+    "tags": [
+      "twitter",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "UI-Appearance.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Appearance.ico",
+    "tags": [
+      "appearance"
+    ]
+  },
+  {
+    "name": "UI-Debug.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Debug.ico",
+    "tags": [
+      "debug"
+    ]
+  },
+  {
+    "name": "UI-Drawer.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Drawer.ico",
+    "tags": [
+      "drawer"
+    ]
+  },
+  {
+    "name": "UI-Finder.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Finder.ico",
+    "tags": [
+      "finder"
+    ]
+  },
+  {
+    "name": "UI-Inspector.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Inspector.ico",
+    "tags": [
+      "inspector"
+    ]
+  },
+  {
+    "name": "UI-List-Window.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-List-Window.ico",
+    "tags": [
+      "list",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie-Window.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Movie-Window.ico",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "window"
+    ]
+  },
+  {
+    "name": "UI-Movie.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Movie.ico",
+    "tags": [
+      "film",
+      "movie",
+      "video"
+    ]
+  },
+  {
+    "name": "UI-Rulers.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Rulers.ico",
+    "tags": [
+      "ruler",
+      "rulers"
+    ]
+  },
+  {
+    "name": "UI-Sidebar.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Sidebar.ico",
+    "tags": [
+      "sidebar"
+    ]
+  },
+  {
+    "name": "UI-Text.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Text.ico",
+    "tags": [
+      "text"
+    ]
+  },
+  {
+    "name": "UI-Window.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/UI-Window.ico",
+    "tags": [
+      "window"
+    ]
+  },
+  {
+    "name": "User.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/User.ico",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "face"
+    ]
+  },
+  {
+    "name": "Users.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Users.ico",
+    "tags": [
+      "customer",
+      "person",
+      "user",
+      "users",
+      "face"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Past.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wall-Clock-Past.ico",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "past"
+    ]
+  },
+  {
+    "name": "Wall-Clock-Time-Machine.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wall-Clock-Time-Machine.ico",
+    "tags": [
+      "wall",
+      "clock",
+      "timer",
+      "time",
+      "machine"
+    ]
+  },
+  {
+    "name": "Wall-Clock.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wall-Clock.ico",
+    "tags": [
+      "wall",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "Wallet-Money.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wallet-Money.ico",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wallet.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wallet.ico",
+    "tags": [
+      "wallet",
+      "cash",
+      "coins",
+      "dollar",
+      "money",
+      "bank",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "name": "Wand-Magic.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wand-Magic.ico",
+    "tags": [
+      "wand",
+      "magic"
+    ]
+  },
+  {
+    "name": "Wand.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Wand.ico",
+    "tags": [
+      "wand"
+    ]
+  },
+  {
+    "name": "Website-Alias.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Website-Alias.ico",
+    "tags": [
+      "website",
+      "alias"
+    ]
+  },
+  {
+    "name": "Website-Download.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Website-Download.ico",
+    "tags": [
+      "website",
+      "down",
+      "decrease",
+      "download",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Website-Link.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Website-Link.ico",
+    "tags": [
+      "website",
+      "hyperlink",
+      "link"
+    ]
+  },
+  {
+    "name": "Website.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/Website.ico",
+    "tags": [
+      "website"
+    ]
+  },
+  {
+    "name": "iCal.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/iCal.ico",
+    "tags": [
+      "ical"
+    ]
+  },
+  {
+    "name": "iPhone-Application.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/iPhone-Application.ico",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "app",
+      "application",
+      "call",
+      "software",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone-Locked.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/iPhone-Locked.ico",
+    "tags": [
+      "iphone",
+      "locked",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iPhone.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/iPhone.ico",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "call",
+      "contact"
+    ]
+  },
+  {
+    "name": "iSight.ico",
+    "format": "Windows",
+    "path": "Designer/Bogo-D/Project-Icons/Windows/iSight.ico",
+    "tags": [
+      "isight"
+    ]
+  }
+]

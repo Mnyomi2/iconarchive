@@ -1,0 +1,40 @@
+{
+  "tiger": [
+    "tiger"
+  ],
+  "canard": [
+    "canard"
+  ],
+  "monkey": [
+    "monkey"
+  ],
+  "crabe": [
+    "crabe"
+  ],
+  "koala": [
+    "koala"
+  ],
+  "toro": [
+    "toro"
+  ],
+  "horse": [
+    "horse",
+    "animal"
+  ],
+  "oursblanc": [
+    "oursblanc"
+  ],
+  "escargot": [
+    "escargot"
+  ],
+  "oursbrun": [
+    "oursbrun"
+  ],
+  "croco": [
+    "croco"
+  ],
+  "zebra": [
+    "zebra",
+    "animal"
+  ]
+}

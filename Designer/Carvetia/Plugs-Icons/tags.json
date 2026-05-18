@@ -1,0 +1,21 @@
+{
+  "USB": [
+    "usb"
+  ],
+  "VGA": [
+    "vga"
+  ],
+  "Generic-Power": [
+    "generic",
+    "power"
+  ],
+  "FireWire": [
+    "firewire"
+  ],
+  "iPod-Connector": [
+    "ipod",
+    "connector",
+    "mp3",
+    "player"
+  ]
+}

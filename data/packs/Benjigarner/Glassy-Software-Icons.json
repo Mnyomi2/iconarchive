@@ -1,0 +1,922 @@
+[
+  {
+    "name": "AIM-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/AIM-1.16.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/AIM-1.24.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/AIM-1.32.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/AIM-2.16.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/AIM-2.24.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/AIM-2.32.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "Azureus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Azureus.16.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Azureus.24.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Azureus.32.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Boinc.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Boinc.16.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Boinc.24.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Boinc.32.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Illustrator.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Illustrator.16.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Illustrator.24.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Illustrator.32.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "ImageReady.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/ImageReady.16.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/ImageReady.24.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/ImageReady.32.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "Photoshop.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Photoshop.16.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Photoshop.24.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/Photoshop.32.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/SuperCopier-2.16.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/SuperCopier-2.24.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/SuperCopier-2.32.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "WLM.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/WLM.16.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/WLM.24.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/WLM.32.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "eMule-simple.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/eMule-simple.16.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/eMule-simple.24.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/eMule-simple.32.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "uTorrent.16.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/uTorrent.16.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.24.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/uTorrent.24.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.32.png",
+    "format": "Favicon",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Favicon/uTorrent.32.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "AIM-1.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-1.128.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-1.256.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-1.48.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-1.64.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-1.72.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-1.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-1.96.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-2.128.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-2.256.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-2.48.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-2.64.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-2.72.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/AIM-2.96.png",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "Azureus.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Azureus.128.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Azureus.256.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Azureus.48.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Azureus.64.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Azureus.72.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Azureus.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Azureus.96.png",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Boinc.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Boinc.128.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Boinc.256.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Boinc.48.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Boinc.64.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Boinc.72.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Boinc.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Boinc.96.png",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Illustrator.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Illustrator.128.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Illustrator.256.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Illustrator.48.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Illustrator.64.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Illustrator.72.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Illustrator.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Illustrator.96.png",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "ImageReady.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/ImageReady.128.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/ImageReady.256.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/ImageReady.48.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/ImageReady.64.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/ImageReady.72.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "ImageReady.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/ImageReady.96.png",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "Photoshop.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Photoshop.128.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Photoshop.256.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Photoshop.48.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Photoshop.64.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Photoshop.72.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "Photoshop.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/Photoshop.96.png",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/SuperCopier-2.128.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/SuperCopier-2.256.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/SuperCopier-2.48.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/SuperCopier-2.64.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/SuperCopier-2.72.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/SuperCopier-2.96.png",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "WLM.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/WLM.128.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/WLM.256.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/WLM.48.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/WLM.64.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/WLM.72.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "WLM.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/WLM.96.png",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "eMule-simple.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/eMule-simple.128.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/eMule-simple.256.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/eMule-simple.48.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/eMule-simple.64.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/eMule-simple.72.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "eMule-simple.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/eMule-simple.96.png",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "uTorrent.128.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/uTorrent.128.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.256.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/uTorrent.256.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.48.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/uTorrent.48.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.64.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/uTorrent.64.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.72.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/uTorrent.72.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "uTorrent.96.png",
+    "format": "PNG",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/PNG/uTorrent.96.png",
+    "tags": [
+      "utorrent"
+    ]
+  },
+  {
+    "name": "AIM-1.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/AIM-1.ico",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "AIM-2.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/AIM-2.ico",
+    "tags": [
+      "aim"
+    ]
+  },
+  {
+    "name": "Azureus.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/Azureus.ico",
+    "tags": [
+      "azureus"
+    ]
+  },
+  {
+    "name": "Boinc.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/Boinc.ico",
+    "tags": [
+      "boinc"
+    ]
+  },
+  {
+    "name": "Illustrator.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/Illustrator.ico",
+    "tags": [
+      "illustrator",
+      "adobe"
+    ]
+  },
+  {
+    "name": "ImageReady.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/ImageReady.ico",
+    "tags": [
+      "imageready"
+    ]
+  },
+  {
+    "name": "Photoshop.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/Photoshop.ico",
+    "tags": [
+      "photoshop",
+      "adobe"
+    ]
+  },
+  {
+    "name": "SuperCopier-2.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/SuperCopier-2.ico",
+    "tags": [
+      "supercopier"
+    ]
+  },
+  {
+    "name": "WLM.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/WLM.ico",
+    "tags": [
+      "wlm"
+    ]
+  },
+  {
+    "name": "eMule-simple.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/eMule-simple.ico",
+    "tags": [
+      "emule",
+      "simple",
+      "plain"
+    ]
+  },
+  {
+    "name": "uTorrent.ico",
+    "format": "Windows",
+    "path": "Designer/Benjigarner/Glassy-Software-Icons/Windows/uTorrent.ico",
+    "tags": [
+      "utorrent"
+    ]
+  }
+]

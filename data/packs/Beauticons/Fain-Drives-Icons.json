@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Drive-Firewire.16.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Firewire.16.png",
+    "tags": [
+      "drive",
+      "firewire"
+    ]
+  },
+  {
+    "name": "Drive-Firewire.32.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Firewire.32.png",
+    "tags": [
+      "drive",
+      "firewire"
+    ]
+  },
+  {
+    "name": "Drive-Generic.16.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Generic.16.png",
+    "tags": [
+      "drive",
+      "generic"
+    ]
+  },
+  {
+    "name": "Drive-Generic.32.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Generic.32.png",
+    "tags": [
+      "drive",
+      "generic"
+    ]
+  },
+  {
+    "name": "Drive-Internal.16.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Internal.16.png",
+    "tags": [
+      "internal",
+      "drive"
+    ]
+  },
+  {
+    "name": "Drive-Internal.32.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Internal.32.png",
+    "tags": [
+      "internal",
+      "drive"
+    ]
+  },
+  {
+    "name": "Drive-Removable.16.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Removable.16.png",
+    "tags": [
+      "drive",
+      "removable"
+    ]
+  },
+  {
+    "name": "Drive-Removable.32.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-Removable.32.png",
+    "tags": [
+      "drive",
+      "removable"
+    ]
+  },
+  {
+    "name": "Drive-SCSI.16.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-SCSI.16.png",
+    "tags": [
+      "drive",
+      "scsi"
+    ]
+  },
+  {
+    "name": "Drive-SCSI.32.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-SCSI.32.png",
+    "tags": [
+      "drive",
+      "scsi"
+    ]
+  },
+  {
+    "name": "Drive-USB.16.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-USB.16.png",
+    "tags": [
+      "drive",
+      "usb"
+    ]
+  },
+  {
+    "name": "Drive-USB.32.png",
+    "format": "Favicon",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Favicon/Drive-USB.32.png",
+    "tags": [
+      "drive",
+      "usb"
+    ]
+  },
+  {
+    "name": "Drive-Firewire.128.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Firewire.128.png",
+    "tags": [
+      "drive",
+      "firewire"
+    ]
+  },
+  {
+    "name": "Drive-Firewire.48.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Firewire.48.png",
+    "tags": [
+      "drive",
+      "firewire"
+    ]
+  },
+  {
+    "name": "Drive-Generic.128.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Generic.128.png",
+    "tags": [
+      "drive",
+      "generic"
+    ]
+  },
+  {
+    "name": "Drive-Generic.48.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Generic.48.png",
+    "tags": [
+      "drive",
+      "generic"
+    ]
+  },
+  {
+    "name": "Drive-Internal.128.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Internal.128.png",
+    "tags": [
+      "internal",
+      "drive"
+    ]
+  },
+  {
+    "name": "Drive-Internal.48.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Internal.48.png",
+    "tags": [
+      "internal",
+      "drive"
+    ]
+  },
+  {
+    "name": "Drive-Removable.128.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Removable.128.png",
+    "tags": [
+      "drive",
+      "removable"
+    ]
+  },
+  {
+    "name": "Drive-Removable.48.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-Removable.48.png",
+    "tags": [
+      "drive",
+      "removable"
+    ]
+  },
+  {
+    "name": "Drive-SCSI.128.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-SCSI.128.png",
+    "tags": [
+      "drive",
+      "scsi"
+    ]
+  },
+  {
+    "name": "Drive-SCSI.48.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-SCSI.48.png",
+    "tags": [
+      "drive",
+      "scsi"
+    ]
+  },
+  {
+    "name": "Drive-USB.128.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-USB.128.png",
+    "tags": [
+      "drive",
+      "usb"
+    ]
+  },
+  {
+    "name": "Drive-USB.48.png",
+    "format": "PNG",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/PNG/Drive-USB.48.png",
+    "tags": [
+      "drive",
+      "usb"
+    ]
+  },
+  {
+    "name": "Drive-Firewire.ico",
+    "format": "Windows",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Windows/Drive-Firewire.ico",
+    "tags": [
+      "drive",
+      "firewire"
+    ]
+  },
+  {
+    "name": "Drive-Generic.ico",
+    "format": "Windows",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Windows/Drive-Generic.ico",
+    "tags": [
+      "drive",
+      "generic"
+    ]
+  },
+  {
+    "name": "Drive-Internal.ico",
+    "format": "Windows",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Windows/Drive-Internal.ico",
+    "tags": [
+      "internal",
+      "drive"
+    ]
+  },
+  {
+    "name": "Drive-Removable.ico",
+    "format": "Windows",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Windows/Drive-Removable.ico",
+    "tags": [
+      "drive",
+      "removable"
+    ]
+  },
+  {
+    "name": "Drive-SCSI.ico",
+    "format": "Windows",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Windows/Drive-SCSI.ico",
+    "tags": [
+      "drive",
+      "scsi"
+    ]
+  },
+  {
+    "name": "Drive-USB.ico",
+    "format": "Windows",
+    "path": "Designer/Beauticons/Fain-Drives-Icons/Windows/Drive-USB.ico",
+    "tags": [
+      "drive",
+      "usb"
+    ]
+  }
+]

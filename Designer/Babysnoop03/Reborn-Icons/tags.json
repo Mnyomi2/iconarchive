@@ -1,0 +1,46 @@
+{
+  "folder": [
+    "folder"
+  ],
+  "mail-envelope": [
+    "envelope",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "mail-envelopes": [
+    "email",
+    "mail",
+    "envelopes",
+    "contact"
+  ],
+  "mail-envelope-package": [
+    "envelope",
+    "email",
+    "mail",
+    "package",
+    "contact"
+  ],
+  "mail-envelope-sea": [
+    "email",
+    "mail",
+    "envelope",
+    "sea",
+    "contact"
+  ],
+  "egg": [
+    "egg"
+  ],
+  "candy": [
+    "candy"
+  ],
+  "mail-envelope-cloud": [
+    "email",
+    "mail",
+    "envelope",
+    "cloud",
+    "cloudy",
+    "contact",
+    "weather"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Sunflower": [
+    "sunflower",
+    "flower"
+  ],
+  "Food": [
+    "food",
+    "meal"
+  ],
+  "Female-User": [
+    "female",
+    "woman",
+    "user",
+    "girl",
+    "customer",
+    "person",
+    "face"
+  ],
+  "Apple": [
+    "apple",
+    "fruit",
+    "food",
+    "green",
+    "bite",
+    "meal"
+  ],
+  "Bowl-Empty": [
+    "bowl",
+    "empty",
+    "erase"
+  ],
+  "Village": [
+    "village"
+  ],
+  "Male-User": [
+    "user",
+    "person",
+    "face",
+    "customer",
+    "male",
+    "guy",
+    "man",
+    "boy"
+  ],
+  "Windmill": [
+    "windmill"
+  ],
+  "Flowers": [
+    "flowers",
+    "flower",
+    "fence"
+  ],
+  "Mandolin": [
+    "mandolin"
+  ],
+  "Wood-Bird": [
+    "wood",
+    "bird",
+    "animal"
+  ],
+  "Bowl-Full": [
+    "bowl",
+    "full",
+    "food",
+    "cooking",
+    "kitchen",
+    "meal"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Clone-Trooper": [
+    "clone",
+    "trooper"
+  ],
+  "Darth-Vader": [
+    "darth",
+    "vader"
+  ],
+  "Master-Joda": [
+    "joda",
+    "master",
+    "yoda"
+  ],
+  "R2D2": [
+    "rd"
+  ],
+  "Death-Star": [
+    "death",
+    "star"
+  ]
+}

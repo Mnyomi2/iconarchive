@@ -1,0 +1,85 @@
+{
+  "Cinema-Display-OFF-Mac-mini": [
+    "cinema",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "off",
+    "mac",
+    "control",
+    "mini",
+    "computer",
+    "hardware"
+  ],
+  "Apple-Remote": [
+    "apple",
+    "remote"
+  ],
+  "Mac-mini": [
+    "mac",
+    "computer",
+    "mini",
+    "hardware"
+  ],
+  "Mac-mini-deviantART": [
+    "mac",
+    "mini",
+    "computer",
+    "deviantart",
+    "hardware",
+    "social",
+    "logo"
+  ],
+  "Cinema-Display-Mac-mini": [
+    "cinema",
+    "computer",
+    "mac",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "hardware",
+    "mini",
+    "control"
+  ],
+  "Cinema-Display-OFF": [
+    "cinema",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "off",
+    "control",
+    "hardware"
+  ],
+  "Cinema-Display": [
+    "cinema",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Mac-mini-Apple-Remote": [
+    "mac",
+    "mini",
+    "apple",
+    "computer",
+    "hardware",
+    "remote"
+  ]
+}

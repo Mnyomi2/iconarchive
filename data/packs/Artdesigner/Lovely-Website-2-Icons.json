@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Art.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Art.16.png",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Art.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Art.24.png",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Art.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Art.32.png",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Blog.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Blog.16.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "Blog.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Blog.24.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "Blog.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Blog.32.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "CallMe.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/CallMe.16.png",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "CallMe.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/CallMe.24.png",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "CallMe.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/CallMe.32.png",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "Gift.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Gift.16.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Gift.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Gift.24.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Gift.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Gift.32.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Pay.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Pay.16.png",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Pay.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Pay.24.png",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Pay.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Pay.32.png",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Promo.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Promo.16.png",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Promo.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Promo.24.png",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Promo.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Promo.32.png",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Search.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Search.16.png",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Search.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Search.24.png",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Search.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/Search.32.png",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "ShoppingCart.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/ShoppingCart.16.png",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "ShoppingCart.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/ShoppingCart.24.png",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "ShoppingCart.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Favicon/ShoppingCart.32.png",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Art.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Art.128.png",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Art.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Art.48.png",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Art.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Art.64.png",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Blog.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Blog.128.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "Blog.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Blog.48.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "Blog.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Blog.64.png",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "CallMe.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/CallMe.128.png",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "CallMe.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/CallMe.48.png",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "CallMe.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/CallMe.64.png",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "Gift.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Gift.128.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Gift.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Gift.48.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Gift.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Gift.64.png",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Pay.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Pay.128.png",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Pay.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Pay.48.png",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Pay.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Pay.64.png",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Promo.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Promo.128.png",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Promo.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Promo.48.png",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Promo.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Promo.64.png",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Search.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Search.128.png",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Search.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Search.48.png",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "Search.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/Search.64.png",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "ShoppingCart.128.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/ShoppingCart.128.png",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "ShoppingCart.48.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/ShoppingCart.48.png",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "ShoppingCart.64.png",
+    "format": "PNG",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/PNG/ShoppingCart.64.png",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  },
+  {
+    "name": "Art.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/Art.ico",
+    "tags": [
+      "art"
+    ]
+  },
+  {
+    "name": "Blog.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/Blog.ico",
+    "tags": [
+      "blog"
+    ]
+  },
+  {
+    "name": "CallMe.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/CallMe.ico",
+    "tags": [
+      "callme"
+    ]
+  },
+  {
+    "name": "Gift.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/Gift.ico",
+    "tags": [
+      "gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "name": "Pay.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/Pay.ico",
+    "tags": [
+      "pay"
+    ]
+  },
+  {
+    "name": "Promo.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/Promo.ico",
+    "tags": [
+      "promo"
+    ]
+  },
+  {
+    "name": "Search.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/Search.ico",
+    "tags": [
+      "find",
+      "loupe",
+      "magnifier",
+      "magnify",
+      "magnifying",
+      "search",
+      "zoom",
+      "look"
+    ]
+  },
+  {
+    "name": "ShoppingCart.ico",
+    "format": "Windows",
+    "path": "Designer/Artdesigner/Lovely-Website-2-Icons/Windows/ShoppingCart.ico",
+    "tags": [
+      "cart",
+      "basket",
+      "buy",
+      "shop",
+      "shopping",
+      "shoppingcart",
+      "building"
+    ]
+  }
+]

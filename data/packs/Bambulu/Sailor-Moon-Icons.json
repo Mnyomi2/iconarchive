@@ -1,0 +1,849 @@
+[
+  {
+    "name": "chibiusa.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/chibiusa.16.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/chibiusa.24.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/chibiusa.32.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "luna-p.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/luna-p.16.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/luna-p.24.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/luna-p.32.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "mamoru.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/mamoru.16.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/mamoru.24.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/mamoru.32.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "ribbon.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/ribbon.16.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/ribbon.24.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/ribbon.32.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-jupiter.16.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-jupiter.24.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-jupiter.32.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-mars.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-mars.16.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-mars.24.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-mars.32.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mercury.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-mercury.16.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-mercury.24.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-mercury.32.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-moon.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-moon.16.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-moon.24.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-moon.32.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-venus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-venus.16.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-venus.24.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Favicon/sailor-venus.32.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "chibiusa.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/chibiusa.icns",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "luna-p.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/luna-p.icns",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "mamoru.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/mamoru.icns",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "ribbon.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/ribbon.icns",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/sailor-jupiter.icns",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-mars.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/sailor-mars.icns",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mercury.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/sailor-mercury.icns",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-moon.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/sailor-moon.icns",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-venus.icns",
+    "format": "Mac",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Mac/sailor-venus.icns",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "chibiusa.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/chibiusa.128.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/chibiusa.256.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/chibiusa.48.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/chibiusa.64.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/chibiusa.72.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "chibiusa.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/chibiusa.96.png",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "luna-p.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/luna-p.128.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/luna-p.256.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/luna-p.48.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/luna-p.64.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/luna-p.72.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "luna-p.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/luna-p.96.png",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "mamoru.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/mamoru.128.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/mamoru.256.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/mamoru.48.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/mamoru.64.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/mamoru.72.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "mamoru.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/mamoru.96.png",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "ribbon.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/ribbon.128.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/ribbon.256.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/ribbon.48.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/ribbon.64.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/ribbon.72.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "ribbon.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/ribbon.96.png",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-jupiter.128.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-jupiter.256.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-jupiter.48.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-jupiter.64.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-jupiter.72.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-jupiter.96.png",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-mars.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mars.128.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mars.256.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mars.48.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mars.64.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mars.72.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mars.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mars.96.png",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mercury.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mercury.128.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mercury.256.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mercury.48.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mercury.64.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mercury.72.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-mercury.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-mercury.96.png",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-moon.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-moon.128.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-moon.256.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-moon.48.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-moon.64.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-moon.72.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-moon.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-moon.96.png",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-venus.128.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-venus.128.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.256.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-venus.256.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.48.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-venus.48.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.64.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-venus.64.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.72.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-venus.72.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "sailor-venus.96.png",
+    "format": "PNG",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/PNG/sailor-venus.96.png",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  },
+  {
+    "name": "chibiusa.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/chibiusa.ico",
+    "tags": [
+      "chibiusa"
+    ]
+  },
+  {
+    "name": "luna-p.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/luna-p.ico",
+    "tags": [
+      "luna"
+    ]
+  },
+  {
+    "name": "mamoru.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/mamoru.ico",
+    "tags": [
+      "mamoru"
+    ]
+  },
+  {
+    "name": "ribbon.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/ribbon.ico",
+    "tags": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "sailor-jupiter.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/sailor-jupiter.ico",
+    "tags": [
+      "sailor",
+      "jupiter"
+    ]
+  },
+  {
+    "name": "sailor-mars.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/sailor-mars.ico",
+    "tags": [
+      "sailor",
+      "mars"
+    ]
+  },
+  {
+    "name": "sailor-mercury.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/sailor-mercury.ico",
+    "tags": [
+      "sailor",
+      "mercury"
+    ]
+  },
+  {
+    "name": "sailor-moon.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/sailor-moon.ico",
+    "tags": [
+      "sailor",
+      "moon"
+    ]
+  },
+  {
+    "name": "sailor-venus.ico",
+    "format": "Windows",
+    "path": "Designer/Bambulu/Sailor-Moon-Icons/Windows/sailor-venus.ico",
+    "tags": [
+      "sailor",
+      "venus"
+    ]
+  }
+]

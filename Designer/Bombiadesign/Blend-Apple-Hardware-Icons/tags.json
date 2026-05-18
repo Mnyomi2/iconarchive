@@ -1,0 +1,78 @@
+{
+  "Mac-Book-Pro-Off": [
+    "mac",
+    "book",
+    "pro",
+    "computer",
+    "laptop",
+    "off",
+    "hardware",
+    "notebook"
+  ],
+  "Mac-mini": [
+    "mac",
+    "mini",
+    "computer",
+    "hardware"
+  ],
+  "iMac-On": [
+    "imac"
+  ],
+  "Mac-Pro": [
+    "mac",
+    "pro",
+    "computer",
+    "hardware"
+  ],
+  "Mac-Book-Pro-On": [
+    "mac",
+    "book",
+    "computer",
+    "pro",
+    "laptop",
+    "hardware",
+    "notebook"
+  ],
+  "Mac-Book-White-Off": [
+    "mac",
+    "book",
+    "computer",
+    "white",
+    "laptop",
+    "off",
+    "hardware",
+    "notebook"
+  ],
+  "iMac-Off": [
+    "imac",
+    "off"
+  ],
+  "Mac-Book-Black-On": [
+    "computer",
+    "mac",
+    "black",
+    "book",
+    "laptop",
+    "hardware",
+    "notebook"
+  ],
+  "Mac-Book-Black-Off": [
+    "laptop",
+    "mac",
+    "black",
+    "book",
+    "computer",
+    "off",
+    "hardware",
+    "notebook"
+  ],
+  "Mac-Book-White-On": [
+    "book",
+    "mac",
+    "computer",
+    "white",
+    "laptop",
+    "hardware",
+    "notebook"
+  ]
+}

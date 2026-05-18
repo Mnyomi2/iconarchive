@@ -1,0 +1,538 @@
+{
+  "Vroum-Vroum": [
+    "vroum",
+    "auto",
+    "car",
+    "transport",
+    "vehicle"
+  ],
+  "customisation": [
+    "customisation"
+  ],
+  "performance-systeme-OS": [
+    "performance",
+    "systeme"
+  ],
+  "music": [
+    "music",
+    "audio",
+    "sound",
+    "phonograph",
+    "old"
+  ],
+  "fichiers-ogg": [
+    "fichiers",
+    "ogg"
+  ],
+  "old-explorer-v2": [
+    "old",
+    "explorer",
+    "microsoft"
+  ],
+  "old-videos": [
+    "movie",
+    "film",
+    "videos",
+    "video",
+    "old",
+    "cam",
+    "camera",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "recherche": [
+    "recherche",
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "Corbeille-vide": [
+    "corbeille",
+    "vide",
+    "empty",
+    "erase"
+  ],
+  "old-camera": [
+    "cam",
+    "camera",
+    "old",
+    "photography",
+    "image",
+    "photo",
+    "picture",
+    "hardware"
+  ],
+  "fichiers-gif": [
+    "sexy",
+    "gif",
+    "girl",
+    "woman",
+    "female",
+    "fichiers",
+    "face",
+    "portrait",
+    "customer",
+    "painting",
+    "person",
+    "user",
+    "paint"
+  ],
+  "fichiers-jpg-v3": [
+    "fichiers",
+    "jpg"
+  ],
+  "ordinateur": [
+    "ordinateur"
+  ],
+  "HDD-externe": [
+    "hdd",
+    "hd",
+    "harddisk",
+    "harddrive",
+    "externe",
+    "disc",
+    "disk",
+    "hardware"
+  ],
+  "fichiers-wma": [
+    "fichiers",
+    "wma"
+  ],
+  "HDD": [
+    "harddisk",
+    "harddrive",
+    "hd",
+    "hdd",
+    "disc",
+    "disk",
+    "hardware"
+  ],
+  "HDD-OSX": [
+    "osx",
+    "hdd",
+    "hd",
+    "harddisk",
+    "harddrive",
+    "hardware",
+    "disk",
+    "disc",
+    "os"
+  ],
+  "fichiers-xvid": [
+    "fichiers",
+    "xvid"
+  ],
+  "user": [
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "connection-reeseau": [
+    "connection",
+    "reeseau",
+    "earth",
+    "globe",
+    "world",
+    "hosting",
+    "internet",
+    "nature",
+    "network"
+  ],
+  "fichiers-avi": [
+    "avi",
+    "fichiers"
+  ],
+  "fichiers-CDA": [
+    "fichiers",
+    "cda"
+  ],
+  "fichiers-compresse-7zip": [
+    "fichiers",
+    "compresse",
+    "zip",
+    "archive"
+  ],
+  "mail": [
+    "email",
+    "mail",
+    "contact",
+    "aircraft",
+    "airplane",
+    "plane",
+    "transport"
+  ],
+  "dossier-ouvert": [
+    "dossier",
+    "ouvert"
+  ],
+  "corbeile-pleine": [
+    "corbeile",
+    "pleine"
+  ],
+  "plume-old-school": [
+    "old",
+    "plume",
+    "school",
+    "feather",
+    "education"
+  ],
+  "avion": [
+    "avion",
+    "plane",
+    "aircraft",
+    "airplane",
+    "transport"
+  ],
+  "java-old-school": [
+    "coffee",
+    "drink",
+    "java",
+    "old",
+    "school",
+    "meal",
+    "food",
+    "education"
+  ],
+  "lecteur-cd-dvd": [
+    "cd",
+    "lecteur",
+    "dvd",
+    "disc",
+    "disk"
+  ],
+  "My-Picture-old-school": [
+    "picture",
+    "image",
+    "photography",
+    "photo",
+    "school",
+    "old",
+    "education"
+  ],
+  "mail-old-school": [
+    "email",
+    "mail",
+    "old",
+    "school",
+    "contact",
+    "plane",
+    "aircraft",
+    "airplane",
+    "education",
+    "transport"
+  ],
+  "fichiers-mp-3": [
+    "fichiers"
+  ],
+  "fichiers-mov": [
+    "fichiers",
+    "mov"
+  ],
+  "bobines-video": [
+    "movie",
+    "video",
+    "film",
+    "bobines"
+  ],
+  "fichiers-divx": [
+    "fichiers",
+    "divx"
+  ],
+  "document-recents": [
+    "doc",
+    "document",
+    "file",
+    "recents",
+    "paper"
+  ],
+  "Firefox-old-school-final": [
+    "school",
+    "firefox",
+    "browser",
+    "old",
+    "final",
+    "education"
+  ],
+  "anti-virus-old-school": [
+    "medical",
+    "anti",
+    "virus",
+    "old",
+    "school",
+    "education"
+  ],
+  "Borsalino": [
+    "borsalino"
+  ],
+  "favoris-old-school": [
+    "favoris",
+    "old",
+    "school",
+    "education"
+  ],
+  "fichiers-flac": [
+    "fichiers",
+    "flac"
+  ],
+  "dossier-ferme": [
+    "dossier",
+    "ferme"
+  ],
+  "dossier-ardoise-documents": [
+    "dossier",
+    "ardoise",
+    "doc",
+    "document",
+    "file",
+    "documents",
+    "paper"
+  ],
+  "ordinateur-off": [
+    "off",
+    "ordinateur"
+  ],
+  "CrystalBlue": [
+    "crystalblue"
+  ],
+  "Time-Machine": [
+    "time",
+    "machine"
+  ],
+  "CD-oldSchool": [
+    "cd",
+    "oldschool",
+    "disc",
+    "disk",
+    "vinyl"
+  ],
+  "recherche-internet": [
+    "recherche",
+    "internet",
+    "network"
+  ],
+  "fichiers-compresse-cab": [
+    "fichiers",
+    "compresse",
+    "cab",
+    "archive"
+  ],
+  "HD": [
+    "harddrive",
+    "hd",
+    "hdd",
+    "harddisk",
+    "disk",
+    "disc",
+    "hardware"
+  ],
+  "Borsalino-Blanc": [
+    "borsalino",
+    "blanc"
+  ],
+  "favoris-reseaux": [
+    "favoris",
+    "reseaux"
+  ],
+  "fichiers-compresse-rar": [
+    "fichiers",
+    "compresse",
+    "rar",
+    "archive"
+  ],
+  "HDD-Windows": [
+    "hd",
+    "hdd",
+    "harddisk",
+    "harddrive",
+    "windows",
+    "hardware",
+    "disc",
+    "disk",
+    "os"
+  ],
+  "Download": [
+    "down",
+    "download",
+    "decrease",
+    "arrow"
+  ],
+  "photoshop-old-school": [
+    "photoshop",
+    "old",
+    "school",
+    "adobe",
+    "education"
+  ],
+  "micro": [
+    "micro",
+    "microphone"
+  ],
+  "dossier-jeux-old-school": [
+    "dossier",
+    "jeux",
+    "old",
+    "school",
+    "education"
+  ],
+  "recherche-doc": [
+    "recherche",
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "gravure": [
+    "gravure"
+  ],
+  "globe": [
+    "earth",
+    "globe",
+    "hosting",
+    "world",
+    "nature",
+    "internet",
+    "network"
+  ],
+  "user-old-vide": [
+    "customer",
+    "person",
+    "user",
+    "old",
+    "vide",
+    "face"
+  ],
+  "dossier-ardoise-images": [
+    "dossier",
+    "image",
+    "ardoise",
+    "photo",
+    "photography",
+    "picture",
+    "images"
+  ],
+  "DVD": [
+    "dvd",
+    "disk",
+    "disc"
+  ],
+  "fichiers-compresse-zip": [
+    "fichiers",
+    "compresse",
+    "zip",
+    "archive"
+  ],
+  "dossier-ardoise-video": [
+    "dossier",
+    "ardoise",
+    "film",
+    "movie",
+    "video"
+  ],
+  "fichiers-mp-4": [
+    "fichiers"
+  ],
+  "office-v3": [
+    "office",
+    "microsoft",
+    "fountain pen",
+    "ink"
+  ],
+  "fichiers-png": [
+    "fichiers",
+    "png"
+  ],
+  "panneau-de-configuration-old-school": [
+    "panneau",
+    "configuration",
+    "school",
+    "conf",
+    "config",
+    "configure",
+    "customise",
+    "customization",
+    "old",
+    "setting",
+    "education"
+  ],
+  "Old-Messenger": [
+    "old",
+    "messenger",
+    "chat",
+    "telephone",
+    "phone",
+    "social",
+    "call",
+    "contact",
+    "logo"
+  ],
+  "alarme-old-school": [
+    "alarme",
+    "old",
+    "school",
+    "education"
+  ],
+  "lecteur-dick-old-school": [
+    "dick",
+    "lecteur",
+    "old",
+    "school",
+    "education"
+  ],
+  "illustrator-old-school": [
+    "school",
+    "illustrator",
+    "old",
+    "education",
+    "adobe"
+  ],
+  "Nettoyage-dick-old-school": [
+    "nettoyage",
+    "dick",
+    "old",
+    "school",
+    "education"
+  ],
+  "USB": [
+    "usb"
+  ],
+  "fichiers-psd": [
+    "fichiers",
+    "psd"
+  ],
+  "First-Place": [
+    "first",
+    "place",
+    "auto",
+    "car",
+    "transport",
+    "vehicle"
+  ],
+  "option-alimentation-oldschool": [
+    "option",
+    "alimentation",
+    "oldschool",
+    "battery",
+    "power"
+  ],
+  "coffee": [
+    "java",
+    "coffee",
+    "drink",
+    "food",
+    "meal"
+  ],
+  "old-thunderbird-v2": [
+    "thunderbird",
+    "bird",
+    "animal"
+  ]
+}

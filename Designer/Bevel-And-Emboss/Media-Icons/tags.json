@@ -1,0 +1,44 @@
+{
+  "microphone": [
+    "microphone"
+  ],
+  "dvd": [
+    "dvd",
+    "disc",
+    "disk"
+  ],
+  "document": [
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "map": [
+    "map",
+    "plan",
+    "contact",
+    "navigation"
+  ],
+  "tv": [
+    "tv",
+    "television",
+    "news"
+  ],
+  "camera": [
+    "cam",
+    "camera",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "news": [
+    "news"
+  ],
+  "video": [
+    "film",
+    "movie",
+    "video"
+  ]
+}

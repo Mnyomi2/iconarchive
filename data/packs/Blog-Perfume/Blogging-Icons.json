@@ -1,0 +1,562 @@
+[
+  {
+    "name": "advertisment.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/advertisment.16.png",
+    "tags": [
+      "advertisment"
+    ]
+  },
+  {
+    "name": "advertisment.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/advertisment.24.png",
+    "tags": [
+      "advertisment"
+    ]
+  },
+  {
+    "name": "advertisment.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/advertisment.32.png",
+    "tags": [
+      "advertisment"
+    ]
+  },
+  {
+    "name": "archive.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/archive.16.png",
+    "tags": [
+      "archive"
+    ]
+  },
+  {
+    "name": "archive.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/archive.24.png",
+    "tags": [
+      "archive"
+    ]
+  },
+  {
+    "name": "archive.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/archive.32.png",
+    "tags": [
+      "archive"
+    ]
+  },
+  {
+    "name": "article.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/article.16.png",
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "name": "article.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/article.24.png",
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "name": "article.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/article.32.png",
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "name": "author.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/author.16.png",
+    "tags": [
+      "author"
+    ]
+  },
+  {
+    "name": "author.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/author.24.png",
+    "tags": [
+      "author"
+    ]
+  },
+  {
+    "name": "author.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/author.32.png",
+    "tags": [
+      "author"
+    ]
+  },
+  {
+    "name": "blogroll.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/blogroll.16.png",
+    "tags": [
+      "blogroll"
+    ]
+  },
+  {
+    "name": "blogroll.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/blogroll.24.png",
+    "tags": [
+      "blogroll"
+    ]
+  },
+  {
+    "name": "blogroll.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/blogroll.32.png",
+    "tags": [
+      "blogroll"
+    ]
+  },
+  {
+    "name": "comments.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/comments.16.png",
+    "tags": [
+      "comments",
+      "comment",
+      "bubble",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "comments.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/comments.24.png",
+    "tags": [
+      "comments",
+      "comment",
+      "bubble",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "comments.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/comments.32.png",
+    "tags": [
+      "comments",
+      "comment",
+      "bubble",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "date.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/date.16.png",
+    "tags": [
+      "organizer",
+      "event",
+      "calendar",
+      "date",
+      "alarm",
+      "alert",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "date.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/date.24.png",
+    "tags": [
+      "organizer",
+      "event",
+      "calendar",
+      "date",
+      "alarm",
+      "alert",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "date.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/date.32.png",
+    "tags": [
+      "organizer",
+      "event",
+      "calendar",
+      "date",
+      "alarm",
+      "alert",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "email.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/email.16.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "email.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/email.24.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "email.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/email.32.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "plugins.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/plugins.16.png",
+    "tags": [
+      "plugins"
+    ]
+  },
+  {
+    "name": "plugins.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/plugins.24.png",
+    "tags": [
+      "plugins"
+    ]
+  },
+  {
+    "name": "plugins.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/plugins.32.png",
+    "tags": [
+      "plugins"
+    ]
+  },
+  {
+    "name": "rss.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/rss.16.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "rss.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/rss.24.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "rss.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/rss.32.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "themes.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/themes.16.png",
+    "tags": [
+      "themes"
+    ]
+  },
+  {
+    "name": "themes.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/themes.24.png",
+    "tags": [
+      "themes"
+    ]
+  },
+  {
+    "name": "themes.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/themes.32.png",
+    "tags": [
+      "themes"
+    ]
+  },
+  {
+    "name": "views.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/views.16.png",
+    "tags": [
+      "view",
+      "views"
+    ]
+  },
+  {
+    "name": "views.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/views.24.png",
+    "tags": [
+      "view",
+      "views"
+    ]
+  },
+  {
+    "name": "views.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Favicon/views.32.png",
+    "tags": [
+      "view",
+      "views"
+    ]
+  },
+  {
+    "name": "advertisment.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/advertisment.48.png",
+    "tags": [
+      "advertisment"
+    ]
+  },
+  {
+    "name": "archive.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/archive.48.png",
+    "tags": [
+      "archive"
+    ]
+  },
+  {
+    "name": "article.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/article.48.png",
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "name": "author.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/author.48.png",
+    "tags": [
+      "author"
+    ]
+  },
+  {
+    "name": "blogroll.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/blogroll.48.png",
+    "tags": [
+      "blogroll"
+    ]
+  },
+  {
+    "name": "comments.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/comments.48.png",
+    "tags": [
+      "comments",
+      "comment",
+      "bubble",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "date.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/date.48.png",
+    "tags": [
+      "organizer",
+      "event",
+      "calendar",
+      "date",
+      "alarm",
+      "alert",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "email.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/email.48.png",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "plugins.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/plugins.48.png",
+    "tags": [
+      "plugins"
+    ]
+  },
+  {
+    "name": "rss.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/rss.48.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "themes.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/themes.48.png",
+    "tags": [
+      "themes"
+    ]
+  },
+  {
+    "name": "views.48.png",
+    "format": "PNG",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/PNG/views.48.png",
+    "tags": [
+      "view",
+      "views"
+    ]
+  },
+  {
+    "name": "advertisment.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/advertisment.ico",
+    "tags": [
+      "advertisment"
+    ]
+  },
+  {
+    "name": "archive.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/archive.ico",
+    "tags": [
+      "archive"
+    ]
+  },
+  {
+    "name": "article.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/article.ico",
+    "tags": [
+      "article"
+    ]
+  },
+  {
+    "name": "author.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/author.ico",
+    "tags": [
+      "author"
+    ]
+  },
+  {
+    "name": "blogroll.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/blogroll.ico",
+    "tags": [
+      "blogroll"
+    ]
+  },
+  {
+    "name": "comments.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/comments.ico",
+    "tags": [
+      "comments",
+      "comment",
+      "bubble",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "date.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/date.ico",
+    "tags": [
+      "organizer",
+      "event",
+      "calendar",
+      "date",
+      "alarm",
+      "alert",
+      "clock",
+      "timer"
+    ]
+  },
+  {
+    "name": "email.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/email.ico",
+    "tags": [
+      "mail",
+      "email",
+      "contact"
+    ]
+  },
+  {
+    "name": "plugins.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/plugins.ico",
+    "tags": [
+      "plugins"
+    ]
+  },
+  {
+    "name": "rss.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/rss.ico",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "themes.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/themes.ico",
+    "tags": [
+      "themes"
+    ]
+  },
+  {
+    "name": "views.ico",
+    "format": "Windows",
+    "path": "Designer/Blog-Perfume/Blogging-Icons/Windows/views.ico",
+    "tags": [
+      "view",
+      "views"
+    ]
+  }
+]

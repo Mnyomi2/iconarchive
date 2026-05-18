@@ -1,7 +1,17 @@
 [
   {
+    "id": "Captiva-Icons",
+    "name": "Captiva Icons",
+    "iconCount": 1903
+  },
+  {
+    "id": "Pacifica-Icons",
+    "name": "Pacifica Icons",
+    "iconCount": 880
+  },
+  {
     "id": "alike-Icons",
     "name": "alike Icons",
-    "iconCount": 20
+    "iconCount": 260
   }
 ]

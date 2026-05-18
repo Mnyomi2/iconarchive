@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Briefcase.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Briefcase.16.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Briefcase.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Briefcase.24.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Briefcase.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Briefcase.32.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Column-Chart.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Column-Chart.16.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Column-Chart.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Column-Chart.24.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Column-Chart.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Column-Chart.32.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Disk.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Disk.16.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Disk.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Disk.24.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Disk.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Disk.32.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Printer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Printer.16.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Printer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Printer.24.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Printer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Printer.32.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Toolbox.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Toolbox.16.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "Toolbox.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Toolbox.24.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "Toolbox.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/Toolbox.32.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "User.16.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/User.16.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "User.24.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/User.24.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "User.32.png",
+    "format": "Favicon",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Favicon/User.32.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "Briefcase.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Briefcase.128.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Briefcase.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Briefcase.256.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Briefcase.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Briefcase.48.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Briefcase.512.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Briefcase.512.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Briefcase.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Briefcase.64.png",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Column-Chart.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Column-Chart.128.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Column-Chart.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Column-Chart.256.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Column-Chart.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Column-Chart.48.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Column-Chart.512.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Column-Chart.512.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Column-Chart.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Column-Chart.64.png",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Disk.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Disk.128.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Disk.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Disk.256.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Disk.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Disk.48.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Disk.512.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Disk.512.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Disk.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Disk.64.png",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Printer.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Printer.128.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Printer.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Printer.256.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Printer.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Printer.48.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Printer.512.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Printer.512.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Printer.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Printer.64.png",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Toolbox.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Toolbox.128.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "Toolbox.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Toolbox.256.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "Toolbox.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Toolbox.48.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "Toolbox.512.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Toolbox.512.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "Toolbox.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/Toolbox.64.png",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "User.128.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/User.128.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "User.256.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/User.256.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "User.48.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/User.48.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "User.512.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/User.512.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "User.64.png",
+    "format": "PNG",
+    "path": "Designer/Artua/Dragon-Soft-Icons/PNG/User.64.png",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  },
+  {
+    "name": "Briefcase.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Windows/Briefcase.ico",
+    "tags": [
+      "briefcase"
+    ]
+  },
+  {
+    "name": "Column-Chart.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Windows/Column-Chart.ico",
+    "tags": [
+      "chart",
+      "business",
+      "column"
+    ]
+  },
+  {
+    "name": "Disk.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Windows/Disk.ico",
+    "tags": [
+      "disc",
+      "disk"
+    ]
+  },
+  {
+    "name": "Printer.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Windows/Printer.ico",
+    "tags": [
+      "printer",
+      "print",
+      "hardware"
+    ]
+  },
+  {
+    "name": "Toolbox.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Windows/Toolbox.ico",
+    "tags": [
+      "toolbox"
+    ]
+  },
+  {
+    "name": "User.ico",
+    "format": "Windows",
+    "path": "Designer/Artua/Dragon-Soft-Icons/Windows/User.ico",
+    "tags": [
+      "user",
+      "person",
+      "customer",
+      "face"
+    ]
+  }
+]

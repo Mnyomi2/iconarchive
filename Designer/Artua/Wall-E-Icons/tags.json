@@ -1,0 +1,57 @@
+{
+  "m-o": [
+    "wall",
+    "walle",
+    "e",
+    "robot"
+  ],
+  "e-ric": [
+    "walle",
+    "ric",
+    "robot",
+    "wall e",
+    "e ric",
+    "eric",
+    "wall"
+  ],
+  "bag": [
+    "bag",
+    "tool",
+    "utilities",
+    "utils",
+    "wall e",
+    "tools",
+    "walle"
+  ],
+  "wall-e": [
+    "wall"
+  ],
+  "auto": [
+    "auto",
+    "vehicle",
+    "car",
+    "transport",
+    "steering",
+    "wheel"
+  ],
+  "eve": [
+    "eve",
+    "robot",
+    "wall e",
+    "walle",
+    "wall"
+  ],
+  "plant": [
+    "plant",
+    "wall",
+    "shoe",
+    "walle"
+  ],
+  "m-o-full": [
+    "full",
+    "e",
+    "robot",
+    "wall",
+    "walle"
+  ]
+}

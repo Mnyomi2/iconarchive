@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Black-Plastic-plus-Yellow-Cone.16.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Black-Plastic-plus-Yellow-Cone.24.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Black-Plastic-plus-Yellow-Cone.32.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Black-Plastic.16.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Black-Plastic.24.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Black-Plastic.32.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Dark-Wood.16.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Dark-Wood.24.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Dark-Wood.32.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Light-Wood.16.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Light-Wood.24.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Light-Wood.32.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Rear-View.16.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Rear-View.24.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Rear-View.32.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Red-Wood.16.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Red-Wood.24.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Speaker-Icons/Favicon/Speaker-Red-Wood.32.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Speaker-Icons/Mac/Speaker-Black-Plastic-plus-Yellow-Cone.icns",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Speaker-Icons/Mac/Speaker-Black-Plastic.icns",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Speaker-Icons/Mac/Speaker-Dark-Wood.icns",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Speaker-Icons/Mac/Speaker-Light-Wood.icns",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Speaker-Icons/Mac/Speaker-Rear-View.icns",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Speaker-Icons/Mac/Speaker-Red-Wood.icns",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic-plus-Yellow-Cone.128.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic-plus-Yellow-Cone.48.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic-plus-Yellow-Cone.64.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic-plus-Yellow-Cone.72.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic-plus-Yellow-Cone.96.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic.128.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic.48.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic.64.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic.72.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Black-Plastic.96.png",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Dark-Wood.128.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Dark-Wood.48.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Dark-Wood.64.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Dark-Wood.72.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Dark-Wood.96.png",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Light-Wood.128.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Light-Wood.48.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Light-Wood.64.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Light-Wood.72.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Light-Wood.96.png",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Rear-View.128.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Rear-View.48.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Rear-View.64.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Rear-View.72.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Rear-View.96.png",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Red-Wood.128.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Red-Wood.48.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Red-Wood.64.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Red-Wood.72.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Speaker-Icons/PNG/Speaker-Red-Wood.96.png",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic-plus-Yellow-Cone.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Speaker-Icons/Windows/Speaker-Black-Plastic-plus-Yellow-Cone.ico",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "plus",
+      "sound",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Speaker-Black-Plastic.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Speaker-Icons/Windows/Speaker-Black-Plastic.ico",
+    "tags": [
+      "speaker",
+      "black",
+      "plastic",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Dark-Wood.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Speaker-Icons/Windows/Speaker-Dark-Wood.ico",
+    "tags": [
+      "speaker",
+      "dark",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Light-Wood.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Speaker-Icons/Windows/Speaker-Light-Wood.ico",
+    "tags": [
+      "speaker",
+      "light",
+      "wood",
+      "audio",
+      "music",
+      "sound"
+    ]
+  },
+  {
+    "name": "Speaker-Rear-View.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Speaker-Icons/Windows/Speaker-Rear-View.ico",
+    "tags": [
+      "speaker",
+      "rear",
+      "audio",
+      "music",
+      "sound",
+      "view"
+    ]
+  },
+  {
+    "name": "Speaker-Red-Wood.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Speaker-Icons/Windows/Speaker-Red-Wood.ico",
+    "tags": [
+      "speaker",
+      "red",
+      "audio",
+      "music",
+      "sound",
+      "wood"
+    ]
+  }
+]

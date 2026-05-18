@@ -1,0 +1,590 @@
+[
+  {
+    "name": "canard.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/canard.16.png",
+    "tags": [
+      "canard"
+    ]
+  },
+  {
+    "name": "canard.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/canard.32.png",
+    "tags": [
+      "canard"
+    ]
+  },
+  {
+    "name": "crabe.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/crabe.16.png",
+    "tags": [
+      "crabe"
+    ]
+  },
+  {
+    "name": "crabe.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/crabe.32.png",
+    "tags": [
+      "crabe"
+    ]
+  },
+  {
+    "name": "croco.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/croco.16.png",
+    "tags": [
+      "croco"
+    ]
+  },
+  {
+    "name": "croco.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/croco.32.png",
+    "tags": [
+      "croco"
+    ]
+  },
+  {
+    "name": "escargot.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/escargot.16.png",
+    "tags": [
+      "escargot"
+    ]
+  },
+  {
+    "name": "escargot.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/escargot.32.png",
+    "tags": [
+      "escargot"
+    ]
+  },
+  {
+    "name": "horse.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/horse.16.png",
+    "tags": [
+      "horse",
+      "animal"
+    ]
+  },
+  {
+    "name": "horse.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/horse.32.png",
+    "tags": [
+      "horse",
+      "animal"
+    ]
+  },
+  {
+    "name": "koala.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/koala.16.png",
+    "tags": [
+      "koala"
+    ]
+  },
+  {
+    "name": "koala.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/koala.32.png",
+    "tags": [
+      "koala"
+    ]
+  },
+  {
+    "name": "monkey.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/monkey.16.png",
+    "tags": [
+      "monkey"
+    ]
+  },
+  {
+    "name": "monkey.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/monkey.32.png",
+    "tags": [
+      "monkey"
+    ]
+  },
+  {
+    "name": "oursblanc.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/oursblanc.16.png",
+    "tags": [
+      "oursblanc"
+    ]
+  },
+  {
+    "name": "oursblanc.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/oursblanc.32.png",
+    "tags": [
+      "oursblanc"
+    ]
+  },
+  {
+    "name": "oursbrun.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/oursbrun.16.png",
+    "tags": [
+      "oursbrun"
+    ]
+  },
+  {
+    "name": "oursbrun.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/oursbrun.32.png",
+    "tags": [
+      "oursbrun"
+    ]
+  },
+  {
+    "name": "tiger.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/tiger.16.png",
+    "tags": [
+      "tiger"
+    ]
+  },
+  {
+    "name": "tiger.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/tiger.32.png",
+    "tags": [
+      "tiger"
+    ]
+  },
+  {
+    "name": "toro.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/toro.16.png",
+    "tags": [
+      "toro"
+    ]
+  },
+  {
+    "name": "toro.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/toro.32.png",
+    "tags": [
+      "toro"
+    ]
+  },
+  {
+    "name": "zebra.16.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/zebra.16.png",
+    "tags": [
+      "zebra",
+      "animal"
+    ]
+  },
+  {
+    "name": "zebra.32.png",
+    "format": "Favicon",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Favicon/zebra.32.png",
+    "tags": [
+      "zebra",
+      "animal"
+    ]
+  },
+  {
+    "name": "canard.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/canard.icns",
+    "tags": [
+      "canard"
+    ]
+  },
+  {
+    "name": "crabe.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/crabe.icns",
+    "tags": [
+      "crabe"
+    ]
+  },
+  {
+    "name": "croco.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/croco.icns",
+    "tags": [
+      "croco"
+    ]
+  },
+  {
+    "name": "escargot.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/escargot.icns",
+    "tags": [
+      "escargot"
+    ]
+  },
+  {
+    "name": "horse.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/horse.icns",
+    "tags": [
+      "horse",
+      "animal"
+    ]
+  },
+  {
+    "name": "koala.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/koala.icns",
+    "tags": [
+      "koala"
+    ]
+  },
+  {
+    "name": "monkey.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/monkey.icns",
+    "tags": [
+      "monkey"
+    ]
+  },
+  {
+    "name": "oursblanc.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/oursblanc.icns",
+    "tags": [
+      "oursblanc"
+    ]
+  },
+  {
+    "name": "oursbrun.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/oursbrun.icns",
+    "tags": [
+      "oursbrun"
+    ]
+  },
+  {
+    "name": "tiger.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/tiger.icns",
+    "tags": [
+      "tiger"
+    ]
+  },
+  {
+    "name": "toro.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/toro.icns",
+    "tags": [
+      "toro"
+    ]
+  },
+  {
+    "name": "zebra.icns",
+    "format": "Mac",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Mac/zebra.icns",
+    "tags": [
+      "zebra",
+      "animal"
+    ]
+  },
+  {
+    "name": "canard.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/canard.128.png",
+    "tags": [
+      "canard"
+    ]
+  },
+  {
+    "name": "canard.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/canard.48.png",
+    "tags": [
+      "canard"
+    ]
+  },
+  {
+    "name": "crabe.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/crabe.128.png",
+    "tags": [
+      "crabe"
+    ]
+  },
+  {
+    "name": "crabe.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/crabe.48.png",
+    "tags": [
+      "crabe"
+    ]
+  },
+  {
+    "name": "croco.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/croco.128.png",
+    "tags": [
+      "croco"
+    ]
+  },
+  {
+    "name": "croco.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/croco.48.png",
+    "tags": [
+      "croco"
+    ]
+  },
+  {
+    "name": "escargot.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/escargot.128.png",
+    "tags": [
+      "escargot"
+    ]
+  },
+  {
+    "name": "escargot.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/escargot.48.png",
+    "tags": [
+      "escargot"
+    ]
+  },
+  {
+    "name": "horse.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/horse.128.png",
+    "tags": [
+      "horse",
+      "animal"
+    ]
+  },
+  {
+    "name": "horse.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/horse.48.png",
+    "tags": [
+      "horse",
+      "animal"
+    ]
+  },
+  {
+    "name": "koala.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/koala.128.png",
+    "tags": [
+      "koala"
+    ]
+  },
+  {
+    "name": "koala.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/koala.48.png",
+    "tags": [
+      "koala"
+    ]
+  },
+  {
+    "name": "monkey.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/monkey.128.png",
+    "tags": [
+      "monkey"
+    ]
+  },
+  {
+    "name": "monkey.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/monkey.48.png",
+    "tags": [
+      "monkey"
+    ]
+  },
+  {
+    "name": "oursblanc.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/oursblanc.128.png",
+    "tags": [
+      "oursblanc"
+    ]
+  },
+  {
+    "name": "oursblanc.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/oursblanc.48.png",
+    "tags": [
+      "oursblanc"
+    ]
+  },
+  {
+    "name": "oursbrun.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/oursbrun.128.png",
+    "tags": [
+      "oursbrun"
+    ]
+  },
+  {
+    "name": "oursbrun.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/oursbrun.48.png",
+    "tags": [
+      "oursbrun"
+    ]
+  },
+  {
+    "name": "tiger.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/tiger.128.png",
+    "tags": [
+      "tiger"
+    ]
+  },
+  {
+    "name": "tiger.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/tiger.48.png",
+    "tags": [
+      "tiger"
+    ]
+  },
+  {
+    "name": "toro.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/toro.128.png",
+    "tags": [
+      "toro"
+    ]
+  },
+  {
+    "name": "toro.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/toro.48.png",
+    "tags": [
+      "toro"
+    ]
+  },
+  {
+    "name": "zebra.128.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/zebra.128.png",
+    "tags": [
+      "zebra",
+      "animal"
+    ]
+  },
+  {
+    "name": "zebra.48.png",
+    "format": "PNG",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/PNG/zebra.48.png",
+    "tags": [
+      "zebra",
+      "animal"
+    ]
+  },
+  {
+    "name": "canard.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/canard.ico",
+    "tags": [
+      "canard"
+    ]
+  },
+  {
+    "name": "crabe.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/crabe.ico",
+    "tags": [
+      "crabe"
+    ]
+  },
+  {
+    "name": "croco.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/croco.ico",
+    "tags": [
+      "croco"
+    ]
+  },
+  {
+    "name": "escargot.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/escargot.ico",
+    "tags": [
+      "escargot"
+    ]
+  },
+  {
+    "name": "horse.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/horse.ico",
+    "tags": [
+      "horse",
+      "animal"
+    ]
+  },
+  {
+    "name": "koala.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/koala.ico",
+    "tags": [
+      "koala"
+    ]
+  },
+  {
+    "name": "monkey.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/monkey.ico",
+    "tags": [
+      "monkey"
+    ]
+  },
+  {
+    "name": "oursblanc.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/oursblanc.ico",
+    "tags": [
+      "oursblanc"
+    ]
+  },
+  {
+    "name": "oursbrun.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/oursbrun.ico",
+    "tags": [
+      "oursbrun"
+    ]
+  },
+  {
+    "name": "tiger.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/tiger.ico",
+    "tags": [
+      "tiger"
+    ]
+  },
+  {
+    "name": "toro.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/toro.ico",
+    "tags": [
+      "toro"
+    ]
+  },
+  {
+    "name": "zebra.ico",
+    "format": "Windows",
+    "path": "Designer/Charlotte-Schmidt/Zootetragonoides-3-Icons/Windows/zebra.ico",
+    "tags": [
+      "zebra",
+      "animal"
+    ]
+  }
+]

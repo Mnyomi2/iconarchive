@@ -1,0 +1,442 @@
+[
+  {
+    "name": "FireWire.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/FireWire.16.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "FireWire.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/FireWire.24.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "FireWire.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/FireWire.32.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "Generic-Power.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/Generic-Power.16.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "Generic-Power.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/Generic-Power.24.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "Generic-Power.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/Generic-Power.32.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "USB.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/USB.16.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "USB.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/USB.24.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "USB.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/USB.32.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "VGA.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/VGA.16.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "VGA.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/VGA.24.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "VGA.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/VGA.32.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "iPod-Connector.16.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/iPod-Connector.16.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "iPod-Connector.24.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/iPod-Connector.24.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "iPod-Connector.32.png",
+    "format": "Favicon",
+    "path": "Designer/Carvetia/Plugs-Icons/Favicon/iPod-Connector.32.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "FireWire.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Plugs-Icons/Mac/FireWire.icns",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "Generic-Power.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Plugs-Icons/Mac/Generic-Power.icns",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "USB.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Plugs-Icons/Mac/USB.icns",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "VGA.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Plugs-Icons/Mac/VGA.icns",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "iPod-Connector.icns",
+    "format": "Mac",
+    "path": "Designer/Carvetia/Plugs-Icons/Mac/iPod-Connector.icns",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "FireWire.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/FireWire.128.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "FireWire.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/FireWire.48.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "FireWire.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/FireWire.64.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "FireWire.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/FireWire.72.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "FireWire.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/FireWire.96.png",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "Generic-Power.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/Generic-Power.128.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "Generic-Power.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/Generic-Power.48.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "Generic-Power.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/Generic-Power.64.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "Generic-Power.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/Generic-Power.72.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "Generic-Power.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/Generic-Power.96.png",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "USB.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/USB.128.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "USB.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/USB.48.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "USB.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/USB.64.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "USB.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/USB.72.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "USB.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/USB.96.png",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "VGA.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/VGA.128.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "VGA.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/VGA.48.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "VGA.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/VGA.64.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "VGA.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/VGA.72.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "VGA.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/VGA.96.png",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "iPod-Connector.128.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/iPod-Connector.128.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "iPod-Connector.48.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/iPod-Connector.48.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "iPod-Connector.64.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/iPod-Connector.64.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "iPod-Connector.72.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/iPod-Connector.72.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "iPod-Connector.96.png",
+    "format": "PNG",
+    "path": "Designer/Carvetia/Plugs-Icons/PNG/iPod-Connector.96.png",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  },
+  {
+    "name": "FireWire.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Plugs-Icons/Windows/FireWire.ico",
+    "tags": [
+      "firewire"
+    ]
+  },
+  {
+    "name": "Generic-Power.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Plugs-Icons/Windows/Generic-Power.ico",
+    "tags": [
+      "generic",
+      "power"
+    ]
+  },
+  {
+    "name": "USB.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Plugs-Icons/Windows/USB.ico",
+    "tags": [
+      "usb"
+    ]
+  },
+  {
+    "name": "VGA.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Plugs-Icons/Windows/VGA.ico",
+    "tags": [
+      "vga"
+    ]
+  },
+  {
+    "name": "iPod-Connector.ico",
+    "format": "Windows",
+    "path": "Designer/Carvetia/Plugs-Icons/Windows/iPod-Connector.ico",
+    "tags": [
+      "ipod",
+      "connector",
+      "mp3",
+      "player"
+    ]
+  }
+]

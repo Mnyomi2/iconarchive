@@ -1,5 +1,2369 @@
 [
   {
+    "name": "Assassin-s-Creed-II-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-4.16.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-4.32.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-5.16.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-5.32.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-6.16.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-6.32.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-8.16.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Assassin-s-Creed-II-8.32.png",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Avatar-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Avatar-2.16.png",
+    "tags": [
+      "avatar"
+    ]
+  },
+  {
+    "name": "Avatar-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Avatar-2.32.png",
+    "tags": [
+      "avatar"
+    ]
+  },
+  {
+    "name": "Batman-Arkam-Asylum-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Batman-Arkam-Asylum-7.16.png",
+    "tags": [
+      "batman",
+      "arkam",
+      "asylum"
+    ]
+  },
+  {
+    "name": "Batman-Arkam-Asylum-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Batman-Arkam-Asylum-7.32.png",
+    "tags": [
+      "batman",
+      "arkam",
+      "asylum"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Battlefield-Bad-Company-2-2.16.png",
+    "tags": [
+      "battlefield",
+      "bad",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Battlefield-Bad-Company-2-2.32.png",
+    "tags": [
+      "battlefield",
+      "bad",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Battlefield-Bad-Company-2-4.16.png",
+    "tags": [
+      "bad",
+      "battlefield",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Battlefield-Bad-Company-2-4.32.png",
+    "tags": [
+      "bad",
+      "battlefield",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Borderlands-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Borderlands-2.16.png",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Borderlands-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Borderlands-2.32.png",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Borderlands-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Borderlands-4.16.png",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Borderlands-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Borderlands-4.32.png",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-2.16.png",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-2.32.png",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-5.16.png",
+    "tags": [
+      "duty",
+      "call",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-5.32.png",
+    "tags": [
+      "duty",
+      "call",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-7.16.png",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "warfare",
+      "contact"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-7.32.png",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "warfare",
+      "contact"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-8.16.png",
+    "tags": [
+      "call",
+      "warfare",
+      "duty",
+      "contact",
+      "modern"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Call-of-Duty-Modern-Warfare-2-8.32.png",
+    "tags": [
+      "call",
+      "warfare",
+      "duty",
+      "contact",
+      "modern"
+    ]
+  },
+  {
+    "name": "Champions-Online-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-2.16.png",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-2.32.png",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-4.16.png",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-4.32.png",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-6.16.png",
+    "tags": [
+      "champions",
+      "online",
+      "connected"
+    ]
+  },
+  {
+    "name": "Champions-Online-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-6.32.png",
+    "tags": [
+      "champions",
+      "online",
+      "connected"
+    ]
+  },
+  {
+    "name": "Champions-Online-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-8.16.png",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Champions-Online-8.32.png",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Dawn-of-Magic-2-2.16.png",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Dawn-of-Magic-2-2.32.png",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Dawn-of-Magic-2-4.16.png",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Dawn-of-Magic-2-4.32.png",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Deer-Hunter-Tournament-2.16.png",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Deer-Hunter-Tournament-2.32.png",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Deer-Hunter-Tournament-4.16.png",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Deer-Hunter-Tournament-4.32.png",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Ghost-Pirates-of-Vooju-Island-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Ghost-Pirates-of-Vooju-Island-2.16.png",
+    "tags": [
+      "ghost",
+      "pirate",
+      "pirates",
+      "vooju",
+      "island"
+    ]
+  },
+  {
+    "name": "Ghost-Pirates-of-Vooju-Island-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Ghost-Pirates-of-Vooju-Island-2.32.png",
+    "tags": [
+      "ghost",
+      "pirate",
+      "pirates",
+      "vooju",
+      "island"
+    ]
+  },
+  {
+    "name": "God-of-War-III-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/God-of-War-III-2.16.png",
+    "tags": [
+      "god",
+      "war"
+    ]
+  },
+  {
+    "name": "God-of-War-III-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/God-of-War-III-2.32.png",
+    "tags": [
+      "god",
+      "war"
+    ]
+  },
+  {
+    "name": "Manhunt-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Manhunt-2.16.png",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Manhunt-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Manhunt-2.32.png",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Manhunt-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Manhunt-4.16.png",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Manhunt-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Manhunt-4.32.png",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Monster-Trucks-Nitro-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Monster-Trucks-Nitro-2.16.png",
+    "tags": [
+      "truck",
+      "monster",
+      "lorry",
+      "trucks",
+      "van",
+      "nitro",
+      "transport"
+    ]
+  },
+  {
+    "name": "Monster-Trucks-Nitro-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Monster-Trucks-Nitro-2.32.png",
+    "tags": [
+      "truck",
+      "monster",
+      "lorry",
+      "trucks",
+      "van",
+      "nitro",
+      "transport"
+    ]
+  },
+  {
+    "name": "Navy-Field-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Navy-Field-2.16.png",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Navy-Field-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Navy-Field-2.32.png",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Navy-Field-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Navy-Field-4.16.png",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Navy-Field-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Navy-Field-4.32.png",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-3.16.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-3.32.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-4.16.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-4.32.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-5.16.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-5.32.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-7.16.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-7.32.png",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-8.16.png",
+    "tags": [
+      "need",
+      "shift",
+      "speed"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Need-for-Speed-Shift-8.32.png",
+    "tags": [
+      "need",
+      "shift",
+      "speed"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-3.16.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-3.32.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-4.16.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-4.32.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-6.16.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-6.32.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-8.16.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Operation-Flaschpoint-2-Dragon-Rising-8.32.png",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Raven-Squad-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Raven-Squad-2.16.png",
+    "tags": [
+      "raven",
+      "squad"
+    ]
+  },
+  {
+    "name": "Raven-Squad-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Raven-Squad-2.32.png",
+    "tags": [
+      "raven",
+      "squad"
+    ]
+  },
+  {
+    "name": "Red-Faction-Guerrilla-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Red-Faction-Guerrilla-4.16.png",
+    "tags": [
+      "red",
+      "faction",
+      "guerrilla"
+    ]
+  },
+  {
+    "name": "Red-Faction-Guerrilla-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Red-Faction-Guerrilla-4.32.png",
+    "tags": [
+      "red",
+      "faction",
+      "guerrilla"
+    ]
+  },
+  {
+    "name": "Stalker-Call-of-Pripyat-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Stalker-Call-of-Pripyat-2.16.png",
+    "tags": [
+      "stalker",
+      "call",
+      "pripyat",
+      "contact"
+    ]
+  },
+  {
+    "name": "Stalker-Call-of-Pripyat-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Stalker-Call-of-Pripyat-2.32.png",
+    "tags": [
+      "stalker",
+      "call",
+      "pripyat",
+      "contact"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-3.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-3.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-5.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-5.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-6.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-6.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-9.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-9.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-9.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-Republic-Commando-9.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-10.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-10.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-10.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-10.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-12.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-12.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-12.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-12.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-14.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-14.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-14.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-14.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-2.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed",
+      "animal"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-2.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed",
+      "animal"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-4.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-4.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-6.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-6.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-8.16.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Star-Wars-The-Force-Unleashed-8.32.png",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-2.16.png",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-2.32.png",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-4.16.png",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-4.32.png",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-6.16.png",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-6.32.png",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-8.16.png",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Sudden-Attack-8.32.png",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tales-of-Monkey-Island-2.16.png",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tales-of-Monkey-Island-2.32.png",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tales-of-Monkey-Island-3.16.png",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tales-of-Monkey-Island-3.32.png",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tony-Hawk-s-American-Wasteland-2.16.png",
+    "tags": [
+      "tony",
+      "hawk",
+      "american",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tony-Hawk-s-American-Wasteland-2.32.png",
+    "tags": [
+      "tony",
+      "hawk",
+      "american",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-3.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tony-Hawk-s-American-Wasteland-3.16.png",
+    "tags": [
+      "tony",
+      "american",
+      "hawk",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-3.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tony-Hawk-s-American-Wasteland-3.32.png",
+    "tags": [
+      "tony",
+      "american",
+      "hawk",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Trine-11.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Trine-11.16.png",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Trine-11.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Trine-11.32.png",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Trine-12.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Trine-12.16.png",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Trine-12.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Trine-12.32.png",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Tron-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tron-2.16.png",
+    "tags": [
+      "tron"
+    ]
+  },
+  {
+    "name": "Tron-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Tron-2.32.png",
+    "tags": [
+      "tron"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Warcraft-3-Reign-of-Chaos-DotA-6.16.png",
+    "tags": [
+      "warcraft",
+      "reign",
+      "chaos",
+      "dota"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Warcraft-3-Reign-of-Chaos-DotA-6.32.png",
+    "tags": [
+      "warcraft",
+      "reign",
+      "chaos",
+      "dota"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Warcraft-3-Reign-of-Chaos-DotA-7.16.png",
+    "tags": [
+      "dota",
+      "warcraft",
+      "reign",
+      "chaos"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Warcraft-3-Reign-of-Chaos-DotA-7.32.png",
+    "tags": [
+      "dota",
+      "warcraft",
+      "reign",
+      "chaos"
+    ]
+  },
+  {
+    "name": "Wet-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-2.16.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-2.32.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-4.16.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-4.32.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-6.16.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-6.32.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-8.16.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wet-8.32.png",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wolfenstein-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wolfenstein-5.16.png",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "Wolfenstein-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wolfenstein-5.32.png",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "Wolfenstein-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wolfenstein-6.16.png",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "Wolfenstein-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Wolfenstein-6.32.png",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "World-Racing-2-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/World-Racing-2-2.16.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "racing",
+      "internet",
+      "nature",
+      "network",
+      "sport"
+    ]
+  },
+  {
+    "name": "World-Racing-2-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/World-Racing-2-2.32.png",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "racing",
+      "internet",
+      "nature",
+      "network",
+      "sport"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Worms-ArmageddonI-2.16.png",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Worms-ArmageddonI-2.32.png",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-4.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Worms-ArmageddonI-4.16.png",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-4.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Worms-ArmageddonI-4.32.png",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Worms-ArmageddonI-6.16.png",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/Worms-ArmageddonI-6.32.png",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-5.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-5.16.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-5.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-5.32.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-6.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-6.16.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-6.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-6.32.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-7.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-7.16.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-7.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-7.32.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-8.16.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-8.16.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-8.32.png",
+    "format": "Favicon",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Favicon/rFactor-Formula-1-8.32.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Assassin-s-Creed-II-4.icns",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Assassin-s-Creed-II-5.icns",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Assassin-s-Creed-II-6.icns",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Assassin-s-Creed-II-8.icns",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Avatar-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Avatar-2.icns",
+    "tags": [
+      "avatar"
+    ]
+  },
+  {
+    "name": "Batman-Arkam-Asylum-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Batman-Arkam-Asylum-7.icns",
+    "tags": [
+      "batman",
+      "arkam",
+      "asylum"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Battlefield-Bad-Company-2-2.icns",
+    "tags": [
+      "battlefield",
+      "bad",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Battlefield-Bad-Company-2-4.icns",
+    "tags": [
+      "bad",
+      "battlefield",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Borderlands-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Borderlands-2.icns",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Borderlands-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Borderlands-4.icns",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Call-of-Duty-Modern-Warfare-2-2.icns",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Call-of-Duty-Modern-Warfare-2-5.icns",
+    "tags": [
+      "duty",
+      "call",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Call-of-Duty-Modern-Warfare-2-7.icns",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "warfare",
+      "contact"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Call-of-Duty-Modern-Warfare-2-8.icns",
+    "tags": [
+      "call",
+      "warfare",
+      "duty",
+      "contact",
+      "modern"
+    ]
+  },
+  {
+    "name": "Champions-Online-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Champions-Online-2.icns",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Champions-Online-4.icns",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Champions-Online-6.icns",
+    "tags": [
+      "champions",
+      "online",
+      "connected"
+    ]
+  },
+  {
+    "name": "Champions-Online-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Champions-Online-8.icns",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Dawn-of-Magic-2-2.icns",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Dawn-of-Magic-2-4.icns",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Deer-Hunter-Tournament-2.icns",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Deer-Hunter-Tournament-4.icns",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Ghost-Pirates-of-Vooju-Island-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Ghost-Pirates-of-Vooju-Island-2.icns",
+    "tags": [
+      "ghost",
+      "pirate",
+      "pirates",
+      "vooju",
+      "island"
+    ]
+  },
+  {
+    "name": "God-of-War-III-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/God-of-War-III-2.icns",
+    "tags": [
+      "god",
+      "war"
+    ]
+  },
+  {
+    "name": "Manhunt-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Manhunt-2.icns",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Manhunt-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Manhunt-4.icns",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Monster-Trucks-Nitro-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Monster-Trucks-Nitro-2.icns",
+    "tags": [
+      "truck",
+      "monster",
+      "lorry",
+      "trucks",
+      "van",
+      "nitro",
+      "transport"
+    ]
+  },
+  {
+    "name": "Navy-Field-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Navy-Field-2.icns",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Navy-Field-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Navy-Field-4.icns",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Need-for-Speed-Shift-3.icns",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Need-for-Speed-Shift-4.icns",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Need-for-Speed-Shift-5.icns",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Need-for-Speed-Shift-7.icns",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Need-for-Speed-Shift-8.icns",
+    "tags": [
+      "need",
+      "shift",
+      "speed"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Operation-Flaschpoint-2-Dragon-Rising-3.icns",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Operation-Flaschpoint-2-Dragon-Rising-4.icns",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Operation-Flaschpoint-2-Dragon-Rising-6.icns",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Operation-Flaschpoint-2-Dragon-Rising-8.icns",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Raven-Squad-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Raven-Squad-2.icns",
+    "tags": [
+      "raven",
+      "squad"
+    ]
+  },
+  {
+    "name": "Red-Faction-Guerrilla-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Red-Faction-Guerrilla-4.icns",
+    "tags": [
+      "red",
+      "faction",
+      "guerrilla"
+    ]
+  },
+  {
+    "name": "Stalker-Call-of-Pripyat-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Stalker-Call-of-Pripyat-2.icns",
+    "tags": [
+      "stalker",
+      "call",
+      "pripyat",
+      "contact"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-Republic-Commando-3.icns",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-Republic-Commando-5.icns",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-Republic-Commando-6.icns",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-9.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-Republic-Commando-9.icns",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-10.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-10.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-12.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-12.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-14.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-14.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-2.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed",
+      "animal"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-4.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-6.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Star-Wars-The-Force-Unleashed-8.icns",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Sudden-Attack-2.icns",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Sudden-Attack-4.icns",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Sudden-Attack-6.icns",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Sudden-Attack-8.icns",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Tales-of-Monkey-Island-2.icns",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Tales-of-Monkey-Island-3.icns",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Tony-Hawk-s-American-Wasteland-2.icns",
+    "tags": [
+      "tony",
+      "hawk",
+      "american",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-3.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Tony-Hawk-s-American-Wasteland-3.icns",
+    "tags": [
+      "tony",
+      "american",
+      "hawk",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Trine-11.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Trine-11.icns",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Trine-12.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Trine-12.icns",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Tron-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Tron-2.icns",
+    "tags": [
+      "tron"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Warcraft-3-Reign-of-Chaos-DotA-6.icns",
+    "tags": [
+      "warcraft",
+      "reign",
+      "chaos",
+      "dota"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Warcraft-3-Reign-of-Chaos-DotA-7.icns",
+    "tags": [
+      "dota",
+      "warcraft",
+      "reign",
+      "chaos"
+    ]
+  },
+  {
+    "name": "Wet-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Wet-2.icns",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Wet-4.icns",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Wet-6.icns",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Wet-8.icns",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wolfenstein-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Wolfenstein-5.icns",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "Wolfenstein-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Wolfenstein-6.icns",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "World-Racing-2-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/World-Racing-2-2.icns",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "racing",
+      "internet",
+      "nature",
+      "network",
+      "sport"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-2.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Worms-ArmageddonI-2.icns",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-4.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Worms-ArmageddonI-4.icns",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/Worms-ArmageddonI-6.icns",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-5.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/rFactor-Formula-1-5.icns",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-6.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/rFactor-Formula-1-6.icns",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-7.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/rFactor-Formula-1-7.icns",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-8.icns",
+    "format": "Mac",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Mac/rFactor-Formula-1-8.icns",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
     "name": "Assassin-s-Creed-II-4.128.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/PNG/Assassin-s-Creed-II-4.128.png",
@@ -3146,6 +5510,794 @@
     "name": "rFactor-Formula-1-8.64.png",
     "format": "PNG",
     "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/PNG/rFactor-Formula-1-8.64.png",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Assassin-s-Creed-II-4.ico",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Assassin-s-Creed-II-5.ico",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Assassin-s-Creed-II-6.ico",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Assassin-s-Creed-II-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Assassin-s-Creed-II-8.ico",
+    "tags": [
+      "assassin",
+      "creed"
+    ]
+  },
+  {
+    "name": "Avatar-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Avatar-2.ico",
+    "tags": [
+      "avatar"
+    ]
+  },
+  {
+    "name": "Batman-Arkam-Asylum-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Batman-Arkam-Asylum-7.ico",
+    "tags": [
+      "batman",
+      "arkam",
+      "asylum"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Battlefield-Bad-Company-2-2.ico",
+    "tags": [
+      "battlefield",
+      "bad",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Battlefield-Bad-Company-2-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Battlefield-Bad-Company-2-4.ico",
+    "tags": [
+      "bad",
+      "battlefield",
+      "company",
+      "building"
+    ]
+  },
+  {
+    "name": "Borderlands-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Borderlands-2.ico",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Borderlands-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Borderlands-4.ico",
+    "tags": [
+      "borderlands"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Call-of-Duty-Modern-Warfare-2-2.ico",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Call-of-Duty-Modern-Warfare-2-5.ico",
+    "tags": [
+      "duty",
+      "call",
+      "modern",
+      "contact",
+      "warfare"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Call-of-Duty-Modern-Warfare-2-7.ico",
+    "tags": [
+      "call",
+      "duty",
+      "modern",
+      "warfare",
+      "contact"
+    ]
+  },
+  {
+    "name": "Call-of-Duty-Modern-Warfare-2-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Call-of-Duty-Modern-Warfare-2-8.ico",
+    "tags": [
+      "call",
+      "warfare",
+      "duty",
+      "contact",
+      "modern"
+    ]
+  },
+  {
+    "name": "Champions-Online-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Champions-Online-2.ico",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Champions-Online-4.ico",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Champions-Online-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Champions-Online-6.ico",
+    "tags": [
+      "champions",
+      "online",
+      "connected"
+    ]
+  },
+  {
+    "name": "Champions-Online-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Champions-Online-8.ico",
+    "tags": [
+      "champions",
+      "connected",
+      "online"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Dawn-of-Magic-2-2.ico",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Dawn-of-Magic-2-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Dawn-of-Magic-2-4.ico",
+    "tags": [
+      "dawn",
+      "magic"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Deer-Hunter-Tournament-2.ico",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Deer-Hunter-Tournament-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Deer-Hunter-Tournament-4.ico",
+    "tags": [
+      "deer",
+      "hunter",
+      "tournament"
+    ]
+  },
+  {
+    "name": "Ghost-Pirates-of-Vooju-Island-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Ghost-Pirates-of-Vooju-Island-2.ico",
+    "tags": [
+      "ghost",
+      "pirate",
+      "pirates",
+      "vooju",
+      "island"
+    ]
+  },
+  {
+    "name": "God-of-War-III-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/God-of-War-III-2.ico",
+    "tags": [
+      "god",
+      "war"
+    ]
+  },
+  {
+    "name": "Manhunt-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Manhunt-2.ico",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Manhunt-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Manhunt-4.ico",
+    "tags": [
+      "manhunt"
+    ]
+  },
+  {
+    "name": "Monster-Trucks-Nitro-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Monster-Trucks-Nitro-2.ico",
+    "tags": [
+      "truck",
+      "monster",
+      "lorry",
+      "trucks",
+      "van",
+      "nitro",
+      "transport"
+    ]
+  },
+  {
+    "name": "Navy-Field-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Navy-Field-2.ico",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Navy-Field-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Navy-Field-4.ico",
+    "tags": [
+      "navy",
+      "field"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Need-for-Speed-Shift-3.ico",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Need-for-Speed-Shift-4.ico",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Need-for-Speed-Shift-5.ico",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Need-for-Speed-Shift-7.ico",
+    "tags": [
+      "need",
+      "speed",
+      "shift"
+    ]
+  },
+  {
+    "name": "Need-for-Speed-Shift-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Need-for-Speed-Shift-8.ico",
+    "tags": [
+      "need",
+      "shift",
+      "speed"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Operation-Flaschpoint-2-Dragon-Rising-3.ico",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Operation-Flaschpoint-2-Dragon-Rising-4.ico",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Operation-Flaschpoint-2-Dragon-Rising-6.ico",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Operation-Flaschpoint-2-Dragon-Rising-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Operation-Flaschpoint-2-Dragon-Rising-8.ico",
+    "tags": [
+      "operation",
+      "flaschpoint",
+      "dragon",
+      "rising",
+      "animal"
+    ]
+  },
+  {
+    "name": "Raven-Squad-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Raven-Squad-2.ico",
+    "tags": [
+      "raven",
+      "squad"
+    ]
+  },
+  {
+    "name": "Red-Faction-Guerrilla-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Red-Faction-Guerrilla-4.ico",
+    "tags": [
+      "red",
+      "faction",
+      "guerrilla"
+    ]
+  },
+  {
+    "name": "Stalker-Call-of-Pripyat-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Stalker-Call-of-Pripyat-2.ico",
+    "tags": [
+      "stalker",
+      "call",
+      "pripyat",
+      "contact"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-Republic-Commando-3.ico",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-Republic-Commando-5.ico",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-Republic-Commando-6.ico",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-Republic-Commando-9.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-Republic-Commando-9.ico",
+    "tags": [
+      "star",
+      "wars",
+      "republic",
+      "commando"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-10.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-10.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-12.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-12.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-14.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-14.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-2.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed",
+      "animal"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-4.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-6.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Star-Wars-The-Force-Unleashed-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Star-Wars-The-Force-Unleashed-8.ico",
+    "tags": [
+      "star",
+      "wars",
+      "force",
+      "unleashed"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Sudden-Attack-2.ico",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Sudden-Attack-4.ico",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Sudden-Attack-6.ico",
+    "tags": [
+      "attack",
+      "sudden"
+    ]
+  },
+  {
+    "name": "Sudden-Attack-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Sudden-Attack-8.ico",
+    "tags": [
+      "sudden",
+      "attack"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Tales-of-Monkey-Island-2.ico",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tales-of-Monkey-Island-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Tales-of-Monkey-Island-3.ico",
+    "tags": [
+      "tales",
+      "monkey",
+      "island"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Tony-Hawk-s-American-Wasteland-2.ico",
+    "tags": [
+      "tony",
+      "hawk",
+      "american",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Tony-Hawk-s-American-Wasteland-3.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Tony-Hawk-s-American-Wasteland-3.ico",
+    "tags": [
+      "tony",
+      "american",
+      "hawk",
+      "wasteland"
+    ]
+  },
+  {
+    "name": "Trine-11.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Trine-11.ico",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Trine-12.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Trine-12.ico",
+    "tags": [
+      "trine"
+    ]
+  },
+  {
+    "name": "Tron-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Tron-2.ico",
+    "tags": [
+      "tron"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Warcraft-3-Reign-of-Chaos-DotA-6.ico",
+    "tags": [
+      "warcraft",
+      "reign",
+      "chaos",
+      "dota"
+    ]
+  },
+  {
+    "name": "Warcraft-3-Reign-of-Chaos-DotA-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Warcraft-3-Reign-of-Chaos-DotA-7.ico",
+    "tags": [
+      "dota",
+      "warcraft",
+      "reign",
+      "chaos"
+    ]
+  },
+  {
+    "name": "Wet-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Wet-2.ico",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Wet-4.ico",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Wet-6.ico",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wet-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Wet-8.ico",
+    "tags": [
+      "wet"
+    ]
+  },
+  {
+    "name": "Wolfenstein-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Wolfenstein-5.ico",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "Wolfenstein-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Wolfenstein-6.ico",
+    "tags": [
+      "wolfenstein"
+    ]
+  },
+  {
+    "name": "World-Racing-2-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/World-Racing-2-2.ico",
+    "tags": [
+      "earth",
+      "globe",
+      "world",
+      "hosting",
+      "racing",
+      "internet",
+      "nature",
+      "network",
+      "sport"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-2.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Worms-ArmageddonI-2.ico",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-4.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Worms-ArmageddonI-4.ico",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "Worms-ArmageddonI-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/Worms-ArmageddonI-6.ico",
+    "tags": [
+      "worms",
+      "armageddoni"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-5.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/rFactor-Formula-1-5.ico",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-6.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/rFactor-Formula-1-6.ico",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-7.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/rFactor-Formula-1-7.ico",
+    "tags": [
+      "rfactor",
+      "formula"
+    ]
+  },
+  {
+    "name": "rFactor-Formula-1-8.ico",
+    "format": "Windows",
+    "path": "Designer/3xhumed/Mega-Games-Pack-33-Icons/Windows/rFactor-Formula-1-8.ico",
     "tags": [
       "rfactor",
       "formula"

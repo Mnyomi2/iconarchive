@@ -1,0 +1,38 @@
+{
+  "trash-empty": [
+    "recycled",
+    "recyclebin",
+    "trash",
+    "garbage",
+    "recycle",
+    "bin",
+    "empty",
+    "erase"
+  ],
+  "my-documents": [
+    "document",
+    "doc",
+    "documents",
+    "file",
+    "paper"
+  ],
+  "trash-full": [
+    "trash",
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "full"
+  ],
+  "mail": [
+    "email",
+    "mail",
+    "contact"
+  ],
+  "home": [
+    "home",
+    "house",
+    "building"
+  ]
+}

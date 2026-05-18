@@ -1,0 +1,55 @@
+{
+  "Publisher": [
+    "publisher"
+  ],
+  "Project": [
+    "project"
+  ],
+  "Excel": [
+    "excel",
+    "office",
+    "microsoft"
+  ],
+  "Office": [
+    "office",
+    "microsoft"
+  ],
+  "Access": [
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "infoPath": [
+    "infopath"
+  ],
+  "Outlook": [
+    "outlook",
+    "microsoft",
+    "office"
+  ],
+  "PowerPoint": [
+    "powerpoint",
+    "office",
+    "microsoft"
+  ],
+  "Lync": [
+    "lync"
+  ],
+  "OneNote": [
+    "onenote"
+  ],
+  "Word": [
+    "word",
+    "microsoft",
+    "office"
+  ],
+  "Visio": [
+    "visio"
+  ]
+}

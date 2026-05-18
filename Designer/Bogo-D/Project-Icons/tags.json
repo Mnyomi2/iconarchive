@@ -1,0 +1,1243 @@
+{
+  "Envelope-Airmail": [
+    "envelope",
+    "airmail",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "UI-Inspector": [
+    "inspector"
+  ],
+  "Battery-Display-Low": [
+    "battery",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "low",
+    "power",
+    "control",
+    "hardware"
+  ],
+  "OS-Windows-7": [
+    "windows",
+    "os"
+  ],
+  "Suit": [
+    "suit"
+  ],
+  "Twitter-Mention": [
+    "twitter",
+    "mention",
+    "social",
+    "logo"
+  ],
+  "Camera": [
+    "cam",
+    "camera",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "Plant": [
+    "plant"
+  ],
+  "Hard-Disk-Installation": [
+    "hard",
+    "disc",
+    "disk",
+    "installation"
+  ],
+  "Sign-Post": [
+    "sign",
+    "post"
+  ],
+  "Decoration": [
+    "decoration"
+  ],
+  "Filetype-Blueprint": [
+    "filetype",
+    "blueprint"
+  ],
+  "Note-Yellow": [
+    "note",
+    "yellow"
+  ],
+  "Shield-Swords": [
+    "shield",
+    "swords"
+  ],
+  "Decoration-Branch": [
+    "branch",
+    "decoration"
+  ],
+  "Pencil-and-Ruler": [
+    "edit",
+    "pencil",
+    "update",
+    "ruler"
+  ],
+  "Notification": [
+    "notification"
+  ],
+  "Traffic-Link": [
+    "traffic",
+    "hyperlink",
+    "link"
+  ],
+  "Instant-Messaging": [
+    "instant",
+    "messaging"
+  ],
+  "Chalkboard": [
+    "chalkboard"
+  ],
+  "Panel": [
+    "panel"
+  ],
+  "Twitter": [
+    "twitter",
+    "social",
+    "logo"
+  ],
+  "Trash-Empty": [
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "empty",
+    "erase"
+  ],
+  "Dashboard": [
+    "dashboard"
+  ],
+  "Folder-Classic-Blue": [
+    "folder",
+    "classic",
+    "blue"
+  ],
+  "Top-Hat": [
+    "top",
+    "hat"
+  ],
+  "Mug": [
+    "mug"
+  ],
+  "Calendar-Day-View": [
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "day",
+    "view"
+  ],
+  "Presentation": [
+    "presentation"
+  ],
+  "Monitor-Wallpaper": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "wallpaper",
+    "control",
+    "hardware"
+  ],
+  "Panel-Inspector": [
+    "panel",
+    "inspector"
+  ],
+  "Clipboard-Empty": [
+    "clipboard",
+    "empty",
+    "erase"
+  ],
+  "Filetype-Video": [
+    "filetype",
+    "film",
+    "movie",
+    "video"
+  ],
+  "Christmas-Tree": [
+    "christmas",
+    "xmas",
+    "tree"
+  ],
+  "Bell": [
+    "bell"
+  ],
+  "Website-Alias": [
+    "website",
+    "alias"
+  ],
+  "Time-Machine": [
+    "time",
+    "machine"
+  ],
+  "Dictionary": [
+    "dictionary"
+  ],
+  "Shopping-Bag-Paperboard": [
+    "basket",
+    "buy",
+    "cart",
+    "shop",
+    "shopping",
+    "shoppingcart",
+    "bag",
+    "building",
+    "paperboard"
+  ],
+  "Monitor": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Top-Hat-Magic-Wand": [
+    "top",
+    "hat",
+    "magic",
+    "wand"
+  ],
+  "Chalkboard-Empty": [
+    "chalkboard",
+    "empty",
+    "erase"
+  ],
+  "Filetype-RSS": [
+    "filetype",
+    "rss",
+    "social",
+    "logo"
+  ],
+  "Bookshelf-Empty": [
+    "bookshelf",
+    "empty",
+    "erase"
+  ],
+  "Folder-Blue": [
+    "folder",
+    "blue"
+  ],
+  "Chest-of-Drawers": [
+    "chest",
+    "drawers"
+  ],
+  "Door": [
+    "door",
+    "logout"
+  ],
+  "Calendar-Month-View": [
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "month",
+    "view"
+  ],
+  "Download": [
+    "down",
+    "decrease",
+    "download",
+    "arrow"
+  ],
+  "Wand-Magic": [
+    "wand",
+    "magic"
+  ],
+  "Disk-Removable": [
+    "disc",
+    "disk",
+    "removable"
+  ],
+  "Clipboard": [
+    "clipboard",
+    "date",
+    "event",
+    "organizer"
+  ],
+  "Battery-Display-Charging": [
+    "battery",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "charging",
+    "power",
+    "control",
+    "hardware"
+  ],
+  "Top-Hat-Magic": [
+    "top",
+    "hat",
+    "magic"
+  ],
+  "Clapperboard": [
+    "clapperboard"
+  ],
+  "Shield": [
+    "shield"
+  ],
+  "Traffic-No-Entry": [
+    "traffic",
+    "entry",
+    "no"
+  ],
+  "iCal": [
+    "ical"
+  ],
+  "Download-Turbo-Speed": [
+    "decrease",
+    "down",
+    "download",
+    "turbo",
+    "speed",
+    "arrow"
+  ],
+  "OS-Windows-Vista": [
+    "windows",
+    "vista",
+    "os"
+  ],
+  "Spinning-Beach-Ball": [
+    "spinning",
+    "beach",
+    "ball",
+    "sport"
+  ],
+  "Shopping-Bag-Price-Tag": [
+    "basket",
+    "buy",
+    "cart",
+    "shop",
+    "shopping",
+    "shoppingcart",
+    "bag",
+    "price",
+    "building",
+    "tag"
+  ],
+  "Alert": [
+    "alarm",
+    "alert"
+  ],
+  "Door-Chat-Room": [
+    "door",
+    "logout",
+    "chat",
+    "messenger",
+    "room",
+    "social",
+    "contact",
+    "logo"
+  ],
+  "Panel-Find": [
+    "panel",
+    "find",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "Gift-Box": [
+    "gift",
+    "present",
+    "box",
+    "birthday",
+    "christmas",
+    "xmas"
+  ],
+  "Disk-Time-Machine": [
+    "disc",
+    "disk",
+    "time",
+    "machine"
+  ],
+  "iPhone-Application": [
+    "iphone",
+    "smartphone",
+    "app",
+    "application",
+    "call",
+    "software",
+    "contact"
+  ],
+  "Design-Blueprint": [
+    "design",
+    "blueprint"
+  ],
+  "Jewel-Case-CD": [
+    "jewel",
+    "case",
+    "cd",
+    "bag",
+    "disc",
+    "disk"
+  ],
+  "Trash": [
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash"
+  ],
+  "Newspaper": [
+    "newspaper",
+    "news"
+  ],
+  "Burn": [
+    "burn"
+  ],
+  "Safe": [
+    "safe"
+  ],
+  "Chest-of-Drawers-Open": [
+    "chest",
+    "drawers",
+    "open"
+  ],
+  "UI-Movie": [
+    "film",
+    "movie",
+    "video"
+  ],
+  "Design": [
+    "design"
+  ],
+  "Bookshelf": [
+    "bookshelf"
+  ],
+  "Clapperboard-Closed": [
+    "clapperboard",
+    "closed"
+  ],
+  "Top-Hat-Wand": [
+    "top",
+    "hat",
+    "wand"
+  ],
+  "Musical-Note": [
+    "musical",
+    "note"
+  ],
+  "E-Mail": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "Christmas-Tree-Undecorated": [
+    "christmas",
+    "xmas",
+    "tree",
+    "undecorated"
+  ],
+  "Photo-Polaroid": [
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "polaroid"
+  ],
+  "Glass-Water-Ice": [
+    "glass",
+    "water",
+    "ice"
+  ],
+  "Key-Windows": [
+    "key",
+    "opener",
+    "windows",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock",
+    "os"
+  ],
+  "Glass-Water": [
+    "glass",
+    "water"
+  ],
+  "UI-List-Window": [
+    "list",
+    "window"
+  ],
+  "Battery-Display": [
+    "battery",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "power",
+    "control",
+    "hardware"
+  ],
+  "Newsreader": [
+    "newsreader"
+  ],
+  "iPhone": [
+    "iphone",
+    "smartphone",
+    "call",
+    "contact"
+  ],
+  "Error": [
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate"
+  ],
+  "Lock": [
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "Safe-Open": [
+    "safe",
+    "open"
+  ],
+  "Wall-Clock": [
+    "wall",
+    "clock",
+    "timer"
+  ],
+  "Ruler": [
+    "ruler"
+  ],
+  "Pen": [
+    "pen"
+  ],
+  "Shopping-Bag": [
+    "basket",
+    "buy",
+    "cart",
+    "shop",
+    "shopping",
+    "shoppingcart",
+    "bag",
+    "building"
+  ],
+  "Emoticon": [
+    "emoticon"
+  ],
+  "iPhone-Locked": [
+    "iphone",
+    "locked",
+    "smartphone",
+    "call",
+    "contact"
+  ],
+  "Note-White": [
+    "note",
+    "white"
+  ],
+  "Wand": [
+    "wand"
+  ],
+  "Color-Wheel": [
+    "color",
+    "colour",
+    "wheel"
+  ],
+  "School-Bell": [
+    "school",
+    "bell",
+    "education"
+  ],
+  "Filetype-Blueprint-Under-Construction": [
+    "filetype",
+    "blueprint",
+    "under",
+    "construction"
+  ],
+  "Folder-Classic-Yellow": [
+    "folder",
+    "classic",
+    "yellow"
+  ],
+  "Safe-Open-Money": [
+    "safe",
+    "open",
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "bank",
+    "business",
+    "finance"
+  ],
+  "Sign-Post-Alternate": [
+    "sign",
+    "post",
+    "alternate"
+  ],
+  "UI-Drawer": [
+    "drawer"
+  ],
+  "Project-Blueprints": [
+    "project",
+    "blueprints"
+  ],
+  "Box": [
+    "box"
+  ],
+  "Money-Glowing": [
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "glowing",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Aero-Window-List": [
+    "aero",
+    "window",
+    "list"
+  ],
+  "Battery": [
+    "battery",
+    "power"
+  ],
+  "Inkwell": [
+    "inkwell"
+  ],
+  "Monitor-Music-Video": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "audio",
+    "music",
+    "sound",
+    "film",
+    "movie",
+    "video",
+    "control",
+    "hardware"
+  ],
+  "Glass-Empty": [
+    "glass",
+    "empty",
+    "erase"
+  ],
+  "Delete": [
+    "cancel",
+    "close",
+    "cross",
+    "delete",
+    "error",
+    "exit",
+    "quit",
+    "terminate"
+  ],
+  "Contact-Card": [
+    "contact",
+    "card"
+  ],
+  "UI-Rulers": [
+    "ruler",
+    "rulers"
+  ],
+  "Twitter-Retweet": [
+    "twitter",
+    "retweet",
+    "social",
+    "logo"
+  ],
+  "Trees": [
+    "tree",
+    "trees"
+  ],
+  "Jewel-Case-Empty": [
+    "jewel",
+    "case",
+    "empty",
+    "erase",
+    "bag"
+  ],
+  "Filmstrip": [
+    "filmstrip"
+  ],
+  "Folder-Classic-Recycled": [
+    "folder",
+    "classic",
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash"
+  ],
+  "Preferences-Panel": [
+    "panel",
+    "preferences",
+    "prefs"
+  ],
+  "Address-Book": [
+    "address",
+    "addressbook",
+    "phonebook",
+    "book",
+    "contact"
+  ],
+  "Stopwatch-Off": [
+    "stopwatch",
+    "off"
+  ],
+  "Folder-Recycled": [
+    "folder",
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash"
+  ],
+  "Website-Download": [
+    "website",
+    "down",
+    "decrease",
+    "download",
+    "arrow"
+  ],
+  "Glass-Cola": [
+    "glass",
+    "cola"
+  ],
+  "Gear": [
+    "cog",
+    "cogwheel",
+    "gear",
+    "preferences",
+    "prefs"
+  ],
+  "Book-Bookmark": [
+    "book",
+    "bookmark",
+    "fav",
+    "favorite",
+    "favourite"
+  ],
+  "House": [
+    "house",
+    "home",
+    "building"
+  ],
+  "UI-Debug": [
+    "debug"
+  ],
+  "Trash-Full": [
+    "bin",
+    "garbage",
+    "recycle",
+    "recyclebin",
+    "recycled",
+    "trash",
+    "full"
+  ],
+  "Calendar-Blue": [
+    "blue",
+    "calendar",
+    "date",
+    "event",
+    "organizer"
+  ],
+  "Stoplight": [
+    "stoplight"
+  ],
+  "Chest-of-Drawers-Open-Files": [
+    "chest",
+    "drawers",
+    "doc",
+    "document",
+    "file",
+    "open",
+    "files",
+    "paper"
+  ],
+  "Mug-Empty": [
+    "mug",
+    "empty",
+    "erase"
+  ],
+  "iSight": [
+    "isight"
+  ],
+  "Money": [
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Magnifying-Glass": [
+    "find",
+    "glass",
+    "loupe",
+    "magnifier",
+    "magnify",
+    "magnifying",
+    "search",
+    "zoom",
+    "look"
+  ],
+  "RSS": [
+    "rss",
+    "social",
+    "logo"
+  ],
+  "Glass-Cola-Ice": [
+    "glass",
+    "cola",
+    "ice"
+  ],
+  "Filetype": [
+    "filetype"
+  ],
+  "Microphone-Classic": [
+    "classic",
+    "microphone"
+  ],
+  "Website-Link": [
+    "website",
+    "hyperlink",
+    "link"
+  ],
+  "UI-Text": [
+    "text"
+  ],
+  "Face-Book": [
+    "face",
+    "book"
+  ],
+  "Folder-Yellow": [
+    "folder",
+    "yellow"
+  ],
+  "Panel-Colors": [
+    "color",
+    "colour",
+    "panel",
+    "colors"
+  ],
+  "Emoticon-Sleep": [
+    "emoticon",
+    "sleep"
+  ],
+  "Disk-iDisk": [
+    "disc",
+    "disk",
+    "idisk"
+  ],
+  "Wall-Clock-Past": [
+    "wall",
+    "clock",
+    "timer",
+    "past"
+  ],
+  "Filetype-Under-Construction": [
+    "filetype",
+    "under",
+    "construction"
+  ],
+  "Clipboard-Text": [
+    "clipboard",
+    "text"
+  ],
+  "Chip": [
+    "chip"
+  ],
+  "Pie-Chart": [
+    "pie",
+    "chart",
+    "business"
+  ],
+  "Safe-Dark": [
+    "safe",
+    "dark"
+  ],
+  "UI-Movie-Window": [
+    "film",
+    "movie",
+    "video",
+    "window"
+  ],
+  "Photo": [
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "CD-Burn": [
+    "burn",
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "Project": [
+    "project"
+  ],
+  "Traffic-Yield": [
+    "traffic",
+    "yield"
+  ],
+  "Users": [
+    "customer",
+    "person",
+    "user",
+    "users",
+    "face"
+  ],
+  "Desktop": [
+    "desk",
+    "desktop"
+  ],
+  "Shopping-Bag-Black": [
+    "basket",
+    "buy",
+    "cart",
+    "shop",
+    "shopping",
+    "shoppingcart",
+    "bag",
+    "black",
+    "building"
+  ],
+  "UI-Sidebar": [
+    "sidebar"
+  ],
+  "Lock-Unlocked": [
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock",
+    "unlocked"
+  ],
+  "Status": [
+    "status"
+  ],
+  "Reception-Bell-Gold": [
+    "reception",
+    "bell",
+    "gold"
+  ],
+  "File": [
+    "doc",
+    "document",
+    "file",
+    "paper"
+  ],
+  "Battery-Display-Full": [
+    "battery",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "full",
+    "power",
+    "control",
+    "hardware"
+  ],
+  "Clapperboard-Blank": [
+    "blank",
+    "clapperboard"
+  ],
+  "Curtains": [
+    "curtains"
+  ],
+  "Pin": [
+    "pin"
+  ],
+  "OS-Mac-OS-X": [
+    "mac",
+    "computer",
+    "hardware"
+  ],
+  "Reception-Bell": [
+    "reception",
+    "bell"
+  ],
+  "Get-Info": [
+    "get",
+    "info",
+    "information"
+  ],
+  "Slide-Show": [
+    "slide",
+    "show"
+  ],
+  "Stopwatch-On": [
+    "stopwatch"
+  ],
+  "Newspaper-RSS": [
+    "newspaper",
+    "rss",
+    "news",
+    "social",
+    "logo"
+  ],
+  "Aero-Window-Explorer": [
+    "aero",
+    "window",
+    "explorer",
+    "microsoft"
+  ],
+  "Applications": [
+    "app",
+    "application",
+    "software",
+    "applications"
+  ],
+  "Clapperboard-Picture": [
+    "clapperboard",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "Safari": [
+    "safari",
+    "browser"
+  ],
+  "Library": [
+    "library"
+  ],
+  "Filetype-Script": [
+    "filetype",
+    "script"
+  ],
+  "Download-High-Speed": [
+    "decrease",
+    "down",
+    "download",
+    "high",
+    "speed",
+    "arrow"
+  ],
+  "CD": [
+    "cd",
+    "disc",
+    "disk"
+  ],
+  "UI-Finder": [
+    "finder"
+  ],
+  "User": [
+    "customer",
+    "person",
+    "user",
+    "face"
+  ],
+  "Disk-Hard-Disk": [
+    "disc",
+    "disk",
+    "hard"
+  ],
+  "Microphone": [
+    "microphone"
+  ],
+  "Wallet-Money": [
+    "wallet",
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Clipboard-Torn": [
+    "clipboard",
+    "torn"
+  ],
+  "Website": [
+    "website"
+  ],
+  "Wallet": [
+    "wallet",
+    "cash",
+    "coins",
+    "dollar",
+    "money",
+    "bank",
+    "finance",
+    "business"
+  ],
+  "Traffic-Stop": [
+    "traffic",
+    "stop"
+  ],
+  "Envelope": [
+    "envelope",
+    "email",
+    "mail",
+    "contact"
+  ],
+  "Book": [
+    "book"
+  ],
+  "Clipboard-Fold": [
+    "clipboard",
+    "fold"
+  ],
+  "RAM": [
+    "ram"
+  ],
+  "Digsby": [
+    "digsby"
+  ],
+  "Key-Command": [
+    "opener",
+    "key",
+    "command",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "Filetype-RSS-Orange": [
+    "filetype",
+    "rss",
+    "orange",
+    "social",
+    "logo"
+  ],
+  "UI-Window": [
+    "window"
+  ],
+  "Wall-Clock-Time-Machine": [
+    "wall",
+    "clock",
+    "timer",
+    "time",
+    "machine"
+  ],
+  "Box-This-Side-Up": [
+    "box",
+    "this",
+    "side",
+    "increase",
+    "up",
+    "upload",
+    "arrow"
+  ],
+  "UI-Appearance": [
+    "appearance"
+  ],
+  "Film-Roll": [
+    "film",
+    "movie",
+    "video",
+    "roll",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "Pencil": [
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "Monitor-Film": [
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "film",
+    "movie",
+    "video",
+    "control",
+    "hardware"
+  ],
+  "Christmas-Tree-Lit": [
+    "christmas",
+    "xmas",
+    "tree",
+    "lit"
+  ],
+  "Jewel-Case-Cover": [
+    "jewel",
+    "case",
+    "cover",
+    "bag"
+  ],
+  "Traffic-Warning": [
+    "traffic",
+    "warning"
+  ],
+  "Gift-Box-Blue": [
+    "gift",
+    "box",
+    "blue",
+    "birthday",
+    "christmas",
+    "xmas",
+    "present",
+    "ribbon"
+  ]
+}

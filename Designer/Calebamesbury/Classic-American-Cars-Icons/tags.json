@@ -1,0 +1,37 @@
+{
+  "Car-Chevrolet-Corvette-Cabriolet": [
+    "chevrolet",
+    "corvette",
+    "car",
+    "auto",
+    "vehicle",
+    "transport",
+    "cabriolet"
+  ],
+  "Muscle-Car-Chevrolet-Camaro-SS": [
+    "auto",
+    "car",
+    "muscle",
+    "chevrolet",
+    "vehicle",
+    "transport",
+    "camaro"
+  ],
+  "Muscle-Car-Pontiac-GTO": [
+    "auto",
+    "car",
+    "muscle",
+    "pontiac",
+    "vehicle",
+    "gto",
+    "transport"
+  ],
+  "Muscle-Car-Mustang-GT": [
+    "auto",
+    "muscle",
+    "car",
+    "vehicle",
+    "mustang",
+    "transport"
+  ]
+}

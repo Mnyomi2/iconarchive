@@ -1,5 +1,309 @@
 [
   {
+    "name": "box.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/box.16.png",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "box.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/box.24.png",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "box.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/box.32.png",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "contact-us.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/contact-us.16.png",
+    "tags": [
+      "contact"
+    ]
+  },
+  {
+    "name": "contact-us.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/contact-us.24.png",
+    "tags": [
+      "contact"
+    ]
+  },
+  {
+    "name": "contact-us.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/contact-us.32.png",
+    "tags": [
+      "contact"
+    ]
+  },
+  {
+    "name": "help.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/help.16.png",
+    "tags": [
+      "faq",
+      "help",
+      "support",
+      "question"
+    ]
+  },
+  {
+    "name": "help.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/help.24.png",
+    "tags": [
+      "faq",
+      "help",
+      "support",
+      "question"
+    ]
+  },
+  {
+    "name": "help.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/help.32.png",
+    "tags": [
+      "faq",
+      "help",
+      "support",
+      "question"
+    ]
+  },
+  {
+    "name": "rss.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/rss.16.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "rss.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/rss.24.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "rss.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/rss.32.png",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "shopping-cart.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/shopping-cart.16.png",
+    "tags": [
+      "shopping",
+      "shoppingcart",
+      "basket",
+      "cart",
+      "shop",
+      "buy",
+      "building"
+    ]
+  },
+  {
+    "name": "shopping-cart.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/shopping-cart.24.png",
+    "tags": [
+      "shopping",
+      "shoppingcart",
+      "basket",
+      "cart",
+      "shop",
+      "buy",
+      "building"
+    ]
+  },
+  {
+    "name": "shopping-cart.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/shopping-cart.32.png",
+    "tags": [
+      "shopping",
+      "shoppingcart",
+      "basket",
+      "cart",
+      "shop",
+      "buy",
+      "building"
+    ]
+  },
+  {
+    "name": "stars.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/stars.16.png",
+    "tags": [
+      "star",
+      "stars"
+    ]
+  },
+  {
+    "name": "stars.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/stars.24.png",
+    "tags": [
+      "star",
+      "stars"
+    ]
+  },
+  {
+    "name": "stars.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/stars.32.png",
+    "tags": [
+      "star",
+      "stars"
+    ]
+  },
+  {
+    "name": "target.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/target.16.png",
+    "tags": [
+      "target"
+    ]
+  },
+  {
+    "name": "target.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/target.24.png",
+    "tags": [
+      "target"
+    ]
+  },
+  {
+    "name": "target.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/target.32.png",
+    "tags": [
+      "target"
+    ]
+  },
+  {
+    "name": "warning.16.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/warning.16.png",
+    "tags": [
+      "warning"
+    ]
+  },
+  {
+    "name": "warning.24.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/warning.24.png",
+    "tags": [
+      "warning"
+    ]
+  },
+  {
+    "name": "warning.32.png",
+    "format": "Favicon",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Favicon/warning.32.png",
+    "tags": [
+      "warning"
+    ]
+  },
+  {
+    "name": "box.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/box.icns",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "contact-us.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/contact-us.icns",
+    "tags": [
+      "contact"
+    ]
+  },
+  {
+    "name": "help.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/help.icns",
+    "tags": [
+      "faq",
+      "help",
+      "support",
+      "question"
+    ]
+  },
+  {
+    "name": "rss.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/rss.icns",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "shopping-cart.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/shopping-cart.icns",
+    "tags": [
+      "shopping",
+      "shoppingcart",
+      "basket",
+      "cart",
+      "shop",
+      "buy",
+      "building"
+    ]
+  },
+  {
+    "name": "stars.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/stars.icns",
+    "tags": [
+      "star",
+      "stars"
+    ]
+  },
+  {
+    "name": "target.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/target.icns",
+    "tags": [
+      "target"
+    ]
+  },
+  {
+    "name": "warning.icns",
+    "format": "Mac",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Mac/warning.icns",
+    "tags": [
+      "warning"
+    ]
+  },
+  {
     "name": "box.128.png",
     "format": "PNG",
     "path": "Designer/3dlb/3D-Vol2-Icons/PNG/box.128.png",
@@ -299,6 +603,82 @@
     "name": "warning.64.png",
     "format": "PNG",
     "path": "Designer/3dlb/3D-Vol2-Icons/PNG/warning.64.png",
+    "tags": [
+      "warning"
+    ]
+  },
+  {
+    "name": "box.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/box.ico",
+    "tags": [
+      "box"
+    ]
+  },
+  {
+    "name": "contact-us.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/contact-us.ico",
+    "tags": [
+      "contact"
+    ]
+  },
+  {
+    "name": "help.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/help.ico",
+    "tags": [
+      "faq",
+      "help",
+      "support",
+      "question"
+    ]
+  },
+  {
+    "name": "rss.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/rss.ico",
+    "tags": [
+      "rss",
+      "social",
+      "logo"
+    ]
+  },
+  {
+    "name": "shopping-cart.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/shopping-cart.ico",
+    "tags": [
+      "shopping",
+      "shoppingcart",
+      "basket",
+      "cart",
+      "shop",
+      "buy",
+      "building"
+    ]
+  },
+  {
+    "name": "stars.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/stars.ico",
+    "tags": [
+      "star",
+      "stars"
+    ]
+  },
+  {
+    "name": "target.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/target.ico",
+    "tags": [
+      "target"
+    ]
+  },
+  {
+    "name": "warning.ico",
+    "format": "Windows",
+    "path": "Designer/3dlb/3D-Vol2-Icons/Windows/warning.ico",
     "tags": [
       "warning"
     ]

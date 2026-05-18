@@ -1,0 +1,393 @@
+{
+  "iMovie": [
+    "imovie"
+  ],
+  "Utilities-Terminal": [
+    "utils",
+    "tool",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "utilities",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "Apple-Configurator": [
+    "apple",
+    "configurator"
+  ],
+  "Utilities-Boot-Camp-Assistant": [
+    "tool",
+    "utilities",
+    "utils",
+    "boot",
+    "camp",
+    "assistant"
+  ],
+  "Aperture": [
+    "aperture"
+  ],
+  "Utilities-VoiceOver-Utility": [
+    "tool",
+    "utilities",
+    "utils",
+    "voiceover",
+    "utility"
+  ],
+  "Utilities-Screen-Sharing": [
+    "utilities",
+    "tool",
+    "utils",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "sharing",
+    "control",
+    "hardware"
+  ],
+  "Utilities-Grapher": [
+    "utilities",
+    "tool",
+    "utils",
+    "grapher"
+  ],
+  "Motion": [
+    "motion"
+  ],
+  "Utilities-Airport-Utility": [
+    "utilities",
+    "tool",
+    "utils",
+    "airport",
+    "utility"
+  ],
+  "TextEdit": [
+    "textedit"
+  ],
+  "Utilities-ColorSync-Utility": [
+    "utilities",
+    "tool",
+    "utils",
+    "colorsync",
+    "utility"
+  ],
+  "Maps": [
+    "map",
+    "plan",
+    "maps",
+    "contact",
+    "navigation"
+  ],
+  "Photo-Booth": [
+    "photo",
+    "image",
+    "photography",
+    "picture",
+    "booth"
+  ],
+  "Utilities-System-Information": [
+    "tool",
+    "utilities",
+    "utils",
+    "system",
+    "info",
+    "information"
+  ],
+  "iTunes": [
+    "itunes"
+  ],
+  "Final-Cut-Pro": [
+    "final",
+    "cut",
+    "scissor",
+    "pro"
+  ],
+  "MainStage": [
+    "mainstage"
+  ],
+  "Icon-Composer": [
+    "icon",
+    "composer"
+  ],
+  "Utilities-Bluetooth-File-Exchange": [
+    "tool",
+    "utilities",
+    "utils",
+    "bluetooth",
+    "doc",
+    "document",
+    "file",
+    "exchange",
+    "paper"
+  ],
+  "Xcode": [
+    "xcode"
+  ],
+  "Utilities-Feedback-Assistant": [
+    "tool",
+    "utilities",
+    "utils",
+    "feedback",
+    "assistant"
+  ],
+  "Mail": [
+    "mail",
+    "email",
+    "contact"
+  ],
+  "FaceTime": [
+    "facetime"
+  ],
+  "Messages": [
+    "message",
+    "messages",
+    "contact"
+  ],
+  "Image-Capture": [
+    "photo",
+    "image",
+    "photography",
+    "picture",
+    "capture"
+  ],
+  "Utilities-X11": [
+    "tool",
+    "utilities",
+    "utils"
+  ],
+  "iBooks-Author": [
+    "ibooks",
+    "author"
+  ],
+  "Dictionary": [
+    "dictionary"
+  ],
+  "Utilities-Keychain-Access": [
+    "tool",
+    "utilities",
+    "utils",
+    "keychain",
+    "access",
+    "decrypt",
+    "decrypted",
+    "encrypt",
+    "encrypted",
+    "lock",
+    "padlock",
+    "private",
+    "unlock"
+  ],
+  "Utilities-Console": [
+    "utilities",
+    "tool",
+    "utils",
+    "console"
+  ],
+  "System-Preferences": [
+    "system",
+    "preferences",
+    "prefs"
+  ],
+  "Utilities-DigitalColor-Meter": [
+    "tool",
+    "utilities",
+    "utils",
+    "digitalcolor",
+    "meter"
+  ],
+  "Quartz-Composer": [
+    "quartz",
+    "composer"
+  ],
+  "Logic-Pro": [
+    "logic",
+    "pro"
+  ],
+  "App-Store": [
+    "app",
+    "application",
+    "software",
+    "store"
+  ],
+  "Pages": [
+    "pages"
+  ],
+  "Keynote": [
+    "keynote"
+  ],
+  "Chess": [
+    "chess",
+    "game"
+  ],
+  "Calculator": [
+    "calc",
+    "calculator"
+  ],
+  "QuickTime-Player": [
+    "quicktime",
+    "player"
+  ],
+  "GarageBand": [
+    "garageband"
+  ],
+  "Automator": [
+    "automator"
+  ],
+  "Reminders": [
+    "reminder",
+    "reminders"
+  ],
+  "Utilities-Audio-MIDI-Setup": [
+    "audio",
+    "music",
+    "sound",
+    "tool",
+    "utilities",
+    "utils",
+    "midi",
+    "setup"
+  ],
+  "Safari": [
+    "safari",
+    "browser"
+  ],
+  "Numbers": [
+    "number",
+    "numbers"
+  ],
+  "Utilities-Activity-Monitor": [
+    "utilities",
+    "tool",
+    "utils",
+    "activity",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ],
+  "iPhoto": [
+    "iphoto"
+  ],
+  "Utilities-AppleScript-Editor": [
+    "utilities",
+    "tool",
+    "utils",
+    "applescript",
+    "editor",
+    "edit",
+    "pencil",
+    "update"
+  ],
+  "OS-X-Server": [
+    "pc",
+    "server",
+    "computer",
+    "hardware"
+  ],
+  "Game-Center": [
+    "game",
+    "center"
+  ],
+  "Apple-Remote-Desktop": [
+    "apple",
+    "remote",
+    "desk",
+    "desktop"
+  ],
+  "Compressor": [
+    "compressor"
+  ],
+  "Finder": [
+    "finder"
+  ],
+  "Mission-Control": [
+    "mission",
+    "control"
+  ],
+  "Pixie": [
+    "pixie"
+  ],
+  "Dashboard": [
+    "dashboard"
+  ],
+  "DVD-Player": [
+    "dvd",
+    "player",
+    "disc",
+    "disk"
+  ],
+  "Time-Machine": [
+    "time",
+    "machine"
+  ],
+  "Font-Book": [
+    "font",
+    "book"
+  ],
+  "Preview": [
+    "preview"
+  ],
+  "Calendar-App": [
+    "calendar",
+    "date",
+    "event",
+    "organizer",
+    "app",
+    "application",
+    "software"
+  ],
+  "Instruments": [
+    "instruments"
+  ],
+  "Utilities-Disk-Utility": [
+    "tool",
+    "utils",
+    "disc",
+    "disk",
+    "utilities",
+    "utility"
+  ],
+  "iBooks": [
+    "ibooks"
+  ],
+  "Contacts": [
+    "contact",
+    "contacts"
+  ],
+  "Utilities-Migration-Assistant": [
+    "tool",
+    "utilities",
+    "utils",
+    "migration",
+    "assistant"
+  ],
+  "Utilities-Grab": [
+    "utilities",
+    "tool",
+    "utils",
+    "grab"
+  ],
+  "Notes": [
+    "note",
+    "notes"
+  ],
+  "Stickies": [
+    "stickies"
+  ],
+  "Launchpad": [
+    "launchpad"
+  ]
+}

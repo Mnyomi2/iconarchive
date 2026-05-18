@@ -1,0 +1,3061 @@
+[
+  {
+    "name": "ambulance-car.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ambulance-car.16.png",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ambulance-car.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ambulance-car.24.png",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ambulance-car.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ambulance-car.32.png",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ampoules.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ampoules.16.png",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "ampoules.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ampoules.24.png",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "ampoules.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ampoules.32.png",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "bacteria.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bacteria.16.png",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bacteria.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bacteria.24.png",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bacteria.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bacteria.32.png",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bandage.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bandage.16.png",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandage.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bandage.24.png",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandage.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bandage.32.png",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandaid.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bandaid.16.png",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "bandaid.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bandaid.24.png",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "bandaid.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bandaid.32.png",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "biohazard.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/biohazard.16.png",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "biohazard.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/biohazard.24.png",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "biohazard.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/biohazard.32.png",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "blood-pressure.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/blood-pressure.16.png",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood-pressure.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/blood-pressure.24.png",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood-pressure.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/blood-pressure.32.png",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/blood.16.png",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "blood.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/blood.24.png",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "blood.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/blood.32.png",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "bone.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bone.16.png",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bone.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bone.24.png",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bone.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bone.32.png",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bottle.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bottle.16.png",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "bottle.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bottle.24.png",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "bottle.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/bottle.32.png",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "caduceus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/caduceus.16.png",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "caduceus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/caduceus.24.png",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "caduceus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/caduceus.32.png",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "capsule.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/capsule.16.png",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "capsule.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/capsule.24.png",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "capsule.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/capsule.32.png",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "clamp.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/clamp.16.png",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clamp.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/clamp.24.png",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clamp.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/clamp.32.png",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clipboard.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/clipboard.16.png",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "clipboard.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/clipboard.24.png",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "clipboard.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/clipboard.32.png",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "cross-1.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/cross-1.16.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-1.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/cross-1.24.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-1.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/cross-1.32.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/cross-2.16.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/cross-2.24.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/cross-2.32.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "crutch.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/crutch.16.png",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "crutch.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/crutch.24.png",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "crutch.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/crutch.32.png",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "diseased.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/diseased.16.png",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "diseased.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/diseased.24.png",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "diseased.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/diseased.32.png",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "dna.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/dna.16.png",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "dna.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/dna.24.png",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "dna.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/dna.32.png",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "ecg.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ecg.16.png",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "ecg.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ecg.24.png",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "ecg.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/ecg.32.png",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "hammer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/hammer.16.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "hammer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/hammer.24.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "hammer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/hammer.32.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "heart.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/heart.16.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/heart.24.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/heart.32.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "helicopter.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/helicopter.16.png",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "helicopter.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/helicopter.24.png",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "helicopter.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/helicopter.32.png",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "hospital.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/hospital.16.png",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "hospital.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/hospital.24.png",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "hospital.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/hospital.32.png",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "inhaler.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/inhaler.16.png",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "inhaler.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/inhaler.24.png",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "inhaler.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/inhaler.32.png",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "iv-bag.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/iv-bag.16.png",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "iv-bag.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/iv-bag.24.png",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "iv-bag.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/iv-bag.32.png",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "medkit.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/medkit.16.png",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "medkit.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/medkit.24.png",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "medkit.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/medkit.32.png",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "microscope.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/microscope.16.png",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "microscope.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/microscope.24.png",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "microscope.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/microscope.32.png",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "mortar.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/mortar.16.png",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "mortar.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/mortar.24.png",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "mortar.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/mortar.32.png",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "nuclear.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/nuclear.16.png",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nuclear.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/nuclear.24.png",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nuclear.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/nuclear.32.png",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nurse.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/nurse.16.png",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "nurse.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/nurse.24.png",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "nurse.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/nurse.32.png",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/onlinepharmacycheck.16.png",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/onlinepharmacycheck.24.png",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/onlinepharmacycheck.32.png",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "paste.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/paste.16.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/paste.24.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/paste.32.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "pill.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/pill.16.png",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pill.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/pill.24.png",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pill.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/pill.32.png",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pipette.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/pipette.16.png",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "pipette.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/pipette.24.png",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "pipette.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/pipette.32.png",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "prescription.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/prescription.16.png",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "prescription.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/prescription.24.png",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "prescription.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/prescription.32.png",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "scale.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/scale.16.png",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scale.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/scale.24.png",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scale.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/scale.32.png",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scalpel.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/scalpel.16.png",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "scalpel.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/scalpel.24.png",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "scalpel.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/scalpel.32.png",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "spray.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/spray.16.png",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "spray.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/spray.24.png",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "spray.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/spray.32.png",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "sthetoscope.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/sthetoscope.16.png",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "sthetoscope.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/sthetoscope.24.png",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "sthetoscope.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/sthetoscope.32.png",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "surgeon.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/surgeon.16.png",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "surgeon.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/surgeon.24.png",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "surgeon.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/surgeon.32.png",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/syringe.16.png",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/syringe.24.png",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/syringe.32.png",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syrup.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/syrup.16.png",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "syrup.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/syrup.24.png",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "syrup.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/syrup.32.png",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "test-tube.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/test-tube.16.png",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "test-tube.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/test-tube.24.png",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "test-tube.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/test-tube.32.png",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "thermometer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/thermometer.16.png",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "thermometer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/thermometer.24.png",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "thermometer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/thermometer.32.png",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "tooth.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/tooth.16.png",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "tooth.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/tooth.24.png",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "tooth.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/tooth.32.png",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "toothbrush.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/toothbrush.16.png",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "toothbrush.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/toothbrush.24.png",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "toothbrush.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/toothbrush.32.png",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "virus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/virus.16.png",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "virus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/virus.24.png",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "virus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/virus.32.png",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "wheelchair.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/wheelchair.16.png",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "wheelchair.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/wheelchair.24.png",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "wheelchair.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/wheelchair.32.png",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "x-ray.16.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/x-ray.16.png",
+    "tags": [
+      "ray"
+    ]
+  },
+  {
+    "name": "x-ray.24.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/x-ray.24.png",
+    "tags": [
+      "ray"
+    ]
+  },
+  {
+    "name": "x-ray.32.png",
+    "format": "Favicon",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Favicon/x-ray.32.png",
+    "tags": [
+      "ray"
+    ]
+  },
+  {
+    "name": "ambulance-car.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/ambulance-car.icns",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ampoules.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/ampoules.icns",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "bacteria.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/bacteria.icns",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bandage.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/bandage.icns",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandaid.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/bandaid.icns",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "biohazard.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/biohazard.icns",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "blood-pressure.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/blood-pressure.icns",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/blood.icns",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "bone.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/bone.icns",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bottle.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/bottle.icns",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "caduceus.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/caduceus.icns",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "capsule.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/capsule.icns",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "clamp.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/clamp.icns",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clipboard.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/clipboard.icns",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "cross-1.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/cross-1.icns",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/cross-2.icns",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "crutch.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/crutch.icns",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "diseased.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/diseased.icns",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "dna.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/dna.icns",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "ecg.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/ecg.icns",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "hammer.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/hammer.icns",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "heart.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/heart.icns",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "helicopter.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/helicopter.icns",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "hospital.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/hospital.icns",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "inhaler.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/inhaler.icns",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "iv-bag.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/iv-bag.icns",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "medkit.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/medkit.icns",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "microscope.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/microscope.icns",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "mortar.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/mortar.icns",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "nuclear.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/nuclear.icns",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nurse.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/nurse.icns",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/onlinepharmacycheck.icns",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "paste.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/paste.icns",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "pill.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/pill.icns",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pipette.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/pipette.icns",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "prescription.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/prescription.icns",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "scale.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/scale.icns",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scalpel.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/scalpel.icns",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "spray.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/spray.icns",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "sthetoscope.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/sthetoscope.icns",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "surgeon.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/surgeon.icns",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/syringe.icns",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syrup.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/syrup.icns",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "test-tube.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/test-tube.icns",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "thermometer.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/thermometer.icns",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "tooth.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/tooth.icns",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "toothbrush.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/toothbrush.icns",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "virus.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/virus.icns",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "wheelchair.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/wheelchair.icns",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "x-ray.icns",
+    "format": "Mac",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Mac/x-ray.icns",
+    "tags": [
+      "ray"
+    ]
+  },
+  {
+    "name": "ambulance-car.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/ambulance-car.48.png",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ambulance-car.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/ambulance-car.64.png",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ampoules.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/ampoules.48.png",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "ampoules.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/ampoules.64.png",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "bacteria.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bacteria.48.png",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bacteria.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bacteria.64.png",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bandage.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bandage.48.png",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandage.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bandage.64.png",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandaid.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bandaid.48.png",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "bandaid.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bandaid.64.png",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "biohazard.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/biohazard.48.png",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "biohazard.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/biohazard.64.png",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "blood-pressure.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/blood-pressure.48.png",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood-pressure.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/blood-pressure.64.png",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/blood.48.png",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "blood.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/blood.64.png",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "bone.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bone.48.png",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bone.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bone.64.png",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bottle.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bottle.48.png",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "bottle.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/bottle.64.png",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "caduceus.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/caduceus.48.png",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "caduceus.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/caduceus.64.png",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "capsule.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/capsule.48.png",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "capsule.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/capsule.64.png",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "clamp.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/clamp.48.png",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clamp.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/clamp.64.png",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clipboard.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/clipboard.48.png",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "clipboard.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/clipboard.64.png",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "cross-1.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/cross-1.48.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-1.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/cross-1.64.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/cross-2.48.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/cross-2.64.png",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "crutch.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/crutch.48.png",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "crutch.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/crutch.64.png",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "diseased.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/diseased.48.png",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "diseased.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/diseased.64.png",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "dna.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/dna.48.png",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "dna.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/dna.64.png",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "ecg.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/ecg.48.png",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "ecg.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/ecg.64.png",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "hammer.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/hammer.48.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "hammer.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/hammer.64.png",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "heart.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/heart.48.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "heart.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/heart.64.png",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "helicopter.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/helicopter.48.png",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "helicopter.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/helicopter.64.png",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "hospital.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/hospital.48.png",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "hospital.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/hospital.64.png",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "inhaler.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/inhaler.48.png",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "inhaler.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/inhaler.64.png",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "iv-bag.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/iv-bag.48.png",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "iv-bag.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/iv-bag.64.png",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "medkit.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/medkit.48.png",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "medkit.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/medkit.64.png",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "microscope.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/microscope.48.png",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "microscope.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/microscope.64.png",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "mortar.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/mortar.48.png",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "mortar.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/mortar.64.png",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "nuclear.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/nuclear.48.png",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nuclear.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/nuclear.64.png",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nurse.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/nurse.48.png",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "nurse.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/nurse.64.png",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/onlinepharmacycheck.48.png",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/onlinepharmacycheck.64.png",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "paste.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/paste.48.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "paste.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/paste.64.png",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "pill.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/pill.48.png",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pill.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/pill.64.png",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pipette.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/pipette.48.png",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "pipette.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/pipette.64.png",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "prescription.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/prescription.48.png",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "prescription.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/prescription.64.png",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "scale.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/scale.48.png",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scale.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/scale.64.png",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scalpel.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/scalpel.48.png",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "scalpel.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/scalpel.64.png",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "spray.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/spray.48.png",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "spray.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/spray.64.png",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "sthetoscope.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/sthetoscope.48.png",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "sthetoscope.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/sthetoscope.64.png",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "surgeon.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/surgeon.48.png",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "surgeon.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/surgeon.64.png",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/syringe.48.png",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/syringe.64.png",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syrup.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/syrup.48.png",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "syrup.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/syrup.64.png",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "test-tube.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/test-tube.48.png",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "test-tube.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/test-tube.64.png",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "thermometer.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/thermometer.48.png",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "thermometer.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/thermometer.64.png",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "tooth.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/tooth.48.png",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "tooth.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/tooth.64.png",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "toothbrush.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/toothbrush.48.png",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "toothbrush.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/toothbrush.64.png",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "virus.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/virus.48.png",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "virus.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/virus.64.png",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "wheelchair.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/wheelchair.48.png",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "wheelchair.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/wheelchair.64.png",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "x-ray.48.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/x-ray.48.png",
+    "tags": [
+      "ray"
+    ]
+  },
+  {
+    "name": "x-ray.64.png",
+    "format": "PNG",
+    "path": "Designer/Banzaitokyo/Medico-Icons/PNG/x-ray.64.png",
+    "tags": [
+      "ray"
+    ]
+  },
+  {
+    "name": "ambulance-car.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/ambulance-car.ico",
+    "tags": [
+      "ambulance",
+      "auto",
+      "car",
+      "vehicle",
+      "medical",
+      "transport"
+    ]
+  },
+  {
+    "name": "ampoules.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/ampoules.ico",
+    "tags": [
+      "ampoules"
+    ]
+  },
+  {
+    "name": "bacteria.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/bacteria.ico",
+    "tags": [
+      "bacteria"
+    ]
+  },
+  {
+    "name": "bandage.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/bandage.ico",
+    "tags": [
+      "bandage"
+    ]
+  },
+  {
+    "name": "bandaid.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/bandaid.ico",
+    "tags": [
+      "bandaid"
+    ]
+  },
+  {
+    "name": "biohazard.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/biohazard.ico",
+    "tags": [
+      "biohazard"
+    ]
+  },
+  {
+    "name": "blood-pressure.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/blood-pressure.ico",
+    "tags": [
+      "blood",
+      "pressure"
+    ]
+  },
+  {
+    "name": "blood.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/blood.ico",
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "name": "bone.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/bone.ico",
+    "tags": [
+      "bone"
+    ]
+  },
+  {
+    "name": "bottle.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/bottle.ico",
+    "tags": [
+      "bottle"
+    ]
+  },
+  {
+    "name": "caduceus.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/caduceus.ico",
+    "tags": [
+      "caduceus"
+    ]
+  },
+  {
+    "name": "capsule.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/capsule.ico",
+    "tags": [
+      "capsule"
+    ]
+  },
+  {
+    "name": "clamp.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/clamp.ico",
+    "tags": [
+      "clamp"
+    ]
+  },
+  {
+    "name": "clipboard.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/clipboard.ico",
+    "tags": [
+      "clipboard"
+    ]
+  },
+  {
+    "name": "cross-1.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/cross-1.ico",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "cross-2.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/cross-2.ico",
+    "tags": [
+      "cancel",
+      "close",
+      "cross",
+      "delete",
+      "error",
+      "exit",
+      "quit",
+      "terminate"
+    ]
+  },
+  {
+    "name": "crutch.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/crutch.ico",
+    "tags": [
+      "crutch"
+    ]
+  },
+  {
+    "name": "diseased.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/diseased.ico",
+    "tags": [
+      "diseased"
+    ]
+  },
+  {
+    "name": "dna.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/dna.ico",
+    "tags": [
+      "dna"
+    ]
+  },
+  {
+    "name": "ecg.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/ecg.ico",
+    "tags": [
+      "ecg"
+    ]
+  },
+  {
+    "name": "hammer.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/hammer.ico",
+    "tags": [
+      "hammer"
+    ]
+  },
+  {
+    "name": "heart.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/heart.ico",
+    "tags": [
+      "heart",
+      "valentine",
+      "bookmark",
+      "fav",
+      "favorite",
+      "favourite",
+      "love"
+    ]
+  },
+  {
+    "name": "helicopter.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/helicopter.ico",
+    "tags": [
+      "helicopter"
+    ]
+  },
+  {
+    "name": "hospital.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/hospital.ico",
+    "tags": [
+      "hospital",
+      "building"
+    ]
+  },
+  {
+    "name": "inhaler.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/inhaler.ico",
+    "tags": [
+      "inhaler"
+    ]
+  },
+  {
+    "name": "iv-bag.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/iv-bag.ico",
+    "tags": [
+      "bag"
+    ]
+  },
+  {
+    "name": "medkit.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/medkit.ico",
+    "tags": [
+      "medkit"
+    ]
+  },
+  {
+    "name": "microscope.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/microscope.ico",
+    "tags": [
+      "microscope"
+    ]
+  },
+  {
+    "name": "mortar.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/mortar.ico",
+    "tags": [
+      "mortar"
+    ]
+  },
+  {
+    "name": "nuclear.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/nuclear.ico",
+    "tags": [
+      "nuclear"
+    ]
+  },
+  {
+    "name": "nurse.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/nurse.ico",
+    "tags": [
+      "nurse",
+      "medical"
+    ]
+  },
+  {
+    "name": "onlinepharmacycheck.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/onlinepharmacycheck.ico",
+    "tags": [
+      "onlinepharmacycheck"
+    ]
+  },
+  {
+    "name": "paste.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/paste.ico",
+    "tags": [
+      "paste"
+    ]
+  },
+  {
+    "name": "pill.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/pill.ico",
+    "tags": [
+      "pill",
+      "drug",
+      "medicine",
+      "medical"
+    ]
+  },
+  {
+    "name": "pipette.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/pipette.ico",
+    "tags": [
+      "pipette"
+    ]
+  },
+  {
+    "name": "prescription.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/prescription.ico",
+    "tags": [
+      "prescription"
+    ]
+  },
+  {
+    "name": "scale.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/scale.ico",
+    "tags": [
+      "scale"
+    ]
+  },
+  {
+    "name": "scalpel.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/scalpel.ico",
+    "tags": [
+      "scalpel"
+    ]
+  },
+  {
+    "name": "spray.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/spray.ico",
+    "tags": [
+      "spray"
+    ]
+  },
+  {
+    "name": "sthetoscope.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/sthetoscope.ico",
+    "tags": [
+      "sthetoscope"
+    ]
+  },
+  {
+    "name": "surgeon.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/surgeon.ico",
+    "tags": [
+      "surgeon",
+      "medical"
+    ]
+  },
+  {
+    "name": "syringe.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/syringe.ico",
+    "tags": [
+      "injection",
+      "nozzle",
+      "syringe",
+      "medical"
+    ]
+  },
+  {
+    "name": "syrup.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/syrup.ico",
+    "tags": [
+      "syrup"
+    ]
+  },
+  {
+    "name": "test-tube.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/test-tube.ico",
+    "tags": [
+      "test",
+      "tube"
+    ]
+  },
+  {
+    "name": "thermometer.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/thermometer.ico",
+    "tags": [
+      "thermometer"
+    ]
+  },
+  {
+    "name": "tooth.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/tooth.ico",
+    "tags": [
+      "tooth"
+    ]
+  },
+  {
+    "name": "toothbrush.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/toothbrush.ico",
+    "tags": [
+      "toothbrush"
+    ]
+  },
+  {
+    "name": "virus.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/virus.ico",
+    "tags": [
+      "virus"
+    ]
+  },
+  {
+    "name": "wheelchair.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/wheelchair.ico",
+    "tags": [
+      "wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "name": "x-ray.ico",
+    "format": "Windows",
+    "path": "Designer/Banzaitokyo/Medico-Icons/Windows/x-ray.ico",
+    "tags": [
+      "ray"
+    ]
+  }
+]

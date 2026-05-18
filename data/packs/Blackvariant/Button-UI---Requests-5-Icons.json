@@ -1,0 +1,2511 @@
+[
+  {
+    "name": "Anki.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Anki.16.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Anki.24.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Anki.32.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Avast.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Avast.16.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Avast.24.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Avast.32.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Bowtie.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Bowtie.16.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Bowtie.24.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Bowtie.32.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Caffeine.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Caffeine.16.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Caffeine.24.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Caffeine.32.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "CheatSheet.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/CheatSheet.16.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/CheatSheet.24.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/CheatSheet.32.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CoconutBattery.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/CoconutBattery.16.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/CoconutBattery.24.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/CoconutBattery.32.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "Deliveries.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Deliveries.16.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Deliveries.24.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Deliveries.32.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Divvy.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Divvy.16.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Divvy.24.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Divvy.32.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "JustGetFlux.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/JustGetFlux.16.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/JustGetFlux.24.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/JustGetFlux.32.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "LG.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/LG.16.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/LG.24.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/LG.32.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LYX.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/LYX.16.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/LYX.24.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/LYX.32.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/MacFamilyTree.16.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/MacFamilyTree.24.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/MacFamilyTree.32.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "ManageNameExt.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/ManageNameExt.16.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/ManageNameExt.24.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/ManageNameExt.32.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/MenuBarCountDown.16.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/MenuBarCountDown.24.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/MenuBarCountDown.32.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "Nexus.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Nexus.16.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Nexus.24.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Nexus.32.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/OmniDiskSweeper.16.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/OmniDiskSweeper.24.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/OmniDiskSweeper.32.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/PhotoMatrix.16.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/PhotoMatrix.24.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/PhotoMatrix.32.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PushBullet.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/PushBullet.16.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/PushBullet.24.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/PushBullet.32.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "Quassel.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Quassel.16.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Quassel.24.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Quassel.32.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "QuasselGrey.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/QuasselGrey.16.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/QuasselGrey.24.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/QuasselGrey.32.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "RStudio.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/RStudio.16.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/RStudio.24.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/RStudio.32.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "ToDo-List.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/ToDo-List.16.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/ToDo-List.24.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/ToDo-List.32.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "Zotero.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Zotero.16.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Zotero.24.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/Zotero.32.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "aText.16.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/aText.16.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.24.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/aText.24.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.32.png",
+    "format": "Favicon",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Favicon/aText.32.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "Anki.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Anki.icns",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Avast.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Avast.icns",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Bowtie.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Bowtie.icns",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Caffeine.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Caffeine.icns",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "CheatSheet.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/CheatSheet.icns",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CoconutBattery.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/CoconutBattery.icns",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "Deliveries.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Deliveries.icns",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Divvy.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Divvy.icns",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "JustGetFlux.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/JustGetFlux.icns",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "LG.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/LG.icns",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LYX.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/LYX.icns",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/MacFamilyTree.icns",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "ManageNameExt.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/ManageNameExt.icns",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/MenuBarCountDown.icns",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "Nexus.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Nexus.icns",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/OmniDiskSweeper.icns",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/PhotoMatrix.icns",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PushBullet.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/PushBullet.icns",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "Quassel.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Quassel.icns",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "QuasselGrey.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/QuasselGrey.icns",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "RStudio.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/RStudio.icns",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "ToDo-List.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/ToDo-List.icns",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "Zotero.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/Zotero.icns",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "aText.icns",
+    "format": "Mac",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Mac/aText.icns",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "Anki.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.1024.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.128.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.256.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.48.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.512.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.64.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.72.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Anki.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Anki.96.png",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Avast.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.1024.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.128.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.256.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.48.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.512.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.64.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.72.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Avast.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Avast.96.png",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Bowtie.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.1024.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.128.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.256.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.48.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.512.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.64.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.72.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Bowtie.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Bowtie.96.png",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Caffeine.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.1024.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.128.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.256.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.48.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.512.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.64.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.72.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "Caffeine.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Caffeine.96.png",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "CheatSheet.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.1024.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.128.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.256.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.48.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.512.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.64.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.72.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CheatSheet.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CheatSheet.96.png",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CoconutBattery.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.1024.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.128.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.256.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.48.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.512.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.64.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.72.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "CoconutBattery.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/CoconutBattery.96.png",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "Deliveries.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.1024.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.128.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.256.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.48.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.512.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.64.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.72.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Deliveries.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Deliveries.96.png",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Divvy.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.1024.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.128.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.256.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.48.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.512.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.64.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.72.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "Divvy.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Divvy.96.png",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "JustGetFlux.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.1024.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.128.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.256.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.48.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.512.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.64.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.72.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "JustGetFlux.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/JustGetFlux.96.png",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "LG.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.1024.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.128.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.256.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.48.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.512.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.64.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.72.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LG.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LG.96.png",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LYX.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.1024.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.128.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.256.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.48.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.512.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.64.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.72.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "LYX.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/LYX.96.png",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.1024.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.128.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.256.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.48.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.512.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.64.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.72.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MacFamilyTree.96.png",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "ManageNameExt.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.1024.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.128.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.256.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.48.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.512.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.64.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.72.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "ManageNameExt.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ManageNameExt.96.png",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.1024.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.128.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.256.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.48.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.512.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.64.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.72.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/MenuBarCountDown.96.png",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "Nexus.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.1024.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.128.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.256.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.48.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.512.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.64.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.72.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "Nexus.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Nexus.96.png",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.1024.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.128.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.256.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.48.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.512.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.64.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.72.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/OmniDiskSweeper.96.png",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.1024.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.128.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.256.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.48.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.512.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.64.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.72.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PhotoMatrix.96.png",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PushBullet.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.1024.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.128.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.256.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.48.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.512.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.64.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.72.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "PushBullet.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/PushBullet.96.png",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "Quassel.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.1024.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.128.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.256.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.48.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.512.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.64.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.72.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "Quassel.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Quassel.96.png",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "QuasselGrey.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.1024.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.128.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.256.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.48.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.512.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.64.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.72.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "QuasselGrey.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/QuasselGrey.96.png",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "RStudio.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.1024.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.128.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.256.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.48.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.512.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.64.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.72.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "RStudio.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/RStudio.96.png",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "ToDo-List.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.1024.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.128.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.256.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.48.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.512.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.64.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.72.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "ToDo-List.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/ToDo-List.96.png",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "Zotero.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.1024.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.128.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.256.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.48.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.512.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.64.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.72.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "Zotero.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/Zotero.96.png",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "aText.1024.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.1024.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.128.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.128.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.256.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.256.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.48.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.48.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.512.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.512.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.64.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.64.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.72.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.72.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "aText.96.png",
+    "format": "PNG",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/PNG/aText.96.png",
+    "tags": [
+      "atext"
+    ]
+  },
+  {
+    "name": "Anki.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Anki.ico",
+    "tags": [
+      "anki"
+    ]
+  },
+  {
+    "name": "Avast.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Avast.ico",
+    "tags": [
+      "avast"
+    ]
+  },
+  {
+    "name": "Bowtie.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Bowtie.ico",
+    "tags": [
+      "bowtie"
+    ]
+  },
+  {
+    "name": "Caffeine.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Caffeine.ico",
+    "tags": [
+      "caffeine"
+    ]
+  },
+  {
+    "name": "CheatSheet.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/CheatSheet.ico",
+    "tags": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "name": "CoconutBattery.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/CoconutBattery.ico",
+    "tags": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "name": "Deliveries.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Deliveries.ico",
+    "tags": [
+      "deliveries"
+    ]
+  },
+  {
+    "name": "Divvy.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Divvy.ico",
+    "tags": [
+      "divvy"
+    ]
+  },
+  {
+    "name": "JustGetFlux.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/JustGetFlux.ico",
+    "tags": [
+      "justgetflux"
+    ]
+  },
+  {
+    "name": "LG.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/LG.ico",
+    "tags": [
+      "lg"
+    ]
+  },
+  {
+    "name": "LYX.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/LYX.ico",
+    "tags": [
+      "lyx"
+    ]
+  },
+  {
+    "name": "MacFamilyTree.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/MacFamilyTree.ico",
+    "tags": [
+      "macfamilytree"
+    ]
+  },
+  {
+    "name": "ManageNameExt.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/ManageNameExt.ico",
+    "tags": [
+      "managenameext"
+    ]
+  },
+  {
+    "name": "MenuBarCountDown.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/MenuBarCountDown.ico",
+    "tags": [
+      "menubarcountdown"
+    ]
+  },
+  {
+    "name": "Nexus.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Nexus.ico",
+    "tags": [
+      "nexus"
+    ]
+  },
+  {
+    "name": "OmniDiskSweeper.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/OmniDiskSweeper.ico",
+    "tags": [
+      "omnidisksweeper"
+    ]
+  },
+  {
+    "name": "PhotoMatrix.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/PhotoMatrix.ico",
+    "tags": [
+      "photomatrix"
+    ]
+  },
+  {
+    "name": "PushBullet.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/PushBullet.ico",
+    "tags": [
+      "pushbullet"
+    ]
+  },
+  {
+    "name": "Quassel.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Quassel.ico",
+    "tags": [
+      "quassel"
+    ]
+  },
+  {
+    "name": "QuasselGrey.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/QuasselGrey.ico",
+    "tags": [
+      "quasselgrey"
+    ]
+  },
+  {
+    "name": "RStudio.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/RStudio.ico",
+    "tags": [
+      "rstudio"
+    ]
+  },
+  {
+    "name": "ToDo-List.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/ToDo-List.ico",
+    "tags": [
+      "todo",
+      "list"
+    ]
+  },
+  {
+    "name": "Zotero.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/Zotero.ico",
+    "tags": [
+      "zotero"
+    ]
+  },
+  {
+    "name": "aText.ico",
+    "format": "Windows",
+    "path": "Designer/Blackvariant/Button-UI---Requests-5-Icons/Windows/aText.ico",
+    "tags": [
+      "atext"
+    ]
+  }
+]
