@@ -36,8 +36,8 @@ This tool goes beyond simple downloading. It features smart skipping, missing-fi
 It's recommended to use a virtual environment to keep dependencies isolated.
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/IconArchive-Downloader.git
-cd IconArchive-Downloader
+git clone https://github.com/Mnyomi2/iconarchive.git
+cd iconarchive
 
 # (Optional but Recommended) Create and activate a virtual environment
 python -m venv venv
