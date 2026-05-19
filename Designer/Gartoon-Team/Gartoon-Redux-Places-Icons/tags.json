@@ -1,0 +1,183 @@
+{
+  "folder-red": [
+    "folder",
+    "red"
+  ],
+  "folder": [
+    "folder"
+  ],
+  "folder-yellow": [
+    "folder",
+    "yellow"
+  ],
+  "folder-gray": [
+    "folder",
+    "gray"
+  ],
+  "mail-message": [
+    "mail",
+    "message"
+  ],
+  "folder-brown": [
+    "folder",
+    "brown"
+  ],
+  "folder-remote-ssh": [
+    "folder",
+    "remote",
+    "ssh"
+  ],
+  "folder-documents": [
+    "folder",
+    "documents"
+  ],
+  "folder-remote-smb": [
+    "folder",
+    "remote",
+    "smb"
+  ],
+  "podcast": [
+    "podcast"
+  ],
+  "note": [
+    "note"
+  ],
+  "user-trash": [
+    "user",
+    "trash"
+  ],
+  "network": [
+    "network"
+  ],
+  "folder-violet": [
+    "folder",
+    "violet"
+  ],
+  "notebook": [
+    "notebook"
+  ],
+  "playlist-automatic": [
+    "playlist",
+    "automatic"
+  ],
+  "folder-development": [
+    "folder",
+    "development"
+  ],
+  "folder-remote-nfs": [
+    "folder",
+    "remote",
+    "nfs"
+  ],
+  "folder-cyan": [
+    "folder",
+    "cyan"
+  ],
+  "folder-ubuntu": [
+    "folder",
+    "ubuntu"
+  ],
+  "folder-blue": [
+    "folder",
+    "blue"
+  ],
+  "bookmark": [
+    "bookmark"
+  ],
+  "network-server": [
+    "network",
+    "server"
+  ],
+  "user-home": [
+    "user",
+    "home"
+  ],
+  "gnome-fs-web": [
+    "gnome",
+    "web"
+  ],
+  "folder-pictures": [
+    "folder",
+    "pictures"
+  ],
+  "folder-saved-search": [
+    "folder",
+    "saved",
+    "search"
+  ],
+  "user-desktop": [
+    "user",
+    "desktop"
+  ],
+  "tag": [
+    "tag"
+  ],
+  "folder-orange": [
+    "folder",
+    "orange"
+  ],
+  "folder-video": [
+    "folder",
+    "video"
+  ],
+  "film-roll": [
+    "film",
+    "roll"
+  ],
+  "folder-music": [
+    "folder",
+    "music"
+  ],
+  "folder-remote": [
+    "folder",
+    "remote"
+  ],
+  "document-multiple": [
+    "document",
+    "multiple"
+  ],
+  "bookmark-toolbar": [
+    "bookmark",
+    "toolbar"
+  ],
+  "mail-inbox": [
+    "mail",
+    "inbox"
+  ],
+  "folder-green": [
+    "folder",
+    "green"
+  ],
+  "folder-print": [
+    "folder",
+    "print"
+  ],
+  "folder-remote-ftp": [
+    "folder",
+    "remote",
+    "ftp"
+  ],
+  "radio": [
+    "radio"
+  ],
+  "games-highscore-award": [
+    "games",
+    "highscore",
+    "award"
+  ],
+  "mail-outbox": [
+    "mail",
+    "outbox"
+  ],
+  "lastfm-recommended": [
+    "lastfm",
+    "recommended"
+  ],
+  "lastfm": [
+    "lastfm"
+  ],
+  "folder-downloads": [
+    "folder",
+    "downloads"
+  ]
+}

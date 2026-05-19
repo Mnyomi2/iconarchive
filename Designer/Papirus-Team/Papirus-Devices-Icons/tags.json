@@ -1,0 +1,273 @@
+{
+  "input-tablet": [
+    "input",
+    "tablet",
+    "computer",
+    "device",
+    "hardware"
+  ],
+  "network-wireless-hotspot": [
+    "network",
+    "wireless",
+    "hotspot",
+    "device"
+  ],
+  "printer": [
+    "print",
+    "printer",
+    "hardware",
+    "device"
+  ],
+  "scanner": [
+    "scanner",
+    "hardware",
+    "device"
+  ],
+  "audio-card": [
+    "audio",
+    "music",
+    "sound",
+    "card",
+    "device"
+  ],
+  "input-touchpad": [
+    "input",
+    "touchpad",
+    "device"
+  ],
+  "drive-removable-media": [
+    "drive",
+    "removable",
+    "media",
+    "device"
+  ],
+  "multimedia-player": [
+    "player",
+    "multimedia",
+    "device"
+  ],
+  "input-mouse": [
+    "input",
+    "mouse",
+    "device"
+  ],
+  "camera-photo": [
+    "cam",
+    "camera",
+    "image",
+    "photo",
+    "photography",
+    "picture",
+    "device",
+    "hardware"
+  ],
+  "computer": [
+    "computer",
+    "hardware",
+    "device"
+  ],
+  "gnome-dev-printer-new": [
+    "gnome",
+    "dev",
+    "print",
+    "printer",
+    "device",
+    "new",
+    "hardware"
+  ],
+  "network-modem": [
+    "network",
+    "modem",
+    "device"
+  ],
+  "audio-input-microphone": [
+    "audio",
+    "music",
+    "sound",
+    "input",
+    "device",
+    "microphone"
+  ],
+  "input-keyboard": [
+    "input",
+    "keyboard",
+    "device",
+    "hardware"
+  ],
+  "network-vpn": [
+    "network",
+    "vpn",
+    "device"
+  ],
+  "media-optical": [
+    "media",
+    "optical",
+    "device"
+  ],
+  "video-television": [
+    "film",
+    "movie",
+    "video",
+    "television",
+    "tv",
+    "device",
+    "news"
+  ],
+  "camera-web": [
+    "cam",
+    "camera",
+    "web",
+    "device",
+    "hardware",
+    "image",
+    "photo",
+    "photography",
+    "picture"
+  ],
+  "drive-multidisk": [
+    "multidisk",
+    "drive",
+    "device"
+  ],
+  "audio-speakers": [
+    "audio",
+    "music",
+    "sound",
+    "speaker",
+    "speakers",
+    "device"
+  ],
+  "input-gaming": [
+    "input",
+    "gaming",
+    "device"
+  ],
+  "media-flash-memory-stick": [
+    "media",
+    "flash",
+    "memory",
+    "device",
+    "stick"
+  ],
+  "phone": [
+    "phone",
+    "telephone",
+    "call",
+    "contact",
+    "device"
+  ],
+  "network-card": [
+    "network",
+    "card",
+    "device"
+  ],
+  "tablet": [
+    "tablet",
+    "computer",
+    "hardware",
+    "device"
+  ],
+  "audio-headphones": [
+    "audio",
+    "headphone",
+    "music",
+    "sound",
+    "earphone",
+    "headset",
+    "headphones",
+    "device"
+  ],
+  "drive-optical": [
+    "drive",
+    "optical",
+    "device"
+  ],
+  "network-wireless": [
+    "network",
+    "wireless",
+    "device"
+  ],
+  "battery": [
+    "battery",
+    "power",
+    "device"
+  ],
+  "pda": [
+    "pda",
+    "device"
+  ],
+  "smartphone": [
+    "smartphone",
+    "call",
+    "contact",
+    "device"
+  ],
+  "cpu": [
+    "cpu",
+    "processor",
+    "device"
+  ],
+  "media-floppy": [
+    "media",
+    "floppy",
+    "save",
+    "device"
+  ],
+  "drive-harddisk": [
+    "drive",
+    "harddisk",
+    "harddrive",
+    "hd",
+    "hdd",
+    "device",
+    "disc",
+    "disk",
+    "hardware"
+  ],
+  "network-server": [
+    "network",
+    "pc",
+    "server",
+    "computer",
+    "device",
+    "hardware"
+  ],
+  "wiimotedev": [
+    "wiimotedev",
+    "device"
+  ],
+  "media-flash": [
+    "media",
+    "flash",
+    "device"
+  ],
+  "media-memory": [
+    "media",
+    "memory",
+    "device"
+  ],
+  "computer-laptop": [
+    "computer",
+    "laptop",
+    "device",
+    "hardware",
+    "notebook"
+  ],
+  "drive-harddisk-ieee-1394": [
+    "drive",
+    "harddisk",
+    "harddrive",
+    "hd",
+    "hdd",
+    "ieee",
+    "device",
+    "disc",
+    "disk",
+    "hardware"
+  ],
+  "network-wired": [
+    "network",
+    "wired",
+    "device"
+  ]
+}

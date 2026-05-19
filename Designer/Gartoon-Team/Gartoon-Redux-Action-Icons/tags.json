@@ -1,0 +1,875 @@
+{
+  "arrow-down": [
+    "arrow",
+    "down"
+  ],
+  "insert-pause": [
+    "insert",
+    "pause"
+  ],
+  "go-top": [
+    "go",
+    "top"
+  ],
+  "package-install": [
+    "package",
+    "install"
+  ],
+  "format-justify-left": [
+    "format",
+    "justify",
+    "left"
+  ],
+  "document-properties": [
+    "document",
+    "properties"
+  ],
+  "adjust-colors": [
+    "adjust",
+    "colors"
+  ],
+  "format-text-bold": [
+    "format",
+    "text",
+    "bold"
+  ],
+  "gdu-mount": [
+    "gdu",
+    "mount"
+  ],
+  "mail-mark-unread": [
+    "mail",
+    "mark",
+    "unread"
+  ],
+  "object-rotate-left": [
+    "object",
+    "rotate",
+    "left"
+  ],
+  "download": [
+    "download"
+  ],
+  "mail-next-unread": [
+    "mail",
+    "next",
+    "unread"
+  ],
+  "edit-clear-broom": [
+    "edit",
+    "clear",
+    "broom"
+  ],
+  "help-faq": [
+    "help",
+    "faq"
+  ],
+  "mail-reply-all": [
+    "mail",
+    "reply"
+  ],
+  "media-optical-video-new": [
+    "media",
+    "optical",
+    "video",
+    "new"
+  ],
+  "folder-move": [
+    "folder",
+    "move"
+  ],
+  "edit-redo": [
+    "edit",
+    "redo"
+  ],
+  "history-view-hourglass": [
+    "history",
+    "view",
+    "hourglass"
+  ],
+  "tools-check-spelling": [
+    "tools",
+    "check",
+    "spelling"
+  ],
+  "document-save-all": [
+    "document",
+    "save"
+  ],
+  "media-optical-blank": [
+    "media",
+    "optical",
+    "blank"
+  ],
+  "view-fullscreen": [
+    "view",
+    "fullscreen"
+  ],
+  "media-skip-forward": [
+    "media",
+    "skip",
+    "forward"
+  ],
+  "preview-file": [
+    "preview",
+    "file"
+  ],
+  "media-eject": [
+    "media",
+    "eject"
+  ],
+  "view-sort-descending": [
+    "view",
+    "sort",
+    "descending"
+  ],
+  "go-first": [
+    "first",
+    "go"
+  ],
+  "zoom-out": [
+    "zoom",
+    "out"
+  ],
+  "go-jump": [
+    "go",
+    "jump"
+  ],
+  "object-group": [
+    "object",
+    "group"
+  ],
+  "edit-paste-clipboard": [
+    "edit",
+    "paste",
+    "clipboard"
+  ],
+  "flag-green": [
+    "flag",
+    "green"
+  ],
+  "document-save-as": [
+    "document",
+    "save"
+  ],
+  "document-export": [
+    "document",
+    "export"
+  ],
+  "internet-radio-new": [
+    "internet",
+    "radio",
+    "new"
+  ],
+  "format-text-underline": [
+    "format",
+    "text",
+    "underline"
+  ],
+  "format-justify-right": [
+    "format",
+    "justify",
+    "right"
+  ],
+  "bookmark-new": [
+    "bookmark",
+    "new"
+  ],
+  "zoom-fit-width": [
+    "zoom",
+    "fit",
+    "width"
+  ],
+  "format-text-direction-ltr": [
+    "format",
+    "text",
+    "direction",
+    "ltr"
+  ],
+  "media-optical-burn": [
+    "media",
+    "optical",
+    "burn"
+  ],
+  "dialog-ok": [
+    "dialog",
+    "ok"
+  ],
+  "mail-send-receive": [
+    "mail",
+    "send",
+    "receive"
+  ],
+  "arrow-up-double": [
+    "arrow",
+    "double",
+    "up"
+  ],
+  "color-sepia": [
+    "color",
+    "sepia"
+  ],
+  "package-remove": [
+    "package",
+    "remove"
+  ],
+  "document-send": [
+    "document",
+    "send"
+  ],
+  "playlist-automatic-new": [
+    "playlist",
+    "automatic",
+    "new"
+  ],
+  "draw-ellipse": [
+    "draw",
+    "ellipse"
+  ],
+  "system-shutdown": [
+    "system",
+    "shutdown"
+  ],
+  "archive-extract": [
+    "archive",
+    "extract"
+  ],
+  "align-horizon": [
+    "align",
+    "horizon"
+  ],
+  "document-import": [
+    "document",
+    "import"
+  ],
+  "help-contents": [
+    "help",
+    "contents"
+  ],
+  "arrow-down-double": [
+    "arrow",
+    "down",
+    "double"
+  ],
+  "mail-mark-notjunk": [
+    "mail",
+    "mark",
+    "notjunk"
+  ],
+  "document-sign": [
+    "document",
+    "sign"
+  ],
+  "mail-reply-sender": [
+    "mail",
+    "reply",
+    "sender"
+  ],
+  "view-sort-ascending": [
+    "view",
+    "sort",
+    "ascending"
+  ],
+  "go-next": [
+    "go",
+    "next"
+  ],
+  "gdu-raid-array-start": [
+    "gdu",
+    "raid",
+    "array",
+    "start"
+  ],
+  "edit-find-mail": [
+    "edit",
+    "find",
+    "mail"
+  ],
+  "mail-mark-important": [
+    "mail",
+    "mark",
+    "important"
+  ],
+  "document-save-floppy-disk": [
+    "document",
+    "save",
+    "floppy",
+    "disk"
+  ],
+  "document-print-preview": [
+    "document",
+    "print",
+    "preview"
+  ],
+  "edit-select-all": [
+    "edit",
+    "select"
+  ],
+  "media-seek-backward": [
+    "media",
+    "seek",
+    "backward"
+  ],
+  "filter-note-all": [
+    "filter",
+    "note"
+  ],
+  "format-text-direction-rtl": [
+    "format",
+    "text",
+    "direction",
+    "rtl"
+  ],
+  "document-new": [
+    "document",
+    "new"
+  ],
+  "package-purge": [
+    "package",
+    "purge"
+  ],
+  "mail-send": [
+    "mail",
+    "send"
+  ],
+  "insert-object": [
+    "insert",
+    "object"
+  ],
+  "mail-receive": [
+    "mail",
+    "receive"
+  ],
+  "gdu-eject": [
+    "gdu",
+    "eject"
+  ],
+  "go-previous": [
+    "go",
+    "previous"
+  ],
+  "iso-image-new": [
+    "iso",
+    "image",
+    "new"
+  ],
+  "note-new": [
+    "note",
+    "new"
+  ],
+  "media-optical-data-new": [
+    "media",
+    "optical",
+    "data",
+    "new"
+  ],
+  "folder-sync": [
+    "folder",
+    "sync"
+  ],
+  "mail-move": [
+    "mail",
+    "move"
+  ],
+  "filter-note-unfiled": [
+    "filter",
+    "note",
+    "unfiled"
+  ],
+  "system-lock-screen": [
+    "system",
+    "lock",
+    "screen"
+  ],
+  "document-open": [
+    "document",
+    "open"
+  ],
+  "package-downgrade": [
+    "package",
+    "downgrade"
+  ],
+  "media-playback-start": [
+    "media",
+    "playback",
+    "start"
+  ],
+  "zoom-in": [
+    "zoom"
+  ],
+  "red-eye-remove": [
+    "red",
+    "eye",
+    "remove"
+  ],
+  "zoom-original": [
+    "zoom",
+    "original"
+  ],
+  "zoom": [
+    "zoom"
+  ],
+  "go-up": [
+    "go",
+    "up"
+  ],
+  "media-optical-copy": [
+    "media",
+    "optical",
+    "copy"
+  ],
+  "mail-mark-read": [
+    "mail",
+    "mark",
+    "read"
+  ],
+  "system-run": [
+    "system",
+    "run"
+  ],
+  "archive-remove": [
+    "archive",
+    "remove"
+  ],
+  "insert-image": [
+    "insert",
+    "image"
+  ],
+  "draw-freehand-pencil": [
+    "draw",
+    "freehand",
+    "pencil"
+  ],
+  "unmount": [
+    "unmount"
+  ],
+  "filter-soft-focus": [
+    "filter",
+    "soft",
+    "focus"
+  ],
+  "crop": [
+    "crop"
+  ],
+  "mail-forward": [
+    "mail",
+    "forward"
+  ],
+  "list-add": [
+    "list",
+    "add"
+  ],
+  "gdu-unmount": [
+    "gdu",
+    "unmount"
+  ],
+  "gdu-detach": [
+    "gdu",
+    "detach"
+  ],
+  "tag-new": [
+    "tag",
+    "new"
+  ],
+  "view-restore": [
+    "view",
+    "restore"
+  ],
+  "iso-image-burn": [
+    "iso",
+    "image",
+    "burn"
+  ],
+  "media-seek-forward": [
+    "media",
+    "seek",
+    "forward"
+  ],
+  "edit-rename-textfield": [
+    "edit",
+    "rename",
+    "textfield"
+  ],
+  "go-down": [
+    "down",
+    "go"
+  ],
+  "vim-session-load": [
+    "vim",
+    "session",
+    "load"
+  ],
+  "draw-brush": [
+    "draw",
+    "brush"
+  ],
+  "draw-rectangle": [
+    "draw",
+    "rectangle"
+  ],
+  "gdu-raid-array-stop": [
+    "gdu",
+    "raid",
+    "array",
+    "stop"
+  ],
+  "flag-red": [
+    "flag",
+    "red"
+  ],
+  "format-justify-center": [
+    "format",
+    "justify",
+    "center"
+  ],
+  "system-log-out": [
+    "system",
+    "log",
+    "out"
+  ],
+  "flag-black": [
+    "flag",
+    "black"
+  ],
+  "edit-copy": [
+    "edit",
+    "copy"
+  ],
+  "dialog-apply": [
+    "dialog",
+    "apply"
+  ],
+  "view-page-continuous": [
+    "view",
+    "page",
+    "continuous"
+  ],
+  "flag-yellow": [
+    "flag",
+    "yellow"
+  ],
+  "edit-find": [
+    "edit",
+    "find"
+  ],
+  "format-justify-fill": [
+    "format",
+    "justify",
+    "fill"
+  ],
+  "gdu-check-disk": [
+    "gdu",
+    "check",
+    "disk"
+  ],
+  "document-open-recent": [
+    "document",
+    "open",
+    "recent"
+  ],
+  "mail-copy": [
+    "mail",
+    "copy"
+  ],
+  "edit-find-replace": [
+    "edit",
+    "find",
+    "replace"
+  ],
+  "format-text-strikethrough": [
+    "format",
+    "text",
+    "strikethrough"
+  ],
+  "arrow-up": [
+    "arrow",
+    "up"
+  ],
+  "location-entry": [
+    "location",
+    "entry"
+  ],
+  "object-flip-vertical": [
+    "object",
+    "flip",
+    "vertical"
+  ],
+  "appointment-new": [
+    "appointment",
+    "new"
+  ],
+  "view-page-facing": [
+    "view",
+    "page",
+    "facing"
+  ],
+  "draw-cuboid": [
+    "draw",
+    "cuboid"
+  ],
+  "vim-find-help": [
+    "vim",
+    "find",
+    "help"
+  ],
+  "go-last": [
+    "go",
+    "last"
+  ],
+  "object-flip-horizontal": [
+    "object",
+    "flip",
+    "horizontal"
+  ],
+  "package-upgrade": [
+    "package",
+    "upgrade"
+  ],
+  "vim-session-save": [
+    "vim",
+    "session",
+    "save"
+  ],
+  "address-book-new": [
+    "address",
+    "book",
+    "new"
+  ],
+  "system-suspend": [
+    "system",
+    "suspend"
+  ],
+  "mail-message-new": [
+    "mail",
+    "message",
+    "new"
+  ],
+  "system-search": [
+    "system",
+    "search"
+  ],
+  "folder-new": [
+    "folder",
+    "new"
+  ],
+  "document-revert": [
+    "document",
+    "revert"
+  ],
+  "view-refresh": [
+    "view",
+    "refresh"
+  ],
+  "archive-insert": [
+    "archive",
+    "insert"
+  ],
+  "package-reinstall": [
+    "package",
+    "reinstall"
+  ],
+  "media-playback-stop": [
+    "media",
+    "playback",
+    "stop"
+  ],
+  "mail-reply-group": [
+    "mail",
+    "reply",
+    "group"
+  ],
+  "zoom-fit-height": [
+    "zoom",
+    "fit",
+    "height"
+  ],
+  "color-desaturate": [
+    "color",
+    "desaturate"
+  ],
+  "notebook-new": [
+    "notebook",
+    "new"
+  ],
+  "insert-text": [
+    "insert",
+    "text"
+  ],
+  "document-page-setup": [
+    "document",
+    "page",
+    "setup"
+  ],
+  "media-record": [
+    "media",
+    "record"
+  ],
+  "object-rotate-right": [
+    "object",
+    "rotate",
+    "right"
+  ],
+  "edit-undo": [
+    "edit",
+    "undo"
+  ],
+  "mail-mark-unread-new": [
+    "mail",
+    "mark",
+    "unread",
+    "new"
+  ],
+  "media-playback-pause": [
+    "media",
+    "playback",
+    "pause"
+  ],
+  "contact-new": [
+    "contact",
+    "new"
+  ],
+  "draw-polygon": [
+    "draw",
+    "polygon"
+  ],
+  "format-indent-less": [
+    "format",
+    "indent",
+    "less"
+  ],
+  "edit-cut-scissors": [
+    "edit",
+    "cut",
+    "scissors"
+  ],
+  "flag-blue": [
+    "flag",
+    "blue"
+  ],
+  "archive-insert-directory": [
+    "archive",
+    "insert",
+    "directory"
+  ],
+  "window-new": [
+    "window",
+    "new"
+  ],
+  "format-indent-more": [
+    "format",
+    "indent",
+    "more"
+  ],
+  "nautilus-gdu": [
+    "nautilus",
+    "gdu"
+  ],
+  "tool-tweak": [
+    "tool",
+    "tweak"
+  ],
+  "media-skip-backward": [
+    "media",
+    "skip",
+    "backward"
+  ],
+  "system-suspend-hibernate": [
+    "system",
+    "suspend",
+    "hibernate"
+  ],
+  "color-invert": [
+    "color",
+    "invert"
+  ],
+  "playlist-new": [
+    "playlist",
+    "new"
+  ],
+  "object-ungroup": [
+    "object",
+    "ungroup"
+  ],
+  "system-upgrade": [
+    "system",
+    "upgrade"
+  ],
+  "zoom-best-fit": [
+    "zoom",
+    "best",
+    "fit"
+  ],
+  "draw-star": [
+    "draw",
+    "star"
+  ],
+  "zoom-fit-page": [
+    "zoom",
+    "fit",
+    "page"
+  ],
+  "help-hint-bulb-idea": [
+    "help",
+    "hint",
+    "bulb",
+    "idea"
+  ],
+  "draw-eraser": [
+    "draw",
+    "eraser"
+  ],
+  "format-text-italic": [
+    "format",
+    "text",
+    "italic"
+  ],
+  "insert-link": [
+    "insert",
+    "link"
+  ],
+  "help-about-star-fav": [
+    "help",
+    "about",
+    "star",
+    "fav"
+  ],
+  "folder-copy": [
+    "folder",
+    "copy"
+  ],
+  "mail-mark-junk": [
+    "mail",
+    "mark",
+    "junk"
+  ],
+  "window-close": [
+    "window",
+    "close"
+  ],
+  "view-media-visualization": [
+    "view",
+    "media",
+    "visualization"
+  ],
+  "tab-new": [
+    "tab",
+    "new"
+  ],
+  "list-remove": [
+    "list",
+    "remove"
+  ],
+  "go-bottom": [
+    "bottom",
+    "go"
+  ],
+  "process-stop": [
+    "process",
+    "stop"
+  ],
+  "draw-polygon-star": [
+    "draw",
+    "polygon",
+    "star"
+  ]
+}

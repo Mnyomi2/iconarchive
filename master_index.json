@@ -3,12 +3,12 @@
     "id": "Gartoon-Team",
     "name": "Gartoon Team",
     "packCount": 8,
-    "iconCount": 827,
+    "iconCount": 829,
     "formatCounts": {
-      "Windows": 3308,
-      "Mac": 827,
-      "PNG": 6616,
-      "Vector": 825
+      "Windows": 6632,
+      "Mac": 1658,
+      "PNG": 13264,
+      "Vector": 1654
     }
   },
   {
@@ -17,9 +17,9 @@
     "packCount": 5,
     "iconCount": 23,
     "formatCounts": {
-      "Windows": 87,
-      "Mac": 23,
-      "PNG": 128
+      "Windows": 174,
+      "Mac": 46,
+      "PNG": 256
     }
   },
   {
@@ -28,22 +28,22 @@
     "packCount": 1,
     "iconCount": 50,
     "formatCounts": {
-      "Windows": 200,
-      "Mac": 50,
-      "PNG": 400,
-      "Vector": 50
+      "Windows": 400,
+      "Mac": 100,
+      "PNG": 800,
+      "Vector": 100
     }
   },
   {
     "id": "Papirus-Team",
     "name": "Papirus Team",
     "packCount": 5,
-    "iconCount": 1875,
+    "iconCount": 1881,
     "formatCounts": {
-      "Windows": 7488,
-      "Mac": 1872,
-      "PNG": 13104,
-      "Vector": 1872
+      "Windows": 15024,
+      "Mac": 3756,
+      "PNG": 26292,
+      "Vector": 3756
     }
   }
 ]

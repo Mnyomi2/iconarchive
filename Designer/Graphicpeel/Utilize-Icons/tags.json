@@ -1,0 +1,37 @@
+{
+  "Audio-MIDI": [
+    "audio",
+    "music",
+    "sound",
+    "midi"
+  ],
+  "AirPort": [
+    "airport"
+  ],
+  "Console": [
+    "console"
+  ],
+  "Terminal": [
+    "display",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "konsole",
+    "control",
+    "hardware"
+  ],
+  "Activity-Monitor": [
+    "activity",
+    "display",
+    "konsole",
+    "lcd",
+    "monitor",
+    "screen",
+    "terminal",
+    "workstation",
+    "control",
+    "hardware"
+  ]
+}

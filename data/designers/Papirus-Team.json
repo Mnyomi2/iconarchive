@@ -1,0 +1,57 @@
+[
+  {
+    "id": "Papirus-Apps-Icons",
+    "name": "Papirus Apps Icons",
+    "iconCount": 1421,
+    "formatCounts": {
+      "Windows": 5672,
+      "Mac": 1418,
+      "PNG": 9926,
+      "Vector": 1418
+    }
+  },
+  {
+    "id": "Papirus-Devices-Icons",
+    "name": "Papirus Devices Icons",
+    "iconCount": 42,
+    "formatCounts": {
+      "Windows": 168,
+      "Mac": 42,
+      "PNG": 294,
+      "Vector": 42
+    }
+  },
+  {
+    "id": "Papirus-Mimetypes-Icons",
+    "name": "Papirus Mimetypes Icons",
+    "iconCount": 101,
+    "formatCounts": {
+      "Windows": 404,
+      "Mac": 101,
+      "PNG": 707,
+      "Vector": 101
+    }
+  },
+  {
+    "id": "Papirus-Places-Icons",
+    "name": "Papirus Places Icons",
+    "iconCount": 255,
+    "formatCounts": {
+      "Windows": 1020,
+      "Mac": 255,
+      "PNG": 1785,
+      "Vector": 255
+    }
+  },
+  {
+    "id": "Papirus-Status-Icons",
+    "name": "Papirus Status Icons",
+    "iconCount": 62,
+    "formatCounts": {
+      "Windows": 248,
+      "Mac": 62,
+      "PNG": 434,
+      "Vector": 62
+    }
+  }
+]

@@ -1,0 +1,6255 @@
+[
+  {
+    "name": "audio-card.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-card.16.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-card.24.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-card.32.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-headphones.16.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-headphones.24.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-headphones.32.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-input-microphone.16.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-input-microphone.24.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-input-microphone.32.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-speakers.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-speakers.16.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-speakers.24.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/audio-speakers.32.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/battery.16.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/battery.24.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/battery.32.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "camera-photo.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/camera-photo.16.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/camera-photo.24.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/camera-photo.32.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-web.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/camera-web.16.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/camera-web.24.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/camera-web.32.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "computer-laptop.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/computer-laptop.16.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/computer-laptop.24.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/computer-laptop.32.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/computer.16.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/computer.24.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/computer.32.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/cpu.16.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/cpu.24.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/cpu.32.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-harddisk-ieee-1394.16.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-harddisk-ieee-1394.24.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-harddisk-ieee-1394.32.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-harddisk.16.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-harddisk.24.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-harddisk.32.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-multidisk.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-multidisk.16.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-multidisk.24.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-multidisk.32.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-optical.16.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-optical.24.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-optical.32.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-removable-media.16.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-removable-media.24.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/drive-removable-media.32.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/gnome-dev-printer-new.16.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/gnome-dev-printer-new.24.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/gnome-dev-printer-new.32.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-gaming.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-gaming.16.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-gaming.24.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-gaming.32.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-keyboard.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-keyboard.16.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-keyboard.24.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-keyboard.32.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-mouse.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-mouse.16.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-mouse.24.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-mouse.32.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-tablet.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-tablet.16.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-tablet.24.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-tablet.32.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-touchpad.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-touchpad.16.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-touchpad.24.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/input-touchpad.32.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-flash-memory-stick.16.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-flash-memory-stick.24.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-flash-memory-stick.32.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-flash.16.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-flash.24.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-flash.32.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-floppy.16.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-floppy.24.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-floppy.32.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-memory.16.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-memory.24.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-memory.32.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-optical.16.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-optical.24.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/media-optical.32.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/multimedia-player.16.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/multimedia-player.24.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/multimedia-player.32.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-card.16.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-card.24.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-card.32.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-modem.16.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-modem.24.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-modem.32.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-server.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-server.16.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-server.24.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-server.32.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-vpn.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-vpn.16.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-vpn.24.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-vpn.32.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wired.16.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wired.24.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wired.32.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wireless-hotspot.16.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wireless-hotspot.24.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wireless-hotspot.32.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wireless.16.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wireless.24.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/network-wireless.32.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/pda.16.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/pda.24.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/pda.32.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/phone.16.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/phone.24.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/phone.32.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/printer.16.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/printer.24.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/printer.32.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/scanner.16.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/scanner.24.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/scanner.32.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/smartphone.16.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/smartphone.24.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/smartphone.32.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/tablet.16.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/tablet.24.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/tablet.32.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "video-television.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/video-television.16.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/video-television.24.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/video-television.32.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "wiimotedev.16.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/wiimotedev.16.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.24.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/wiimotedev.24.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.32.png",
+    "format": "Favicon",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Favicon/wiimotedev.32.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/audio-card.icns",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/audio-headphones.icns",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/audio-input-microphone.icns",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-speakers.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/audio-speakers.icns",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/battery.icns",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "camera-photo.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/camera-photo.icns",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-web.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/camera-web.icns",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "computer-laptop.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/computer-laptop.icns",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/computer.icns",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/cpu.icns",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/drive-harddisk-ieee-1394.icns",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/drive-harddisk.icns",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-multidisk.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/drive-multidisk.icns",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/drive-optical.icns",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/drive-removable-media.icns",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/gnome-dev-printer-new.icns",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-gaming.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/input-gaming.icns",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-keyboard.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/input-keyboard.icns",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-mouse.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/input-mouse.icns",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-tablet.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/input-tablet.icns",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-touchpad.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/input-touchpad.icns",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/media-flash-memory-stick.icns",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/media-flash.icns",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/media-floppy.icns",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/media-memory.icns",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/media-optical.icns",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/multimedia-player.icns",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-card.icns",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-modem.icns",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-server.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-server.icns",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-vpn.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-vpn.icns",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-wired.icns",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-wireless-hotspot.icns",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/network-wireless.icns",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/pda.icns",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/phone.icns",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/printer.icns",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/scanner.icns",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/smartphone.icns",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/tablet.icns",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "video-television.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/video-television.icns",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "wiimotedev.icns",
+    "format": "Mac",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Mac/wiimotedev.icns",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.128.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.256.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.48.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.512.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.64.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.72.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-card.96.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.128.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.256.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.48.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.512.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.64.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.72.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-headphones.96.png",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.128.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.256.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.48.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.512.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.64.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.72.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-input-microphone.96.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-speakers.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.128.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.256.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.48.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.512.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.64.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.72.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-speakers.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/audio-speakers.96.png",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.128.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.256.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.48.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.512.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.64.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.72.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/battery.96.png",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "camera-photo.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.128.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.256.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.48.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.512.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.64.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.72.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-photo.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-photo.96.png",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-web.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.128.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.256.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.48.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.512.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.64.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.72.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "camera-web.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/camera-web.96.png",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "computer-laptop.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.128.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.256.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.48.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.512.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.64.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.72.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer-laptop.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer-laptop.96.png",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.128.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.256.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.48.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.512.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.64.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.72.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "computer.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/computer.96.png",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.128.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.256.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.48.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.512.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.64.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.72.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/cpu.96.png",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.128.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.256.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.48.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.512.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.64.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.72.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk-ieee-1394.96.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.128.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.256.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.48.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.512.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.64.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.72.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-harddisk.96.png",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-multidisk.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.128.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.256.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.48.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.512.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.64.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.72.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-multidisk.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-multidisk.96.png",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.128.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.256.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.48.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.512.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.64.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.72.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-optical.96.png",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.128.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.256.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.48.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.512.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.64.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.72.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/drive-removable-media.96.png",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.128.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.256.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.48.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.512.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.64.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.72.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/gnome-dev-printer-new.96.png",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-gaming.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.128.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.256.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.48.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.512.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.64.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.72.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-gaming.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-gaming.96.png",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-keyboard.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.128.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.256.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.48.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.512.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.64.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.72.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-keyboard.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-keyboard.96.png",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-mouse.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.128.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.256.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.48.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.512.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.64.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.72.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-mouse.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-mouse.96.png",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-tablet.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.128.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.256.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.48.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.512.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.64.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.72.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-tablet.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-tablet.96.png",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-touchpad.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.128.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.256.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.48.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.512.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.64.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.72.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "input-touchpad.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/input-touchpad.96.png",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.128.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.256.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.48.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.512.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.64.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.72.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash-memory-stick.96.png",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.128.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.256.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.48.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.512.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.64.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.72.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-flash.96.png",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.128.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.256.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.48.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.512.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.64.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.72.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-floppy.96.png",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.128.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.256.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.48.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.512.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.64.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.72.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-memory.96.png",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.128.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.256.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.48.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.512.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.64.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.72.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/media-optical.96.png",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.128.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.256.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.48.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.512.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.64.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.72.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/multimedia-player.96.png",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.128.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.256.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.48.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.512.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.64.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.72.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-card.96.png",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.128.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.256.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.48.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.512.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.64.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.72.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-modem.96.png",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-server.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.128.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.256.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.48.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.512.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.64.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.72.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-server.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-server.96.png",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-vpn.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.128.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.256.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.48.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.512.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.64.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.72.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-vpn.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-vpn.96.png",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.128.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.256.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.48.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.512.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.64.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.72.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wired.96.png",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.128.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.256.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.48.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.512.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.64.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.72.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless-hotspot.96.png",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.128.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.256.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.48.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.512.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.64.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.72.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/network-wireless.96.png",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.128.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.256.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.48.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.512.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.64.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.72.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/pda.96.png",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.128.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.256.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.48.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.512.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.64.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.72.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/phone.96.png",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.128.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.256.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.48.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.512.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.64.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.72.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/printer.96.png",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.128.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.256.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.48.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.512.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.64.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.72.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/scanner.96.png",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.128.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.256.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.48.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.512.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.64.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.72.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/smartphone.96.png",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.128.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.256.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.48.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.512.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.64.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.72.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/tablet.96.png",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "video-television.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.128.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.256.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.48.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.512.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.64.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.72.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "video-television.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/video-television.96.png",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "wiimotedev.128.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.128.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.256.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.256.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.48.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.48.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.512.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.512.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.64.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.64.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.72.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.72.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "wiimotedev.96.png",
+    "format": "PNG",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/PNG/wiimotedev.96.png",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-card.svg",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-headphones.svg",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-input-microphone.svg",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-speakers.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/audio-speakers.svg",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/battery.svg",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "camera-photo.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/camera-photo.svg",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-web.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/camera-web.svg",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "computer-laptop.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/computer-laptop.svg",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/computer.svg",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/cpu.svg",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-harddisk-ieee-1394.svg",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-harddisk.svg",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-multidisk.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-multidisk.svg",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-optical.svg",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/drive-removable-media.svg",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/gnome-dev-printer-new.svg",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-gaming.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-gaming.svg",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-keyboard.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-keyboard.svg",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-mouse.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-mouse.svg",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-tablet.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-tablet.svg",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-touchpad.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/input-touchpad.svg",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-flash-memory-stick.svg",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-flash.svg",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-floppy.svg",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-memory.svg",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/media-optical.svg",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/multimedia-player.svg",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-card.svg",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-modem.svg",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-server.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-server.svg",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-vpn.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-vpn.svg",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-wired.svg",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-wireless-hotspot.svg",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/network-wireless.svg",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/pda.svg",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/phone.svg",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/printer.svg",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/scanner.svg",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/smartphone.svg",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/tablet.svg",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "video-television.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/video-television.svg",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "wiimotedev.svg",
+    "format": "Vector",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Vector/wiimotedev.svg",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-card.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/audio-card.ico",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-headphones.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/audio-headphones.ico",
+    "tags": [
+      "audio",
+      "headphone",
+      "music",
+      "sound",
+      "earphone",
+      "headset",
+      "headphones",
+      "device"
+    ]
+  },
+  {
+    "name": "audio-input-microphone.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/audio-input-microphone.ico",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "input",
+      "device",
+      "microphone"
+    ]
+  },
+  {
+    "name": "audio-speakers.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/audio-speakers.ico",
+    "tags": [
+      "audio",
+      "music",
+      "sound",
+      "speaker",
+      "speakers",
+      "device"
+    ]
+  },
+  {
+    "name": "battery.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/battery.ico",
+    "tags": [
+      "battery",
+      "power",
+      "device"
+    ]
+  },
+  {
+    "name": "camera-photo.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/camera-photo.ico",
+    "tags": [
+      "cam",
+      "camera",
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "camera-web.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/camera-web.ico",
+    "tags": [
+      "cam",
+      "camera",
+      "web",
+      "device",
+      "hardware",
+      "image",
+      "photo",
+      "photography",
+      "picture"
+    ]
+  },
+  {
+    "name": "computer-laptop.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/computer-laptop.ico",
+    "tags": [
+      "computer",
+      "laptop",
+      "device",
+      "hardware",
+      "notebook"
+    ]
+  },
+  {
+    "name": "computer.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/computer.ico",
+    "tags": [
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "cpu.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/cpu.ico",
+    "tags": [
+      "cpu",
+      "processor",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-harddisk-ieee-1394.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/drive-harddisk-ieee-1394.ico",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "ieee",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-harddisk.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/drive-harddisk.ico",
+    "tags": [
+      "drive",
+      "harddisk",
+      "harddrive",
+      "hd",
+      "hdd",
+      "device",
+      "disc",
+      "disk",
+      "hardware"
+    ]
+  },
+  {
+    "name": "drive-multidisk.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/drive-multidisk.ico",
+    "tags": [
+      "multidisk",
+      "drive",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-optical.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/drive-optical.ico",
+    "tags": [
+      "drive",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "drive-removable-media.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/drive-removable-media.ico",
+    "tags": [
+      "drive",
+      "removable",
+      "media",
+      "device"
+    ]
+  },
+  {
+    "name": "gnome-dev-printer-new.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/gnome-dev-printer-new.ico",
+    "tags": [
+      "gnome",
+      "dev",
+      "print",
+      "printer",
+      "device",
+      "new",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-gaming.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/input-gaming.ico",
+    "tags": [
+      "input",
+      "gaming",
+      "device"
+    ]
+  },
+  {
+    "name": "input-keyboard.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/input-keyboard.ico",
+    "tags": [
+      "input",
+      "keyboard",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-mouse.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/input-mouse.ico",
+    "tags": [
+      "input",
+      "mouse",
+      "device"
+    ]
+  },
+  {
+    "name": "input-tablet.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/input-tablet.ico",
+    "tags": [
+      "input",
+      "tablet",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "input-touchpad.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/input-touchpad.ico",
+    "tags": [
+      "input",
+      "touchpad",
+      "device"
+    ]
+  },
+  {
+    "name": "media-flash-memory-stick.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/media-flash-memory-stick.ico",
+    "tags": [
+      "media",
+      "flash",
+      "memory",
+      "device",
+      "stick"
+    ]
+  },
+  {
+    "name": "media-flash.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/media-flash.ico",
+    "tags": [
+      "media",
+      "flash",
+      "device"
+    ]
+  },
+  {
+    "name": "media-floppy.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/media-floppy.ico",
+    "tags": [
+      "media",
+      "floppy",
+      "save",
+      "device"
+    ]
+  },
+  {
+    "name": "media-memory.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/media-memory.ico",
+    "tags": [
+      "media",
+      "memory",
+      "device"
+    ]
+  },
+  {
+    "name": "media-optical.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/media-optical.ico",
+    "tags": [
+      "media",
+      "optical",
+      "device"
+    ]
+  },
+  {
+    "name": "multimedia-player.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/multimedia-player.ico",
+    "tags": [
+      "player",
+      "multimedia",
+      "device"
+    ]
+  },
+  {
+    "name": "network-card.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-card.ico",
+    "tags": [
+      "network",
+      "card",
+      "device"
+    ]
+  },
+  {
+    "name": "network-modem.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-modem.ico",
+    "tags": [
+      "network",
+      "modem",
+      "device"
+    ]
+  },
+  {
+    "name": "network-server.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-server.ico",
+    "tags": [
+      "network",
+      "pc",
+      "server",
+      "computer",
+      "device",
+      "hardware"
+    ]
+  },
+  {
+    "name": "network-vpn.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-vpn.ico",
+    "tags": [
+      "network",
+      "vpn",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wired.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-wired.ico",
+    "tags": [
+      "network",
+      "wired",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless-hotspot.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-wireless-hotspot.ico",
+    "tags": [
+      "network",
+      "wireless",
+      "hotspot",
+      "device"
+    ]
+  },
+  {
+    "name": "network-wireless.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/network-wireless.ico",
+    "tags": [
+      "network",
+      "wireless",
+      "device"
+    ]
+  },
+  {
+    "name": "pda.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/pda.ico",
+    "tags": [
+      "pda",
+      "device"
+    ]
+  },
+  {
+    "name": "phone.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/phone.ico",
+    "tags": [
+      "phone",
+      "telephone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "printer.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/printer.ico",
+    "tags": [
+      "print",
+      "printer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "scanner.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/scanner.ico",
+    "tags": [
+      "scanner",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "smartphone.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/smartphone.ico",
+    "tags": [
+      "smartphone",
+      "call",
+      "contact",
+      "device"
+    ]
+  },
+  {
+    "name": "tablet.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/tablet.ico",
+    "tags": [
+      "tablet",
+      "computer",
+      "hardware",
+      "device"
+    ]
+  },
+  {
+    "name": "video-television.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/video-television.ico",
+    "tags": [
+      "film",
+      "movie",
+      "video",
+      "television",
+      "tv",
+      "device",
+      "news"
+    ]
+  },
+  {
+    "name": "wiimotedev.ico",
+    "format": "Windows",
+    "path": "Designer/Papirus-Team/Papirus-Devices-Icons/Windows/wiimotedev.ico",
+    "tags": [
+      "wiimotedev",
+      "device"
+    ]
+  }
+]

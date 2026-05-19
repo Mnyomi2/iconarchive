@@ -1,0 +1,558 @@
+{
+  "Stock-Undo-History": [
+    "stock",
+    "undo",
+    "history"
+  ],
+  "Image-Loading": [
+    "image",
+    "loading"
+  ],
+  "Gtk-Convert": [
+    "gtk",
+    "convert"
+  ],
+  "Media-Playlist-Repeat": [
+    "media",
+    "playlist",
+    "repeat"
+  ],
+  "Stock-Book-Red": [
+    "stock",
+    "book",
+    "red"
+  ],
+  "Nm-Signal-100": [
+    "signal"
+  ],
+  "Dialog-Question-Mark": [
+    "dialog",
+    "question",
+    "mark"
+  ],
+  "Gtk-Indent-Rtl": [
+    "gtk",
+    "indent",
+    "rtl"
+  ],
+  "Gtk-Undelete-Ltr": [
+    "gtk",
+    "undelete",
+    "ltr"
+  ],
+  "Stock-Music-Library": [
+    "stock",
+    "music",
+    "library"
+  ],
+  "User-Trash-Full": [
+    "user",
+    "trash",
+    "full"
+  ],
+  "Bluetooth-Inactive": [
+    "bluetooth",
+    "inactive"
+  ],
+  "Music-Note": [
+    "music",
+    "note"
+  ],
+  "Stock-Web-Calendar": [
+    "stock",
+    "web",
+    "calendar"
+  ],
+  "Stock-Exit-Group": [
+    "stock",
+    "exit",
+    "group"
+  ],
+  "Gtk-Dnd-Newspaper": [
+    "gtk",
+    "dnd",
+    "newspaper"
+  ],
+  "Stock-Person": [
+    "stock",
+    "person"
+  ],
+  "Gtk-Edit": [
+    "gtk",
+    "edit"
+  ],
+  "Stock-Data-New-Record": [
+    "stock",
+    "data",
+    "new",
+    "record"
+  ],
+  "Image-Missing": [
+    "image",
+    "missing"
+  ],
+  "Stock-Calendar-And-Tasks": [
+    "stock",
+    "calendar",
+    "tasks"
+  ],
+  "Gtk-Revert-To-Saved-Rtl": [
+    "gtk",
+    "revert",
+    "saved",
+    "rtl"
+  ],
+  "Security-Medium": [
+    "security",
+    "medium"
+  ],
+  "Stock-Timer-Stopped": [
+    "stock",
+    "timer",
+    "stopped"
+  ],
+  "Stock-Color": [
+    "stock",
+    "color"
+  ],
+  "Stock-New-24h-Appointment": [
+    "stock",
+    "new",
+    "appointment"
+  ],
+  "Gtk-Cdrom": [
+    "gtk",
+    "cdrom"
+  ],
+  "Task-Past-Due-Clipboard": [
+    "task",
+    "past",
+    "due",
+    "clipboard"
+  ],
+  "Stock-Task": [
+    "stock",
+    "task"
+  ],
+  "Stock-Book-Yellow": [
+    "stock",
+    "book",
+    "yellow"
+  ],
+  "Updates-Notifier-Inactive-Star": [
+    "updates",
+    "notifier",
+    "inactive",
+    "star"
+  ],
+  "Emblem-Ubuntuone-Updating": [
+    "emblem",
+    "ubuntuone",
+    "updating"
+  ],
+  "Mail-Attachment": [
+    "mail",
+    "attachment"
+  ],
+  "Stock-Book-Green": [
+    "stock",
+    "book",
+    "green"
+  ],
+  "Emblem-Art-Brush": [
+    "emblem",
+    "art",
+    "brush"
+  ],
+  "Gtk-Configure-Preferences": [
+    "gtk",
+    "configure",
+    "preferences"
+  ],
+  "Gtk-Undo-Rtl": [
+    "gtk",
+    "undo",
+    "rtl"
+  ],
+  "Psp-Play-Station-Portable": [
+    "psp",
+    "play",
+    "station",
+    "portable"
+  ],
+  "Emblem-Photos": [
+    "emblem",
+    "photos"
+  ],
+  "Stock-Headphones": [
+    "stock",
+    "headphones"
+  ],
+  "Stock-Task-Recurring": [
+    "stock",
+    "task",
+    "recurring"
+  ],
+  "Bluetooth-Paired": [
+    "bluetooth",
+    "paired"
+  ],
+  "Gtk-Disconnect-Plug": [
+    "gtk",
+    "disconnect",
+    "plug"
+  ],
+  "Gpm-Brightness-Kbd": [
+    "gpm",
+    "brightness",
+    "kbd"
+  ],
+  "Seahorse-Applet-Encrypted": [
+    "seahorse",
+    "applet",
+    "encrypted"
+  ],
+  "Emblem-Ubuntuone-Unsynchronized": [
+    "emblem",
+    "ubuntuone",
+    "unsynchronized"
+  ],
+  "Object-Lock-Unlocked": [
+    "object",
+    "lock",
+    "unlocked"
+  ],
+  "Task-Due": [
+    "task",
+    "due"
+  ],
+  "Battery": [
+    "battery"
+  ],
+  "Preferences-Desktop-Locale": [
+    "desktop",
+    "preferences",
+    "locale"
+  ],
+  "Emblem-Certified": [
+    "emblem",
+    "certified"
+  ],
+  "Gtk-Connect-Socket": [
+    "gtk",
+    "connect",
+    "socket"
+  ],
+  "Lock-Secure-Checked": [
+    "lock",
+    "secure",
+    "checked"
+  ],
+  "Stock-Zoom-Next": [
+    "stock",
+    "zoom",
+    "next"
+  ],
+  "Security-High": [
+    "security",
+    "high"
+  ],
+  "Dialog-Error": [
+    "dialog",
+    "error"
+  ],
+  "Stock-Mail-Open-Multiple": [
+    "stock",
+    "mail",
+    "open",
+    "multiple"
+  ],
+  "Stock-Task-Assigned-To": [
+    "stock",
+    "task",
+    "assigned"
+  ],
+  "Stock-Contact-List": [
+    "stock",
+    "contact",
+    "list"
+  ],
+  "Stock-Keyring-Key": [
+    "stock",
+    "keyring",
+    "key"
+  ],
+  "Stock-Data-Undo": [
+    "stock",
+    "data",
+    "undo"
+  ],
+  "Network-Idle": [
+    "network",
+    "idle"
+  ],
+  "Gtk-Unindent-Rtl": [
+    "gtk",
+    "unindent",
+    "rtl"
+  ],
+  "Stock-Unknown": [
+    "stock",
+    "unknown"
+  ],
+  "Gtk-Media-Play-Rtl": [
+    "gtk",
+    "media",
+    "play",
+    "rtl"
+  ],
+  "Stock-Insert-Chart": [
+    "stock",
+    "insert",
+    "chart"
+  ],
+  "Stock-Todo": [
+    "stock",
+    "todo"
+  ],
+  "Stock-Mail-Unread-Multiple": [
+    "stock",
+    "mail",
+    "unread",
+    "multiple"
+  ],
+  "Seahorse-Applet-Signed": [
+    "seahorse",
+    "applet",
+    "signed"
+  ],
+  "Stock-Save-Pdf": [
+    "stock",
+    "save",
+    "pdf"
+  ],
+  "Stock-Enter-Group": [
+    "stock",
+    "enter",
+    "group"
+  ],
+  "Gtk-Select-Color": [
+    "gtk",
+    "select",
+    "color"
+  ],
+  "Dialog-Warning-Exclamation-Mark": [
+    "dialog",
+    "warning",
+    "exclamation",
+    "mark"
+  ],
+  "Dialog-Password-Lock": [
+    "dialog",
+    "password",
+    "lock"
+  ],
+  "Stock-Edit-Bookmarks": [
+    "stock",
+    "edit",
+    "bookmarks"
+  ],
+  "Gtk-Undelete-Rtl": [
+    "gtk",
+    "undelete",
+    "rtl"
+  ],
+  "Stock-Web-Support": [
+    "stock",
+    "web",
+    "support"
+  ],
+  "Emblem-Ubuntuone-Synchronized": [
+    "emblem",
+    "ubuntuone",
+    "synchronized"
+  ],
+  "Stock-Link": [
+    "stock",
+    "link"
+  ],
+  "Stock-Data-Save": [
+    "stock",
+    "data",
+    "save"
+  ],
+  "Gtk-Index": [
+    "gtk",
+    "index"
+  ],
+  "Gtk-Jump-To-Rtl": [
+    "gtk",
+    "jump",
+    "rtl"
+  ],
+  "Stock-Timer": [
+    "stock",
+    "timer"
+  ],
+  "Audio-Megaphone": [
+    "audio",
+    "megaphone"
+  ],
+  "Gtk-Dnd-Multiple-Newspaper": [
+    "gtk",
+    "dnd",
+    "multiple",
+    "newspaper"
+  ],
+  "Stock-Up-One-Dir": [
+    "stock",
+    "one",
+    "up",
+    "dir"
+  ],
+  "Stock-Navigator-Insert-As-Copy": [
+    "stock",
+    "navigator",
+    "insert",
+    "copy"
+  ],
+  "Stock-Book-Blue": [
+    "stock",
+    "book",
+    "blue"
+  ],
+  "Media-Playlist-Shuffle": [
+    "media",
+    "playlist",
+    "shuffle"
+  ],
+  "Stock-Task-Assigned": [
+    "stock",
+    "task",
+    "assigned"
+  ],
+  "Stock-Data-Delete-Record": [
+    "stock",
+    "data",
+    "delete",
+    "record"
+  ],
+  "Stock-Mark": [
+    "stock",
+    "mark"
+  ],
+  "Stock-Folder-Properties": [
+    "stock",
+    "folder",
+    "properties"
+  ],
+  "Gtk-File-New": [
+    "gtk",
+    "file",
+    "new"
+  ],
+  "Network-Transmit-Receive": [
+    "network",
+    "transmit",
+    "receive"
+  ],
+  "Network-Wireless-Encrypted": [
+    "network",
+    "wireless",
+    "encrypted"
+  ],
+  "Gtk-Overline": [
+    "gtk",
+    "overline"
+  ],
+  "Stock-Timezone": [
+    "stock",
+    "timezone"
+  ],
+  "Emblem-Favorite-Heart": [
+    "emblem",
+    "favorite",
+    "heart"
+  ],
+  "Gpm-Brightness-Lcd": [
+    "gpm",
+    "brightness",
+    "lcd"
+  ],
+  "Stock-People": [
+    "stock",
+    "people"
+  ],
+  "Stock-Sum": [
+    "stock",
+    "sum"
+  ],
+  "Stock-Zoom-Previous": [
+    "stock",
+    "zoom",
+    "previous"
+  ],
+  "Seahorse-Applet-Unknown": [
+    "seahorse",
+    "applet",
+    "unknown"
+  ],
+  "Security-Low": [
+    "security",
+    "low"
+  ],
+  "Stock-New-Meeting-Hands": [
+    "stock",
+    "new",
+    "meeting",
+    "hands"
+  ],
+  "Stock-Equals": [
+    "stock",
+    "equals"
+  ],
+  "Gtk-Redo-Rtl": [
+    "gtk",
+    "redo",
+    "rtl"
+  ],
+  "Emblem-Pictures": [
+    "emblem",
+    "pictures"
+  ],
+  "Stock-Mail-Filters-Apply": [
+    "stock",
+    "mail",
+    "filters",
+    "apply"
+  ],
+  "Dialog-Information": [
+    "dialog",
+    "information"
+  ],
+  "Object-Lock-Locked": [
+    "object",
+    "lock",
+    "locked"
+  ],
+  "Gpm-Battery-Charged": [
+    "gpm",
+    "battery",
+    "charged"
+  ],
+  "Stock-Mail-Import": [
+    "stock",
+    "mail",
+    "import"
+  ],
+  "Seahorse-Applet-Text": [
+    "seahorse",
+    "applet",
+    "text"
+  ],
+  "Seahorse-Applet-Key": [
+    "seahorse",
+    "applet",
+    "key"
+  ]
+}
