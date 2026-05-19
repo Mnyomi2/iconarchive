@@ -3,24 +3,47 @@
     "id": "Gartoon-Team",
     "name": "Gartoon Team",
     "packCount": 8,
-    "iconCount": 11576
+    "iconCount": 827,
+    "formatCounts": {
+      "Windows": 3308,
+      "Mac": 827,
+      "PNG": 6616,
+      "Vector": 825
+    }
   },
   {
     "id": "Graphicpeel",
     "name": "Graphicpeel",
     "packCount": 5,
-    "iconCount": 238
+    "iconCount": 23,
+    "formatCounts": {
+      "Windows": 87,
+      "Mac": 23,
+      "PNG": 128
+    }
   },
   {
     "id": "Justicon",
     "name": "Justicon",
     "packCount": 1,
-    "iconCount": 700
+    "iconCount": 50,
+    "formatCounts": {
+      "Windows": 200,
+      "Mac": 50,
+      "PNG": 400,
+      "Vector": 50
+    }
   },
   {
     "id": "Papirus-Team",
     "name": "Papirus Team",
     "packCount": 5,
-    "iconCount": 24336
+    "iconCount": 1875,
+    "formatCounts": {
+      "Windows": 7488,
+      "Mac": 1872,
+      "PNG": 13104,
+      "Vector": 1872
+    }
   }
 ]

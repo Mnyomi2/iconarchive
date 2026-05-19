@@ -2,26 +2,56 @@
   {
     "id": "Papirus-Apps-Icons",
     "name": "Papirus Apps Icons",
-    "iconCount": 18369
+    "iconCount": 1416,
+    "formatCounts": {
+      "Windows": 5652,
+      "Mac": 1413,
+      "PNG": 9891,
+      "Vector": 1413
+    }
   },
   {
     "id": "Papirus-Devices-Icons",
     "name": "Papirus Devices Icons",
-    "iconCount": 546
+    "iconCount": 42,
+    "formatCounts": {
+      "Windows": 168,
+      "Mac": 42,
+      "PNG": 294,
+      "Vector": 42
+    }
   },
   {
     "id": "Papirus-Mimetypes-Icons",
     "name": "Papirus Mimetypes Icons",
-    "iconCount": 1300
+    "iconCount": 100,
+    "formatCounts": {
+      "Windows": 400,
+      "Mac": 100,
+      "PNG": 700,
+      "Vector": 100
+    }
   },
   {
     "id": "Papirus-Places-Icons",
     "name": "Papirus Places Icons",
-    "iconCount": 3315
+    "iconCount": 255,
+    "formatCounts": {
+      "Windows": 1020,
+      "Mac": 255,
+      "PNG": 1785,
+      "Vector": 255
+    }
   },
   {
     "id": "Papirus-Status-Icons",
     "name": "Papirus Status Icons",
-    "iconCount": 806
+    "iconCount": 62,
+    "formatCounts": {
+      "Windows": 248,
+      "Mac": 62,
+      "PNG": 434,
+      "Vector": 62
+    }
   }
 ]
