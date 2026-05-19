@@ -499,7 +499,15 @@
                         return d;
                     }).sort((a, b) => a.name.localeCompare(b.name));
                 } else {
-                    designersList = rawData; // Standard hierarchical list
+                    // Strictly filter out any invalid, null, empty, or undefined designers
+                    designersList = rawData.filter(d => 
+                        d && 
+                        d.id && 
+                        d.name && 
+                        d.name !== 'undefined' && 
+                        d.name !== 'null' && 
+                        d.name.trim() !== ''
+                    );
                 }
 
                 loading.classList.add('hidden');
@@ -675,40 +683,37 @@
 
             if (currentView === 'designers') {
                 let artistsToShow = designersList;
-
-                // If a filter is active, instantly pre-filter using precalculated counts
                 if (!activeFormatFilters.includes('All')) {
-                    artistsToShow = artistsToShow.filter(designer => {
-                        if (!designer.formatCounts) return true; // Safety fallback
-                        return activeFormatFilters.some(f => designer.formatCounts[f] > 0);
-                    });
+                    artistsToShow = artistsToShow.filter(designer => 
+                        designer.formatCounts && activeFormatFilters.some(f => designer.formatCounts[f] > 0)
+                    );
                 }
-                
                 displayList = artistsToShow.filter(d => d.name.toLowerCase().includes(query));
             } 
             else if (currentView === 'iconpacks') {
-                displayList = [];
                 const packPromises = designersList.map(async d => {
                     const packs = await fetchDesignerPacks(d.id);
                     return packs.map(p => ({ artist: d.id, pack: p.id, name: p.name, iconCount: p.iconCount, formatCounts: p.formatCounts }));
                 });
                 let allPacksArr = (await Promise.all(packPromises)).flat();
-                
-                // If a filter is active, instantly remove packs with 0 matching icons
                 if (!activeFormatFilters.includes('All')) {
-                    allPacksArr = allPacksArr.filter(packData => {
-                        if (!packData.formatCounts) return true; // Safety fallback
-                        return activeFormatFilters.some(f => packData.formatCounts[f] > 0);
-                    });
+                    allPacksArr = allPacksArr.filter(p => 
+                        p.formatCounts && activeFormatFilters.some(f => p.formatCounts[f] > 0)
+                    );
                 }
-
                 displayList = allPacksArr.filter(p => p.name.toLowerCase().includes(query)).sort((a, b) => a.name.localeCompare(b.name));
             }
             else if (currentView === 'packs') {
                 const packs = await fetchDesignerPacks(navState.artist);
-                displayList = packs.filter(p => p.name.toLowerCase().includes(query)).map(p => ({
-                    artist: navState.artist, pack: p.id, name: p.name, iconCount: p.iconCount
+                let packsArr = packs.map(p => ({
+                    artist: navState.artist, pack: p.id, name: p.name, iconCount: p.iconCount, formatCounts: p.formatCounts
                 }));
+                if (!activeFormatFilters.includes('All')) {
+                    packsArr = packsArr.filter(p => 
+                        p.formatCounts && activeFormatFilters.some(f => p.formatCounts[f] > 0)
+                    );
+                }
+                displayList = packsArr.filter(p => p.name.toLowerCase().includes(query));
             } 
             else if (currentView === 'icons') {
                 const icons = await fetchPackIcons(navState.artist, navState.pack);
@@ -718,15 +723,22 @@
                     if(!groupedVariants[key]) groupedVariants[key] = [];
                     groupedVariants[key].push(i);
                 });
+                
+                const getCat = (f) => {
+                    if (f.startsWith('PNG')) return 'PNG';
+                    if (f.startsWith('Win')) return 'Windows';
+                    if (f.startsWith('Mac')) return 'Mac';
+                    return f; // Vector, Favicon
+                };
+
                 displayList = [];
                 Object.values(groupedVariants).forEach(variants => {
-                    let matchQ = false;
-                    if (activeTag) {
-                        matchQ = variants.some(i => i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase() === activeTag.toLowerCase()));
-                    } else {
-                        matchQ = variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || (i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase().includes(query))));
-                    }
-                    let matchF = activeFormatFilters.includes('All') ? true : variants.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                    let matchQ = activeTag 
+                        ? variants.some(i => i.tags?.some(t => t.toLowerCase() === activeTag.toLowerCase()))
+                        : variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || i.tags?.some(t => t.toLowerCase().includes(query)));
+                    
+                    let matchF = activeFormatFilters.includes('All') || variants.some(v => activeFormatFilters.includes(getCat(v.exactFormat)));
+                    
                     if (matchQ && matchF) displayList.push(variants);
                 });
             }

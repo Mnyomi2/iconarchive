@@ -339,13 +339,17 @@ def build_index():
                     fmt = icon["format"]
                     global_formats.add(fmt)
                     
-                    gen_fmt = fmt
-                    if 'PNG' in fmt: gen_fmt = 'PNG'
-                    elif 'Win' in fmt or 'ICO' in fmt.upper(): gen_fmt = 'Windows'
-                    elif 'Mac' in fmt or 'ICNS' in fmt.upper(): gen_fmt = 'Mac'
-                    elif 'Favicon' in fmt: gen_fmt = 'Favicon'
+                    fmt_u = fmt.upper()
+                    gen_fmt = None
+                    if 'VECTOR' in fmt_u or 'SVG' in fmt_u: gen_fmt = 'Vector'
+                    elif 'PNG' in fmt_u: gen_fmt = 'PNG'
+                    elif 'ICO' in fmt_u or 'WIN' in fmt_u or 'WINDOWS' in fmt_u: gen_fmt = 'Windows'
+                    elif 'ICNS' in fmt_u or 'MAC' in fmt_u: gen_fmt = 'Mac'
+                    elif 'FAVICON' in fmt_u: gen_fmt = 'Favicon'
                     
-                    pack_format_counts[gen_fmt] = pack_format_counts.get(gen_fmt, 0) + 1
+                    if gen_fmt:
+                        pack_format_counts[gen_fmt] = pack_format_counts.get(gen_fmt, 0) + 1
+                        designer_meta["formatCounts"][gen_fmt] = designer_meta["formatCounts"].get(gen_fmt, 0) + 1
                     designer_meta["formatCounts"][gen_fmt] = designer_meta["formatCounts"].get(gen_fmt, 0) + 1
                 
                 parts = icon["name"].split('.')
