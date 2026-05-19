@@ -363,6 +363,8 @@
             cachedIcons = {};
             cachedDesignerCounts = {};
             localStorage.removeItem('designer_icon_counts');
+            cachedPackCounts = {};
+            localStorage.removeItem('pack_icon_counts');
             tagsExtracted = false;
             allExtractedTags = [];
             
@@ -413,6 +415,7 @@
         let renderLimit = 50; 
         let isFetching = false;
         let cachedDesignerCounts = JSON.parse(localStorage.getItem('designer_icon_counts')) || {};
+        let cachedPackCounts = JSON.parse(localStorage.getItem('pack_icon_counts')) || {};
 
         // DOM Elements
         const mainGrid = document.getElementById('mainGrid');
@@ -668,7 +671,23 @@
             const currentStream = ++streamId; 
 
             if (currentView === 'designers') {
-                displayList = designersList.filter(d => d.name.toLowerCase().includes(query));
+                let artistsToShow = designersList;
+
+                // If a filter is active, pre-filter the list before displaying anything
+                if (!activeFormatFilters.includes('All')) {
+                    const designerHasMatchingIcons = await Promise.all(artistsToShow.map(async (designer) => {
+                        const packs = await fetchDesignerPacks(designer.id);
+                        for (const pack of packs) {
+                            const icons = await fetchPackIcons(designer.id, pack.id);
+                            const hasMatch = icons.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                            if (hasMatch) return true; // Found a match, no need to check other packs for this designer
+                        }
+                        return false; // No match found in any pack for this designer
+                    }));
+                    artistsToShow = artistsToShow.filter((_, index) => designerHasMatchingIcons[index]);
+                }
+                
+                displayList = artistsToShow.filter(d => d.name.toLowerCase().includes(query));
             } 
             else if (currentView === 'iconpacks') {
                 displayList = [];
@@ -676,8 +695,18 @@
                     const packs = await fetchDesignerPacks(d.id);
                     return packs.map(p => ({ artist: d.id, pack: p.id, name: p.name, iconCount: p.iconCount }));
                 });
-                const allPacksArr = await Promise.all(packPromises);
-                displayList = allPacksArr.flat().filter(p => p.name.toLowerCase().includes(query)).sort((a, b) => a.name.localeCompare(b.name));
+                let allPacksArr = (await Promise.all(packPromises)).flat();
+                
+                // If a filter is active, pre-filter the list of packs
+                if (!activeFormatFilters.includes('All')) {
+                    const packHasMatchingIcons = await Promise.all(allPacksArr.map(async (packData) => {
+                        const icons = await fetchPackIcons(packData.artist, packData.pack);
+                        return icons.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                    }));
+                    allPacksArr = allPacksArr.filter((_, index) => packHasMatchingIcons[index]);
+                }
+
+                displayList = allPacksArr.filter(p => p.name.toLowerCase().includes(query)).sort((a, b) => a.name.localeCompare(b.name));
             }
             else if (currentView === 'packs') {
                 const packs = await fetchDesignerPacks(navState.artist);
@@ -994,15 +1023,11 @@
                         trueIconCount += uniqueGroups.size;
                     }
 
-                    if (isFiltered && trueIconCount === 0) {
-                        div.style.display = 'none';
-                    } else {
-                        if (iconCountEl) iconCountEl.innerText = `${trueIconCount} Icons`;
-                        // Only save to cache if we calculated the TOTAL (unfiltered) count
-                        if (!isFiltered) {
-                            cachedDesignerCounts[designer.id] = { packCount: packs.length, iconCount: trueIconCount };
-                            localStorage.setItem('designer_icon_counts', JSON.stringify(cachedDesignerCounts));
-                        }
+                    if (iconCountEl) iconCountEl.innerText = `${trueIconCount} Icons`;
+                    // Only save to cache if we calculated the TOTAL (unfiltered) count
+                    if (!isFiltered) {
+                        cachedDesignerCounts[designer.id] = { packCount: packs.length, iconCount: trueIconCount };
+                        localStorage.setItem('designer_icon_counts', JSON.stringify(cachedDesignerCounts));
                     }
                 });
             }
@@ -1025,27 +1050,35 @@
                         <h3 class="font-bold text-base sm:text-lg text-gray-900 dark:text-white truncate capitalize">${packData.name}</h3>
                         <p class="text-[10px] text-gray-400 font-bold uppercase tracking-widest mt-0.5 truncate">${packData.artist.replace(/-/g, ' ')}</p>
                     </div>
-                    <span class="pack-count text-[10px] font-black uppercase tracking-wider text-blue-600 bg-blue-50 dark:bg-blue-900/30 dark:text-blue-400 px-2.5 py-1.5 rounded-lg shrink-0">${packData.iconCount} ICONS</span>
+                    <span class="pack-count text-[10px] font-black uppercase tracking-wider text-blue-600 bg-blue-50 dark:bg-blue-900/30 dark:text-blue-400 px-2.5 py-1.5 rounded-lg shrink-0"><i class="fa-solid fa-circle-notch fa-spin text-[10px]"></i></span>
                 </div>
             `;
 
-            // Lazy Load Previews smoothly without crashing
+            const countEl = div.querySelector('.pack-count');
+            const cacheKey = `${packData.artist}/${packData.pack}`;
+            
+            // Eagerly set count from cache if possible (when no filter is active)
+            if (activeFormatFilters.includes('All') && cachedPackCounts[cacheKey]) {
+                countEl.innerText = `${cachedPackCounts[cacheKey]} ICONS`;
+            }
+
+            // Always fetch icons for previews, and for counting if needed
             fetchPackIcons(packData.artist, packData.pack).then(icons => {
                 let filteredIcons = icons;
                 if (!activeFormatFilters.includes('All')) {
                     filteredIcons = icons.filter(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
                 }
 
-                // Dynamically update to show ONLY the true group count
                 const uniqueGroups = new Set(filteredIcons.map(i => i.groupKey));
-                
-                if (!activeFormatFilters.includes('All') && uniqueGroups.size === 0) {
-                    div.style.display = 'none'; // Auto-hide pack entirely if no matching formats exist
-                    return;
-                }
 
-                const countEl = div.querySelector('.pack-count');
-                if (countEl) countEl.innerText = `${uniqueGroups.size} ICONS`;
+                // Update the count text (this will be the filtered count, or the total count if not filtered)
+                countEl.innerText = `${uniqueGroups.size} ICONS`;
+
+                // If we calculated the TOTAL count and it wasn't cached, save it now
+                if (activeFormatFilters.includes('All') && !cachedPackCounts[cacheKey]) {
+                    cachedPackCounts[cacheKey] = uniqueGroups.size;
+                    localStorage.setItem('pack_icon_counts', JSON.stringify(cachedPackCounts));
+                }
 
                 const getPriority = (i) => {
                     if (i.exactFormat === 'Vector') return 1;
@@ -1063,10 +1096,8 @@
                 };
                 
                 const uniqueMap = {};
-                // ALWAYS scan the original UNFILTERED icons to find the best web-safe thumbnail 
-                // for the icons that successfully passed the filter!
                 icons.forEach(icon => {
-                    if (!uniqueGroups.has(icon.groupKey)) return; // Skip if this icon wasn't in the filtered results
+                    if (!uniqueGroups.has(icon.groupKey)) return;
                     const baseName = icon.groupKey;
                     if (!uniqueMap[baseName] || getPriority(icon) < getPriority(uniqueMap[baseName])) uniqueMap[baseName] = icon;
                 });
@@ -1078,8 +1109,6 @@
                     const url = `${CDN_BASE}${p.path}`;
                     const hoverRotate = idx % 2 === 0 ? 'group-hover:-rotate-6' : 'group-hover:rotate-6';
                     const containerClasses = `w-16 h-16 sm:w-[4.5rem] sm:h-[4.5rem] flex items-center justify-center bg-white/95 dark:bg-dark-800/95 backdrop-blur-md rounded-2xl shadow-lg border border-gray-200/30 dark:border-dark-600/30 group-hover:-translate-y-1 ${hoverRotate} transition-all duration-300 z-10 relative shrink-0`;
-
-                    // Always try to show the actual image URL (ICO files work in modern browsers)
                     previewHtml += `<div class="${containerClasses}"><img src="${url}" class="w-11 h-11 sm:w-12 sm:h-12 object-contain drop-shadow-md" loading="lazy" onerror="this.parentElement.innerHTML='<i class=\'fa-solid fa-file-code text-2xl text-gray-400\'></i>'"></div>`;
                 });
                 
