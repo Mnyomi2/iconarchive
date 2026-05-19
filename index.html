@@ -209,6 +209,11 @@
                             class="w-full bg-gray-100 dark:bg-dark-700 border border-transparent focus:border-blue-500 dark:focus:border-blue-500 rounded-full pl-11 pr-4 py-2 outline-none transition shadow-sm text-sm">
                     </div>
                     
+                    <!-- Filter Button -->
+                    <button id="filterBtn" onclick="openFilterModal()" class="w-9 h-9 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-blue-100 hover:text-blue-600 dark:hover:bg-dark-600 dark:hover:text-blue-400 transition shrink-0 shadow-sm" title="Filter Formats">
+                        <i class="fa-solid fa-filter text-sm transition-transform"></i>
+                    </button>
+
                     <!-- Sync / Refresh Button -->
                     <button id="syncBtn" onclick="forceSync()" class="w-9 h-9 rounded-full bg-gray-100 dark:bg-dark-700 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-blue-100 hover:text-blue-600 dark:hover:bg-dark-600 dark:hover:text-blue-400 transition shrink-0 shadow-sm" title="Refresh & Sync Data">
                         <i class="fa-solid fa-rotate text-sm transition-transform"></i>
@@ -332,6 +337,7 @@
         const BRANCH = "main";
 
         const CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
+        const PURGE_BASE = `https://purge.jsdelivr.net/gh/${GITHUB_USERNAME}/${REPO_NAME}@${BRANCH}/`;
 
         // --- SMART FETCHER (Handles errors and caches flawlessly) ---
         // Retrieve last sync key from storage to ensure refresh doesn't revert to old data
@@ -341,6 +347,13 @@
             const icon = document.querySelector('#syncBtn i');
             if (icon) icon.classList.add('fa-spin');
             
+            try {
+                // Tell jsDelivr to purge the main index cache
+                await fetch(`${PURGE_BASE}master_index.json`);
+            } catch (e) {
+                console.log("Purge request sent.");
+            }
+            
             // Generate new timestamp and save it permanently to local storage
             cacheBuster = "?t=" + new Date().getTime();
             localStorage.setItem('icon_gallery_sync_key', cacheBuster);
@@ -348,6 +361,8 @@
             // Clear all local memory caches
             cachedPacks = {};
             cachedIcons = {};
+            cachedDesignerCounts = {};
+            localStorage.removeItem('designer_icon_counts');
             tagsExtracted = false;
             allExtractedTags = [];
             
@@ -355,7 +370,7 @@
             await init();
             
             if (icon) icon.classList.remove('fa-spin');
-            showToast("Database Synced Successfully!");
+            showToast("Database Synced! ");
         }
 
         async function fetchJSON(path, ignoreError = false) {
@@ -382,10 +397,11 @@
         let designersList = []; 
         let cachedPacks = {};   
         let cachedIcons = {};   
+        let streamId = 0; // Global ID to stop background loading when you change views   
         
         let currentView = 'designers'; 
         let navState = { artist: null, pack: null };
-        let activeFormatFilters = ['All']; 
+        let activeFormatFilters = JSON.parse(localStorage.getItem('iconGallery_filters')) || ['All']; 
         let tempFormatFilters = [];
         let currentZoomLevel = parseInt(localStorage.getItem('grid_zoom')) || 3; 
         let activeTag = null; 
@@ -396,6 +412,7 @@
         let displayList = [];
         let renderLimit = 50; 
         let isFetching = false;
+        let cachedDesignerCounts = JSON.parse(localStorage.getItem('designer_icon_counts')) || {};
 
         // DOM Elements
         const mainGrid = document.getElementById('mainGrid');
@@ -648,6 +665,7 @@
             const query = searchInput.value.toLowerCase();
             renderLimit = 50; 
             scrollContainer.scrollTop = 0;
+            const currentStream = ++streamId; 
 
             if (currentView === 'designers') {
                 displayList = designersList.filter(d => d.name.toLowerCase().includes(query));
@@ -669,14 +687,12 @@
             } 
             else if (currentView === 'icons') {
                 const icons = await fetchPackIcons(navState.artist, navState.pack);
-                
                 let groupedVariants = {};
                 icons.forEach(i => {
                     let key = i.groupKey;
                     if(!groupedVariants[key]) groupedVariants[key] = [];
                     groupedVariants[key].push(i);
                 });
-
                 displayList = [];
                 Object.values(groupedVariants).forEach(variants => {
                     let matchQ = false;
@@ -685,45 +701,52 @@
                     } else {
                         matchQ = variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || (i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase().includes(query))));
                     }
-                    if (matchQ) displayList.push(variants);
+                    let matchF = activeFormatFilters.includes('All') ? true : variants.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                    if (matchQ && matchF) displayList.push(variants);
                 });
             }
             else if (currentView === 'all') {
                 displayList = [];
-                let allGroupedVariants = {};
-                
-                const allPacksData = await Promise.all(designersList.map(async d => {
+                mainGrid.innerHTML = '';
+                for (const d of designersList) {
+                    if (streamId !== currentStream) return;
                     const packs = await fetchDesignerPacks(d.id);
-                    return packs.map(p => ({ artist: d.id, pack: p.id }));
-                }));
-                const flatPacks = allPacksData.flat();
-                
-                const chunkSize = 25;
-                for (let i = 0; i < flatPacks.length; i += chunkSize) {
-                    const chunk = flatPacks.slice(i, i + chunkSize);
-                    await Promise.all(chunk.map(async ({ artist, pack }) => {
-                        const icons = await fetchPackIcons(artist, pack);
+                    for (const p of packs) {
+                        if (streamId !== currentStream) return;
+                        const icons = await fetchPackIcons(d.id, p.id);
+                        let packGrouped = {};
                         icons.forEach(i => {
-                            let fullKey = `${artist}-${pack}-${i.groupKey}`; 
-                            if(!allGroupedVariants[fullKey]) allGroupedVariants[fullKey] = [];
-                            allGroupedVariants[fullKey].push(i);
+                            let key = i.groupKey;
+                            if(!packGrouped[key]) packGrouped[key] = [];
+                            packGrouped[key].push(i);
                         });
-                    }));
-                }
-
-                Object.values(allGroupedVariants).forEach(variants => {
-                    let matchQ = false;
-                    if (activeTag) {
-                        matchQ = variants.some(i => i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase() === activeTag.toLowerCase()));
-                    } else {
-                        matchQ = variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || (i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase().includes(query))));
+                        let newItems = [];
+                        Object.values(packGrouped).forEach(variants => {
+                            let matchQ = false;
+                            if (activeTag) {
+                                matchQ = variants.some(i => i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase() === activeTag.toLowerCase()));
+                            } else {
+                                matchQ = variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || (i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase().includes(query))));
+                            }
+                            let matchF = activeFormatFilters.includes('All') ? true : variants.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                            if (matchQ && matchF) newItems.push(variants);
+                        });
+                        if (newItems.length > 0) {
+                            displayList.push(...newItems);
+                            renderChunk(false);
+                            loading.classList.add('hidden');
+                        }
                     }
-                    if (matchQ) displayList.push(variants);
-                });
+                }
+                if (streamId === currentStream) {
+                    renderChunk(true);
+                    loading.classList.add('hidden');
+                }
+                return; 
             }
 
             mainGrid.innerHTML = '';
-            renderChunk();
+            renderChunk(true);
         }
 
         searchInput.addEventListener('input', () => { activeTag = null; filterAndRender(); });
@@ -764,7 +787,8 @@
                     await Promise.all(chunk.map(async ({ artist, pack }) => {
                         const icons = await fetchPackIcons(artist, pack);
                         icons.forEach(i => {
-                            if (i.tags) {
+                            let matchF = activeFormatFilters.includes('All') ? true : activeFormatFilters.some(f => i.exactFormat === f || (f === 'PNG' && i.exactFormat.startsWith('PNG')) || (f === 'Windows' && i.exactFormat.startsWith('Win')) || (f === 'Mac' && i.exactFormat.startsWith('Mac')) || (f === 'Favicon' && i.exactFormat.includes('Favicon')));
+                            if (matchF && i.tags) {
                                 if (Array.isArray(i.tags)) i.tags.forEach(t => tagsSet.add(t));
                                 else if (typeof i.tags === 'string') i.tags.split(',').forEach(t => tagsSet.add(t.trim()));
                             }
@@ -846,15 +870,18 @@
 
         function renderFilterCheckboxes() {
             const container = document.getElementById('filterCheckboxes');
-            let formats = ['Vector', 'PNG', 'Favicon', 'Windows', 'Mac']; // Fast Defaults
             
-            if (currentView === 'icons') {
-                const cacheKey = `${navState.artist}/${navState.pack}`;
-                if(cachedIcons[cacheKey]) formats = [...new Set(cachedIcons[cacheKey].map(i => i.exactFormat))].sort();
-            }
+            // Strictly show Vector, PNG, Windows, Mac, and Favicon
+            let formats = ['Vector', 'PNG', 'Windows', 'Mac', 'Favicon'];
             
             let htmlText = createCheckboxHTML('All', 'All Formats', tempFormatFilters.includes('All'));
-            formats.forEach(f => htmlText += createCheckboxHTML(f, f.replace('-', ' ('), tempFormatFilters.includes(f)));
+            formats.forEach(f => {
+                let label = f === 'Vector' ? 'Vector (SVG)' : 
+                            (f === 'PNG' ? 'PNG (All Sizes)' : 
+                            (f === 'Windows' ? 'Windows (ICO)' : 
+                            (f === 'Mac' ? 'Mac (ICNS)' : 'Favicon')));
+                htmlText += createCheckboxHTML(f, label, tempFormatFilters.includes(f));
+            });
             container.innerHTML = htmlText;
         }
 
@@ -881,20 +908,31 @@
             renderFilterCheckboxes();
         }
 
-        function applyFilters() { activeFormatFilters = [...tempFormatFilters]; closeFilterModal(); filterAndRender(); }
-        function clearFilters() { tempFormatFilters = ['All']; renderFilterCheckboxes(); }
+        function applyFilters() { 
+            activeFormatFilters = [...tempFormatFilters]; 
+            localStorage.setItem('iconGallery_filters', JSON.stringify(activeFormatFilters));
+            tagsExtracted = false; // Forces recalculation of valid tags globally based on filter 
+            closeFilterModal(); 
+            filterAndRender(); 
+        }
+        function clearFilters() { 
+            tempFormatFilters = ['All']; 
+            activeFormatFilters = ['All'];
+            localStorage.setItem('iconGallery_filters', JSON.stringify(activeFormatFilters));
+            renderFilterCheckboxes(); 
+        }
 
         filterModal.addEventListener('click', closeFilterModal);
 
         // --- RENDERING ENGINE ---
-        function renderChunk() {
+        function renderChunk(isFinished = true) {
             const chunk = displayList.slice(mainGrid.children.length, renderLimit);
-            
             if(chunk.length === 0 && mainGrid.children.length === 0) {
-                mainGrid.innerHTML = `<div class="col-span-full text-center py-24 text-gray-400 font-medium text-lg"><div class="bg-gray-100 dark:bg-dark-800 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-6"><i class="fa-regular fa-folder-open text-4xl"></i></div>No results found.</div>`;
+                if (isFinished) {
+                    mainGrid.innerHTML = `<div class="col-span-full text-center py-24 text-gray-400 font-medium text-lg"><div class="bg-gray-100 dark:bg-dark-800 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-6"><i class="fa-regular fa-folder-open text-4xl"></i></div>No results found.</div>`;
+                }
                 return;
             }
-
             chunk.forEach((item) => {
                 const globalIndex = displayList.indexOf(item); 
                 if (currentView === 'designers') mainGrid.appendChild(createDesignerCard(item));
@@ -917,11 +955,58 @@
                 <div class="flex-1 min-w-0">
                     <h3 class="font-semibold text-base text-gray-900 dark:text-white truncate">${designer.name}</h3>
                     <div class="flex items-center gap-2 mt-2 flex-wrap">
-                        <span class="text-xs px-2 py-1 rounded-lg bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300">${designer.packCount} Packs</span>
-                        <span class="text-xs px-2 py-1 rounded-lg bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300">${designer.iconCount} Icons</span>
+                        <span class="designer-pack-count text-xs px-2 py-1 rounded-lg bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300">${designer.packCount || 0} Packs</span>
+                        <span class="designer-icon-count text-xs px-2 py-1 rounded-lg bg-gray-100 dark:bg-dark-700 text-gray-600 dark:text-gray-300"><i class="fa-solid fa-circle-notch fa-spin text-[10px]"></i> Icons</span>
                     </div>
                 </div>
             `;
+
+            const iconCountEl = div.querySelector('.designer-icon-count');
+            
+            // If a filter is active, we MUST recalculate to show the correct filtered count.
+            // If no filter is active, we can check for a cached total count.
+            if (!activeFormatFilters.includes('All')) {
+                // Always live-calculate for filters
+                 fetchAndCount(true);
+            } else if (cachedDesignerCounts[designer.id]) {
+                // Use cached TOTAL count if it exists and no filter is active
+                const packCountEl = div.querySelector('.designer-pack-count');
+                if (packCountEl) packCountEl.innerText = `${cachedDesignerCounts[designer.id].packCount} Packs`;
+                if (iconCountEl) iconCountEl.innerText = `${cachedDesignerCounts[designer.id].iconCount} Icons`;
+            } else {
+                // Calculate and cache the TOTAL count for the first time
+                fetchAndCount(false);
+            }
+
+            function fetchAndCount(isFiltered) {
+                fetchDesignerPacks(designer.id).then(async (packs) => {
+                    const packCountEl = div.querySelector('.designer-pack-count');
+                    if (packCountEl) packCountEl.innerText = `${packs.length} Packs`;
+
+                    let trueIconCount = 0;
+                    for (const p of packs) {
+                        const icons = await fetchPackIcons(designer.id, p.id);
+                        let iconsToCount = icons;
+                        if (isFiltered) {
+                            iconsToCount = icons.filter(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                        }
+                        const uniqueGroups = new Set(iconsToCount.map(i => i.groupKey));
+                        trueIconCount += uniqueGroups.size;
+                    }
+
+                    if (isFiltered && trueIconCount === 0) {
+                        div.style.display = 'none';
+                    } else {
+                        if (iconCountEl) iconCountEl.innerText = `${trueIconCount} Icons`;
+                        // Only save to cache if we calculated the TOTAL (unfiltered) count
+                        if (!isFiltered) {
+                            cachedDesignerCounts[designer.id] = { packCount: packs.length, iconCount: trueIconCount };
+                            localStorage.setItem('designer_icon_counts', JSON.stringify(cachedDesignerCounts));
+                        }
+                    }
+                });
+            }
+
             return div;
         }
 
@@ -946,8 +1031,19 @@
 
             // Lazy Load Previews smoothly without crashing
             fetchPackIcons(packData.artist, packData.pack).then(icons => {
+                let filteredIcons = icons;
+                if (!activeFormatFilters.includes('All')) {
+                    filteredIcons = icons.filter(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                }
+
                 // Dynamically update to show ONLY the true group count
-                const uniqueGroups = new Set(icons.map(i => i.groupKey));
+                const uniqueGroups = new Set(filteredIcons.map(i => i.groupKey));
+                
+                if (!activeFormatFilters.includes('All') && uniqueGroups.size === 0) {
+                    div.style.display = 'none'; // Auto-hide pack entirely if no matching formats exist
+                    return;
+                }
+
                 const countEl = div.querySelector('.pack-count');
                 if (countEl) countEl.innerText = `${uniqueGroups.size} ICONS`;
 
@@ -960,14 +1056,18 @@
                         if (s > 128) return 3 + s;
                         return 10000 - s;
                     }
-                    if (i.exactFormat === 'Favicon') return 20000;
+                    if (i.exactFormat.includes('Favicon')) return 20000;
                     if (i.exactFormat.startsWith('Win')) return 30000;
                     if (i.exactFormat.startsWith('Mac')) return 40000;
                     return 50000;
                 };
+                
                 const uniqueMap = {};
+                // ALWAYS scan the original UNFILTERED icons to find the best web-safe thumbnail 
+                // for the icons that successfully passed the filter!
                 icons.forEach(icon => {
-                    const baseName = icon.name.split('.')[0].toLowerCase();
+                    if (!uniqueGroups.has(icon.groupKey)) return; // Skip if this icon wasn't in the filtered results
+                    const baseName = icon.groupKey;
                     if (!uniqueMap[baseName] || getPriority(icon) < getPriority(uniqueMap[baseName])) uniqueMap[baseName] = icon;
                 });
 
@@ -979,9 +1079,8 @@
                     const hoverRotate = idx % 2 === 0 ? 'group-hover:-rotate-6' : 'group-hover:rotate-6';
                     const containerClasses = `w-16 h-16 sm:w-[4.5rem] sm:h-[4.5rem] flex items-center justify-center bg-white/95 dark:bg-dark-800/95 backdrop-blur-md rounded-2xl shadow-lg border border-gray-200/30 dark:border-dark-600/30 group-hover:-translate-y-1 ${hoverRotate} transition-all duration-300 z-10 relative shrink-0`;
 
-                    if (p.exactFormat.startsWith('Mac')) previewHtml += `<div class="${containerClasses}"><i class="fa-brands fa-apple text-3xl text-gray-400 dark:text-gray-500"></i></div>`;
-                    else if (p.exactFormat.startsWith('Win')) previewHtml += `<div class="${containerClasses}"><i class="fa-brands fa-windows text-3xl text-gray-400 dark:text-gray-500"></i></div>`;
-                    else previewHtml += `<div class="${containerClasses}"><img src="${url}" class="w-11 h-11 sm:w-12 sm:h-12 object-contain drop-shadow-md" loading="lazy"></div>`;
+                    // Always try to show the actual image URL (ICO files work in modern browsers)
+                    previewHtml += `<div class="${containerClasses}"><img src="${url}" class="w-11 h-11 sm:w-12 sm:h-12 object-contain drop-shadow-md" loading="lazy" onerror="this.parentElement.innerHTML='<i class=\'fa-solid fa-file-code text-2xl text-gray-400\'></i>'"></div>`;
                 });
                 
                 if(previews.length === 0) previewHtml += `<i class="fa-solid fa-folder-open text-5xl text-gray-300 z-10"></i>`;
@@ -993,6 +1092,7 @@
         }
 
         function createIconCard(variants, index) {
+            // Keep all formats so the card badge shows true total formats
             const getPriority = (i) => {
                 if (i.exactFormat === 'Vector') return 1;
                 if (i.exactFormat.includes('PNG')) {
@@ -1012,10 +1112,7 @@
             const isMac = previewIcon.exactFormat.startsWith('Mac');
             const isWindows = previewIcon.exactFormat.startsWith('Win');
             
-            let preview = '';
-            if (isMac) preview = `<i class="fa-brands fa-apple text-7xl text-gray-300/40 dark:text-gray-600/40 transition-transform duration-500 group-hover:scale-110"></i>`;
-            else if (isWindows) preview = `<i class="fa-brands fa-windows text-7xl text-gray-300/40 dark:text-gray-600/40 transition-transform duration-500 group-hover:scale-110"></i>`;
-            else preview = `<img src="${fullUrl}" class="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110 drop-shadow-sm" loading="lazy">`;
+            let preview = `<img src="${fullUrl}" class="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110 drop-shadow-sm" loading="lazy" onerror="this.style.display='none'; this.parentElement.innerHTML='<i class=\'fa-brands fa-windows text-7xl text-gray-300/40\'></i>'">`;
 
             const baseName = previewIcon.name.split('.')[0];
             const div = document.createElement('div');
@@ -1140,7 +1237,9 @@
         }
 
         function openModal(index) {
+            // Keep all formats so the viewer always shows everything attached to the icon
             const variants = displayList[index];
+
             const getPriority = (i) => {
                 if (i.exactFormat === 'Vector') return 1;
                 const m = i.exactFormat.match(/(\d+)/);
@@ -1156,11 +1255,8 @@
             const isMac = previewIcon.exactFormat.startsWith('Mac');
             const isWindows = previewIcon.exactFormat.startsWith('Win');
             
-            // Added CSS transition and group-hover scaling for the zoom effect
-            let preview = '';
-            if (isMac) preview = `<i class="fa-brands fa-apple text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl transition-transform duration-200 ease-out group-hover:scale-[2]"></i>`;
-            else if (isWindows) preview = `<i class="fa-brands fa-windows text-[14rem] text-gray-300 dark:text-gray-600 drop-shadow-xl transition-transform duration-200 ease-out group-hover:scale-[2]"></i>`;
-            else preview = `<img src="${fullUrl}" class="w-full h-full object-contain drop-shadow-2xl transition-transform duration-200 ease-out group-hover:scale-[2]">`;
+            // Use the actual image URL for the preview, with a fallback logo if the format isn't supported by the browser
+            let preview = `<img src="${fullUrl}" class="w-full h-full object-contain drop-shadow-2xl transition-transform duration-200 ease-out group-hover:scale-[2]" onerror="this.style.display='none'; this.parentElement.innerHTML='<i class=\'fa-brands fa-windows text-[14rem] text-gray-300/40\'></i>'">`;
 
             const sortedVariants = [...variants].sort((a,b) => getPriority(a) - getPriority(b));
 
