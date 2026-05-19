@@ -681,12 +681,59 @@
             scrollContainer.scrollTop = 0;
             const currentStream = ++streamId; 
 
+            // Robust format matching logic (OR matching)
+            const formatKeyMatchesFilters = (key) => {
+                if (activeFormatFilters.includes('All')) return true;
+                const k = key.toUpperCase();
+                return activeFormatFilters.some(f => {
+                    const flt = f.toUpperCase();
+                    if (flt === 'VECTOR' && (k.includes('VECTOR') || k === 'SVG' || k.includes('.SVG'))) return true;
+                    if (flt === 'PNG' && (k.includes('PNG') || k.includes('.PNG'))) return true;
+                    if (flt === 'WINDOWS' && (k.includes('WIN') || k === 'ICO' || k.includes('.ICO'))) return true;
+                    if (flt === 'MAC' && (k.includes('MAC') || k === 'ICNS' || k.includes('.ICNS'))) return true;
+                    if (flt === 'FAVICON' && k.includes('FAVICON')) return true;
+                    if (flt === 'LINUX' && k.includes('LINUX')) return true;
+                    return k === flt || k.startsWith(flt) || k.includes(flt);
+                });
+            };
+
+            // Validates against real files/types safely
+            const packHasValidFormat = async (artistId, packId, formatCounts) => {
+                if (activeFormatFilters.includes('All')) return true;
+                
+                // Fast path: Check pre-calculated backend stats if available
+                if (formatCounts && Object.keys(formatCounts).length > 0) {
+                    const hasMatchInCounts = Object.keys(formatCounts).some(key => formatCounts[key] > 0 && formatKeyMatchesFilters(key));
+                    if (hasMatchInCounts) return true;
+                    
+                    // Favicon sizes (e.g. Favicon-32px) are often dynamically calculated on the frontend
+                    // and might not exist in backend formatCounts. If Favicon is selected,
+                    // we MUST deeply inspect the actual files before hiding the pack.
+                    const needsDeepCheck = activeFormatFilters.some(f => f.toUpperCase() === 'FAVICON');
+                    if (!needsDeepCheck) return false;
+                }
+                
+                // Deep Check: Inspect actual icons for formats and explicit favicon filenames
+                const icons = await fetchPackIcons(artistId, packId);
+                return icons.some(v => formatKeyMatchesFilters(v.exactFormat) || (activeFormatFilters.some(f => f.toUpperCase() === 'FAVICON') && v.name.toLowerCase().includes('favicon')));
+            };
+
             if (currentView === 'designers') {
-                let artistsToShow = designersList;
+                let artistsToShow = [];
                 if (!activeFormatFilters.includes('All')) {
-                    artistsToShow = artistsToShow.filter(designer => 
-                        designer.formatCounts && activeFormatFilters.some(f => designer.formatCounts[f] > 0)
-                    );
+                    const checks = designersList.map(async d => {
+                        const packs = await fetchDesignerPacks(d.id);
+                        for (const p of packs) {
+                            if (await packHasValidFormat(d.id, p.id, p.formatCounts)) {
+                                artistsToShow.push(d);
+                                break;
+                            }
+                        }
+                    });
+                    await Promise.all(checks);
+                    artistsToShow.sort((a, b) => a.name.localeCompare(b.name));
+                } else {
+                    artistsToShow = designersList;
                 }
                 displayList = artistsToShow.filter(d => d.name.toLowerCase().includes(query));
             } 
@@ -697,9 +744,12 @@
                 });
                 let allPacksArr = (await Promise.all(packPromises)).flat();
                 if (!activeFormatFilters.includes('All')) {
-                    allPacksArr = allPacksArr.filter(p => 
-                        p.formatCounts && activeFormatFilters.some(f => p.formatCounts[f] > 0)
-                    );
+                    const validPacks = [];
+                    const checks = allPacksArr.map(async p => {
+                        if (await packHasValidFormat(p.artist, p.pack, p.formatCounts)) validPacks.push(p);
+                    });
+                    await Promise.all(checks);
+                    allPacksArr = validPacks;
                 }
                 displayList = allPacksArr.filter(p => p.name.toLowerCase().includes(query)).sort((a, b) => a.name.localeCompare(b.name));
             }
@@ -709,9 +759,12 @@
                     artist: navState.artist, pack: p.id, name: p.name, iconCount: p.iconCount, formatCounts: p.formatCounts
                 }));
                 if (!activeFormatFilters.includes('All')) {
-                    packsArr = packsArr.filter(p => 
-                        p.formatCounts && activeFormatFilters.some(f => p.formatCounts[f] > 0)
-                    );
+                    const validPacks = [];
+                    const checks = packsArr.map(async p => {
+                        if (await packHasValidFormat(p.artist, p.pack, p.formatCounts)) validPacks.push(p);
+                    });
+                    await Promise.all(checks);
+                    packsArr = validPacks;
                 }
                 displayList = packsArr.filter(p => p.name.toLowerCase().includes(query));
             } 
@@ -724,20 +777,13 @@
                     groupedVariants[key].push(i);
                 });
                 
-                const getCat = (f) => {
-                    if (f.startsWith('PNG')) return 'PNG';
-                    if (f.startsWith('Win')) return 'Windows';
-                    if (f.startsWith('Mac')) return 'Mac';
-                    return f; // Vector, Favicon
-                };
-
                 displayList = [];
                 Object.values(groupedVariants).forEach(variants => {
                     let matchQ = activeTag 
                         ? variants.some(i => i.tags?.some(t => t.toLowerCase() === activeTag.toLowerCase()))
                         : variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || i.tags?.some(t => t.toLowerCase().includes(query)));
                     
-                    let matchF = activeFormatFilters.includes('All') || variants.some(v => activeFormatFilters.includes(getCat(v.exactFormat)));
+                    let matchF = activeFormatFilters.includes('All') || variants.some(v => formatKeyMatchesFilters(v.exactFormat) || (activeFormatFilters.some(f => f.toUpperCase() === 'FAVICON') && v.name.toLowerCase().includes('favicon')));
                     
                     if (matchQ && matchF) displayList.push(variants);
                 });
@@ -750,6 +796,11 @@
                     const packs = await fetchDesignerPacks(d.id);
                     for (const p of packs) {
                         if (streamId !== currentStream) return;
+                        
+                        if (!activeFormatFilters.includes('All') && !(await packHasValidFormat(d.id, p.id, p.formatCounts))) {
+                            continue;
+                        }
+
                         const icons = await fetchPackIcons(d.id, p.id);
                         let packGrouped = {};
                         icons.forEach(i => {
@@ -765,7 +816,7 @@
                             } else {
                                 matchQ = variants.some(i => `${i.name} ${i.artist} ${i.set}`.toLowerCase().includes(query) || (i.tags && Array.isArray(i.tags) && i.tags.some(t => t.toLowerCase().includes(query))));
                             }
-                            let matchF = activeFormatFilters.includes('All') ? true : variants.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
+                            let matchF = activeFormatFilters.includes('All') ? true : variants.some(v => formatKeyMatchesFilters(v.exactFormat) || (activeFormatFilters.some(f => f.toUpperCase() === 'FAVICON') && v.name.toLowerCase().includes('favicon')));
                             if (matchQ && matchF) newItems.push(variants);
                         });
                         if (newItems.length > 0) {
