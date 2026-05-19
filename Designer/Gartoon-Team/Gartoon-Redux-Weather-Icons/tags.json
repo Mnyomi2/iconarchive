@@ -1,0 +1,50 @@
+{
+  "weather-sun": [
+    "weather",
+    "sun"
+  ],
+  "weather-clouds-sun": [
+    "weather",
+    "clouds",
+    "sun"
+  ],
+  "weather-shower": [
+    "weather",
+    "shower"
+  ],
+  "weather-snow-ice": [
+    "weather",
+    "snow",
+    "ice"
+  ],
+  "weather-clouds": [
+    "weather",
+    "clouds"
+  ],
+  "weather-rain": [
+    "weather",
+    "rain"
+  ],
+  "weather-lightning-storm": [
+    "weather",
+    "lightning",
+    "storm"
+  ],
+  "weather-lighning-alert": [
+    "weather",
+    "lighning",
+    "alert"
+  ],
+  "weather-night-clouds-moon": [
+    "weather",
+    "night",
+    "clouds",
+    "moon"
+  ],
+  "weather-night-clear-moon": [
+    "weather",
+    "night",
+    "clear",
+    "moon"
+  ]
+}

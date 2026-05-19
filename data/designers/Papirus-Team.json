@@ -1,0 +1,27 @@
+[
+  {
+    "id": "Papirus-Apps-Icons",
+    "name": "Papirus Apps Icons",
+    "iconCount": 18369
+  },
+  {
+    "id": "Papirus-Devices-Icons",
+    "name": "Papirus Devices Icons",
+    "iconCount": 546
+  },
+  {
+    "id": "Papirus-Mimetypes-Icons",
+    "name": "Papirus Mimetypes Icons",
+    "iconCount": 1300
+  },
+  {
+    "id": "Papirus-Places-Icons",
+    "name": "Papirus Places Icons",
+    "iconCount": 3315
+  },
+  {
+    "id": "Papirus-Status-Icons",
+    "name": "Papirus Status Icons",
+    "iconCount": 806
+  }
+]

@@ -1,0 +1,825 @@
+{
+  "text-x-preview": [
+    "text",
+    "preview"
+  ],
+  "image-x-lwo": [
+    "image",
+    "lwo"
+  ],
+  "app-x-macbinary": [
+    "app",
+    "macbinary"
+  ],
+  "text-x-credits": [
+    "text",
+    "credits"
+  ],
+  "app-x-shellscript": [
+    "app",
+    "shellscript"
+  ],
+  "text-x-c-plus-plus-src": [
+    "text",
+    "plus",
+    "src"
+  ],
+  "app-vnd-oasis-opendocument-formula": [
+    "app",
+    "vnd",
+    "oasis",
+    "formula",
+    "opendocument"
+  ],
+  "image-x-xpixmap": [
+    "image",
+    "xpixmap"
+  ],
+  "app-vnd-oasis-opendocument-image": [
+    "app",
+    "vnd",
+    "oasis",
+    "image",
+    "opendocument"
+  ],
+  "text-x-tex": [
+    "text",
+    "tex"
+  ],
+  "app-x-gnuplot": [
+    "app",
+    "gnuplot"
+  ],
+  "app-x-font-otf": [
+    "app",
+    "font",
+    "otf"
+  ],
+  "text-x-subtitles": [
+    "text",
+    "subtitles"
+  ],
+  "app-x-genesis-rom": [
+    "app",
+    "genesis",
+    "rom"
+  ],
+  "text-troff": [
+    "text",
+    "troff"
+  ],
+  "text-x-ocaml": [
+    "text",
+    "ocaml"
+  ],
+  "app-x-remote-connection": [
+    "app",
+    "remote",
+    "connection"
+  ],
+  "video-x-generic": [
+    "video",
+    "generic"
+  ],
+  "app-x-kformula": [
+    "app",
+    "kformula"
+  ],
+  "x-office-document": [
+    "office",
+    "document"
+  ],
+  "app-x-gameboy-rom": [
+    "app",
+    "gameboy",
+    "rom"
+  ],
+  "font-x-generic": [
+    "font",
+    "generic"
+  ],
+  "inode-fifo": [
+    "inode",
+    "fifo"
+  ],
+  "app-x-gnome-theme-package": [
+    "app",
+    "gnome",
+    "theme",
+    "package"
+  ],
+  "app-x-perl": [
+    "app",
+    "perl"
+  ],
+  "text-x-script": [
+    "text",
+    "script"
+  ],
+  "text-x-c-plus-plus-hdr": [
+    "text",
+    "plus",
+    "hdr"
+  ],
+  "app-x-font-pcf": [
+    "app",
+    "font",
+    "pcf"
+  ],
+  "app-x-7z-compressed": [
+    "app",
+    "compressed"
+  ],
+  "app-x-gchempaint": [
+    "app",
+    "gchempaint"
+  ],
+  "app-x-audacity-project": [
+    "app",
+    "audacity",
+    "project"
+  ],
+  "image-x-portable-anymap": [
+    "image",
+    "portable",
+    "anymap"
+  ],
+  "app-x-gnome-app-info": [
+    "app",
+    "gnome",
+    "info"
+  ],
+  "app-x-mrproject": [
+    "app",
+    "mrproject"
+  ],
+  "app-vnd-oasis-opendocument-text-web": [
+    "app",
+    "vnd",
+    "oasis",
+    "opendocument",
+    "text"
+  ],
+  "text-x-readme": [
+    "text",
+    "readme"
+  ],
+  "app-vnd-adobe-air-app-installer-package-plus-zip": [
+    "app",
+    "vnd",
+    "adobe",
+    "air"
+  ],
+  "app-x-dvi": [
+    "app",
+    "dvi"
+  ],
+  "app-x-gnumeric": [
+    "app",
+    "gnumeric"
+  ],
+  "image-x-3ds": [
+    "image",
+    "3ds"
+  ],
+  "image-bmp": [
+    "image",
+    "bmp"
+  ],
+  "text-x-log": [
+    "text",
+    "log"
+  ],
+  "app-x-kspread": [
+    "app",
+    "kspread"
+  ],
+  "app-xhtml-plus-xml": [
+    "app",
+    "xhtml",
+    "plus",
+    "xml"
+  ],
+  "text-x-vcard": [
+    "text",
+    "vcard"
+  ],
+  "app-x-diagram": [
+    "app",
+    "diagram"
+  ],
+  "image-x-generic": [
+    "image",
+    "generic"
+  ],
+  "image-x-portable-bitmap": [
+    "image",
+    "portable",
+    "bitmap"
+  ],
+  "app-x-theme": [
+    "app",
+    "theme"
+  ],
+  "app-x-reject": [
+    "app",
+    "reject"
+  ],
+  "text-x-chdr": [
+    "text",
+    "chdr"
+  ],
+  "text-x-apport": [
+    "text",
+    "apport"
+  ],
+  "text-x-apt-sources-list": [
+    "text",
+    "apt",
+    "sources",
+    "list"
+  ],
+  "text-x-csrc": [
+    "text",
+    "csrc"
+  ],
+  "app-x-blender": [
+    "app",
+    "blender"
+  ],
+  "app-x-python-bytecode": [
+    "app",
+    "python",
+    "bytecode"
+  ],
+  "app-javascript": [
+    "app",
+    "javascript"
+  ],
+  "app-x-font-ttf": [
+    "app",
+    "font",
+    "ttf"
+  ],
+  "audio-aiff": [
+    "audio",
+    "aiff"
+  ],
+  "text-csv": [
+    "text",
+    "csv"
+  ],
+  "package-x-generic": [
+    "package",
+    "generic"
+  ],
+  "app-qif": [
+    "app",
+    "qif"
+  ],
+  "app-x-cd-image": [
+    "app",
+    "cd",
+    "image"
+  ],
+  "app-rhythmbox-playlist": [
+    "app",
+    "rhythmbox",
+    "playlist"
+  ],
+  "video-x-msvideo": [
+    "video",
+    "msvideo"
+  ],
+  "text-x-csharp": [
+    "text",
+    "csharp"
+  ],
+  "text-x-gtkrc": [
+    "text",
+    "gtkrc"
+  ],
+  "text-x-install": [
+    "text",
+    "install"
+  ],
+  "image-png": [
+    "image",
+    "png"
+  ],
+  "app-x-killustrator": [
+    "app",
+    "killustrator"
+  ],
+  "app-x-ipod-firmware": [
+    "app",
+    "ipod",
+    "firmware"
+  ],
+  "app-x-karbon": [
+    "app",
+    "karbon"
+  ],
+  "audio-mpeg": [
+    "audio",
+    "mpeg"
+  ],
+  "image-x-xwindowdump": [
+    "image",
+    "xwindowdump"
+  ],
+  "app-x-font-afm": [
+    "app",
+    "font",
+    "afm"
+  ],
+  "text-x-patch": [
+    "text",
+    "patch"
+  ],
+  "image-tiff": [
+    "image",
+    "tiff"
+  ],
+  "text-x-gettext-translation": [
+    "text",
+    "gettext",
+    "translation"
+  ],
+  "image-rgb": [
+    "image",
+    "rgb"
+  ],
+  "image-x-tga": [
+    "image",
+    "tga"
+  ],
+  "app-x-cue": [
+    "app",
+    "cue"
+  ],
+  "audio-midi": [
+    "audio",
+    "midi"
+  ],
+  "app-x-openvpn-settings": [
+    "app",
+    "openvpn",
+    "settings"
+  ],
+  "app-vnd-ms-powerpoint": [
+    "app",
+    "vnd",
+    "powerpoint"
+  ],
+  "x-office-spreadsheet": [
+    "office",
+    "spreadsheet"
+  ],
+  "app-x-java": [
+    "app",
+    "java"
+  ],
+  "app-x-font-tex-tfm": [
+    "app",
+    "font",
+    "tex",
+    "tfm"
+  ],
+  "app-x-emerald-theme": [
+    "app",
+    "emerald",
+    "theme"
+  ],
+  "audio-x-generic": [
+    "audio",
+    "generic"
+  ],
+  "app-mbox": [
+    "app",
+    "mbox"
+  ],
+  "image-x-cmu-raster": [
+    "image",
+    "cmu",
+    "raster"
+  ],
+  "app-x-executable": [
+    "app",
+    "executable"
+  ],
+  "app-vnd-oasis-opendocument-graphics": [
+    "app",
+    "vnd",
+    "oasis",
+    "graphics",
+    "opendocument"
+  ],
+  "text-x-troff-man": [
+    "text",
+    "troff",
+    "man"
+  ],
+  "x-directory-smb-server": [
+    "directory",
+    "smb",
+    "server"
+  ],
+  "app-mathematica": [
+    "app",
+    "mathematica"
+  ],
+  "image-gif": [
+    "image",
+    "gif"
+  ],
+  "app-x-deb": [
+    "app",
+    "deb"
+  ],
+  "app-x-chm": [
+    "app",
+    "chm"
+  ],
+  "app-x-stuffit": [
+    "app",
+    "stuffit"
+  ],
+  "app-postscript": [
+    "app",
+    "postscript"
+  ],
+  "x-office-drawing": [
+    "office",
+    "drawing"
+  ],
+  "app-pgp-keys": [
+    "app",
+    "pgp",
+    "keys"
+  ],
+  "app-zip": [
+    "app",
+    "zip"
+  ],
+  "app-x-desktop": [
+    "app",
+    "desktop"
+  ],
+  "app-x-ogg": [
+    "app",
+    "ogg"
+  ],
+  "app-ogg": [
+    "app",
+    "ogg"
+  ],
+  "app-vnd-oasis-opendocument-text-master": [
+    "app",
+    "vnd",
+    "oasis",
+    "opendocument",
+    "text"
+  ],
+  "image-x-xfig": [
+    "image",
+    "xfig"
+  ],
+  "text-x-authors": [
+    "text",
+    "authors"
+  ],
+  "app-x-rpm": [
+    "app",
+    "rpm"
+  ],
+  "image-x-lws": [
+    "image",
+    "lws"
+  ],
+  "app-x-dc-rom": [
+    "app",
+    "rom"
+  ],
+  "app-x-font-sunos-news": [
+    "app",
+    "font",
+    "sunos",
+    "news"
+  ],
+  "video-x-ms-wmv": [
+    "video",
+    "wmv"
+  ],
+  "image-x-portable-graymap": [
+    "image",
+    "portable",
+    "graymap"
+  ],
+  "text-html": [
+    "text",
+    "html"
+  ],
+  "app-vnd-oasis-opendocument-database": [
+    "app",
+    "vnd",
+    "oasis",
+    "database",
+    "opendocument"
+  ],
+  "image-x-xbitmap": [
+    "image",
+    "xbitmap"
+  ],
+  "app-vnd-oasis-opendocument-spreadsheet": [
+    "app",
+    "vnd",
+    "oasis",
+    "opendocument",
+    "spreadsheet"
+  ],
+  "app-x-font-linux-psf": [
+    "app",
+    "font",
+    "linux",
+    "psf"
+  ],
+  "audio-x-ms-wma": [
+    "audio",
+    "wma"
+  ],
+  "text-x-generic": [
+    "text",
+    "generic"
+  ],
+  "inode-socket": [
+    "inode",
+    "socket"
+  ],
+  "video-x-matroska": [
+    "video",
+    "matroska"
+  ],
+  "app-x-anjuta": [
+    "app",
+    "anjuta"
+  ],
+  "x-office-presentation": [
+    "office",
+    "presentation"
+  ],
+  "x-directory-nfs-server": [
+    "directory",
+    "nfs",
+    "server"
+  ],
+  "app-x-backup": [
+    "app",
+    "backup"
+  ],
+  "app-pdf": [
+    "app",
+    "pdf"
+  ],
+  "text-x-python": [
+    "text",
+    "python"
+  ],
+  "image-svg": [
+    "image",
+    "svg"
+  ],
+  "text-vcalendar": [
+    "text",
+    "vcalendar"
+  ],
+  "app-x-rar": [
+    "app",
+    "rar"
+  ],
+  "app-x-java-jnlp-file": [
+    "app",
+    "java",
+    "jnlp",
+    "file"
+  ],
+  "text-x-fortran": [
+    "text",
+    "fortran"
+  ],
+  "app-x-kpresenter": [
+    "app",
+    "kpresenter"
+  ],
+  "app-x-font-vfont": [
+    "app",
+    "font",
+    "vfont"
+  ],
+  "app-x-kword": [
+    "app",
+    "kword"
+  ],
+  "x-directory-smb-workgroup": [
+    "directory",
+    "smb",
+    "workgroup"
+  ],
+  "app-vnd-oasis-opendocument-text": [
+    "app",
+    "vnd",
+    "oasis",
+    "opendocument",
+    "text"
+  ],
+  "text-x-makefile": [
+    "text",
+    "makefile"
+  ],
+  "app-x-abiword": [
+    "app",
+    "abiword"
+  ],
+  "app-x-generic": [
+    "app",
+    "generic"
+  ],
+  "app-x-php": [
+    "app",
+    "php"
+  ],
+  "app-x-tar": [
+    "app",
+    "tar"
+  ],
+  "app-x-profile": [
+    "app",
+    "profile"
+  ],
+  "app-x-ruby": [
+    "app",
+    "ruby"
+  ],
+  "text-x-lyx": [
+    "text",
+    "lyx"
+  ],
+  "app-vnd-oasis-opendocument-presentation": [
+    "app",
+    "vnd",
+    "oasis",
+    "opendocument",
+    "presentation"
+  ],
+  "app-x-java-archive": [
+    "app",
+    "java",
+    "archive"
+  ],
+  "app-x-gettext-translation": [
+    "app",
+    "gettext",
+    "translation"
+  ],
+  "app-x-ms-dos-executable": [
+    "app",
+    "dos",
+    "executable"
+  ],
+  "app-pgp-encrypted": [
+    "app",
+    "pgp",
+    "encrypted"
+  ],
+  "app-x-font-bdf": [
+    "app",
+    "font",
+    "bdf"
+  ],
+  "app-x-glade": [
+    "app",
+    "glade"
+  ],
+  "app-x-sharedlib": [
+    "app",
+    "sharedlib"
+  ],
+  "text-css": [
+    "text",
+    "css"
+  ],
+  "app-vnd-oasis-opendocument-chart": [
+    "app",
+    "vnd",
+    "oasis",
+    "chart",
+    "opendocument"
+  ],
+  "text-x-copying": [
+    "text",
+    "copying"
+  ],
+  "app-x-core": [
+    "app",
+    "core"
+  ],
+  "app-x-bittorrent": [
+    "app",
+    "bittorrent"
+  ],
+  "audio-x-wav": [
+    "audio",
+    "wav"
+  ],
+  "audio-x-scpls": [
+    "audio",
+    "scpls"
+  ],
+  "image-jpeg": [
+    "image",
+    "jpeg"
+  ],
+  "app-x-kde-app-info": [
+    "app",
+    "kde",
+    "info"
+  ],
+  "app-x-font-tex": [
+    "app",
+    "font",
+    "tex"
+  ],
+  "x-office-calendar": [
+    "office",
+    "calendar"
+  ],
+  "app-msword": [
+    "app",
+    "msword"
+  ],
+  "app-vnd-ms-excel": [
+    "app",
+    "vnd",
+    "excel"
+  ],
+  "video-quicktime": [
+    "video",
+    "quicktime"
+  ],
+  "audio-ac-3": [
+    "audio"
+  ],
+  "app-x-xoj": [
+    "app",
+    "xoj"
+  ],
+  "app-pgp-signature": [
+    "app",
+    "pgp",
+    "signature"
+  ],
+  "image-x-xcf-gimp": [
+    "image",
+    "xcf",
+    "gimp"
+  ],
+  "app-x-gtktalog": [
+    "app",
+    "gtktalog"
+  ],
+  "audio-x-matroska": [
+    "audio",
+    "matroska"
+  ],
+  "x-office-address-book": [
+    "office",
+    "address",
+    "book"
+  ],
+  "app-x-shockwave-flash": [
+    "app",
+    "shockwave",
+    "flash"
+  ],
+  "image-x-portable-pixmap": [
+    "image",
+    "portable",
+    "pixmap"
+  ],
+  "image-x-psd": [
+    "image",
+    "psd"
+  ],
+  "app-certificate": [
+    "app",
+    "certificate"
+  ],
+  "text-x-java": [
+    "text",
+    "java"
+  ],
+  "video-mpeg": [
+    "video",
+    "mpeg"
+  ]
+}

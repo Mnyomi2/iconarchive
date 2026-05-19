@@ -1,0 +1,121 @@
+{
+  "preferences-autocompletion": [
+    "preferences",
+    "autocompletion",
+    "gartoon"
+  ],
+  "preferences-desktop-peripherals": [
+    "desktop",
+    "preferences",
+    "gartoon",
+    "peripherals"
+  ],
+  "applications-programming": [
+    "applications",
+    "programming",
+    "gartoon"
+  ],
+  "applications-multimedia": [
+    "applications",
+    "multimedia",
+    "gartoon"
+  ],
+  "applications-system": [
+    "applications",
+    "system",
+    "gartoon"
+  ],
+  "games-config-options": [
+    "games",
+    "config",
+    "options",
+    "gartoon"
+  ],
+  "preferences-desktop": [
+    "desktop",
+    "preferences",
+    "gartoon"
+  ],
+  "applications-accessories": [
+    "applications",
+    "accessories",
+    "gartoon"
+  ],
+  "applications-office": [
+    "applications",
+    "office",
+    "gartoon"
+  ],
+  "applications-utilities": [
+    "applications",
+    "utilities",
+    "gartoon"
+  ],
+  "preferences-other": [
+    "preferences",
+    "other",
+    "gartoon"
+  ],
+  "system-help": [
+    "system",
+    "help",
+    "gartoon"
+  ],
+  "games-config-board": [
+    "games",
+    "config",
+    "board",
+    "gartoon"
+  ],
+  "applications-games": [
+    "applications",
+    "games",
+    "gartoon"
+  ],
+  "applications-science": [
+    "applications",
+    "science",
+    "gartoon"
+  ],
+  "applications-graphics": [
+    "applications",
+    "graphics",
+    "gartoon"
+  ],
+  "preferences-system": [
+    "system",
+    "preferences",
+    "gartoon"
+  ],
+  "preferences-system-network": [
+    "preferences",
+    "system",
+    "network",
+    "gartoon"
+  ],
+  "wine": [
+    "wine",
+    "gartoon"
+  ],
+  "preferences-mail-accounts": [
+    "mail",
+    "preferences",
+    "accounts",
+    "gartoon"
+  ],
+  "mpd": [
+    "mpd",
+    "gartoon"
+  ],
+  "gnome-globe": [
+    "gnome",
+    "globe",
+    "gartoon"
+  ],
+  "preferences-desktop-personal": [
+    "desktop",
+    "preferences",
+    "personal",
+    "gartoon"
+  ]
+}

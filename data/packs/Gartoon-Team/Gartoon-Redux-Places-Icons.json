@@ -1,0 +1,5756 @@
+[
+  {
+    "name": "bookmark-toolbar.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/bookmark-toolbar.16.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/bookmark-toolbar.24.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/bookmark-toolbar.32.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/bookmark.16.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/bookmark.24.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/bookmark.32.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "document-multiple.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/document-multiple.16.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/document-multiple.24.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/document-multiple.32.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "film-roll.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/film-roll.16.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/film-roll.24.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/film-roll.32.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "folder-blue.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-blue.16.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-blue.24.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-blue.32.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-brown.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-brown.16.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-brown.24.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-brown.32.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-cyan.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-cyan.16.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-cyan.24.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-cyan.32.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-development.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-development.16.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-development.24.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-development.32.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-documents.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-documents.16.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-documents.24.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-documents.32.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-downloads.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-downloads.16.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-downloads.24.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-downloads.32.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-gray.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-gray.16.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-gray.24.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-gray.32.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-green.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-green.16.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-green.24.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-green.32.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-music.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-music.16.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-music.24.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-music.32.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-orange.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-orange.16.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-orange.24.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-orange.32.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-pictures.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-pictures.16.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-pictures.24.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-pictures.32.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-print.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-print.16.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-print.24.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-print.32.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-red.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-red.16.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-red.24.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-red.32.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-ftp.16.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-ftp.24.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-ftp.32.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-nfs.16.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-nfs.24.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-nfs.32.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-smb.16.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-smb.24.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-smb.32.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-ssh.16.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-ssh.24.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote-ssh.32.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote.16.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote.24.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-remote.32.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-saved-search.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-saved-search.16.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-saved-search.24.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-saved-search.32.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-ubuntu.16.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-ubuntu.24.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-ubuntu.32.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-video.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-video.16.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-video.24.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-video.32.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-violet.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-violet.16.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-violet.24.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-violet.32.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-yellow.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-yellow.16.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-yellow.24.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder-yellow.32.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder.16.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder.24.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/folder.32.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "games-highscore-award.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/games-highscore-award.16.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/games-highscore-award.24.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/games-highscore-award.32.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/gnome-fs-web.16.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/gnome-fs-web.24.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/gnome-fs-web.32.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/lastfm-recommended.16.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/lastfm-recommended.24.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/lastfm-recommended.32.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/lastfm.16.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/lastfm.24.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/lastfm.32.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "mail-inbox.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-inbox.16.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-inbox.24.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-inbox.32.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-message.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-message.16.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-message.24.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-message.32.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-outbox.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-outbox.16.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-outbox.24.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/mail-outbox.32.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "network-server.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/network-server.16.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/network-server.24.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/network-server.32.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/network.16.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/network.24.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/network.32.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "note.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/note.16.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/note.24.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/note.32.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "notebook.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/notebook.16.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/notebook.24.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/notebook.32.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "playlist-automatic.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/playlist-automatic.16.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/playlist-automatic.24.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/playlist-automatic.32.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "podcast.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/podcast.16.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/podcast.24.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/podcast.32.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "radio.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/radio.16.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/radio.24.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/radio.32.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "tag.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/tag.16.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/tag.24.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/tag.32.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "user-desktop.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-desktop.16.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-desktop.24.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-desktop.32.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-home.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-home.16.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-home.24.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-home.32.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-trash.16.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-trash.16.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.24.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-trash.24.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.32.png",
+    "format": "Favicon",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Favicon/user-trash.32.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/bookmark-toolbar.icns",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/bookmark.icns",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "document-multiple.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/document-multiple.icns",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "film-roll.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/film-roll.icns",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "folder-blue.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-blue.icns",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-brown.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-brown.icns",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-cyan.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-cyan.icns",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-development.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-development.icns",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-documents.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-documents.icns",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-downloads.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-downloads.icns",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-gray.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-gray.icns",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-green.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-green.icns",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-music.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-music.icns",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-orange.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-orange.icns",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-pictures.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-pictures.icns",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-print.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-print.icns",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-red.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-red.icns",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-remote-ftp.icns",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-remote-nfs.icns",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-remote-smb.icns",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-remote-ssh.icns",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-remote.icns",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-saved-search.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-saved-search.icns",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-ubuntu.icns",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-video.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-video.icns",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-violet.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-violet.icns",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-yellow.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder-yellow.icns",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/folder.icns",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "games-highscore-award.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/games-highscore-award.icns",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/gnome-fs-web.icns",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/lastfm-recommended.icns",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/lastfm.icns",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "mail-inbox.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/mail-inbox.icns",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-message.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/mail-message.icns",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-outbox.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/mail-outbox.icns",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "network-server.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/network-server.icns",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/network.icns",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "note.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/note.icns",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "notebook.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/notebook.icns",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "playlist-automatic.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/playlist-automatic.icns",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "podcast.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/podcast.icns",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "radio.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/radio.icns",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "tag.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/tag.icns",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "user-desktop.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/user-desktop.icns",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-home.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/user-home.icns",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-trash.icns",
+    "format": "Mac",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Mac/user-trash.icns",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.1024.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.128.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.256.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.48.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.512.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.64.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.72.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark-toolbar.96.png",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.1024.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.128.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.256.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.48.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.512.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.64.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.72.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "bookmark.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/bookmark.96.png",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "document-multiple.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.1024.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.128.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.256.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.48.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.512.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.64.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.72.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "document-multiple.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/document-multiple.96.png",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "film-roll.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.1024.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.128.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.256.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.48.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.512.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.64.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.72.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "film-roll.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/film-roll.96.png",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "folder-blue.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.1024.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.128.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.256.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.48.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.512.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.64.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.72.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-blue.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-blue.96.png",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-brown.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.1024.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.128.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.256.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.48.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.512.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.64.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.72.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-brown.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-brown.96.png",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-cyan.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.1024.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.128.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.256.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.48.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.512.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.64.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.72.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-cyan.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-cyan.96.png",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-development.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.1024.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.128.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.256.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.48.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.512.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.64.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.72.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-development.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-development.96.png",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-documents.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.1024.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.128.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.256.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.48.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.512.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.64.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.72.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-documents.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-documents.96.png",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-downloads.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.1024.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.128.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.256.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.48.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.512.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.64.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.72.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-downloads.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-downloads.96.png",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-gray.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.1024.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.128.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.256.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.48.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.512.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.64.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.72.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-gray.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-gray.96.png",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-green.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.1024.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.128.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.256.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.48.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.512.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.64.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.72.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-green.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-green.96.png",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-music.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.1024.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.128.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.256.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.48.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.512.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.64.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.72.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-music.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-music.96.png",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-orange.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.1024.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.128.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.256.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.48.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.512.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.64.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.72.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-orange.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-orange.96.png",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-pictures.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.1024.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.128.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.256.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.48.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.512.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.64.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.72.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-pictures.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-pictures.96.png",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-print.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.1024.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.128.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.256.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.48.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.512.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.64.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.72.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-print.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-print.96.png",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-red.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.1024.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.128.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.256.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.48.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.512.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.64.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.72.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-red.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-red.96.png",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.1024.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.128.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.256.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.48.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.512.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.64.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.72.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ftp.96.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.1024.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.128.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.256.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.48.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.512.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.64.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.72.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-nfs.96.png",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.1024.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.128.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.256.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.48.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.512.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.64.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.72.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-smb.96.png",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.1024.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.128.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.256.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.48.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.512.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.64.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.72.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote-ssh.96.png",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.1024.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.128.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.256.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.48.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.512.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.64.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.72.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-remote.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-remote.96.png",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-saved-search.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.1024.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.128.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.256.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.48.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.512.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.64.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.72.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-saved-search.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-saved-search.96.png",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.1024.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.128.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.256.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.48.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.512.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.64.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.72.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-ubuntu.96.png",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-video.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.1024.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.128.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.256.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.48.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.512.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.64.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.72.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-video.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-video.96.png",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-violet.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.1024.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.128.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.256.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.48.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.512.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.64.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.72.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-violet.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-violet.96.png",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-yellow.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.1024.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.128.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.256.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.48.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.512.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.64.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.72.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder-yellow.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder-yellow.96.png",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.1024.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.128.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.256.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.48.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.512.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.64.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.72.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "folder.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/folder.96.png",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "games-highscore-award.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.1024.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.128.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.256.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.48.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.512.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.64.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.72.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "games-highscore-award.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/games-highscore-award.96.png",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.1024.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.128.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.256.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.48.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.512.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.64.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.72.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/gnome-fs-web.96.png",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.1024.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.128.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.256.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.48.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.512.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.64.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.72.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm-recommended.96.png",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.1024.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.128.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.256.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.48.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.512.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.64.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.72.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "lastfm.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/lastfm.96.png",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "mail-inbox.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.1024.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.128.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.256.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.48.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.512.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.64.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.72.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-inbox.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-inbox.96.png",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-message.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.1024.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.128.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.256.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.48.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.512.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.64.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.72.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-message.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-message.96.png",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-outbox.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.1024.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.128.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.256.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.48.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.512.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.64.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.72.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "mail-outbox.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/mail-outbox.96.png",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "network-server.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.1024.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.128.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.256.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.48.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.512.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.64.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.72.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network-server.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network-server.96.png",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.1024.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.128.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.256.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.48.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.512.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.64.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.72.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "network.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/network.96.png",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "note.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.1024.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.128.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.256.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.48.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.512.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.64.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.72.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "note.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/note.96.png",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "notebook.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.1024.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.128.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.256.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.48.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.512.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.64.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.72.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "notebook.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/notebook.96.png",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "playlist-automatic.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.1024.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.128.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.256.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.48.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.512.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.64.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.72.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "playlist-automatic.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/playlist-automatic.96.png",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "podcast.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.1024.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.128.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.256.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.48.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.512.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.64.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.72.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "podcast.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/podcast.96.png",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "radio.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.1024.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.128.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.256.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.48.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.512.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.64.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.72.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "radio.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/radio.96.png",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "tag.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.1024.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.128.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.256.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.48.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.512.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.64.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.72.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "tag.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/tag.96.png",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "user-desktop.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.1024.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.128.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.256.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.48.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.512.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.64.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.72.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-desktop.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-desktop.96.png",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-home.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.1024.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.128.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.256.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.48.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.512.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.64.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.72.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-home.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-home.96.png",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-trash.1024.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.1024.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.128.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.128.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.256.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.256.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.48.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.48.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.512.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.512.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.64.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.64.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.72.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.72.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "user-trash.96.png",
+    "format": "PNG",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/PNG/user-trash.96.png",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/bookmark-toolbar.svg",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/bookmark.svg",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "document-multiple.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/document-multiple.svg",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "film-roll.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/film-roll.svg",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "folder-blue.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-blue.svg",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-brown.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-brown.svg",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-cyan.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-cyan.svg",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-development.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-development.svg",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-documents.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-documents.svg",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-downloads.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-downloads.svg",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-gray.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-gray.svg",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-green.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-green.svg",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-music.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-music.svg",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-orange.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-orange.svg",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-pictures.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-pictures.svg",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-print.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-print.svg",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-red.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-red.svg",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-remote-ftp.svg",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-remote-nfs.svg",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-remote-smb.svg",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-remote-ssh.svg",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-remote.svg",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-saved-search.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-saved-search.svg",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-ubuntu.svg",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-video.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-video.svg",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-violet.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-violet.svg",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-yellow.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder-yellow.svg",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/folder.svg",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "games-highscore-award.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/games-highscore-award.svg",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/gnome-fs-web.svg",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/lastfm-recommended.svg",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/lastfm.svg",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "mail-inbox.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/mail-inbox.svg",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-message.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/mail-message.svg",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-outbox.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/mail-outbox.svg",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "network-server.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/network-server.svg",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/network.svg",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "note.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/note.svg",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "notebook.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/notebook.svg",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "playlist-automatic.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/playlist-automatic.svg",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "podcast.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/podcast.svg",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "radio.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/radio.svg",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "tag.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/tag.svg",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "user-desktop.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/user-desktop.svg",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-home.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/user-home.svg",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-trash.svg",
+    "format": "Vector",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Vector/user-trash.svg",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  },
+  {
+    "name": "bookmark-toolbar.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/bookmark-toolbar.ico",
+    "tags": [
+      "bookmark",
+      "toolbar"
+    ]
+  },
+  {
+    "name": "bookmark.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/bookmark.ico",
+    "tags": [
+      "bookmark"
+    ]
+  },
+  {
+    "name": "document-multiple.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/document-multiple.ico",
+    "tags": [
+      "document",
+      "multiple"
+    ]
+  },
+  {
+    "name": "film-roll.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/film-roll.ico",
+    "tags": [
+      "film",
+      "roll"
+    ]
+  },
+  {
+    "name": "folder-blue.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-blue.ico",
+    "tags": [
+      "folder",
+      "blue"
+    ]
+  },
+  {
+    "name": "folder-brown.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-brown.ico",
+    "tags": [
+      "folder",
+      "brown"
+    ]
+  },
+  {
+    "name": "folder-cyan.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-cyan.ico",
+    "tags": [
+      "folder",
+      "cyan"
+    ]
+  },
+  {
+    "name": "folder-development.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-development.ico",
+    "tags": [
+      "folder",
+      "development"
+    ]
+  },
+  {
+    "name": "folder-documents.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-documents.ico",
+    "tags": [
+      "folder",
+      "documents"
+    ]
+  },
+  {
+    "name": "folder-downloads.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-downloads.ico",
+    "tags": [
+      "folder",
+      "downloads"
+    ]
+  },
+  {
+    "name": "folder-gray.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-gray.ico",
+    "tags": [
+      "folder",
+      "gray"
+    ]
+  },
+  {
+    "name": "folder-green.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-green.ico",
+    "tags": [
+      "folder",
+      "green"
+    ]
+  },
+  {
+    "name": "folder-music.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-music.ico",
+    "tags": [
+      "folder",
+      "music"
+    ]
+  },
+  {
+    "name": "folder-orange.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-orange.ico",
+    "tags": [
+      "folder",
+      "orange"
+    ]
+  },
+  {
+    "name": "folder-pictures.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-pictures.ico",
+    "tags": [
+      "folder",
+      "pictures"
+    ]
+  },
+  {
+    "name": "folder-print.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-print.ico",
+    "tags": [
+      "folder",
+      "print"
+    ]
+  },
+  {
+    "name": "folder-red.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-red.ico",
+    "tags": [
+      "folder",
+      "red"
+    ]
+  },
+  {
+    "name": "folder-remote-ftp.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-remote-ftp.ico",
+    "tags": [
+      "folder",
+      "remote",
+      "ftp"
+    ]
+  },
+  {
+    "name": "folder-remote-nfs.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-remote-nfs.ico",
+    "tags": [
+      "folder",
+      "remote",
+      "nfs"
+    ]
+  },
+  {
+    "name": "folder-remote-smb.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-remote-smb.ico",
+    "tags": [
+      "folder",
+      "remote",
+      "smb"
+    ]
+  },
+  {
+    "name": "folder-remote-ssh.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-remote-ssh.ico",
+    "tags": [
+      "folder",
+      "remote",
+      "ssh"
+    ]
+  },
+  {
+    "name": "folder-remote.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-remote.ico",
+    "tags": [
+      "folder",
+      "remote"
+    ]
+  },
+  {
+    "name": "folder-saved-search.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-saved-search.ico",
+    "tags": [
+      "folder",
+      "saved",
+      "search"
+    ]
+  },
+  {
+    "name": "folder-ubuntu.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-ubuntu.ico",
+    "tags": [
+      "folder",
+      "ubuntu"
+    ]
+  },
+  {
+    "name": "folder-video.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-video.ico",
+    "tags": [
+      "folder",
+      "video"
+    ]
+  },
+  {
+    "name": "folder-violet.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-violet.ico",
+    "tags": [
+      "folder",
+      "violet"
+    ]
+  },
+  {
+    "name": "folder-yellow.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder-yellow.ico",
+    "tags": [
+      "folder",
+      "yellow"
+    ]
+  },
+  {
+    "name": "folder.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/folder.ico",
+    "tags": [
+      "folder"
+    ]
+  },
+  {
+    "name": "games-highscore-award.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/games-highscore-award.ico",
+    "tags": [
+      "games",
+      "highscore",
+      "award"
+    ]
+  },
+  {
+    "name": "gnome-fs-web.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/gnome-fs-web.ico",
+    "tags": [
+      "gnome",
+      "web"
+    ]
+  },
+  {
+    "name": "lastfm-recommended.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/lastfm-recommended.ico",
+    "tags": [
+      "lastfm",
+      "recommended"
+    ]
+  },
+  {
+    "name": "lastfm.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/lastfm.ico",
+    "tags": [
+      "lastfm"
+    ]
+  },
+  {
+    "name": "mail-inbox.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/mail-inbox.ico",
+    "tags": [
+      "mail",
+      "inbox"
+    ]
+  },
+  {
+    "name": "mail-message.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/mail-message.ico",
+    "tags": [
+      "mail",
+      "message"
+    ]
+  },
+  {
+    "name": "mail-outbox.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/mail-outbox.ico",
+    "tags": [
+      "mail",
+      "outbox"
+    ]
+  },
+  {
+    "name": "network-server.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/network-server.ico",
+    "tags": [
+      "network",
+      "server"
+    ]
+  },
+  {
+    "name": "network.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/network.ico",
+    "tags": [
+      "network"
+    ]
+  },
+  {
+    "name": "note.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/note.ico",
+    "tags": [
+      "note"
+    ]
+  },
+  {
+    "name": "notebook.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/notebook.ico",
+    "tags": [
+      "notebook"
+    ]
+  },
+  {
+    "name": "playlist-automatic.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/playlist-automatic.ico",
+    "tags": [
+      "playlist",
+      "automatic"
+    ]
+  },
+  {
+    "name": "podcast.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/podcast.ico",
+    "tags": [
+      "podcast"
+    ]
+  },
+  {
+    "name": "radio.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/radio.ico",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "name": "tag.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/tag.ico",
+    "tags": [
+      "tag"
+    ]
+  },
+  {
+    "name": "user-desktop.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/user-desktop.ico",
+    "tags": [
+      "user",
+      "desktop"
+    ]
+  },
+  {
+    "name": "user-home.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/user-home.ico",
+    "tags": [
+      "user",
+      "home"
+    ]
+  },
+  {
+    "name": "user-trash.ico",
+    "format": "Windows",
+    "path": "Designer/Gartoon-Team/Gartoon-Redux-Places-Icons/Windows/user-trash.ico",
+    "tags": [
+      "user",
+      "trash"
+    ]
+  }
+]
