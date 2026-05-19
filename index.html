@@ -350,6 +350,8 @@
             try {
                 // Tell jsDelivr to purge the main index cache
                 await fetch(`${PURGE_BASE}master_index.json`);
+                await fetch(`${PURGE_BASE}data/global_tags.json`);
+                await fetch(`${PURGE_BASE}data/global_formats.json`);
             } catch (e) {
                 console.log("Purge request sent.");
             }
@@ -410,6 +412,7 @@
         
         let allExtractedTags = [];
         let tagsExtracted = false;
+        let globalFormats = null;
 
         let displayList = [];
         let renderLimit = 50; 
@@ -800,32 +803,20 @@
             }, 10);
 
             if (!tagsExtracted) {
-                content.innerHTML = `<div class="w-full h-40 flex flex-col items-center justify-center gap-3 text-gray-500"><i class="fa-solid fa-circle-notch fa-spin text-3xl text-blue-500"></i><p class="font-medium animate-pulse">Gathering global tags...</p></div>`;
+                content.innerHTML = `<div class="w-full h-40 flex flex-col items-center justify-center gap-3 text-gray-500"><i class="fa-solid fa-circle-notch fa-spin text-3xl text-blue-500"></i><p class="font-medium animate-pulse">Loading global tags...</p></div>`;
                 
-                let tagsSet = new Set();
-                
-                const allPacksData = await Promise.all(designersList.map(async d => {
-                    const packs = await fetchDesignerPacks(d.id);
-                    return packs.map(p => ({ artist: d.id, pack: p.id }));
-                }));
-                const flatPacks = allPacksData.flat();
-                
-                const chunkSize = 25;
-                for (let i = 0; i < flatPacks.length; i += chunkSize) {
-                    const chunk = flatPacks.slice(i, i + chunkSize);
-                    await Promise.all(chunk.map(async ({ artist, pack }) => {
-                        const icons = await fetchPackIcons(artist, pack);
-                        icons.forEach(i => {
-                            let matchF = activeFormatFilters.includes('All') ? true : activeFormatFilters.some(f => i.exactFormat === f || (f === 'PNG' && i.exactFormat.startsWith('PNG')) || (f === 'Windows' && i.exactFormat.startsWith('Win')) || (f === 'Mac' && i.exactFormat.startsWith('Mac')) || (f === 'Favicon' && i.exactFormat.includes('Favicon')));
-                            if (matchF && i.tags) {
-                                if (Array.isArray(i.tags)) i.tags.forEach(t => tagsSet.add(t));
-                                else if (typeof i.tags === 'string') i.tags.split(',').forEach(t => tagsSet.add(t.trim()));
-                            }
-                        });
-                    }));
+                try {
+                    const tagsData = await fetchJSON('data/global_tags.json');
+                    if (tagsData && Array.isArray(tagsData)) {
+                        allExtractedTags = tagsData;
+                    } else {
+                        allExtractedTags = [];
+                    }
+                } catch (e) {
+                    console.error("Failed to load global tags", e);
+                    allExtractedTags = [];
                 }
                 
-                allExtractedTags = Array.from(tagsSet).sort((a,b) => a.toLowerCase().localeCompare(b.toLowerCase()));
                 tagsExtracted = true;
             }
             renderTagsModalContent();
@@ -878,9 +869,9 @@
         const filterModal = document.getElementById('filterModal');
         const filterModalContainer = document.getElementById('filterModalContainer');
 
-        function openFilterModal() {
+        async function openFilterModal() {
             tempFormatFilters = [...activeFormatFilters];
-            renderFilterCheckboxes();
+            await renderFilterCheckboxes();
             filterModal.classList.remove('hidden');
             filterModal.classList.add('flex');
             setTimeout(() => {
@@ -897,18 +888,27 @@
             setTimeout(() => { filterModal.classList.add('hidden'); filterModal.classList.remove('flex'); }, 300);
         }
 
-        function renderFilterCheckboxes() {
+        async function renderFilterCheckboxes() {
             const container = document.getElementById('filterCheckboxes');
             
-            // Strictly show Vector, PNG, Windows, Mac, and Favicon
-            let formats = ['Vector', 'PNG', 'Windows', 'Mac', 'Favicon'];
+            if (!globalFormats) {
+                try {
+                    const fetchedFormats = await fetchJSON('data/global_formats.json');
+                    if (fetchedFormats && fetchedFormats.length > 0) {
+                        globalFormats = fetchedFormats;
+                    }
+                } catch (e) {
+                    globalFormats = ['Vector', 'PNG', 'Windows', 'Mac', 'Favicon'];
+                }
+            }
             
             let htmlText = createCheckboxHTML('All', 'All Formats', tempFormatFilters.includes('All'));
-            formats.forEach(f => {
+            globalFormats.forEach(f => {
                 let label = f === 'Vector' ? 'Vector (SVG)' : 
                             (f === 'PNG' ? 'PNG (All Sizes)' : 
                             (f === 'Windows' ? 'Windows (ICO)' : 
-                            (f === 'Mac' ? 'Mac (ICNS)' : 'Favicon')));
+                            (f === 'Mac' ? 'Mac (ICNS)' : 
+                            (f === 'Favicon' ? 'Favicon' : f))));
                 htmlText += createCheckboxHTML(f, label, tempFormatFilters.includes(f));
             });
             container.innerHTML = htmlText;
