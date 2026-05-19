@@ -676,18 +676,12 @@
             if (currentView === 'designers') {
                 let artistsToShow = designersList;
 
-                // If a filter is active, pre-filter the list before displaying anything
+                // If a filter is active, instantly pre-filter using precalculated counts
                 if (!activeFormatFilters.includes('All')) {
-                    const designerHasMatchingIcons = await Promise.all(artistsToShow.map(async (designer) => {
-                        const packs = await fetchDesignerPacks(designer.id);
-                        for (const pack of packs) {
-                            const icons = await fetchPackIcons(designer.id, pack.id);
-                            const hasMatch = icons.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
-                            if (hasMatch) return true; // Found a match, no need to check other packs for this designer
-                        }
-                        return false; // No match found in any pack for this designer
-                    }));
-                    artistsToShow = artistsToShow.filter((_, index) => designerHasMatchingIcons[index]);
+                    artistsToShow = artistsToShow.filter(designer => {
+                        if (!designer.formatCounts) return true; // Safety fallback
+                        return activeFormatFilters.some(f => designer.formatCounts[f] > 0);
+                    });
                 }
                 
                 displayList = artistsToShow.filter(d => d.name.toLowerCase().includes(query));
@@ -696,17 +690,16 @@
                 displayList = [];
                 const packPromises = designersList.map(async d => {
                     const packs = await fetchDesignerPacks(d.id);
-                    return packs.map(p => ({ artist: d.id, pack: p.id, name: p.name, iconCount: p.iconCount }));
+                    return packs.map(p => ({ artist: d.id, pack: p.id, name: p.name, iconCount: p.iconCount, formatCounts: p.formatCounts }));
                 });
                 let allPacksArr = (await Promise.all(packPromises)).flat();
                 
-                // If a filter is active, pre-filter the list of packs
+                // If a filter is active, instantly remove packs with 0 matching icons
                 if (!activeFormatFilters.includes('All')) {
-                    const packHasMatchingIcons = await Promise.all(allPacksArr.map(async (packData) => {
-                        const icons = await fetchPackIcons(packData.artist, packData.pack);
-                        return icons.some(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
-                    }));
-                    allPacksArr = allPacksArr.filter((_, index) => packHasMatchingIcons[index]);
+                    allPacksArr = allPacksArr.filter(packData => {
+                        if (!packData.formatCounts) return true; // Safety fallback
+                        return activeFormatFilters.some(f => packData.formatCounts[f] > 0);
+                    });
                 }
 
                 displayList = allPacksArr.filter(p => p.name.toLowerCase().includes(query)).sort((a, b) => a.name.localeCompare(b.name));
@@ -991,45 +984,12 @@
             `;
 
             const iconCountEl = div.querySelector('.designer-icon-count');
+            const packCountEl = div.querySelector('.designer-pack-count');
             
-            // If a filter is active, we MUST recalculate to show the correct filtered count.
-            // If no filter is active, we can check for a cached total count.
-            if (!activeFormatFilters.includes('All')) {
-                // Always live-calculate for filters
-                 fetchAndCount(true);
-            } else if (cachedDesignerCounts[designer.id]) {
-                // Use cached TOTAL count if it exists and no filter is active
-                const packCountEl = div.querySelector('.designer-pack-count');
-                if (packCountEl) packCountEl.innerText = `${cachedDesignerCounts[designer.id].packCount} Packs`;
-                if (iconCountEl) iconCountEl.innerText = `${cachedDesignerCounts[designer.id].iconCount} Icons`;
-            } else {
-                // Calculate and cache the TOTAL count for the first time
-                fetchAndCount(false);
-            }
-
-            function fetchAndCount(isFiltered) {
-                fetchDesignerPacks(designer.id).then(async (packs) => {
-                    const packCountEl = div.querySelector('.designer-pack-count');
-                    if (packCountEl) packCountEl.innerText = `${packs.length} Packs`;
-
-                    let trueIconCount = 0;
-                    for (const p of packs) {
-                        const icons = await fetchPackIcons(designer.id, p.id);
-                        let iconsToCount = icons;
-                        if (isFiltered) {
-                            iconsToCount = icons.filter(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
-                        }
-                        const uniqueGroups = new Set(iconsToCount.map(i => i.groupKey));
-                        trueIconCount += uniqueGroups.size;
-                    }
-
-                    if (iconCountEl) iconCountEl.innerText = `${trueIconCount} Icons`;
-                    // Only save to cache if we calculated the TOTAL (unfiltered) count
-                    if (!isFiltered) {
-                        cachedDesignerCounts[designer.id] = { packCount: packs.length, iconCount: trueIconCount };
-                        localStorage.setItem('designer_icon_counts', JSON.stringify(cachedDesignerCounts));
-                    }
-                });
+            // Instantly display pre-calculated counts, no fetching or recalculating on refresh
+            if (packCountEl) packCountEl.innerText = `${designer.packCount || 0} Packs`;
+            if (iconCountEl && designer.iconCount !== undefined) {
+                iconCountEl.innerText = `${designer.iconCount} Icons`;
             }
 
             return div;
@@ -1055,30 +1015,15 @@
             `;
 
             const countEl = div.querySelector('.pack-count');
-            const cacheKey = `${packData.artist}/${packData.pack}`;
             
-            // Eagerly set count from cache if possible (when no filter is active)
-            if (activeFormatFilters.includes('All') && cachedPackCounts[cacheKey]) {
-                countEl.innerText = `${cachedPackCounts[cacheKey]} ICONS`;
+            // Instantly show pre-calculated count so it doesn't spin on load
+            if (packData.iconCount !== undefined) {
+                countEl.innerText = `${packData.iconCount} ICONS`;
             }
 
-            // Always fetch icons for previews, and for counting if needed
+            // Fetch icons in background purely for the 4 image previews
             fetchPackIcons(packData.artist, packData.pack).then(icons => {
-                let filteredIcons = icons;
-                if (!activeFormatFilters.includes('All')) {
-                    filteredIcons = icons.filter(v => activeFormatFilters.some(f => v.exactFormat === f || (f === 'PNG' && v.exactFormat.startsWith('PNG')) || (f === 'Windows' && v.exactFormat.startsWith('Win')) || (f === 'Mac' && v.exactFormat.startsWith('Mac')) || (f === 'Favicon' && v.exactFormat.includes('Favicon'))));
-                }
-
-                const uniqueGroups = new Set(filteredIcons.map(i => i.groupKey));
-
-                // Update the count text (this will be the filtered count, or the total count if not filtered)
-                countEl.innerText = `${uniqueGroups.size} ICONS`;
-
-                // If we calculated the TOTAL count and it wasn't cached, save it now
-                if (activeFormatFilters.includes('All') && !cachedPackCounts[cacheKey]) {
-                    cachedPackCounts[cacheKey] = uniqueGroups.size;
-                    localStorage.setItem('pack_icon_counts', JSON.stringify(cachedPackCounts));
-                }
+                const uniqueGroups = new Set(icons.map(i => i.groupKey));
 
                 const getPriority = (i) => {
                     if (i.exactFormat === 'Vector') return 1;

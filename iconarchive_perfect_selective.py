@@ -307,7 +307,7 @@ def build_index():
     total_icons_all = 0
     global_tags = set()
     global_formats = set()
-    
+
     for artist, packs in db.items():
         artist_id = artist
         artist_pack_dir = os.path.join(API_DIR, "packs", artist_id)
@@ -317,7 +317,8 @@ def build_index():
             "id": artist_id,
             "name": artist.replace('-', ' '),
             "packCount": len(packs),
-            "iconCount": 0
+            "iconCount": 0,
+            "formatCounts": {}
         }
         
         designer_packs_list = []
@@ -326,22 +327,43 @@ def build_index():
             pack_id = pack
             icons = sorted(icons, key=lambda x: (x['format'], x['name']))
             
+            pack_format_counts = {}
+            unique_groups = set()
+            
             for icon in icons:
                 if "tags" in icon and icon["tags"]:
                     for t in icon["tags"]:
                         if t.strip():
                             global_tags.add(t.strip())
                 if "format" in icon:
-                    global_formats.add(icon["format"])
+                    fmt = icon["format"]
+                    global_formats.add(fmt)
+                    
+                    gen_fmt = fmt
+                    if 'PNG' in fmt: gen_fmt = 'PNG'
+                    elif 'Win' in fmt or 'ICO' in fmt.upper(): gen_fmt = 'Windows'
+                    elif 'Mac' in fmt or 'ICNS' in fmt.upper(): gen_fmt = 'Mac'
+                    elif 'Favicon' in fmt: gen_fmt = 'Favicon'
+                    
+                    pack_format_counts[gen_fmt] = pack_format_counts.get(gen_fmt, 0) + 1
+                    designer_meta["formatCounts"][gen_fmt] = designer_meta["formatCounts"].get(gen_fmt, 0) + 1
+                
+                parts = icon["name"].split('.')
+                if len(parts) > 1: parts.pop()
+                if len(parts) > 1 and re.match(r"^((\d+x\d+)|\d+)$", parts[-1]): parts.pop()
+                unique_groups.add(".".join(parts).lower())
+            
+            true_icon_count = len(unique_groups)
             
             designer_packs_list.append({
                 "id": pack_id,
                 "name": pack.replace('-', ' '),
-                "iconCount": len(icons)
+                "iconCount": true_icon_count,
+                "formatCounts": pack_format_counts
             })
             
-            designer_meta["iconCount"] += len(icons)
-            total_icons_all += len(icons)
+            designer_meta["iconCount"] += true_icon_count
+            total_icons_all += true_icon_count
             
             pack_json_path = os.path.join(artist_pack_dir, f"{pack_id}.json")
             with open(pack_json_path, 'w', encoding='utf-8') as f:
